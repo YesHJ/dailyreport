@@ -1,0 +1,225 @@
+{
+  "selected_items": [
+    {
+      "name": "矩子科技：持续推进AI技术在机器视觉检测领域的应用",
+      "type": "news",
+      "platform": "东方财富",
+      "url": "https://emcreative.eastmoney.com/app_fortune/article/index.html?artCode=20261027205011131120510",
+      "summary": "矩子科技在投资者互动平台表示，公司将AI算法及推理模型与传统视觉算法结合，持续优化缺陷识别能力与检测效率，技术已应用于电子制造、半导体封测等领域的检测场景。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "缺陷检测",
+          "电子制造",
+          "半导体"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-27T20:50:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 52.0,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 63.0,
+        "freshness": 80
+      }
+    },
+    {
+      "name": "一文讲透2026年具身智能技术栈：VLM、VLA、VLN、世界模型",
+      "type": "news",
+      "platform": "CSDN",
+      "url": "https://blog.csdn.net/m_aigc2022/article/details/163000731",
+      "summary": "从Physical Intelligence的pi0.7技术报告切入，系统讲解VLM视觉理解、VLA动作生成、VLN语言导航和世界模型四层能力栈，阐述机器人如何看懂环境、理解任务、规划路径并输出动作。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "high",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "具身智能",
+          "VLA",
+          "机器人控制"
+        ],
+        "maturity": "growing"
+      },
+      "freshness": {
+        "publish_date": "2026-10-28T08:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 49.25,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 66.0,
+        "practicality": 51.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "具身智能的眼睛：机器视觉赛道10家企业怎么切入物理AI",
+      "type": "news",
+      "platform": "今日头条",
+      "url": "https://m.toutiao.com/article/7700977787632501275/",
+      "summary": "梳理凌云光、天准科技、奥普特、海康威视等10家机器视觉企业的物理AI落地路径，涵盖工业缺陷检测、3D视觉引导机器人、端侧AI部署等方向，指出工业场景落地快于人形机器人。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "large",
+        "scenarios": [
+          "机器视觉",
+          "工业检测",
+          "物理AI"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-27T14:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 47.75,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 69.0,
+        "practicality": 58.0,
+        "freshness": 80
+      }
+    },
+    {
+      "name": "2026年计算机视觉六大实用方向与技术要点",
+      "type": "news",
+      "platform": "CSDN",
+      "url": "https://blog.csdn.net/weixin_29056781/article/details/168997279",
+      "summary": "聚焦工业质检轻量化方案、自动驾驶端到端视觉感知、医学影像AI辅助诊断等六大实用方向，分析2026年计算机视觉从实验室走向产业落地的关键技术突破与实践要点。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "large",
+        "scenarios": [
+          "工业质检",
+          "自动驾驶",
+          "医学影像"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-26T10:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 47.75,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 69.0,
+        "practicality": 58.0,
+        "freshness": 80
+      }
+    },
+    {
+      "name": "2026年计算机视觉最新进展：从Diffusion到Spatial Intelligence",
+      "type": "news",
+      "platform": "AI学习圈",
+      "url": "https://www.aixuexiquan.com/learning/cv/1283/",
+      "summary": "综述2026年CV领域主要进展：AI图像生成进入照片级时代、3D视觉成为新竞争焦点NeRF和3DGS、VLM让AI真正看懂图像、多模态融合与端侧实时处理成为新趋势。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "large",
+        "scenarios": [
+          "计算机视觉",
+          "3D重建",
+          "多模态"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-25T09:18:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 47.75,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 69.0,
+        "practicality": 58.0,
+        "freshness": 80
+      }
+    }
+  ],
+  "pending_items": []
+}
