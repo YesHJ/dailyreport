@@ -1,4 +1,224 @@
 {
-  "selected_items": [],
+  "selected_items": [
+    {
+      "name": "2026年10月大模型盘点：GPT-6、Claude、Gemini、DeepSeek多款旗舰发布",
+      "type": "news",
+      "platform": "宁小瓣科技",
+      "url": "https://www.ningxiaoban.tech/blog/llm-october-2026-roundup.html",
+      "summary": "2026年10月迎来史上发布最密集月份之一，16款新模型、14家厂商集体亮相。GPT-6全系推送、Claude Haiku 5.5成本降75%、Gemini 4 Argon百万token上下文、DeepSeek V4.1 Flash开源高性价比、阿里Qwen3.6 27B端侧部署。AI竞争从单点突破走向生态竞争。",
+      "popularity": {
+        "views": 60000,
+        "likes": 4500,
+        "comments": 1200
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "high",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "large",
+        "scenarios": [
+          "模型选型",
+          "企业部署",
+          "开发参考"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-28T08:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 84.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 78.0,
+        "practicality": 58.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "机器之心2026年度「AI中国」榜单评选正式启动",
+      "type": "news",
+      "platform": "机器之心",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-23/doc-iniweqhs8207057.shtml",
+      "summary": "机器之心启动2026年度「AI中国」榜单评选。文章指出2026年AI正从屏幕里的智能助手成为参与实际工作的生产力，软件开发、多模态视频生成、具身智能、科学研究等领域全面突破，中国AI产业加速成长，开源生态全球影响力持续扩大。",
+      "popularity": {
+        "views": 32000,
+        "likes": 1800,
+        "comments": 450
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "行业评估",
+          "趋势分析"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-26T10:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 81.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 81.0,
+        "practicality": 61.0,
+        "freshness": 80
+      }
+    },
+    {
+      "name": "中央广播电视总台发布2026年人工智能十大趋势",
+      "type": "news",
+      "platform": "vacyl.com",
+      "url": "https://www.vacyl.com/news/zjtaizhou17729/",
+      "summary": "央视发布2026年AI十大趋势：AI智能体全面走进场景，企业级智能体在研发、客服、办公自动化实现规模化部署；多模态实用化从专用工具向通用智能伙伴跨越；国产大模型持续提升技术实力，开源生态全球影响力扩大。政策目标2030年智能体应用普及率超90%。",
+      "popularity": {
+        "views": 55000,
+        "likes": 3800,
+        "comments": 920
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "large",
+        "scenarios": [
+          "趋势预测",
+          "政策参考",
+          "行业规划"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-26T08:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 80.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 81.0,
+        "practicality": 58.0,
+        "freshness": 80
+      }
+    },
+    {
+      "name": "IT时代网：2026年10月AI人工智能领域合集",
+      "type": "news",
+      "platform": "IT时代网",
+      "url": "https://www.itsdw.cn/news/35160.html",
+      "summary": "2026年10月AI领域高频迭代：OpenAI全量推送GPT-6，谷歌发布Gemini 4 Argon百万token上下文，Anthropic推出Claude Haiku 5.5成本降75%，Meta发布Muse Wonder。国内方面，DeepSeek融资增至千亿，月之暗面计划IPO，智能体加速嵌入办公系统。",
+      "popularity": {
+        "views": 85000,
+        "likes": 5200,
+        "comments": 1500
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "high",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "large",
+        "scenarios": [
+          "行业跟踪",
+          "技术选型",
+          "投资参考"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-26T10:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 80.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 78.0,
+        "practicality": 58.0,
+        "freshness": 80
+      }
+    },
+    {
+      "name": "开源逆向分析工具REA爆火：一夜获超1.4万颗星",
+      "type": "news",
+      "platform": "36氪",
+      "url": "https://www.36kr.com/p/4019721614169733",
+      "summary": "开源逆向分析工具REA在GitHub上一夜获得超过1.4万颗星，号称可逆向分析微信、支付宝、抖音等国民App。REA无操作门槛，可直接将GitHub地址发给Agent，AI自动下载使用。工具引发安全关注，但暂未构成严重威胁。",
+      "popularity": {
+        "views": 72000,
+        "likes": 4100,
+        "comments": 1800
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "安全分析",
+          "逆向工程",
+          "AI工具"
+        ],
+        "maturity": "growing"
+      },
+      "freshness": {
+        "publish_date": "2026-10-26T08:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 79.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 81.0,
+        "practicality": 51.0,
+        "freshness": 80
+      }
+    }
+  ],
   "pending_items": []
 }
