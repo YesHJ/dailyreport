@@ -219,6 +219,94 @@
         "practicality": 58.0,
         "freshness": 80
       }
+    },
+    {
+      "name": "具身大模型进入类脑竞赛：五家头部企业领跑，四层能力梯队初定",
+      "type": "news",
+      "platform": "IT之家",
+      "url": "https://www.ithome.com/1/020/289.htm",
+      "summary": "2026年具身智能从技术验证迈向生产力兑现，行业核心变量从本体运动转向大脑进化。智平方、银河通用、千寻智能等五家企业估值突破200亿，类脑架构推动VLA大模型持续迭代，四层能力梯队分布初步形成。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "large",
+        "scenarios": [
+          "具身智能",
+          "机器视觉",
+          "人形机器人"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-30T08:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 54.75,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 58.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "从VLA到世界模型：拆解具身智能2026技术底座与落地场景",
+      "type": "news",
+      "platform": "UC",
+      "url": "https://mparticle.uc.cn/article.html?uc_param_str=frdnsnpfvecpntnwprdssskt#!wm_aid=0662a350107343c78a39b987345c9054!!wm_id=431b0e21071c497780374d7a64ff6094",
+      "summary": "VLA仍是通用操作策略主路线，2026年加速走进工厂、门店和家庭。文章系统拆解增强物理感知、长程决策和世界模型三大维度，梳理Figure AI、蚂蚁灵波等企业的真实落地案例。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "large",
+        "scenarios": [
+          "VLA模型",
+          "具身智能",
+          "世界模型"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-29T08:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 51.75,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 69.0,
+        "practicality": 58.0,
+        "freshness": 100
+      }
     }
   ],
   "pending_items": []
