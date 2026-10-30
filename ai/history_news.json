@@ -218,7 +218,309 @@
         "practicality": 51.0,
         "freshness": 80
       }
+    },
+    {
+      "name": "智元宣布量产人形机器人20000台，2026上半年营收近20亿元",
+      "type": "news",
+      "platform": "36氪",
+      "url": "https://36kr.com/",
+      "summary": "智元机器人宣布量产人形机器人达20000台，2026上半年营收近20亿元；同时首创物理AI价值度量单位Worken并发布《2026具身智能产业创新报告》，部署态加速打通物理AI全链路。",
+      "popularity": {
+        "views": 95000,
+        "likes": 7600,
+        "comments": 1900
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "具身智能",
+          "机器人"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-29"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 91.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 90.0,
+        "practicality": 76.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "腾讯WorkBuddy企业版已覆盖中国企业500强中的50%",
+      "type": "news",
+      "platform": "InfoQ",
+      "url": "https://aihot.virxact.com/all?category=industry&date=2026-10-29",
+      "summary": "腾讯汤道生披露WorkBuddy自2026年3月上线以来7个月迭代100个大版本，完成90亿次用户任务请求，企业版已覆盖中国500强企业的50%，AI办公智能体进入规模化落地阶段。",
+      "popularity": {
+        "views": 76000,
+        "likes": 6080,
+        "comments": 1520
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "AI Agent",
+          "企业办公"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-29"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 91.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 90.0,
+        "practicality": 76.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "OpenAI被曝购买谷歌AI芯片，英伟达数百亿美元投资也没拦住",
+      "type": "news",
+      "platform": "36氪",
+      "url": "https://www.163.com/dy/article/LAE8ULDA05118O92.html",
+      "summary": "智东西2026-10-29报道，OpenAI被曝采购谷歌TPU类AI芯片，算力供应商多元化趋势显现，AI芯片格局或生变。",
+      "popularity": {
+        "views": 71000,
+        "likes": 5680,
+        "comments": 1420
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "AI算力",
+          "芯片"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-29"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 91.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 90.0,
+        "practicality": 76.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "Anthropic推出Claude智能报告工具，企业可监控员工AI使用情况与开销",
+      "type": "news",
+      "platform": "InfoQ",
+      "url": "https://aihot.virxact.com/all",
+      "summary": "Anthropic发布Claude智能报告功能，面向Claude Enterprise付费用户开放，企业可监控员工AI使用情况与开销，AI治理工具化趋势明显。",
+      "popularity": {
+        "views": 62000,
+        "likes": 4960,
+        "comments": 1240
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI治理",
+          "企业AI"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-29"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 87.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 90.0,
+        "practicality": 61.0,
+        "freshness": 100
+      }
     }
   ],
-  "pending_items": []
+  "pending_items": [
+    {
+      "name": "36氪研究院发布2026年中国工业AI行业发展研究报告",
+      "type": "news",
+      "platform": "36氪",
+      "url": "https://m.10jqka.com.cn/20261029/c681235624.shtml",
+      "summary": "36氪10月29日发布报告指出机理+数据双驱动下工业AI加速全域渗透，数据、技术、成本、认知四大瓶颈仍制约规模化落地。",
+      "popularity": {
+        "views": 38000,
+        "likes": 3040,
+        "comments": 760
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "工业AI",
+          "行业报告"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-29"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 87.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 90.0,
+        "practicality": 61.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "DeepSeek据报接近完成至少800亿元融资，腾讯与宁德时代参与",
+      "type": "news",
+      "platform": "36氪",
+      "url": "https://aihot.virxact.com/daily/2026-10-07",
+      "summary": "据报道DeepSeek接近完成至少800亿元人民币融资，腾讯与宁德时代等参与，国产开源大模型商业化与资本化进程加速。",
+      "popularity": {
+        "views": 92000,
+        "likes": 7360,
+        "comments": 1840
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "大模型",
+          "AI融资"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-28"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 87.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 90.0,
+        "practicality": 76.0,
+        "freshness": 80
+      }
+    },
+    {
+      "name": "高德发布首个基于开放世界行为的全身基座模型λ0",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/",
+      "summary": "阿里巴巴旗下高德发布首个基于开放世界行为的全身基座模型λ0，推动机器人从局部学习迈向全身动作对齐，具身智能基座模型竞争升温。",
+      "popularity": {
+        "views": 58000,
+        "likes": 4640,
+        "comments": 1160
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "具身智能",
+          "大模型"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-28"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 83.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 90.0,
+        "practicality": 61.0,
+        "freshness": 80
+      }
+    }
+  ]
 }
