@@ -390,9 +390,181 @@
         "practicality": 61.0,
         "freshness": 100
       }
-    }
-  ],
-  "pending_items": [
+    },
+    {
+      "name": "AI 资讯日报｜2026年10月30日：谷歌Gemini 4 Carbon登顶智能评测，腾讯混元Hy4将首发视觉理解",
+      "type": "news",
+      "platform": "CSDN",
+      "url": "https://blog.csdn.net/IT_ORACLE/article/details/169524325",
+      "summary": "10月29日Google DeepMind正式发布Gemini 4 Carbon；同场信息还包括腾讯混元Hy4即将发布并首次引入视觉理解、首批风云气象卫星极端天气AI模型上线，适合快速浏览当日国内AI动态。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "大模型",
+          "行业动态"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-30T08:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 55.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 61.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "乌镇，何以开源：2026年世界互联网大会聚焦AI开源开放",
+      "type": "news",
+      "platform": "云南网",
+      "url": "https://m.yunnan.cn/system/2026/10/30/034186304.shtml",
+      "summary": "11月2日至5日2026年世界互联网大会乌镇峰会将以开源开放共建共享为主题，设置人工智能乌镇对话，围绕全球AI开源生态构建、安全治理与国际合作展开，反映开源已成为政策与产业共同议题。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "开源生态",
+          "行业动态"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-30T09:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 55.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 61.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "全球AI新闻简报（2026-10-30）：模型竞赛、资本算力与安全治理三线并进",
+      "type": "news",
+      "platform": "今日头条",
+      "url": "https://m.toutiao.com/article/7702456976353133090/",
+      "summary": "Mistral Large 4以万亿参数开放权重、0.70/2.10美元每百万Token入市；Gemini 4 Carbon登顶AA指数；Cohere完成50亿美元E轮首关、英伟达129亿美元收购Hugging Face遭DOJ反垄断调查；纽约州未成年人AI法案落地。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "large",
+        "scenarios": [
+          "行业动态",
+          "大模型",
+          "安全合规"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-30T09:30:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 54.75,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 58.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "极新早报：智元GO-3 Preview与Genie Master计划全面开源，英伟达发布Nemotron 3.5 Transcribe",
+      "type": "news",
+      "platform": "网易号",
+      "url": "https://www.163.com/dy/article/LAFMGCTC05562DGT.html",
+      "summary": "智元在10月29日创新日发布具身基座模型GO-3 Preview，宣布2026年底前全面开源并配套Genie Master框架；英伟达推出开放权重转录模型Nemotron 3.5 Transcribe，支持40种语言、最多区分8名说话人。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "large",
+        "scenarios": [
+          "具身智能",
+          "语音转录",
+          "开源模型"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-29T08:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 51.75,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 69.0,
+        "practicality": 58.0,
+        "freshness": 100
+      }
+    },
     {
       "name": "36氪研究院发布2026年中国工业AI行业发展研究报告",
       "type": "news",
@@ -434,8 +606,11 @@
         "usability": 90.0,
         "practicality": 61.0,
         "freshness": 100
-      }
-    },
+      },
+      "_source": "pending"
+    }
+  ],
+  "pending_items": [
     {
       "name": "DeepSeek据报接近完成至少800亿元融资，腾讯与宁德时代参与",
       "type": "news",
