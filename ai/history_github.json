@@ -647,9 +647,59 @@
         "practicality": 61.0,
         "freshness": 20
       }
-    }
-  ],
-  "pending_items": [
+    },
+    {
+      "name": "conglu1997/local-autoresearch",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/conglu1997/local-autoresearch",
+      "summary": "Local auto研究 on a MacBook, with Flint: geometry, scheduling and 机器学习 实验s. (语言: Python)",
+      "popularity": {
+        "views": 98,
+        "likes": 98,
+        "comments": 16
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "通用AI应用"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-21T16:45:57"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 98,
+        "forks": 16,
+        "open_issues": 1,
+        "language": "Python",
+        "license": "mit",
+        "topics": [],
+        "created_at": "2026-10-21T16:45:57Z",
+        "pushed_at": "2026-10-27T16:03:09Z"
+      },
+      "filtered": false,
+      "total_score": 69.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 60.0,
+        "practicality": 50.0,
+        "freshness": 60
+      }
+    },
     {
       "name": "Louis-CFM/coucou",
       "type": "tool",
@@ -657,9 +707,9 @@
       "url": "https://github.com/Louis-CFM/coucou",
       "summary": "A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding 智能体s: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more. Approve from the notch or your Lock Scre...",
       "popularity": {
-        "views": 6744,
-        "likes": 6744,
-        "comments": 1107
+        "views": 6795,
+        "likes": 6795,
+        "comments": 1115
       },
       "usability": {
         "difficulty": "medium",
@@ -685,9 +735,9 @@
         "blocked_in_china": false
       },
       "metadata": {
-        "stars": 6744,
-        "forks": 1107,
-        "open_issues": 466,
+        "stars": 6795,
+        "forks": 1115,
+        "open_issues": 515,
         "language": "Swift",
         "license": "mit",
         "topics": [
@@ -713,13 +763,148 @@
           "windows"
         ],
         "created_at": "2026-09-27T21:54:12Z",
-        "pushed_at": "2026-10-29T23:01:20Z"
+        "pushed_at": "2026-10-30T22:56:36Z"
       },
       "filtered": false,
       "total_score": 68.75,
       "detail_scores": {
         "popularity": 100,
         "usability": 78.0,
+        "practicality": 61.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "e2sy/jailbreak-archives",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/e2sy/jailbreak-archives",
+      "summary": "A structured, versioned archive of adversarial prompt engineering techniques against 大语言模型s — for AI safety 研究, red-teaming, and 防御性 hardening. (语言: Roff) [标签: adversarial-prompts, ai-red-team, ai-...",
+      "popularity": {
+        "views": 74,
+        "likes": 74,
+        "comments": 9
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "对话交互"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-30T07:34:14"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 74,
+        "forks": 9,
+        "open_issues": 0,
+        "language": "Roff",
+        "license": "mit",
+        "topics": [
+          "adversarial-prompts",
+          "ai-red-team",
+          "ai-safety",
+          "chatbot",
+          "chatgpt",
+          "claude",
+          "cybersecurity",
+          "deepseek",
+          "jailbreak",
+          "jailbreak-prompts",
+          "jailbreak-script",
+          "llm",
+          "llm-jailbreak",
+          "llm-security",
+          "offensive-security",
+          "prompt-engineering",
+          "prompt-injection",
+          "qwen",
+          "red-teaming",
+          "responsible-disclosure"
+        ],
+        "created_at": "2026-09-30T07:34:14Z",
+        "pushed_at": "2026-10-30T12:10:46Z"
+      },
+      "filtered": false,
+      "total_score": 67.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 53.0,
+        "practicality": 50.0,
+        "freshness": 60
+      }
+    },
+    {
+      "name": "nightly-labs/openbot",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/nightly-labs/openbot",
+      "summary": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and 智能体-to-智能体 collaboration. (语言: Ty...",
+      "popularity": {
+        "views": 4216,
+        "likes": 4216,
+        "comments": 390
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "代码生成"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-08-12T21:32:03"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 4216,
+        "forks": 390,
+        "open_issues": 377,
+        "language": "TypeScript",
+        "license": "other",
+        "topics": [
+          "ai-agents",
+          "bun",
+          "codex",
+          "electron",
+          "local-first",
+          "macos",
+          "solidjs",
+          "typescript"
+        ],
+        "created_at": "2026-08-12T21:32:03Z",
+        "pushed_at": "2026-10-30T23:01:40Z"
+      },
+      "filtered": false,
+      "total_score": 66.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
         "practicality": 61.0,
         "freshness": 20
       }
@@ -775,59 +960,9 @@
         "practicality": 50.0,
         "freshness": 60
       }
-    },
-    {
-      "name": "bagusprts/RoughGlue",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/bagusprts/RoughGlue",
-      "summary": "RoughGlue is a 实时 data 处理 Gateway Service utilizing Geo-enabled 机器学习 integration 框架s. (语言: JavaScript)",
-      "popularity": {
-        "views": 115,
-        "likes": 115,
-        "comments": 1
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "数据处理"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-10-17T06:25:57"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 115,
-        "forks": 1,
-        "open_issues": 0,
-        "language": "JavaScript",
-        "license": "mit",
-        "topics": [],
-        "created_at": "2026-10-17T06:25:57Z",
-        "pushed_at": "2026-10-17T06:26:42Z"
-      },
-      "filtered": false,
-      "total_score": 65.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 44.0,
-        "practicality": 50.0,
-        "freshness": 60
-      }
-    },
+    }
+  ],
+  "pending_items": [
     {
       "name": "yetone/cumora",
       "type": "tool",
@@ -878,513 +1013,6 @@
         "popularity": 100,
         "usability": 60.0,
         "practicality": 61.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "i-am-manware/Manware-s-AI-Learning-Toolkit",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/i-am-manware/Manware-s-AI-Learning-Toolkit",
-      "summary": "An AI 工具包 that turns 智能体s into teachers rather than code yapping machines",
-      "popularity": {
-        "views": 843,
-        "likes": 843,
-        "comments": 113
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent",
-          "代码生成"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-09-05T16:46:07"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 843,
-        "forks": 113,
-        "open_issues": 1,
-        "language": "",
-        "license": "",
-        "topics": [],
-        "created_at": "2026-09-05T16:46:07Z",
-        "pushed_at": "2026-10-11T12:11:59Z"
-      },
-      "filtered": false,
-      "total_score": 64.25,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 60.0,
-        "practicality": 61.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "salikhussain71-code/PAKGOV-RAG-project",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/salikhussain71-code/PAKGOV-RAG-project",
-      "summary": "研究 project on bilingual Urdu-English 检索-augmented 生成 for Pakistani government and legal documents, with OCR, hybrid 检索, citation grounding, and 评估. (语言: Python) [标签: artificial-intelligence, inform...",
-      "popularity": {
-        "views": 129,
-        "likes": 129,
-        "comments": 5
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "检索增强生成",
-          "自然语言处理"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-17T10:31:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 129,
-        "forks": 5,
-        "open_issues": 2,
-        "language": "Python",
-        "license": "mit",
-        "topics": [
-          "artificial-intelligence",
-          "information-retrieval",
-          "legal-nlp",
-          "low-resource-languages",
-          "nlp",
-          "ocr",
-          "rag",
-          "retrieval-augmented-generation",
-          "transformers",
-          "urdu-nlp"
-        ],
-        "created_at": "2026-09-17T10:31:00Z",
-        "pushed_at": "2026-10-28T11:51:52Z"
-      },
-      "filtered": false,
-      "total_score": 64.25,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 52.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "ChidiebereNjoku/ModelBrief",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/ChidiebereNjoku/ModelBrief",
-      "summary": "An open-source Python 库 that automates the 分析 and reporting of 机器学习 实验s, generating structured and comprehensive reports that make 模型 performance, results, and key insights easier to understand and...",
-      "popularity": {
-        "views": 353,
-        "likes": 353,
-        "comments": 283
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "数据处理"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-08-24T11:09:43"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 353,
-        "forks": 283,
-        "open_issues": 3,
-        "language": "Python",
-        "license": "other",
-        "topics": [],
-        "created_at": "2026-08-24T11:09:43Z",
-        "pushed_at": "2026-10-24T12:29:31Z"
-      },
-      "filtered": false,
-      "total_score": 63.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "amitshekhariitbhu/ai-engineering-course",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/amitshekhariitbhu/ai-engineering-course",
-      "summary": "AI Engineering Course - A free and complete AI Engineering Course to learn AI Engineering step by step - from 机器学习, Neural Networks, and Transformers to LLMs, 微调, RAG, AI 智能体s, LLM 推理, 评估, AI Safet...",
-      "popularity": {
-        "views": 593,
-        "likes": 593,
-        "comments": 114
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "检索增强生成",
-          "AI Agent",
-          "模型微调"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-09-23T08:04:42"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 593,
-        "forks": 114,
-        "open_issues": 0,
-        "language": "Markdown",
-        "license": "apache-2.0",
-        "topics": [
-          "ai-course",
-          "ai-engineering",
-          "ai-engineering-course",
-          "ai-engineering-curriculum",
-          "large-language-models"
-        ],
-        "created_at": "2026-09-23T08:04:42Z",
-        "pushed_at": "2026-10-29T04:53:00Z"
-      },
-      "filtered": false,
-      "total_score": 63.0,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 53.0,
-        "practicality": 63.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "google/elephant-goldfish-model",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/google/elephant-goldfish-model",
-      "summary": "Open-source skills for designing and reviewing software with AI 智能体s (语言: Python) [标签: agent-skills, ai-agents, antigravity, claude-code, claude-code-plugin]",
-      "popularity": {
-        "views": 5873,
-        "likes": 5873,
-        "comments": 360
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent",
-          "代码生成"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-09-13T16:31:06"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 5873,
-        "forks": 360,
-        "open_issues": 58,
-        "language": "Python",
-        "license": "apache-2.0",
-        "topics": [
-          "agent-skills",
-          "ai-agents",
-          "antigravity",
-          "claude-code",
-          "claude-code-plugin",
-          "claude-skills",
-          "codex",
-          "codex-plugin",
-          "coding-agents",
-          "context-engineering",
-          "developer-tools",
-          "gemini",
-          "llm",
-          "multi-agent",
-          "prompt-engineering",
-          "spec-driven-development"
-        ],
-        "created_at": "2026-09-13T16:31:06Z",
-        "pushed_at": "2026-10-29T10:23:12Z"
-      },
-      "filtered": false,
-      "total_score": 62.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 53.0,
-        "practicality": 61.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "tigerless-labs/agent-memory",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/tigerless-labs/agent-memory",
-      "summary": "Long-term memory 运行时 for AI 智能体s — plain Markdown as the source of truth, local ranked 检索, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key. (语言: Python...",
-      "popularity": {
-        "views": 4375,
-        "likes": 4375,
-        "comments": 199
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent",
-          "代码生成"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-09-01T21:52:29"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 4375,
-        "forks": 199,
-        "open_issues": 23,
-        "language": "Python",
-        "license": "mit",
-        "topics": [
-          "agent-memory",
-          "ai-agents",
-          "claude-code",
-          "codex",
-          "llm",
-          "local-first",
-          "long-term-memory",
-          "markdown",
-          "mcp",
-          "python",
-          "retrieval",
-          "sqlite"
-        ],
-        "created_at": "2026-09-01T21:52:29Z",
-        "pushed_at": "2026-10-29T15:24:38Z"
-      },
-      "filtered": false,
-      "total_score": 62.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 53.0,
-        "practicality": 61.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "whitecircle/halo",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/whitecircle/halo",
-      "summary": "Halo is an open-source 框架 built by White Circle for 训练 large language and multimodal 模型s (语言: Python) [标签: agent, async-rl, distributed-training, fine-tuning, grpo]",
-      "popularity": {
-        "views": 835,
-        "likes": 835,
-        "comments": 42
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent",
-          "模型微调",
-          "模型训练"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-08-26T13:49:24"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 835,
-        "forks": 42,
-        "open_issues": 23,
-        "language": "Python",
-        "license": "other",
-        "topics": [
-          "agent",
-          "async-rl",
-          "distributed-training",
-          "fine-tuning",
-          "grpo",
-          "large-language-models",
-          "llm",
-          "lora",
-          "model-parallelism",
-          "moe",
-          "multimodal",
-          "peft",
-          "post-training",
-          "pytorch",
-          "qlora",
-          "quantization",
-          "reinforcement-learning",
-          "rlhf",
-          "transformers",
-          "vllm"
-        ],
-        "created_at": "2026-08-26T13:49:24Z",
-        "pushed_at": "2026-10-29T19:37:10Z"
-      },
-      "filtered": false,
-      "total_score": 60.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 44.0,
-        "practicality": 63.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "BlueRingsLabs/no-shortcuts",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/BlueRingsLabs/no-shortcuts",
-      "summary": "Free Course : Data, 机器学习, 深度学习 and AI Engineering, the long way round: the math, the code, the systems and the 安全. 173 lessons, 166 runnable labs, no shortcuts. Free under CC BY-NC 4.0. (语言: Python...",
-      "popularity": {
-        "views": 140,
-        "likes": 140,
-        "comments": 24
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "检索增强生成",
-          "代码生成",
-          "数据处理"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-26T19:49:54"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 140,
-        "forks": 24,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "other",
-        "topics": [
-          "ai-engineering",
-          "course",
-          "data-engineering",
-          "deep-learning",
-          "llm",
-          "machine-learning",
-          "mlops",
-          "python",
-          "pytorch",
-          "rag",
-          "reinforcement-learning",
-          "security"
-        ],
-        "created_at": "2026-09-26T19:49:54Z",
-        "pushed_at": "2026-10-28T22:41:02Z"
-      },
-      "filtered": false,
-      "total_score": 58.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 44.0,
-        "practicality": 54.0,
         "freshness": 20
       }
     },
@@ -1898,6 +1526,1150 @@
         "popularity": 100,
         "usability": 53.0,
         "practicality": 59.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "bagusprts/RoughGlue",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/bagusprts/RoughGlue",
+      "summary": "RoughGlue is a 实时 data 处理 Gateway Service utilizing Geo-enabled 机器学习 integration 框架s. (语言: JavaScript)",
+      "popularity": {
+        "views": 115,
+        "likes": 115,
+        "comments": 1
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "数据处理"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-17T06:25:57"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 115,
+        "forks": 1,
+        "open_issues": 0,
+        "language": "JavaScript",
+        "license": "mit",
+        "topics": [],
+        "created_at": "2026-10-17T06:25:57Z",
+        "pushed_at": "2026-10-17T06:26:42Z"
+      },
+      "filtered": false,
+      "total_score": 65.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 44.0,
+        "practicality": 50.0,
+        "freshness": 60
+      }
+    },
+    {
+      "name": "i-am-manware/Manware-s-AI-Learning-Toolkit",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/i-am-manware/Manware-s-AI-Learning-Toolkit",
+      "summary": "An AI 工具包 that turns 智能体s into teachers rather than code yapping machines",
+      "popularity": {
+        "views": 847,
+        "likes": 847,
+        "comments": 113
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "代码生成"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-09-05T16:46:07"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 847,
+        "forks": 113,
+        "open_issues": 1,
+        "language": "",
+        "license": "",
+        "topics": [],
+        "created_at": "2026-09-05T16:46:07Z",
+        "pushed_at": "2026-10-11T12:11:59Z"
+      },
+      "filtered": false,
+      "total_score": 64.25,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 60.0,
+        "practicality": 61.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "salikhussain71-code/PAKGOV-RAG-project",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/salikhussain71-code/PAKGOV-RAG-project",
+      "summary": "研究 project on bilingual Urdu-English 检索-augmented 生成 for Pakistani government and legal documents, with OCR, hybrid 检索, citation grounding, and 评估. (语言: Python) [标签: artificial-intelligence, inform...",
+      "popularity": {
+        "views": 129,
+        "likes": 129,
+        "comments": 5
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "检索增强生成",
+          "自然语言处理"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-17T10:31:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 129,
+        "forks": 5,
+        "open_issues": 2,
+        "language": "Python",
+        "license": "mit",
+        "topics": [
+          "artificial-intelligence",
+          "information-retrieval",
+          "legal-nlp",
+          "low-resource-languages",
+          "nlp",
+          "ocr",
+          "rag",
+          "retrieval-augmented-generation",
+          "transformers",
+          "urdu-nlp"
+        ],
+        "created_at": "2026-09-17T10:31:00Z",
+        "pushed_at": "2026-10-28T11:51:52Z"
+      },
+      "filtered": false,
+      "total_score": 64.25,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 52.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "ChidiebereNjoku/ModelBrief",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/ChidiebereNjoku/ModelBrief",
+      "summary": "An open-source Python 库 that automates the 分析 and reporting of 机器学习 实验s, generating structured and comprehensive reports that make 模型 performance, results, and key insights easier to understand and...",
+      "popularity": {
+        "views": 354,
+        "likes": 354,
+        "comments": 283
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "数据处理"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-08-24T11:09:43"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 354,
+        "forks": 283,
+        "open_issues": 3,
+        "language": "Python",
+        "license": "other",
+        "topics": [],
+        "created_at": "2026-08-24T11:09:43Z",
+        "pushed_at": "2026-10-24T12:29:31Z"
+      },
+      "filtered": false,
+      "total_score": 63.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "amitshekhariitbhu/ai-engineering-course",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/amitshekhariitbhu/ai-engineering-course",
+      "summary": "AI Engineering Course - A free and complete AI Engineering Course to learn AI Engineering step by step - from 机器学习, Neural Networks, and Transformers to LLMs, 微调, RAG, AI 智能体s, LLM 推理, 评估, AI Safet...",
+      "popularity": {
+        "views": 602,
+        "likes": 602,
+        "comments": 114
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "检索增强生成",
+          "AI Agent",
+          "模型微调"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-09-23T08:04:42"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 602,
+        "forks": 114,
+        "open_issues": 0,
+        "language": "Markdown",
+        "license": "apache-2.0",
+        "topics": [
+          "ai-course",
+          "ai-engineering",
+          "ai-engineering-course",
+          "ai-engineering-curriculum",
+          "large-language-models"
+        ],
+        "created_at": "2026-09-23T08:04:42Z",
+        "pushed_at": "2026-10-30T17:05:59Z"
+      },
+      "filtered": false,
+      "total_score": 63.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 53.0,
+        "practicality": 63.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "google/elephant-goldfish-model",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/google/elephant-goldfish-model",
+      "summary": "Open-source skills for designing and reviewing software with AI 智能体s (语言: Python) [标签: agent-skills, ai-agents, antigravity, claude-code, claude-code-plugin]",
+      "popularity": {
+        "views": 6589,
+        "likes": 6589,
+        "comments": 401
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "代码生成"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-09-13T16:31:06"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 6589,
+        "forks": 401,
+        "open_issues": 60,
+        "language": "Python",
+        "license": "apache-2.0",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "antigravity",
+          "claude-code",
+          "claude-code-plugin",
+          "claude-skills",
+          "codex",
+          "codex-plugin",
+          "coding-agents",
+          "context-engineering",
+          "developer-tools",
+          "gemini",
+          "llm",
+          "multi-agent",
+          "prompt-engineering",
+          "spec-driven-development"
+        ],
+        "created_at": "2026-09-13T16:31:06Z",
+        "pushed_at": "2026-10-30T09:33:24Z"
+      },
+      "filtered": false,
+      "total_score": 62.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 53.0,
+        "practicality": 61.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "tigerless-labs/agent-memory",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/tigerless-labs/agent-memory",
+      "summary": "Long-term memory 运行时 for AI 智能体s — plain Markdown as the source of truth, local ranked 检索, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key. (语言: Python...",
+      "popularity": {
+        "views": 4381,
+        "likes": 4381,
+        "comments": 199
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "代码生成"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-09-01T21:52:29"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 4381,
+        "forks": 199,
+        "open_issues": 17,
+        "language": "Python",
+        "license": "mit",
+        "topics": [
+          "agent-memory",
+          "ai-agents",
+          "claude-code",
+          "codex",
+          "llm",
+          "local-first",
+          "long-term-memory",
+          "markdown",
+          "mcp",
+          "python",
+          "retrieval",
+          "sqlite"
+        ],
+        "created_at": "2026-09-01T21:52:29Z",
+        "pushed_at": "2026-10-30T14:02:49Z"
+      },
+      "filtered": false,
+      "total_score": 62.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 53.0,
+        "practicality": 61.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "baojian/llm-26-fall",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/baojian/llm-26-fall",
+      "summary": "Fudan University 自然语言处理 and 大语言模型s, Fall 2026 (语言: Python)",
+      "popularity": {
+        "views": 53,
+        "likes": 53,
+        "comments": 146
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "通用AI应用"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-04T03:32:36"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 53,
+        "forks": 146,
+        "open_issues": 17,
+        "language": "Python",
+        "license": "",
+        "topics": [],
+        "created_at": "2026-09-04T03:32:36Z",
+        "pushed_at": "2026-10-30T15:18:44Z"
+      },
+      "filtered": false,
+      "total_score": 61.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 60.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "whitecircle/halo",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/whitecircle/halo",
+      "summary": "Halo is an open-source 框架 built by White Circle for 训练 large language and multimodal 模型s (语言: Python) [标签: agent, async-rl, distributed-training, fine-tuning, grpo]",
+      "popularity": {
+        "views": 838,
+        "likes": 838,
+        "comments": 42
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "模型微调",
+          "模型训练"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-08-26T13:49:24"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 838,
+        "forks": 42,
+        "open_issues": 24,
+        "language": "Python",
+        "license": "other",
+        "topics": [
+          "agent",
+          "async-rl",
+          "distributed-training",
+          "fine-tuning",
+          "grpo",
+          "large-language-models",
+          "llm",
+          "lora",
+          "model-parallelism",
+          "moe",
+          "multimodal",
+          "peft",
+          "post-training",
+          "pytorch",
+          "qlora",
+          "quantization",
+          "reinforcement-learning",
+          "rlhf",
+          "transformers",
+          "vllm"
+        ],
+        "created_at": "2026-08-26T13:49:24Z",
+        "pushed_at": "2026-10-30T21:04:22Z"
+      },
+      "filtered": false,
+      "total_score": 60.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 44.0,
+        "practicality": 63.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "datasifaw/dataiku-projet-bancaire-analytics",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/datasifaw/dataiku-projet-bancaire-analytics",
+      "summary": "端到端 Banking 分析 with Dataiku | Data Preparation, 机器学习, Customer Scoring & Automated 流水线s [标签: banking-analytics, data, data-analysis, data-analytics, data-engineering]",
+      "popularity": {
+        "views": 100,
+        "likes": 100,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "数据处理"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-16T11:48:01"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 100,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "",
+        "license": "",
+        "topics": [
+          "banking-analytics",
+          "data",
+          "data-analysis",
+          "data-analytics",
+          "data-engineering",
+          "data-engineering-project",
+          "data-science",
+          "data-science-competition",
+          "data-science-portfolio",
+          "data-science-projects",
+          "data-structures",
+          "data-visualization",
+          "database",
+          "dataiku",
+          "dataset",
+          "machine-learning",
+          "machine-learning-algorithms",
+          "machine-learning-models"
+        ],
+        "created_at": "2026-09-16T11:48:01Z",
+        "pushed_at": "2026-10-25T16:03:02Z"
+      },
+      "filtered": false,
+      "total_score": 59.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 53.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "l-wn/ClusterChat",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/l-wn/ClusterChat",
+      "summary": "A 聊天机器人, with a 大语言模型 split across its users, entirely in the browser. (语言: JavaScript) [标签: chatbot, distributed-inference, llm, open-models, open-source]",
+      "popularity": {
+        "views": 39,
+        "likes": 39,
+        "comments": 3
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "对话交互",
+          "推理部署"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-09T14:22:32"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 39,
+        "forks": 3,
+        "open_issues": 2,
+        "language": "JavaScript",
+        "license": "agpl-3.0",
+        "topics": [
+          "chatbot",
+          "distributed-inference",
+          "llm",
+          "open-models",
+          "open-source",
+          "p2p",
+          "webgpu",
+          "webrtc"
+        ],
+        "created_at": "2026-10-09T14:22:32Z",
+        "pushed_at": "2026-10-29T14:49:01Z"
+      },
+      "filtered": false,
+      "total_score": 58.57,
+      "detail_scores": {
+        "popularity": 54.39,
+        "usability": 69.0,
+        "practicality": 52.0,
+        "freshness": 60
+      }
+    },
+    {
+      "name": "BlueRingsLabs/no-shortcuts",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/BlueRingsLabs/no-shortcuts",
+      "summary": "Free Course : Data, 机器学习, 深度学习 and AI Engineering, the long way round: the math, the code, the systems and the 安全. 173 lessons, 166 runnable labs, no shortcuts. Free under CC BY-NC 4.0. (语言: Python...",
+      "popularity": {
+        "views": 157,
+        "likes": 157,
+        "comments": 28
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "检索增强生成",
+          "代码生成",
+          "数据处理"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-26T19:49:54"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 157,
+        "forks": 28,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "other",
+        "topics": [
+          "ai-engineering",
+          "course",
+          "data-engineering",
+          "deep-learning",
+          "llm",
+          "machine-learning",
+          "mlops",
+          "python",
+          "pytorch",
+          "rag",
+          "reinforcement-learning",
+          "security"
+        ],
+        "created_at": "2026-09-26T19:49:54Z",
+        "pushed_at": "2026-10-28T22:41:02Z"
+      },
+      "filtered": false,
+      "total_score": 58.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 44.0,
+        "practicality": 54.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "stubbb/c-shop",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/stubbb/c-shop",
+      "summary": "Graphic editor supporting 智能体ic workflows with 深度学习 modules. (语言: Rust)",
+      "popularity": {
+        "views": 57,
+        "likes": 57,
+        "comments": 6
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-08-28T19:28:45"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 57,
+        "forks": 6,
+        "open_issues": 1,
+        "language": "Rust",
+        "license": "apache-2.0",
+        "topics": [],
+        "created_at": "2026-08-28T19:28:45Z",
+        "pushed_at": "2026-10-15T20:45:34Z"
+      },
+      "filtered": false,
+      "total_score": 57.77,
+      "detail_scores": {
+        "popularity": 87.57000000000002,
+        "usability": 60.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "Erutaner/CLADE",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/Erutaner/CLADE",
+      "summary": "Closed-Loop 智能体ic Discovery Engine for 机器学习 研究 and Engineering (语言: Python)",
+      "popularity": {
+        "views": 97,
+        "likes": 97,
+        "comments": 1
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-04T00:39:34"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 97,
+        "forks": 1,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "mit",
+        "topics": [],
+        "created_at": "2026-09-04T00:39:34Z",
+        "pushed_at": "2026-10-04T04:48:46Z"
+      },
+      "filtered": false,
+      "total_score": 57.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 44.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "niharika2309/16-week-ai-ml-series",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/niharika2309/16-week-ai-ml-series",
+      "summary": "AI, One Concept at a Time A beginner-friendly journey into 人工智能 and 机器学习  By Niharika Batra  No complicated jargon. No assumption that you already know AI. Just one concept at a time. (语言: JavaScript)",
+      "popularity": {
+        "views": 43,
+        "likes": 43,
+        "comments": 3
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "通用AI应用"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-14T02:26:27"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 43,
+        "forks": 3,
+        "open_issues": 0,
+        "language": "JavaScript",
+        "license": "",
+        "topics": [],
+        "created_at": "2026-09-14T02:26:27Z",
+        "pushed_at": "2026-10-22T01:35:14Z"
+      },
+      "filtered": false,
+      "total_score": 51.28,
+      "detail_scores": {
+        "popularity": 58.43,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "alrisqi/MrD-Optimizer-Lab",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/alrisqi/MrD-Optimizer-Lab",
+      "summary": "MrD 深度学习 Studio: AI 训练 & 模型 优化 Tools 2026 (语言: HTML) [标签: classification, deep-learning, deep-neural-networks, label, labeling-tool]",
+      "popularity": {
+        "views": 55,
+        "likes": 55,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "模型训练",
+          "数据处理"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-08-25T10:05:47"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 55,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "HTML",
+        "license": "",
+        "topics": [
+          "classification",
+          "deep-learning",
+          "deep-neural-networks",
+          "label",
+          "labeling-tool",
+          "labels",
+          "objectdetection",
+          "objectdetector",
+          "opencv4",
+          "segmentation",
+          "tensorflow2",
+          "torch",
+          "trainer",
+          "training",
+          "training-dataset"
+        ],
+        "created_at": "2026-08-25T10:05:47Z",
+        "pushed_at": "2026-10-30T21:30:49Z"
+      },
+      "filtered": false,
+      "total_score": 50.91,
+      "detail_scores": {
+        "popularity": 55.55,
+        "usability": 69.0,
+        "practicality": 52.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "Gabedevz/haiku-bridge-trainer",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/Gabedevz/haiku-bridge-trainer",
+      "summary": "Bax: Flexible JAX and Haiku Trainer Interface for 可扩展 深度学习 2026 (语言: HTML) [标签: boilerplate, dm-haiku, jax, trainer]",
+      "popularity": {
+        "views": 56,
+        "likes": 56,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "通用AI应用"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-21T20:54:20"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 56,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "HTML",
+        "license": "",
+        "topics": [
+          "boilerplate",
+          "dm-haiku",
+          "jax",
+          "trainer"
+        ],
+        "created_at": "2026-09-21T20:54:20Z",
+        "pushed_at": "2026-10-30T20:24:54Z"
+      },
+      "filtered": false,
+      "total_score": 50.72,
+      "detail_scores": {
+        "popularity": 56.56,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "Sanane001/torch-hydra-starter",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/Sanane001/torch-hydra-starter",
+      "summary": "PyTorch AI 模板 2026: Hydra-Powered 深度学习 脚手架 Starter Kit (语言: HTML) [标签: boilerplate, boilerplate-template, deep-learning, hydra, machine-learning]",
+      "popularity": {
+        "views": 55,
+        "likes": 55,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "通用AI应用"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-08-25T10:17:59"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 55,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "HTML",
+        "license": "",
+        "topics": [
+          "boilerplate",
+          "boilerplate-template",
+          "deep-learning",
+          "hydra",
+          "machine-learning",
+          "pytorch",
+          "trainer",
+          "yaml"
+        ],
+        "created_at": "2026-08-25T10:17:59Z",
+        "pushed_at": "2026-10-21T16:14:22Z"
+      },
+      "filtered": false,
+      "total_score": 50.41,
+      "detail_scores": {
+        "popularity": 55.55,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "nicklucenasantanalucenasant-maker/yapt-core",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/nicklucenasantanalucenasant-maker/yapt-core",
+      "summary": "YAPT 2026: Modern PyTorch 训练 框架 for Faster 深度学习 Workflows (语言: HTML) [标签: deep-learning, neptune-ai, pytorch, trainer]",
+      "popularity": {
+        "views": 53,
+        "likes": 53,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "模型训练"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-21T22:54:48"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 53,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "HTML",
+        "license": "",
+        "topics": [
+          "deep-learning",
+          "neptune-ai",
+          "pytorch",
+          "trainer"
+        ],
+        "created_at": "2026-09-21T22:54:48Z",
+        "pushed_at": "2026-10-30T20:27:43Z"
+      },
+      "filtered": false,
+      "total_score": 45.81,
+      "detail_scores": {
+        "popularity": 53.53000000000001,
+        "usability": 53.0,
+        "practicality": 50.0,
         "freshness": 20
       }
     }
