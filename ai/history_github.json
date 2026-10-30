@@ -307,9 +307,7 @@
         "practicality": 52.0,
         "freshness": 60
       }
-    }
-  ],
-  "pending_items": [
+    },
     {
       "name": "beckettharriman/openfill",
       "type": "tool",
@@ -383,88 +381,14 @@
       }
     },
     {
-      "name": "Louis-CFM/coucou",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/Louis-CFM/coucou",
-      "summary": "A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding 智能体s: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more. Approve from the notch or your Lock Scre...",
-      "popularity": {
-        "views": 6744,
-        "likes": 6744,
-        "comments": 1107
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent",
-          "代码生成"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-09-27T21:54:12"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 6744,
-        "forks": 1107,
-        "open_issues": 466,
-        "language": "Swift",
-        "license": "mit",
-        "topics": [
-          "ai-agents",
-          "anthropic",
-          "antigravity",
-          "claude",
-          "claude-code",
-          "codex",
-          "cursor",
-          "dynamic-island",
-          "gemini-cli",
-          "ios",
-          "iphon",
-          "linux",
-          "macos",
-          "macos-app",
-          "menubar-app",
-          "notch",
-          "open-source",
-          "swift",
-          "swiftui",
-          "windows"
-        ],
-        "created_at": "2026-09-27T21:54:12Z",
-        "pushed_at": "2026-10-29T23:01:20Z"
-      },
-      "filtered": false,
-      "total_score": 68.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 78.0,
-        "practicality": 61.0,
-        "freshness": 20
-      }
-    },
-    {
       "name": "kaankiziltug/logo-design-skill",
       "type": "tool",
       "platform": "GitHub",
       "url": "https://github.com/kaankiziltug/logo-design-skill",
       "summary": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI 智能体s: principles, process, SVG craft, testing tools and a 1,400+ logo reference 库. (语言: HTML) [标签: agent-skills, brandin...",
       "popularity": {
-        "views": 5275,
-        "likes": 5275,
+        "views": 5283,
+        "likes": 5283,
         "comments": 415
       },
       "usability": {
@@ -491,7 +415,7 @@
         "blocked_in_china": false
       },
       "metadata": {
-        "stars": 5275,
+        "stars": 5283,
         "forks": 415,
         "open_issues": 3,
         "language": "HTML",
@@ -527,7 +451,7 @@
       "popularity": {
         "views": 1245,
         "likes": 1245,
-        "comments": 189
+        "comments": 190
       },
       "usability": {
         "difficulty": "medium",
@@ -553,7 +477,7 @@
       },
       "metadata": {
         "stars": 1245,
-        "forks": 189,
+        "forks": 190,
         "open_issues": 0,
         "language": "HTML",
         "license": "mit",
@@ -579,7 +503,7 @@
           "vnc"
         ],
         "created_at": "2026-09-10T09:38:49Z",
-        "pushed_at": "2026-10-29T23:06:28Z"
+        "pushed_at": "2026-10-30T00:19:44Z"
       },
       "filtered": false,
       "total_score": 68.25,
@@ -670,9 +594,9 @@
       "url": "https://github.com/CopilotKit/OpenBot",
       "summary": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI 智能体. (语言: TypeScript) [标签...",
       "popularity": {
-        "views": 8094,
-        "likes": 8094,
-        "comments": 1045
+        "views": 8150,
+        "likes": 8150,
+        "comments": 1047
       },
       "usability": {
         "difficulty": "medium",
@@ -698,9 +622,9 @@
         "blocked_in_china": false
       },
       "metadata": {
-        "stars": 8094,
-        "forks": 1045,
-        "open_issues": 51,
+        "stars": 8150,
+        "forks": 1047,
+        "open_issues": 52,
         "language": "TypeScript",
         "license": "mit",
         "topics": [
@@ -723,21 +647,23 @@
         "practicality": 61.0,
         "freshness": 20
       }
-    },
+    }
+  ],
+  "pending_items": [
     {
-      "name": "soumatheusgomes/vibe-coding-toolkit",
+      "name": "Louis-CFM/coucou",
       "type": "tool",
       "platform": "GitHub",
-      "url": "https://github.com/soumatheusgomes/vibe-coding-toolkit",
-      "summary": "A curated, battle-tested AI-coding 工具包: Claude Code plugins, sub智能体 orchestration, quality gates, and ready-to-copy prompts, extracted from real production use. (语言: JavaScript) [标签: ai-agents, ai-...",
+      "url": "https://github.com/Louis-CFM/coucou",
+      "summary": "A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding 智能体s: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more. Approve from the notch or your Lock Scre...",
       "popularity": {
-        "views": 2098,
-        "likes": 2098,
-        "comments": 354
+        "views": 6744,
+        "likes": 6744,
+        "comments": 1107
       },
       "usability": {
         "difficulty": "medium",
-        "deployment": "medium",
+        "deployment": "simple",
         "docs_quality": "excellent",
         "requires_coding": true
       },
@@ -750,7 +676,7 @@
         "maturity": "stable"
       },
       "freshness": {
-        "publish_date": "2026-08-14T23:41:31"
+        "publish_date": "2026-09-27T21:54:12"
       },
       "pricing": {
         "has_paid_features": false
@@ -759,220 +685,42 @@
         "blocked_in_china": false
       },
       "metadata": {
-        "stars": 2098,
-        "forks": 354,
-        "open_issues": 3,
-        "language": "JavaScript",
+        "stars": 6744,
+        "forks": 1107,
+        "open_issues": 466,
+        "language": "Swift",
         "license": "mit",
         "topics": [
           "ai-agents",
-          "ai-coding",
+          "anthropic",
+          "antigravity",
+          "claude",
           "claude-code",
-          "developer-tools",
-          "llm-agents",
-          "prompts"
+          "codex",
+          "cursor",
+          "dynamic-island",
+          "gemini-cli",
+          "ios",
+          "iphon",
+          "linux",
+          "macos",
+          "macos-app",
+          "menubar-app",
+          "notch",
+          "open-source",
+          "swift",
+          "swiftui",
+          "windows"
         ],
-        "created_at": "2026-08-14T23:41:31Z",
-        "pushed_at": "2026-10-19T02:42:59Z"
+        "created_at": "2026-09-27T21:54:12Z",
+        "pushed_at": "2026-10-29T23:01:20Z"
       },
       "filtered": false,
-      "total_score": 66.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 61.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "Akshayykadam/PixelBoard",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/Akshayykadam/PixelBoard",
-      "summary": "Unlock Google 11's Gemini \"Rambler\" Natural Voice Dictation & AI Writing Tools on ANY Android phone. No root required. (语言: Java) [标签: ai-writing-tools, android, apk, gboard, gboard-ai]",
-      "popularity": {
-        "views": 1317,
-        "likes": 1317,
-        "comments": 57
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "通用AI应用"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-09-17T04:23:43"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 1317,
-        "forks": 57,
-        "open_issues": 43,
-        "language": "Java",
-        "license": "gpl-3.0",
-        "topics": [
-          "ai-writing-tools",
-          "android",
-          "apk",
-          "gboard",
-          "gboard-ai",
-          "gboard-mod",
-          "gboards",
-          "gemini",
-          "gemini-ai",
-          "google-keyboard",
-          "keyboard",
-          "no-root",
-          "pixel-features",
-          "pixel11",
-          "rambler",
-          "voice-typing",
-          "voice-typing-app"
-        ],
-        "created_at": "2026-09-17T04:23:43Z",
-        "pushed_at": "2026-10-28T05:42:18Z"
-      },
-      "filtered": false,
-      "total_score": 66.0,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 59.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "eternityspring/reelbench-skills",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/eternityspring/reelbench-skills",
-      "summary": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill (语言: JavaScript) [标签: ai-video, claude-skills, ffmpeg, shot-analysis, video-analysis]",
-      "popularity": {
-        "views": 1181,
-        "likes": 1181,
-        "comments": 150
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视频生成"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-09-11T04:55:49"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 1181,
-        "forks": 150,
-        "open_issues": 1,
-        "language": "JavaScript",
-        "license": "apache-2.0",
-        "topics": [
-          "ai-video",
-          "claude-skills",
-          "ffmpeg",
-          "shot-analysis",
-          "video-analysis"
-        ],
-        "created_at": "2026-09-11T04:55:49Z",
-        "pushed_at": "2026-10-24T03:29:20Z"
-      },
-      "filtered": false,
-      "total_score": 66.0,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 59.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "apimart-66/ai-api-aggregator",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/apimart-66/ai-api-aggregator",
-      "summary": "AI API aggregator companion: machine-readable catalog of 300+ 模型s behind one key and one base URL, with routing patterns, cost accounting, OpenAI SDK and curl examples. (语言: Python) [标签: ai-api-agg...",
-      "popularity": {
-        "views": 150,
-        "likes": 150,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "图像生成"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-16T07:17:05"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 150,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "other",
-        "topics": [
-          "ai-api-aggregator",
-          "ai-api-gateway",
-          "api-relay",
-          "apimart",
-          "gpt-image-2-5",
-          "image-2-5",
-          "image2-5",
-          "model-catalog",
-          "openai-compatible",
-          "text-to-image",
-          "unified-ai-api"
-        ],
-        "created_at": "2026-09-16T07:17:05Z",
-        "pushed_at": "2026-10-29T13:11:54Z"
-      },
-      "filtered": false,
-      "total_score": 66.0,
+      "total_score": 68.75,
       "detail_scores": {
         "popularity": 100,
         "usability": 78.0,
-        "practicality": 50.0,
+        "practicality": 61.0,
         "freshness": 20
       }
     },
@@ -1078,70 +826,6 @@
         "usability": 44.0,
         "practicality": 50.0,
         "freshness": 60
-      }
-    },
-    {
-      "name": "vanzll/DiffusionART",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/vanzll/DiffusionART",
-      "summary": "Official Implementation of \"扩散ART: Efficient, Stable and 可扩展 Reinforcement of 扩散 模型s\" (语言: Python) [标签: diffusion-models, diffusionart, flow-matching, image-to-video, post-training]",
-      "popularity": {
-        "views": 200,
-        "likes": 200,
-        "comments": 2
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "图像生成",
-          "视频生成",
-          "模型训练"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-24T08:35:23"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 200,
-        "forks": 2,
-        "open_issues": 2,
-        "language": "Python",
-        "license": "apache-2.0",
-        "topics": [
-          "diffusion-models",
-          "diffusionart",
-          "flow-matching",
-          "image-to-video",
-          "post-training",
-          "reinforcement-learning",
-          "text-to-image",
-          "text-to-video",
-          "video-generation"
-        ],
-        "created_at": "2026-09-24T08:35:23Z",
-        "pushed_at": "2026-10-29T14:34:10Z"
-      },
-      "filtered": false,
-      "total_score": 64.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 54.0,
-        "freshness": 20
       }
     },
     {
@@ -1251,66 +935,6 @@
       }
     },
     {
-      "name": "VaderChen/YourDesk",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/VaderChen/YourDesk",
-      "summary": "跨平台 remote desktop for macOS and Windows with hardware acceleration, multi-monitor support, clipboard transfer for text, images, files and folders, and MCP integration for AI 智能体s to connect to and...",
-      "popularity": {
-        "views": 265,
-        "likes": 265,
-        "comments": 36
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent",
-          "图像生成"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-08T03:53:34"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 265,
-        "forks": 36,
-        "open_issues": 6,
-        "language": "Go",
-        "license": "other",
-        "topics": [
-          "clipboard",
-          "golang",
-          "macos",
-          "remote-desktop",
-          "webrtc",
-          "windows"
-        ],
-        "created_at": "2026-09-08T03:53:34Z",
-        "pushed_at": "2026-10-23T03:38:27Z"
-      },
-      "filtered": false,
-      "total_score": 64.25,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 52.0,
-        "freshness": 20
-      }
-    },
-    {
       "name": "salikhussain71-code/PAKGOV-RAG-project",
       "type": "tool",
       "platform": "GitHub",
@@ -1416,70 +1040,6 @@
         "topics": [],
         "created_at": "2026-08-24T11:09:43Z",
         "pushed_at": "2026-10-24T12:29:31Z"
-      },
-      "filtered": false,
-      "total_score": 63.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "nihui/qwenimage-ncnn-vulkan",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/nihui/qwenimage-ncnn-vulkan",
-      "summary": "ncnn implementation of Qwen-Image-2.1, with 文生图, image editing, multi-reference image input and transparent RGBA output (语言: C++) [标签: amd, apple, intel, linux, macos]",
-      "popularity": {
-        "views": 324,
-        "likes": 324,
-        "comments": 18
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "图像生成"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-21T11:11:37"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 324,
-        "forks": 18,
-        "open_issues": 8,
-        "language": "C++",
-        "license": "apache-2.0",
-        "topics": [
-          "amd",
-          "apple",
-          "intel",
-          "linux",
-          "macos",
-          "ncnn",
-          "nvidia",
-          "qwen-image",
-          "qwen-image-2-1",
-          "vulkan",
-          "windows"
-        ],
-        "created_at": "2026-09-21T11:11:37Z",
-        "pushed_at": "2026-10-28T02:46:49Z"
       },
       "filtered": false,
       "total_score": 63.75,
@@ -1687,79 +1247,6 @@
       }
     },
     {
-      "name": "2akouwu/reverify",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/2akouwu/reverify",
-      "summary": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering ...",
-      "popularity": {
-        "views": 1319,
-        "likes": 1319,
-        "comments": 256
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-08-31T01:02:18"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 1319,
-        "forks": 256,
-        "open_issues": 15,
-        "language": "Python",
-        "license": "mit",
-        "topics": [
-          "ai",
-          "ai-agents",
-          "ai-coding",
-          "anti-hallucination",
-          "binary-analysis",
-          "context-engineering",
-          "ctf",
-          "developer-tools",
-          "disassembler",
-          "grounding",
-          "hallucination",
-          "hallucination-detection",
-          "llm",
-          "malware-analysis",
-          "mcp",
-          "mcp-server",
-          "python",
-          "reverse-engineering",
-          "security-tools",
-          "verification"
-        ],
-        "created_at": "2026-08-31T01:02:18Z",
-        "pushed_at": "2026-10-01T11:31:02Z"
-      },
-      "filtered": false,
-      "total_score": 62.0,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 53.0,
-        "practicality": 59.0,
-        "freshness": 20
-      }
-    },
-    {
       "name": "whitecircle/halo",
       "type": "tool",
       "platform": "GitHub",
@@ -1898,6 +1385,519 @@
         "popularity": 100,
         "usability": 44.0,
         "practicality": 54.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "soumatheusgomes/vibe-coding-toolkit",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/soumatheusgomes/vibe-coding-toolkit",
+      "summary": "A curated, battle-tested AI-coding 工具包: Claude Code plugins, sub智能体 orchestration, quality gates, and ready-to-copy prompts, extracted from real production use. (语言: JavaScript) [标签: ai-agents, ai-...",
+      "popularity": {
+        "views": 2099,
+        "likes": 2099,
+        "comments": 354
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "代码生成"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-08-14T23:41:31"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 2099,
+        "forks": 354,
+        "open_issues": 3,
+        "language": "JavaScript",
+        "license": "mit",
+        "topics": [
+          "ai-agents",
+          "ai-coding",
+          "claude-code",
+          "developer-tools",
+          "llm-agents",
+          "prompts"
+        ],
+        "created_at": "2026-08-14T23:41:31Z",
+        "pushed_at": "2026-10-30T00:45:50Z"
+      },
+      "filtered": false,
+      "total_score": 66.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 61.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "Akshayykadam/PixelBoard",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/Akshayykadam/PixelBoard",
+      "summary": "Unlock Google 11's Gemini \"Rambler\" Natural Voice Dictation & AI Writing Tools on ANY Android phone. No root required. (语言: Java) [标签: ai-writing-tools, android, apk, gboard, gboard-ai]",
+      "popularity": {
+        "views": 1319,
+        "likes": 1319,
+        "comments": 57
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "通用AI应用"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-09-17T04:23:43"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 1319,
+        "forks": 57,
+        "open_issues": 43,
+        "language": "Java",
+        "license": "gpl-3.0",
+        "topics": [
+          "ai-writing-tools",
+          "android",
+          "apk",
+          "gboard",
+          "gboard-ai",
+          "gboard-mod",
+          "gboards",
+          "gemini",
+          "gemini-ai",
+          "google-keyboard",
+          "keyboard",
+          "no-root",
+          "pixel-features",
+          "pixel11",
+          "rambler",
+          "voice-typing",
+          "voice-typing-app"
+        ],
+        "created_at": "2026-09-17T04:23:43Z",
+        "pushed_at": "2026-10-28T05:42:18Z"
+      },
+      "filtered": false,
+      "total_score": 66.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 59.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "eternityspring/reelbench-skills",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/eternityspring/reelbench-skills",
+      "summary": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill (语言: JavaScript) [标签: ai-video, claude-skills, ffmpeg, shot-analysis, video-analysis]",
+      "popularity": {
+        "views": 1181,
+        "likes": 1181,
+        "comments": 150
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视频生成"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-09-11T04:55:49"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 1181,
+        "forks": 150,
+        "open_issues": 1,
+        "language": "JavaScript",
+        "license": "apache-2.0",
+        "topics": [
+          "ai-video",
+          "claude-skills",
+          "ffmpeg",
+          "shot-analysis",
+          "video-analysis"
+        ],
+        "created_at": "2026-09-11T04:55:49Z",
+        "pushed_at": "2026-10-24T03:29:20Z"
+      },
+      "filtered": false,
+      "total_score": 66.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 59.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "apimart-66/ai-api-aggregator",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/apimart-66/ai-api-aggregator",
+      "summary": "AI API aggregator companion: machine-readable catalog of 300+ 模型s behind one key and one base URL, with routing patterns, cost accounting, OpenAI SDK and curl examples. (语言: Python) [标签: ai-api-agg...",
+      "popularity": {
+        "views": 150,
+        "likes": 150,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "图像生成"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-16T07:17:05"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 150,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "other",
+        "topics": [
+          "ai-api-aggregator",
+          "ai-api-gateway",
+          "api-relay",
+          "apimart",
+          "gpt-image-2-5",
+          "image-2-5",
+          "image2-5",
+          "model-catalog",
+          "openai-compatible",
+          "text-to-image",
+          "unified-ai-api"
+        ],
+        "created_at": "2026-09-16T07:17:05Z",
+        "pushed_at": "2026-10-29T13:11:54Z"
+      },
+      "filtered": false,
+      "total_score": 66.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 78.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "vanzll/DiffusionART",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/vanzll/DiffusionART",
+      "summary": "Official Implementation of \"扩散ART: Efficient, Stable and 可扩展 Reinforcement of 扩散 模型s\" (语言: Python) [标签: diffusion-models, diffusionart, flow-matching, image-to-video, post-training]",
+      "popularity": {
+        "views": 201,
+        "likes": 201,
+        "comments": 2
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "图像生成",
+          "视频生成",
+          "模型训练"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-24T08:35:23"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 201,
+        "forks": 2,
+        "open_issues": 2,
+        "language": "Python",
+        "license": "apache-2.0",
+        "topics": [
+          "diffusion-models",
+          "diffusionart",
+          "flow-matching",
+          "image-to-video",
+          "post-training",
+          "reinforcement-learning",
+          "text-to-image",
+          "text-to-video",
+          "video-generation"
+        ],
+        "created_at": "2026-09-24T08:35:23Z",
+        "pushed_at": "2026-10-29T14:34:10Z"
+      },
+      "filtered": false,
+      "total_score": 64.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 54.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "VaderChen/YourDesk",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/VaderChen/YourDesk",
+      "summary": "跨平台 remote desktop for macOS and Windows with hardware acceleration, multi-monitor support, clipboard transfer for text, images, files and folders, and MCP integration for AI 智能体s to connect to and...",
+      "popularity": {
+        "views": 265,
+        "likes": 265,
+        "comments": 36
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "图像生成"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-08T03:53:34"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 265,
+        "forks": 36,
+        "open_issues": 6,
+        "language": "Go",
+        "license": "other",
+        "topics": [
+          "clipboard",
+          "golang",
+          "macos",
+          "remote-desktop",
+          "webrtc",
+          "windows"
+        ],
+        "created_at": "2026-09-08T03:53:34Z",
+        "pushed_at": "2026-10-23T03:38:27Z"
+      },
+      "filtered": false,
+      "total_score": 64.25,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 52.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "nihui/qwenimage-ncnn-vulkan",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/nihui/qwenimage-ncnn-vulkan",
+      "summary": "ncnn implementation of Qwen-Image-2.1, with 文生图, image editing, multi-reference image input and transparent RGBA output (语言: C++) [标签: amd, apple, intel, linux, macos]",
+      "popularity": {
+        "views": 326,
+        "likes": 326,
+        "comments": 18
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "图像生成"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-21T11:11:37"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 326,
+        "forks": 18,
+        "open_issues": 8,
+        "language": "C++",
+        "license": "apache-2.0",
+        "topics": [
+          "amd",
+          "apple",
+          "intel",
+          "linux",
+          "macos",
+          "ncnn",
+          "nvidia",
+          "qwen-image",
+          "qwen-image-2-1",
+          "vulkan",
+          "windows"
+        ],
+        "created_at": "2026-09-21T11:11:37Z",
+        "pushed_at": "2026-10-28T02:46:49Z"
+      },
+      "filtered": false,
+      "total_score": 63.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "2akouwu/reverify",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/2akouwu/reverify",
+      "summary": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering ...",
+      "popularity": {
+        "views": 1319,
+        "likes": 1319,
+        "comments": 256
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-08-31T01:02:18"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 1319,
+        "forks": 256,
+        "open_issues": 15,
+        "language": "Python",
+        "license": "mit",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-coding",
+          "anti-hallucination",
+          "binary-analysis",
+          "context-engineering",
+          "ctf",
+          "developer-tools",
+          "disassembler",
+          "grounding",
+          "hallucination",
+          "hallucination-detection",
+          "llm",
+          "malware-analysis",
+          "mcp",
+          "mcp-server",
+          "python",
+          "reverse-engineering",
+          "security-tools",
+          "verification"
+        ],
+        "created_at": "2026-08-31T01:02:18Z",
+        "pushed_at": "2026-10-01T11:31:02Z"
+      },
+      "filtered": false,
+      "total_score": 62.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 53.0,
+        "practicality": 59.0,
         "freshness": 20
       }
     }
