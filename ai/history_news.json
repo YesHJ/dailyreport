@@ -608,6 +608,222 @@
         "freshness": 100
       },
       "_source": "pending"
+    },
+    {
+      "name": "阿里开源 skill-up 实战：用 CLI 给 Agent Skill 做发布前评测与回归",
+      "type": "news",
+      "platform": "CSDN",
+      "url": "https://m.blog.csdn.net/weixin_42596246/article/details/169627767",
+      "summary": "skill-up 是阿里开源、Go 编写的 Agent Skill 评测与进化工具：用 eval.yaml 与 cases/*.yaml 声明用例，在 Claude Code、Codex、Qoder CLI 等真实引擎中执行，支持 rule_based、script、agent_judge 三种判定，输出 JSON/JUnit/HTML 报告并可接入 CI 门禁；配套 skill-upper 自动归因修复。文含完整命令、配置与报错排查。",
+      "popularity": {
+        "views": 168,
+        "likes": 3,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "large",
+        "scenarios": [
+          "AI Agent",
+          "AI Coding",
+          "测试与CI"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-31T09:07:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 55.4,
+      "detail_scores": {
+        "popularity": 4.680000000000001,
+        "usability": 78.0,
+        "practicality": 58.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "GitHub Octoverse 2026：AI 编码智能体发起的 PR 占比已超 40%",
+      "type": "news",
+      "platform": "AI资讯聚合",
+      "url": "https://clawpk.net/ai-news/",
+      "summary": "GitHub 在 Universe 大会发布 Octoverse 2026 报告：由 AI 编码智能体初稿发起的 Pull Request 从 3 月的 17% 升至 9 月的 40% 以上，单月约 1.1 亿个；平台已服务 2.25 亿以上开发者，过去 12 个月产生 343 亿次提交。同期 Google 开放 Connected Apps 平台，支持一次构建 MCP 接入 Gemini 与搜索。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "large",
+        "scenarios": [
+          "AI Coding",
+          "行业数据"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-31T09:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 54.25,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 56.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "十款主流大模型横评：编码、多模态、长文本、工具使用四维对比",
+      "type": "news",
+      "platform": "今日头条",
+      "url": "https://m.toutiao.com/article/7702343851574313498/",
+      "summary": "以 2026-10-30 抓取口径整理 Claude Opus 5.5、GPT-6.1 Sol、Gemini 4 Argon、DeepSeek V4.1 Flash、Kimi K3.1 Pro、Qwen3.8 Max 等十款旗舰模型的发布时间、上下文长度、开放权重情况与获取方式，并说明入选与排除口径，可作为选型对照表。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "good",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "large",
+        "scenarios": [
+          "大模型",
+          "选型参考"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-30T18:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 53.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 78.0,
+        "practicality": 56.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "英伟达与 MIT 团队基于 MiniMax H3 开源视频增强方案 Open-H3-Regenerate-2K",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/10/506743.html",
+      "summary": "英伟达与麻省理工团队在 Hugging Face 发布视频增强项目 Open-H3-Regenerate-2K 的模型权重，基于国产开源 MiniMax H3 构建，最高支持 4K 重生成，可用于低清视频修复与二次生成管线。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "多模态",
+          "视频生成"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-30T15:31:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 52.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 69.0,
+        "practicality": 61.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "Personal Agent 走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/10/505928.html",
+      "summary": "蚂蚁百灵开源 Ling-3.1-flash-1019 模型，主打个人智能体在真实任务中的执行能力，面向工具调用与多步任务场景，提供开放权重供本地部署与二次训练。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "large",
+        "scenarios": [
+          "AI Agent",
+          "大模型"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-28T10:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 47.25,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 69.0,
+        "practicality": 56.0,
+        "freshness": 80
+      }
     }
   ],
   "pending_items": [
