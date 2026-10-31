@@ -587,9 +587,68 @@
         "practicality": 54.0,
         "freshness": 20
       }
-    }
-  ],
-  "pending_items": [
+    },
+    {
+      "name": "tuotuoLyu/FPO",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/tuotuoLyu/FPO",
+      "summary": "Official code for \"Reinforcement 微调 of Flow-Matching Policies for 视觉-语言-动作 模型s\" (ICRA 2026): Flow Policy 优化 for pi0 (语言: Python) [标签: aloha, flow-matching, icra2026, jax, libero]",
+      "popularity": {
+        "views": 88,
+        "likes": 88,
+        "comments": 2
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉语言模型"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-29T03:51:55"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 88,
+        "forks": 2,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "mit",
+        "topics": [
+          "aloha",
+          "flow-matching",
+          "icra2026",
+          "jax",
+          "libero",
+          "reinforcement-learning",
+          "robot-learning",
+          "vision-language-action"
+        ],
+        "created_at": "2026-10-29T03:51:55Z",
+        "pushed_at": "2026-10-29T04:06:24Z"
+      },
+      "filtered": false,
+      "total_score": 75.41,
+      "detail_scores": {
+        "popularity": 98.88,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 80
+      }
+    },
     {
       "name": "innayakendya/SketchPerceive",
       "type": "tool",
@@ -678,7 +737,7 @@
       "metadata": {
         "stars": 78,
         "forks": 6,
-        "open_issues": 11,
+        "open_issues": 5,
         "language": "Python",
         "license": "other",
         "topics": [
@@ -690,7 +749,7 @@
           "tutorial"
         ],
         "created_at": "2026-08-03T13:27:15Z",
-        "pushed_at": "2026-10-29T15:59:02Z"
+        "pushed_at": "2026-10-31T22:05:11Z"
       },
       "filtered": false,
       "total_score": 66.75,
@@ -702,31 +761,33 @@
       }
     },
     {
-      "name": "ChidiebereNjoku/ModelBrief",
+      "name": "llros007/lerobot_android",
       "type": "tool",
       "platform": "GitHub",
-      "url": "https://github.com/ChidiebereNjoku/ModelBrief",
-      "summary": "An open-source Python 库 that automates the analysis and reporting of 机器学习 experiments, generating structured and comprehensive reports that make 模型 performance, results, and key insights easier to ...",
+      "url": "https://github.com/llros007/lerobot_android",
+      "summary": "Use a android phone as the controller for a LeRobot mobile robot instead of a Raspberry Pi. It costs less and already has a screen, a USB 相机, GPS, Wi-Fi, 5G, and an NPU. (语言: Python) [标签: android, ...",
       "popularity": {
-        "views": 353,
-        "likes": 353,
-        "comments": 283
+        "views": 98,
+        "likes": 98,
+        "comments": 2
       },
       "usability": {
         "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
         "requires_coding": true
       },
       "practicality": {
         "scope": "medium",
         "scenarios": [
-          "机器视觉应用"
+          "视觉-语言-动作",
+          "机器人视觉",
+          "相机成像"
         ],
         "maturity": "medium"
       },
       "freshness": {
-        "publish_date": "2026-08-24T11:09:43"
+        "publish_date": "2026-09-25T07:44:25"
       },
       "pricing": {
         "has_paid_features": false
@@ -735,115 +796,60 @@
         "blocked_in_china": false
       },
       "metadata": {
-        "stars": 353,
-        "forks": 283,
-        "open_issues": 3,
+        "stars": 98,
+        "forks": 2,
+        "open_issues": 0,
         "language": "Python",
-        "license": "other",
-        "topics": [],
-        "created_at": "2026-08-24T11:09:43Z",
-        "pushed_at": "2026-10-24T12:29:31Z"
+        "license": "apache-2.0",
+        "topics": [
+          "android",
+          "lerobot",
+          "phone",
+          "robot",
+          "robotics",
+          "ros",
+          "ros2",
+          "vla"
+        ],
+        "created_at": "2026-09-25T07:44:25Z",
+        "pushed_at": "2026-09-26T00:18:50Z"
       },
       "filtered": false,
-      "total_score": 63.75,
+      "total_score": 64.75,
       "detail_scores": {
         "popularity": 100,
         "usability": 69.0,
-        "practicality": 50.0,
+        "practicality": 54.0,
         "freshness": 20
       }
     },
     {
-      "name": "BlueRingsLabs/no-shortcuts",
+      "name": "EMERGE-Policy/EMERGE-Policy",
       "type": "tool",
       "platform": "GitHub",
-      "url": "https://github.com/BlueRingsLabs/no-shortcuts",
-      "summary": "Free Course : Data, 机器学习, 深度学习 and AI Engineering, the long way round: the math, the code, the systems and the security. 173 lessons, 166 runnable labs, no shortcuts. Free under CC BY-NC 4.0. (语言: ...",
+      "url": "https://github.com/EMERGE-Policy/EMERGE-Policy",
+      "summary": "EMERGE-Policy: A Robot Mind Emerges Beyond a Single Policy (语言: Python) [标签: agentic-ai, robotics, vla, world-model]",
       "popularity": {
-        "views": 140,
-        "likes": 140,
-        "comments": 24
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "深度学习"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-26T19:49:54"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 140,
-        "forks": 24,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "other",
-        "topics": [
-          "ai-engineering",
-          "course",
-          "data-engineering",
-          "deep-learning",
-          "llm",
-          "machine-learning",
-          "mlops",
-          "python",
-          "pytorch",
-          "rag",
-          "reinforcement-learning",
-          "security"
-        ],
-        "created_at": "2026-09-26T19:49:54Z",
-        "pushed_at": "2026-10-28T22:41:02Z"
-      },
-      "filtered": false,
-      "total_score": 57.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 44.0,
-        "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "stubbb/c-shop",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/stubbb/c-shop",
-      "summary": "Graphic editor supporting agentic workflows with 深度学习 modules. (语言: Rust)",
-      "popularity": {
-        "views": 56,
-        "likes": 56,
+        "views": 396,
+        "likes": 396,
         "comments": 6
       },
       "usability": {
         "difficulty": "medium",
         "deployment": "medium",
-        "docs_quality": "medium",
+        "docs_quality": "excellent",
         "requires_coding": true
       },
       "practicality": {
         "scope": "medium",
         "scenarios": [
-          "深度学习"
+          "视觉-语言-动作",
+          "机器人视觉"
         ],
         "maturity": "medium"
       },
       "freshness": {
-        "publish_date": "2026-08-28T19:28:45"
+        "publish_date": "2026-08-28T14:11:31"
       },
       "pricing": {
         "has_paid_features": false
@@ -852,24 +858,31 @@
         "blocked_in_china": false
       },
       "metadata": {
-        "stars": 56,
+        "stars": 396,
         "forks": 6,
-        "open_issues": 1,
-        "language": "Rust",
-        "license": "apache-2.0",
-        "topics": [],
-        "created_at": "2026-08-28T19:28:45Z",
-        "pushed_at": "2026-10-15T20:45:34Z"
+        "open_issues": 2,
+        "language": "Python",
+        "license": "",
+        "topics": [
+          "agentic-ai",
+          "robotics",
+          "vla",
+          "world-model"
+        ],
+        "created_at": "2026-08-28T14:11:31Z",
+        "pushed_at": "2026-10-22T16:05:40Z"
       },
       "filtered": false,
-      "total_score": 57.47,
+      "total_score": 64.25,
       "detail_scores": {
-        "popularity": 86.56,
-        "usability": 60.0,
-        "practicality": 50.0,
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 52.0,
         "freshness": 20
       }
-    },
+    }
+  ],
+  "pending_items": [
     {
       "name": "alrisqi/MrD-Optimizer-Lab",
       "type": "tool",
@@ -941,63 +954,6 @@
       }
     },
     {
-      "name": "Gabedevz/haiku-bridge-trainer",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/Gabedevz/haiku-bridge-trainer",
-      "summary": "Bax: Flexible JAX and Haiku Trainer Interface for Scalable 深度学习 2026 (语言: HTML) [标签: boilerplate, dm-haiku, jax, trainer]",
-      "popularity": {
-        "views": 56,
-        "likes": 56,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "深度学习"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-21T20:54:20"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 56,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "HTML",
-        "license": "",
-        "topics": [
-          "boilerplate",
-          "dm-haiku",
-          "jax",
-          "trainer"
-        ],
-        "created_at": "2026-09-21T20:54:20Z",
-        "pushed_at": "2026-10-29T21:32:24Z"
-      },
-      "filtered": false,
-      "total_score": 50.72,
-      "detail_scores": {
-        "popularity": 56.56,
-        "usability": 69.0,
-        "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
       "name": "Sanane001/torch-hydra-starter",
       "type": "tool",
       "platform": "GitHub",
@@ -1055,731 +1011,6 @@
         "popularity": 55.55,
         "usability": 69.0,
         "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "llros007/lerobot_android",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/llros007/lerobot_android",
-      "summary": "Use a android phone as the controller for a LeRobot mobile robot instead of a Raspberry Pi. It costs less and already has a screen, a USB 相机, GPS, Wi-Fi, 5G, and an NPU. (语言: Python) [标签: android, ...",
-      "popularity": {
-        "views": 98,
-        "likes": 98,
-        "comments": 2
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉-语言-动作",
-          "机器人视觉",
-          "相机成像"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-25T07:44:25"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 98,
-        "forks": 2,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "apache-2.0",
-        "topics": [
-          "android",
-          "lerobot",
-          "phone",
-          "robot",
-          "robotics",
-          "ros",
-          "ros2",
-          "vla"
-        ],
-        "created_at": "2026-09-25T07:44:25Z",
-        "pushed_at": "2026-09-26T00:18:50Z"
-      },
-      "filtered": false,
-      "total_score": 64.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 54.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "tuotuoLyu/FPO",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/tuotuoLyu/FPO",
-      "summary": "Official code for \"Reinforcement 微调 of Flow-Matching Policies for 视觉-语言-动作 模型s\" (ICRA 2026): Flow Policy 优化 for pi0 (语言: Python) [标签: aloha, flow-matching, icra2026, jax, libero]",
-      "popularity": {
-        "views": 39,
-        "likes": 39,
-        "comments": 2
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉语言模型"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-10-29T03:51:55"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 39,
-        "forks": 2,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "mit",
-        "topics": [
-          "aloha",
-          "flow-matching",
-          "icra2026",
-          "jax",
-          "libero",
-          "reinforcement-learning",
-          "robot-learning",
-          "vision-language-action"
-        ],
-        "created_at": "2026-10-29T03:51:55Z",
-        "pushed_at": "2026-10-29T04:06:24Z"
-      },
-      "filtered": false,
-      "total_score": 64.57,
-      "detail_scores": {
-        "popularity": 49.39,
-        "usability": 69.0,
-        "practicality": 50.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "EMERGE-Policy/EMERGE-Policy",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/EMERGE-Policy/EMERGE-Policy",
-      "summary": "EMERGE-Policy: A Robot Mind Emerges Beyond a Single Policy (语言: Python) [标签: agentic-ai, robotics, vla, world-model]",
-      "popularity": {
-        "views": 396,
-        "likes": 396,
-        "comments": 6
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉-语言-动作",
-          "机器人视觉"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-08-28T14:11:31"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 396,
-        "forks": 6,
-        "open_issues": 2,
-        "language": "Python",
-        "license": "",
-        "topics": [
-          "agentic-ai",
-          "robotics",
-          "vla",
-          "world-model"
-        ],
-        "created_at": "2026-08-28T14:11:31Z",
-        "pushed_at": "2026-10-22T16:05:40Z"
-      },
-      "filtered": false,
-      "total_score": 64.25,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 52.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "rokbenko/quackd",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/rokbenko/quackd",
-      "summary": "One CLI for all your robots. Connect them, command them, and let them work together, each with an LLM for a brain (Claude, OpenAI, Gemini, Grok, or local via Ollama or vLLM), VLAs for arms and deci...",
-      "popularity": {
-        "views": 286,
-        "likes": 286,
-        "comments": 29
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉-语言-动作",
-          "机器人视觉"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-08-28T09:09:16"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 286,
-        "forks": 29,
-        "open_issues": 1,
-        "language": "Python",
-        "license": "apache-2.0",
-        "topics": [
-          "ai-agents",
-          "claude",
-          "embodied-ai",
-          "gemini",
-          "jetson",
-          "lerobot",
-          "llm",
-          "local-llm",
-          "mcp",
-          "microduck",
-          "mujoco",
-          "multi-robot",
-          "ollama",
-          "openai",
-          "physical-ai",
-          "robotic-arm",
-          "robotics",
-          "ros2",
-          "so-101",
-          "vla"
-        ],
-        "created_at": "2026-08-28T09:09:16Z",
-        "pushed_at": "2026-10-30T20:10:56Z"
-      },
-      "filtered": false,
-      "total_score": 64.25,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 52.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "black-forest-labs/flux-action",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/black-forest-labs/flux-action",
-      "summary": "FLUX 3 Action: open weights 7B world action 模型 from Black Forest Labs. Train, fine-tune and run action prediction for robots (DROID, SO-101), simulators and games. (语言: Python) [标签: black-forest-la...",
-      "popularity": {
-        "views": 202,
-        "likes": 202,
-        "comments": 18
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉-语言-动作",
-          "机器人视觉"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-23T03:26:07"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 202,
-        "forks": 18,
-        "open_issues": 5,
-        "language": "Python",
-        "license": "apache-2.0",
-        "topics": [
-          "black-forest-labs",
-          "droid",
-          "flux",
-          "imitation-learning",
-          "lerobot",
-          "pytorch",
-          "robot-learning",
-          "robotics",
-          "so101",
-          "vla",
-          "world-action-model",
-          "world-model"
-        ],
-        "created_at": "2026-09-23T03:26:07Z",
-        "pushed_at": "2026-10-16T19:17:33Z"
-      },
-      "filtered": false,
-      "total_score": 64.25,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 52.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "starVLA/VLAct",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/starVLA/VLAct",
-      "summary": "[NeurIPS 2026] Beyond Data Scaling: Representation-Centric Continued Pre-训练 for 视觉-语言-动作 模型s (语言: Python) [标签: robotics, vision-language-action, vision-language-model]",
-      "popularity": {
-        "views": 150,
-        "likes": 150,
-        "comments": 9
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉语言模型",
-          "机器人视觉"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-08-25T15:45:33"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 150,
-        "forks": 9,
-        "open_issues": 4,
-        "language": "Python",
-        "license": "other",
-        "topics": [
-          "robotics",
-          "vision-language-action",
-          "vision-language-model"
-        ],
-        "created_at": "2026-08-25T15:45:33Z",
-        "pushed_at": "2026-09-30T01:20:58Z"
-      },
-      "filtered": false,
-      "total_score": 64.25,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 52.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "hku-sail/StreamPI",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/hku-sail/StreamPI",
-      "summary": "[NeurIPS 2026] Official code of \"StreamPI: Streaming 多模态 Temporal 模型ing for 视觉-语言-动作 模型s\" (语言: Python) [标签: vla]",
-      "popularity": {
-        "views": 202,
-        "likes": 202,
-        "comments": 15
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉-语言-动作",
-          "视觉语言模型",
-          "多模态"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-08-26T16:13:52"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 202,
-        "forks": 15,
-        "open_issues": 2,
-        "language": "Python",
-        "license": "apache-2.0",
-        "topics": [
-          "vla"
-        ],
-        "created_at": "2026-08-26T16:13:52Z",
-        "pushed_at": "2026-09-27T01:03:16Z"
-      },
-      "filtered": false,
-      "total_score": 62.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 60.0,
-        "practicality": 54.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "988hj7tczd-oss/dsh-computer-use",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/988hj7tczd-oss/dsh-computer-use",
-      "summary": "跨平台 Computer Use plugin for DeepSeek Harness: observable desktop 自动化 with an isolated virtual cursor, AX/UIA observation, screenshot vision, and 12 guarded tools. (语言: JavaScript) [标签: ai-agents, a...",
-      "popularity": {
-        "views": 63,
-        "likes": 63,
-        "comments": 6
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "机器视觉应用"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-08-15T16:22:25"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 63,
-        "forks": 6,
-        "open_issues": 4,
-        "language": "JavaScript",
-        "license": "mit",
-        "topics": [
-          "ai-agents",
-          "ai-computer-use",
-          "computer-use",
-          "cua-driver",
-          "deepseek-harness",
-          "desktop-automation",
-          "dsh-plugin",
-          "linux",
-          "macos",
-          "mcp",
-          "virtual-cursor",
-          "windows"
-        ],
-        "created_at": "2026-08-15T16:22:25Z",
-        "pushed_at": "2026-10-05T07:12:59Z"
-      },
-      "filtered": false,
-      "total_score": 61.84,
-      "detail_scores": {
-        "popularity": 93.63,
-        "usability": 69.0,
-        "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "OpenMOSS/EasyWAM",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/OpenMOSS/EasyWAM",
-      "summary": "A unified 框架 for 训练, 微调, and evaluating World Action 模型s (语言: Python) [标签: benchmark, codebase, embodied-ai, foundation-models, lora]",
-      "popularity": {
-        "views": 404,
-        "likes": 404,
-        "comments": 13
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉语言模型",
-          "机器人视觉"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-08-26T15:08:36"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 404,
-        "forks": 13,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "other",
-        "topics": [
-          "benchmark",
-          "codebase",
-          "embodied-ai",
-          "foundation-models",
-          "lora",
-          "robotics",
-          "vision-language-action",
-          "world-action-model",
-          "world-models"
-        ],
-        "created_at": "2026-08-26T15:08:36Z",
-        "pushed_at": "2026-10-28T10:52:39Z"
-      },
-      "filtered": false,
-      "total_score": 60.25,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 53.0,
-        "practicality": 52.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "OpenBMB/SimpleNav",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/OpenBMB/SimpleNav",
-      "summary": "SimpleNav: A simple, unified, reproducible, and extensible 框架 for navigation VLA research. (语言: Python) [标签: embodied, navigation, vision-language-action]",
-      "popularity": {
-        "views": 139,
-        "likes": 139,
-        "comments": 5
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉-语言-动作",
-          "视觉语言模型"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-08-27T02:52:20"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 139,
-        "forks": 5,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "mit",
-        "topics": [
-          "embodied",
-          "navigation",
-          "vision-language-action"
-        ],
-        "created_at": "2026-08-27T02:52:20Z",
-        "pushed_at": "2026-10-09T05:20:24Z"
-      },
-      "filtered": false,
-      "total_score": 60.25,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 53.0,
-        "practicality": 52.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "LMIXR/CV_Deployment_skill",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/LMIXR/CV_Deployment_skill",
-      "summary": "计算机视觉 部署 resources and engineering workflow configuration",
-      "popularity": {
-        "views": 562,
-        "likes": 562,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "机器视觉应用"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-09-29T07:52:38"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 562,
-        "forks": 0,
-        "open_issues": 2,
-        "language": "",
-        "license": "",
-        "topics": [],
-        "created_at": "2026-09-29T07:52:38Z",
-        "pushed_at": "2026-10-30T08:13:54Z"
-      },
-      "filtered": false,
-      "total_score": 59.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 44.0,
-        "practicality": 59.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "RadixRootMind/RadixQuantVLA",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/RadixRootMind/RadixQuantVLA",
-      "summary": "RadixQuantVLA is a unified, Lego-like 框架 for post-训练 quantization, 基准测试ing, and 部署   preparation of 视觉-语言-动作 模型s, integrating QuantVLA, Omega-QVLA, OpenVLA, UniVLA, StarVLA, GR00T, and   Pi0.5 rout...",
-      "popularity": {
-        "views": 90,
-        "likes": 90,
-        "comments": 10
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉-语言-动作",
-          "视觉语言模型"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-08-19T07:20:37"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 90,
-        "forks": 10,
-        "open_issues": 0,
-        "language": "Jupyter Notebook",
-        "license": "gpl-3.0",
-        "topics": [],
-        "created_at": "2026-08-19T07:20:37Z",
-        "pushed_at": "2026-10-29T10:14:12Z"
-      },
-      "filtered": false,
-      "total_score": 58.0,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 44.0,
-        "practicality": 52.0,
         "freshness": 20
       }
     },
@@ -2232,6 +1463,775 @@
       "detail_scores": {
         "popularity": 34.34,
         "usability": 60.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "rokbenko/quackd",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/rokbenko/quackd",
+      "summary": "One CLI for all your robots. Connect them, command them, and let them work together, each with an LLM for a brain (Claude, OpenAI, Gemini, Grok, or local via Ollama or vLLM), VLAs for arms and deci...",
+      "popularity": {
+        "views": 287,
+        "likes": 287,
+        "comments": 29
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉-语言-动作",
+          "机器人视觉"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-08-28T09:09:16"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 287,
+        "forks": 29,
+        "open_issues": 1,
+        "language": "Python",
+        "license": "apache-2.0",
+        "topics": [
+          "ai-agents",
+          "claude",
+          "embodied-ai",
+          "gemini",
+          "jetson",
+          "lerobot",
+          "llm",
+          "local-llm",
+          "mcp",
+          "microduck",
+          "mujoco",
+          "multi-robot",
+          "ollama",
+          "openai",
+          "physical-ai",
+          "robotic-arm",
+          "robotics",
+          "ros2",
+          "so-101",
+          "vla"
+        ],
+        "created_at": "2026-08-28T09:09:16Z",
+        "pushed_at": "2026-10-31T20:06:49Z"
+      },
+      "filtered": false,
+      "total_score": 64.25,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 52.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "black-forest-labs/flux-action",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/black-forest-labs/flux-action",
+      "summary": "FLUX 3 Action: open weights 7B world action 模型 from Black Forest Labs. Train, fine-tune and run action prediction for robots (DROID, SO-101), simulators and games. (语言: Python) [标签: black-forest-la...",
+      "popularity": {
+        "views": 203,
+        "likes": 203,
+        "comments": 19
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉-语言-动作",
+          "机器人视觉"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-23T03:26:07"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 203,
+        "forks": 19,
+        "open_issues": 5,
+        "language": "Python",
+        "license": "apache-2.0",
+        "topics": [
+          "black-forest-labs",
+          "droid",
+          "flux",
+          "imitation-learning",
+          "lerobot",
+          "pytorch",
+          "robot-learning",
+          "robotics",
+          "so101",
+          "vla",
+          "world-action-model",
+          "world-model"
+        ],
+        "created_at": "2026-09-23T03:26:07Z",
+        "pushed_at": "2026-10-31T00:32:58Z"
+      },
+      "filtered": false,
+      "total_score": 64.25,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 52.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "starVLA/VLAct",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/starVLA/VLAct",
+      "summary": "[NeurIPS 2026] Beyond Data Scaling: Representation-Centric Continued Pre-训练 for 视觉-语言-动作 模型s (语言: Python) [标签: robotics, vision-language-action, vision-language-model]",
+      "popularity": {
+        "views": 150,
+        "likes": 150,
+        "comments": 9
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉语言模型",
+          "机器人视觉"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-08-25T15:45:33"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 150,
+        "forks": 9,
+        "open_issues": 4,
+        "language": "Python",
+        "license": "other",
+        "topics": [
+          "robotics",
+          "vision-language-action",
+          "vision-language-model"
+        ],
+        "created_at": "2026-08-25T15:45:33Z",
+        "pushed_at": "2026-09-30T01:20:58Z"
+      },
+      "filtered": false,
+      "total_score": 64.25,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 52.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "ChidiebereNjoku/ModelBrief",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/ChidiebereNjoku/ModelBrief",
+      "summary": "An open-source Python 库 that automates the analysis and reporting of 机器学习 experiments, generating structured and comprehensive reports that make 模型 performance, results, and key insights easier to ...",
+      "popularity": {
+        "views": 354,
+        "likes": 354,
+        "comments": 283
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "机器视觉应用"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-08-24T11:09:43"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 354,
+        "forks": 283,
+        "open_issues": 3,
+        "language": "Python",
+        "license": "other",
+        "topics": [],
+        "created_at": "2026-08-24T11:09:43Z",
+        "pushed_at": "2026-10-24T12:29:31Z"
+      },
+      "filtered": false,
+      "total_score": 63.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "hku-sail/StreamPI",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/hku-sail/StreamPI",
+      "summary": "[NeurIPS 2026] Official code of \"StreamPI: Streaming 多模态 Temporal 模型ing for 视觉-语言-动作 模型s\" (语言: Python) [标签: vla]",
+      "popularity": {
+        "views": 202,
+        "likes": 202,
+        "comments": 15
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉-语言-动作",
+          "视觉语言模型",
+          "多模态"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-08-26T16:13:52"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 202,
+        "forks": 15,
+        "open_issues": 2,
+        "language": "Python",
+        "license": "apache-2.0",
+        "topics": [
+          "vla"
+        ],
+        "created_at": "2026-08-26T16:13:52Z",
+        "pushed_at": "2026-09-27T01:03:16Z"
+      },
+      "filtered": false,
+      "total_score": 62.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 60.0,
+        "practicality": 54.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "988hj7tczd-oss/dsh-computer-use",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/988hj7tczd-oss/dsh-computer-use",
+      "summary": "跨平台 Computer Use plugin for DeepSeek Harness: observable desktop 自动化 with an isolated virtual cursor, AX/UIA observation, screenshot vision, and 12 guarded tools. (语言: JavaScript) [标签: ai-agents, a...",
+      "popularity": {
+        "views": 63,
+        "likes": 63,
+        "comments": 6
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "机器视觉应用"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-08-15T16:22:25"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 63,
+        "forks": 6,
+        "open_issues": 4,
+        "language": "JavaScript",
+        "license": "mit",
+        "topics": [
+          "ai-agents",
+          "ai-computer-use",
+          "computer-use",
+          "cua-driver",
+          "deepseek-harness",
+          "desktop-automation",
+          "dsh-plugin",
+          "linux",
+          "macos",
+          "mcp",
+          "virtual-cursor",
+          "windows"
+        ],
+        "created_at": "2026-08-15T16:22:25Z",
+        "pushed_at": "2026-10-05T07:12:59Z"
+      },
+      "filtered": false,
+      "total_score": 61.84,
+      "detail_scores": {
+        "popularity": 93.63,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "OpenMOSS/EasyWAM",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/OpenMOSS/EasyWAM",
+      "summary": "A unified 框架 for 训练, 微调, and evaluating World Action 模型s (语言: Python) [标签: benchmark, codebase, embodied-ai, foundation-models, lora]",
+      "popularity": {
+        "views": 404,
+        "likes": 404,
+        "comments": 13
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉语言模型",
+          "机器人视觉"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-08-26T15:08:36"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 404,
+        "forks": 13,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "other",
+        "topics": [
+          "benchmark",
+          "codebase",
+          "embodied-ai",
+          "foundation-models",
+          "lora",
+          "robotics",
+          "vision-language-action",
+          "world-action-model",
+          "world-models"
+        ],
+        "created_at": "2026-08-26T15:08:36Z",
+        "pushed_at": "2026-10-28T10:52:39Z"
+      },
+      "filtered": false,
+      "total_score": 60.25,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 53.0,
+        "practicality": 52.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "OpenBMB/SimpleNav",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/OpenBMB/SimpleNav",
+      "summary": "SimpleNav: A simple, unified, reproducible, and extensible 框架 for navigation VLA research. (语言: Python) [标签: embodied, navigation, vision-language-action]",
+      "popularity": {
+        "views": 139,
+        "likes": 139,
+        "comments": 5
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉-语言-动作",
+          "视觉语言模型"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-08-27T02:52:20"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 139,
+        "forks": 5,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "mit",
+        "topics": [
+          "embodied",
+          "navigation",
+          "vision-language-action"
+        ],
+        "created_at": "2026-08-27T02:52:20Z",
+        "pushed_at": "2026-10-09T05:20:24Z"
+      },
+      "filtered": false,
+      "total_score": 60.25,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 53.0,
+        "practicality": 52.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "LMIXR/CV_Deployment_skill",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/LMIXR/CV_Deployment_skill",
+      "summary": "计算机视觉 部署 resources and engineering workflow configuration",
+      "popularity": {
+        "views": 581,
+        "likes": 581,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "机器视觉应用"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-09-29T07:52:38"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 581,
+        "forks": 0,
+        "open_issues": 2,
+        "language": "",
+        "license": "",
+        "topics": [],
+        "created_at": "2026-09-29T07:52:38Z",
+        "pushed_at": "2026-10-31T12:12:34Z"
+      },
+      "filtered": false,
+      "total_score": 59.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 44.0,
+        "practicality": 59.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "RadixRootMind/RadixQuantVLA",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/RadixRootMind/RadixQuantVLA",
+      "summary": "RadixQuantVLA is a unified, Lego-like 框架 for post-训练 quantization, 基准测试ing, and 部署   preparation of 视觉-语言-动作 模型s, integrating QuantVLA, Omega-QVLA, OpenVLA, UniVLA, StarVLA, GR00T, and   Pi0.5 rout...",
+      "popularity": {
+        "views": 90,
+        "likes": 90,
+        "comments": 10
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉-语言-动作",
+          "视觉语言模型"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-08-19T07:20:37"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 90,
+        "forks": 10,
+        "open_issues": 0,
+        "language": "Jupyter Notebook",
+        "license": "gpl-3.0",
+        "topics": [],
+        "created_at": "2026-08-19T07:20:37Z",
+        "pushed_at": "2026-10-29T10:14:12Z"
+      },
+      "filtered": false,
+      "total_score": 58.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 44.0,
+        "practicality": 52.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "stubbb/c-shop",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/stubbb/c-shop",
+      "summary": "Graphic editor supporting agentic workflows with 深度学习 modules. (语言: Rust)",
+      "popularity": {
+        "views": 57,
+        "likes": 57,
+        "comments": 6
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "深度学习"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-08-28T19:28:45"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 57,
+        "forks": 6,
+        "open_issues": 1,
+        "language": "Rust",
+        "license": "apache-2.0",
+        "topics": [],
+        "created_at": "2026-08-28T19:28:45Z",
+        "pushed_at": "2026-10-15T20:45:34Z"
+      },
+      "filtered": false,
+      "total_score": 57.77,
+      "detail_scores": {
+        "popularity": 87.57000000000002,
+        "usability": 60.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "BlueRingsLabs/no-shortcuts",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/BlueRingsLabs/no-shortcuts",
+      "summary": "Free Course : Data, 机器学习, 深度学习 and AI Engineering, the long way round: the math, the code, the systems and the security. 173 lessons, 166 runnable labs, no shortcuts. Free under CC BY-NC 4.0. (语言: ...",
+      "popularity": {
+        "views": 164,
+        "likes": 164,
+        "comments": 29
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "深度学习"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-26T19:49:54"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 164,
+        "forks": 29,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "other",
+        "topics": [
+          "ai-engineering",
+          "course",
+          "data-engineering",
+          "deep-learning",
+          "llm",
+          "machine-learning",
+          "mlops",
+          "python",
+          "pytorch",
+          "rag",
+          "reinforcement-learning",
+          "security"
+        ],
+        "created_at": "2026-09-26T19:49:54Z",
+        "pushed_at": "2026-10-28T22:41:02Z"
+      },
+      "filtered": false,
+      "total_score": 57.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 44.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "Gabedevz/haiku-bridge-trainer",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/Gabedevz/haiku-bridge-trainer",
+      "summary": "Bax: Flexible JAX and Haiku Trainer Interface for Scalable 深度学习 2026 (语言: HTML) [标签: boilerplate, dm-haiku, jax, trainer]",
+      "popularity": {
+        "views": 56,
+        "likes": 56,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "深度学习"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-21T20:54:20"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 56,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "HTML",
+        "license": "",
+        "topics": [
+          "boilerplate",
+          "dm-haiku",
+          "jax",
+          "trainer"
+        ],
+        "created_at": "2026-09-21T20:54:20Z",
+        "pushed_at": "2026-10-31T22:12:12Z"
+      },
+      "filtered": false,
+      "total_score": 50.72,
+      "detail_scores": {
+        "popularity": 56.56,
+        "usability": 69.0,
         "practicality": 50.0,
         "freshness": 20
       }
