@@ -307,7 +307,225 @@
         "practicality": 58.0,
         "freshness": 100
       }
+    },
+    {
+      "name": "大恒科技2026上半年扭亏为盈，机器视觉业务在半导体新能源占比提升",
+      "type": "news",
+      "platform": "证券时报",
+      "url": "https://egs.stcn.com/quotation/stock-info/sh688213.html",
+      "summary": "大恒科技预计2026上半年净利润约8500万元实现扭亏为盈，业绩改善主要来自机器视觉与光机电一体化业务。2025年机器视觉业务在半导体、新能源、3C行业占比分别约12%、15%、25%，商业化加速兑现。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "机器视觉",
+          "半导体检测",
+          "新能源"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-28T08:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 52.0,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 63.0,
+        "freshness": 80
+      }
+    },
+    {
+      "name": "深视智能亮相德国VISION 2026，以创新对话全球",
+      "type": "news",
+      "platform": "维科网",
+      "url": "https://m.elecfans.com/tags/%E6%9C%BA%E5%99%A8%E8%A7%86%E8%A7%89.html",
+      "summary": "深视智能携创新产品亮相德国VISION 2026国际机器视觉展，在展示最新技术成果的同时登上两大专业论坛分享技术洞见，展现中国机器视觉企业在全球舞台的竞争力。",
+      "popularity": {
+        "views": 297,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "机器视觉",
+          "工业检测"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-12T08:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 48.39,
+      "detail_scores": {
+        "popularity": 2.9699999999999998,
+        "usability": 81.0,
+        "practicality": 61.0,
+        "freshness": 60
+      }
+    },
+    {
+      "name": "从AI到具身智能：CeMAT ASIA 2026前沿技术趋势解读",
+      "type": "news",
+      "platform": "千龙网",
+      "url": "https://china.qianlong.com/2026/1021/8741260.shtml",
+      "summary": "CeMAT ASIA 2026将于11月3-6日在上海举办，集中展示机器视觉、物流机器人、工业无人驾驶等前沿技术。康耐视、海康机器人等企业将展示高精度视觉检测与智能分拣最新突破，AI与具身智能正从概念走向规模化落地。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "机器视觉",
+          "物流自动化"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-21T08:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 47.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 61.0,
+        "freshness": 60
+      }
+    },
+    {
+      "name": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/10/503093.html",
+      "summary": "DeepSeek领投Winverse AI数千万美元种子轮融资，投后估值约4亿美元。该公司由腾讯前杰出科学家胡瀚（Swin Transformer核心作者）创立，专注具身智能基础模型研发，标志着DeepSeek在机器人领域从本体到AI模型的全面布局。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "具身智能",
+          "机器人AI"
+        ],
+        "maturity": "emerging"
+      },
+      "freshness": {
+        "publish_date": "2026-10-13T08:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 44.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 49.0,
+        "freshness": 60
+      }
     }
   ],
-  "pending_items": []
+  "pending_items": [
+    {
+      "name": "VisionMaster、VisionPro、HALCON三大机器视觉工具对比选型",
+      "type": "news",
+      "platform": "CSDN",
+      "url": "https://blog.csdn.net/2601_96519735/article/details/168029482",
+      "summary": "系统对比VisionMaster、VisionPro、HALCON三大机器视觉软件的核心特点与适用场景。VisionMaster以图形化流程开发见长，适合快速部署；HALCON高精度工业标杆但成本高；VisionPro平衡易用性与灵活性。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "high",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "机器视觉",
+          "软件选型",
+          "工业检测"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-08-18T08:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 36.25,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 66.0,
+        "practicality": 63.0,
+        "freshness": 20
+      }
+    }
+  ]
 }
