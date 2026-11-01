@@ -824,6 +824,231 @@
         "practicality": 56.0,
         "freshness": 80
       }
+    },
+    {
+      "name": "10月31日 AI日报：智元 CEL 群体经验学习、Apple 智能接入千问等",
+      "type": "资讯聚合",
+      "platform": "CSDN",
+      "url": "https://blog.csdn.net/python_yjys/article/details/169636093",
+      "summary": "汇总当日国内 AI 要点：智元联合清华、无问芯穹提出群体经验学习范式 CEL，96 台真机集群验证，手机包装任务成功率由 86.7% 提升到 98.3%；GO-3 Preview 登顶三大具身榜单；Apple 智能宣布接入阿里千问；百度搜索 AI API 降至 4.9 元/千次。",
+      "popularity": {
+        "views": 31000,
+        "likes": 620,
+        "comments": 140
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "每日 AI 动态速览",
+          "具身智能落地进度跟踪",
+          "国内大模型 API 定价对比",
+          "选题与竞品扫描"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-31T09:10:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 90.25,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 81.0,
+        "practicality": 80.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "2026年11月01日 AI行业日报：可灵 198 亿融资落地、DeepSeek 开源超级智能体",
+      "type": "资讯聚合",
+      "platform": "CSDN",
+      "url": "https://blog.csdn.net/Smoothly_Lu/article/details/169744252",
+      "summary": "11 月 1 日行业日报，覆盖可灵 AI 198 亿元融资落地、DeepSeek 开源 Super-agent 底座、Anthropic 取消 Ultra 时长限制、小米开源 0.8B Xiaomi-OCR-0、智谱 GLM-5.3 十万卡集群训练实践与 ForgeKernel 推理内核等信息。",
+      "popularity": {
+        "views": 26000,
+        "likes": 520,
+        "comments": 120
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "行业融资与竞争格局跟踪",
+          "小参数 OCR 模型选型",
+          "大模型训练基础设施参考",
+          "日报式信息补齐"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-01T08:40:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 90.25,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 81.0,
+        "practicality": 80.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "RSI立大功！国产开源 1.3B OXR 登顶全球 OCR 三榜第一",
+      "type": "开源发布",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026-10-506686.html",
+      "summary": "SoMark 开源 OXR-1.0，仅 1.3B 参数在 OmniDocBench、olmOCR-Bench、DocParsingBench 三个文档解析榜单登顶全球第一，解析 100 页文档约 101 秒，24G 显存即可本地运行，GitHub 已放出权重，并提供免费 API 与 Demo。",
+      "popularity": {
+        "views": 96000,
+        "likes": 2100,
+        "comments": 360
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "扫描件与 PDF 文档结构化",
+          "RAG 前的文档清洗与切分",
+          "表格公式混排解析",
+          "端侧低成本 OCR 部署"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-30T13:52:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 88.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 90.0,
+        "practicality": 80.0,
+        "freshness": 80
+      }
+    },
+    {
+      "name": "掘金 · 小春学习日刊 2026年第9期（2026.10.31）",
+      "type": "资讯聚合",
+      "platform": "掘金",
+      "url": "https://www.juejin.cn/post/7702438435248619556",
+      "summary": "10 月 31 日期刊汇编：AI 从大模型竞争延伸到端侧硬件与开源生态，记录智元自 10 月 22 日起连续七天发布具身智能全栈技术、Grok Imagine 生成式内容进展等一周线索，适合做周度回顾与选题补充。",
+      "popularity": {
+        "views": 9000,
+        "likes": 210,
+        "comments": 45
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "一周 AI 线索回顾",
+          "端侧硬件与开源生态跟踪",
+          "具身智能进展索引",
+          "选题素材补充"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-31T22:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 86.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 81.0,
+        "practicality": 65.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "刚刚，DeepSeek重磅开源：Agent底座架构 dsh-superagent-prototype",
+      "type": "开源发布",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026-10-506904.html",
+      "summary": "DeepSeek 开源 Super-agent 原型 dsh-superagent-prototype，采用 Router/Worker 双层底座架构，支持事件直通、异步 ReAct、存算分离与 Watchdog 超时治理；多会话中位耗时 12.4 分钟，明显优于单会话 29.5 分钟，代码以 MIT 协议发布，定位研究原型。",
+      "popularity": {
+        "views": 128000,
+        "likes": 2600,
+        "comments": 480
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "多智能体编排底座",
+          "长耗时 Agent 任务调度",
+          "Agent 运行时可观测与容错",
+          "自研 Agent 框架参考实现"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-10-31T21:49:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 82.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 62.0,
+        "freshness": 100
+      }
     }
   ],
   "pending_items": [
@@ -910,6 +1135,141 @@
         "popularity": 100,
         "usability": 90.0,
         "practicality": 61.0,
+        "freshness": 80
+      }
+    },
+    {
+      "name": "DeepSeek Super-agent 是什么：双层架构拆解与部署要点",
+      "type": "技术解读",
+      "platform": "CSDN",
+      "url": "https://blog.csdn.net/aidoudoulong/article/details/169731044",
+      "summary": "面向工程师解读 Super-agent 的 Router/Worker 双层设计、事件直通与异步 ReAct 执行流，并给出本地部署依赖、显存与并发要求、常见踩坑点，适合想把原型跑起来或借鉴架构的团队。",
+      "popularity": {
+        "views": 18000,
+        "likes": 410,
+        "comments": 96
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "Agent 底座落地部署",
+          "多会话并发调度设计",
+          "框架架构评审对照",
+          "内部技术分享素材"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-01T11:20:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 81.25,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 56.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "清华姚期智团队新作：代数世界模型 AWM，ARC-AGI-3 全通",
+      "type": "研究进展",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026-11-507031.html",
+      "summary": "清华姚期智团队提出代数世界模型 AWM，用“探索—凝炼—证明”三段式在 Lean 4 中形式化环境规律，在 ARC-AGI-3 上通过全部 183 关、准确率 99.9%，所需动作数仅为人类基准的 43%，论文已挂出（arXiv 2610.40503）。",
+      "popularity": {
+        "views": 72000,
+        "likes": 1500,
+        "comments": 240
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "抽象推理与通用智能体评测",
+          "形式化验证驱动的世界模型",
+          "少样本环境规律学习",
+          "智能体规划效率优化"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-01T16:02:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 72.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 44.0,
+        "practicality": 47.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "智元发布具身模型 GO-3 Preview，登顶三大榜单并将于年底开源",
+      "type": "行业动态",
+      "platform": "36氪",
+      "url": "https://www.36kr.com/newsflashes/4048208370727427",
+      "summary": "智元 10 月 29 日发布具身大模型 GO-3 Preview，打通预训练、后训练到部署的全链路规模化学习，已登顶 RoboDojo、RoboTwin、RoboColiseum 三大榜单，宣布 2026 年底全面开源。",
+      "popularity": {
+        "views": 54000,
+        "likes": 860,
+        "comments": 190
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "机器人操作策略训练",
+          "仿真到真机迁移评测",
+          "具身智能榜单对标",
+          "产线多任务泛化"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-29T18:30:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 71.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 44.0,
+        "practicality": 56.0,
         "freshness": 80
       }
     }
