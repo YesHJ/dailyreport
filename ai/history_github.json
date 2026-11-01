@@ -1287,6 +1287,302 @@
         "practicality": 54.0,
         "freshness": 20
       }
+    },
+    {
+      "name": "wangzan101/Mika",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/wangzan101/Mika",
+      "summary": "An on-device AI 智能体 for Android that operates apps and the web to get things done for you. (语言: Kotlin) [标签: accessibility, ai-agent, android, automation, jetpack-compose]",
+      "popularity": {
+        "views": 3781,
+        "likes": 3781,
+        "comments": 688
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "自动化"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-29T14:34:07"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 3781,
+        "forks": 688,
+        "open_issues": 18,
+        "language": "Kotlin",
+        "license": "apache-2.0",
+        "topics": [
+          "accessibility",
+          "ai-agent",
+          "android",
+          "automation",
+          "jetpack-compose",
+          "kotlin",
+          "llm",
+          "mobile-agent"
+        ],
+        "created_at": "2026-10-29T14:34:07Z",
+        "pushed_at": "2026-11-01T19:10:15Z"
+      },
+      "filtered": false,
+      "total_score": 78.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 61.0,
+        "freshness": 80
+      }
+    },
+    {
+      "name": "openfilm/openfilm",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/openfilm/openfilm",
+      "summary": "The 开源 AI video 智能体: turns any coding 智能体 into a video 智能体, with an editor to change anything it makes. (语言: TypeScript) [标签: ai-video, claude-code, codex, coding-agents, html]",
+      "popularity": {
+        "views": 4090,
+        "likes": 4090,
+        "comments": 392
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "视频生成",
+          "代码生成"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-04T09:29:07"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 4090,
+        "forks": 392,
+        "open_issues": 25,
+        "language": "TypeScript",
+        "license": "mit",
+        "topics": [
+          "ai-video",
+          "claude-code",
+          "codex",
+          "coding-agents",
+          "html",
+          "motion-graphics",
+          "video-agent",
+          "video-editor"
+        ],
+        "created_at": "2026-10-04T09:29:07Z",
+        "pushed_at": "2026-10-31T17:59:51Z"
+      },
+      "filtered": false,
+      "total_score": 72.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 60.0,
+        "practicality": 63.0,
+        "freshness": 60
+      }
+    },
+    {
+      "name": "aliyun/ai-agent-handbook",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/aliyun/ai-agent-handbook",
+      "summary": "A practical guide to building enterprise AI 智能体s across their full lifecycle. (语言: JavaScript)",
+      "popularity": {
+        "views": 2735,
+        "likes": 2735,
+        "comments": 346
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-09-11T07:02:17"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 2735,
+        "forks": 346,
+        "open_issues": 3,
+        "language": "JavaScript",
+        "license": "apache-2.0",
+        "topics": [],
+        "created_at": "2026-09-11T07:02:17Z",
+        "pushed_at": "2026-11-01T12:53:28Z"
+      },
+      "filtered": false,
+      "total_score": 66.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 72.0,
+        "practicality": 59.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "kuafuai/andee",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/kuafuai/andee",
+      "summary": "Andee lives on your phone or Mac and uses any app like you do—no integrations, no root, any 模型; memory and passwords never leave your device | Andee 住进你的手机或 Mac，像你一样操作任何 App——无需集成、无需 Root、支持任意模型，记忆...",
+      "popularity": {
+        "views": 3390,
+        "likes": 3390,
+        "comments": 220
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "自动化"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-09-17T13:20:59"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 3390,
+        "forks": 220,
+        "open_issues": 10,
+        "language": "Kotlin",
+        "license": "other",
+        "topics": [
+          "agent",
+          "ai",
+          "ai-agents",
+          "android-automation",
+          "mobile-agents",
+          "personal-agent",
+          "personal-ai",
+          "phone-automation"
+        ],
+        "created_at": "2026-09-17T13:20:59Z",
+        "pushed_at": "2026-10-30T10:49:08Z"
+      },
+      "filtered": false,
+      "total_score": 66.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 61.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "somastllc/nlp-for-machine-learning-bootcamp",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/somastllc/nlp-for-machine-learning-bootcamp",
+      "summary": "NLP for 机器学习 Bootcamp. [标签: ai, bootcamp, machine-learning, nlp]",
+      "popularity": {
+        "views": 55,
+        "likes": 55,
+        "comments": 6
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "自然语言处理"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-20T19:48:09"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 55,
+        "forks": 6,
+        "open_issues": 0,
+        "language": "",
+        "license": "other",
+        "topics": [
+          "ai",
+          "bootcamp",
+          "machine-learning",
+          "nlp"
+        ],
+        "created_at": "2026-10-20T19:48:09Z",
+        "pushed_at": "2026-10-24T13:28:24Z"
+      },
+      "filtered": false,
+      "total_score": 65.16,
+      "detail_scores": {
+        "popularity": 85.55,
+        "usability": 60.0,
+        "practicality": 50.0,
+        "freshness": 60
+      }
     }
   ],
   "pending_items": [
@@ -1565,66 +1861,6 @@
       }
     },
     {
-      "name": "amitshekhariitbhu/ai-engineering-course",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/amitshekhariitbhu/ai-engineering-course",
-      "summary": "AI Engineering Course - A free and complete AI Engineering Course to learn AI Engineering step by step - from 机器学习, Neural Networks, and Transformers to LLMs, 微调, RAG, AI 智能体s, LLM 推理, 评估, AI Safet...",
-      "popularity": {
-        "views": 602,
-        "likes": 602,
-        "comments": 114
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "检索增强生成",
-          "AI Agent",
-          "模型微调"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-09-23T08:04:42"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 602,
-        "forks": 114,
-        "open_issues": 0,
-        "language": "Markdown",
-        "license": "apache-2.0",
-        "topics": [
-          "ai-course",
-          "ai-engineering",
-          "ai-engineering-course",
-          "ai-engineering-curriculum",
-          "large-language-models"
-        ],
-        "created_at": "2026-09-23T08:04:42Z",
-        "pushed_at": "2026-10-30T17:05:59Z"
-      },
-      "filtered": false,
-      "total_score": 63.0,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 53.0,
-        "practicality": 63.0,
-        "freshness": 20
-      }
-    },
-    {
       "name": "baojian/llm-26-fall",
       "type": "tool",
       "platform": "GitHub",
@@ -1752,77 +1988,6 @@
       }
     },
     {
-      "name": "datasifaw/dataiku-projet-bancaire-analytics",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/datasifaw/dataiku-projet-bancaire-analytics",
-      "summary": "端到端 Banking 分析 with Dataiku | Data Preparation, 机器学习, Customer Scoring & Automated 流水线s [标签: banking-analytics, data, data-analysis, data-analytics, data-engineering]",
-      "popularity": {
-        "views": 100,
-        "likes": 100,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "数据处理"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-16T11:48:01"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 100,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "",
-        "license": "",
-        "topics": [
-          "banking-analytics",
-          "data",
-          "data-analysis",
-          "data-analytics",
-          "data-engineering",
-          "data-engineering-project",
-          "data-science",
-          "data-science-competition",
-          "data-science-portfolio",
-          "data-science-projects",
-          "data-structures",
-          "data-visualization",
-          "database",
-          "dataiku",
-          "dataset",
-          "machine-learning",
-          "machine-learning-algorithms",
-          "machine-learning-models"
-        ],
-        "created_at": "2026-09-16T11:48:01Z",
-        "pushed_at": "2026-10-25T16:03:02Z"
-      },
-      "filtered": false,
-      "total_score": 59.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 53.0,
-        "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
       "name": "l-wn/ClusterChat",
       "type": "tool",
       "platform": "GitHub",
@@ -1882,73 +2047,6 @@
         "usability": 69.0,
         "practicality": 52.0,
         "freshness": 60
-      }
-    },
-    {
-      "name": "BlueRingsLabs/no-shortcuts",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/BlueRingsLabs/no-shortcuts",
-      "summary": "Free Course : Data, 机器学习, 深度学习 and AI Engineering, the long way round: the math, the code, the systems and the 安全. 173 lessons, 166 runnable labs, no shortcuts. Free under CC BY-NC 4.0. (语言: Python...",
-      "popularity": {
-        "views": 157,
-        "likes": 157,
-        "comments": 28
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "检索增强生成",
-          "代码生成",
-          "数据处理"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-26T19:49:54"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 157,
-        "forks": 28,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "other",
-        "topics": [
-          "ai-engineering",
-          "course",
-          "data-engineering",
-          "deep-learning",
-          "llm",
-          "machine-learning",
-          "mlops",
-          "python",
-          "pytorch",
-          "rag",
-          "reinforcement-learning",
-          "security"
-        ],
-        "created_at": "2026-09-26T19:49:54Z",
-        "pushed_at": "2026-10-28T22:41:02Z"
-      },
-      "filtered": false,
-      "total_score": 58.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 44.0,
-        "practicality": 54.0,
-        "freshness": 20
       }
     },
     {
@@ -2125,63 +2223,6 @@
       }
     },
     {
-      "name": "Gabedevz/haiku-bridge-trainer",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/Gabedevz/haiku-bridge-trainer",
-      "summary": "Bax: Flexible JAX and Haiku Trainer Interface for 可扩展 深度学习 2026 (语言: HTML) [标签: boilerplate, dm-haiku, jax, trainer]",
-      "popularity": {
-        "views": 56,
-        "likes": 56,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "通用AI应用"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-21T20:54:20"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 56,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "HTML",
-        "license": "",
-        "topics": [
-          "boilerplate",
-          "dm-haiku",
-          "jax",
-          "trainer"
-        ],
-        "created_at": "2026-09-21T20:54:20Z",
-        "pushed_at": "2026-10-30T20:24:54Z"
-      },
-      "filtered": false,
-      "total_score": 50.72,
-      "detail_scores": {
-        "popularity": 56.56,
-        "usability": 69.0,
-        "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
       "name": "Sanane001/torch-hydra-starter",
       "type": "tool",
       "platform": "GitHub",
@@ -2238,63 +2279,6 @@
       "detail_scores": {
         "popularity": 55.55,
         "usability": 69.0,
-        "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "nicklucenasantanalucenasant-maker/yapt-core",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/nicklucenasantanalucenasant-maker/yapt-core",
-      "summary": "YAPT 2026: Modern PyTorch 训练 框架 for Faster 深度学习 Workflows (语言: HTML) [标签: deep-learning, neptune-ai, pytorch, trainer]",
-      "popularity": {
-        "views": 53,
-        "likes": 53,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "模型训练"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-21T22:54:48"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 53,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "HTML",
-        "license": "",
-        "topics": [
-          "deep-learning",
-          "neptune-ai",
-          "pytorch",
-          "trainer"
-        ],
-        "created_at": "2026-09-21T22:54:48Z",
-        "pushed_at": "2026-10-30T20:27:43Z"
-      },
-      "filtered": false,
-      "total_score": 45.81,
-      "detail_scores": {
-        "popularity": 53.53000000000001,
-        "usability": 53.0,
         "practicality": 50.0,
         "freshness": 20
       }
@@ -2435,70 +2419,6 @@
       }
     },
     {
-      "name": "salikhussain71-code/PAKGOV-RAG-project",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/salikhussain71-code/PAKGOV-RAG-project",
-      "summary": "研究 project on bilingual Urdu-English 检索-augmented 生成 for Pakistani government and legal documents, with OCR, hybrid 检索, citation grounding, and 评估. (语言: Python) [标签: artificial-intelligence, inform...",
-      "popularity": {
-        "views": 129,
-        "likes": 129,
-        "comments": 5
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "检索增强生成",
-          "自然语言处理"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-17T10:31:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 129,
-        "forks": 5,
-        "open_issues": 2,
-        "language": "Python",
-        "license": "mit",
-        "topics": [
-          "artificial-intelligence",
-          "information-retrieval",
-          "legal-nlp",
-          "low-resource-languages",
-          "nlp",
-          "ocr",
-          "rag",
-          "retrieval-augmented-generation",
-          "transformers",
-          "urdu-nlp"
-        ],
-        "created_at": "2026-09-17T10:31:00Z",
-        "pushed_at": "2026-10-28T11:51:52Z"
-      },
-      "filtered": false,
-      "total_score": 64.25,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 52.0,
-        "freshness": 20
-      }
-    },
-    {
       "name": "nihui/qwenimage-ncnn-vulkan",
       "type": "tool",
       "platform": "GitHub",
@@ -2559,76 +2479,6 @@
         "popularity": 100,
         "usability": 69.0,
         "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "google/elephant-goldfish-model",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/google/elephant-goldfish-model",
-      "summary": "Open-source skills for designing and reviewing software with AI 智能体s (语言: Python) [标签: agent-skills, ai-agents, antigravity, claude-code, claude-code-plugin]",
-      "popularity": {
-        "views": 7641,
-        "likes": 7641,
-        "comments": 454
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent",
-          "代码生成"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-09-13T16:31:06"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 7641,
-        "forks": 454,
-        "open_issues": 62,
-        "language": "Python",
-        "license": "apache-2.0",
-        "topics": [
-          "agent-skills",
-          "ai-agents",
-          "antigravity",
-          "claude-code",
-          "claude-code-plugin",
-          "claude-skills",
-          "codex",
-          "codex-plugin",
-          "coding-agents",
-          "context-engineering",
-          "developer-tools",
-          "gemini",
-          "llm",
-          "multi-agent",
-          "prompt-engineering",
-          "spec-driven-development"
-        ],
-        "created_at": "2026-09-13T16:31:06Z",
-        "pushed_at": "2026-10-30T09:33:24Z"
-      },
-      "filtered": false,
-      "total_score": 62.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 53.0,
-        "practicality": 61.0,
         "freshness": 20
       }
     },
@@ -2946,6 +2796,949 @@
       "detail_scores": {
         "popularity": 46.25999999999999,
         "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "nanaism/yomiyasu",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/nanaism/yomiyasu",
+      "summary": "AI生成の日本語を自然な日本語へ推敲する智能体 Skill / 智能体 Skill for Refining AI-Generated Japanese into Natural Japanese (语言: Python) [标签: agent-skills, ai-writing, antigravity, claude-code, codex]",
+      "popularity": {
+        "views": 2793,
+        "likes": 2793,
+        "comments": 73
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "自然语言处理",
+          "代码生成"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-09-30T11:49:32"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 2793,
+        "forks": 73,
+        "open_issues": 1,
+        "language": "Python",
+        "license": "mit",
+        "topics": [
+          "agent-skills",
+          "ai-writing",
+          "antigravity",
+          "claude-code",
+          "codex",
+          "cursor",
+          "gemini",
+          "japanese",
+          "linter",
+          "llm",
+          "nlp",
+          "writing",
+          "writing-assistant",
+          "writing-tool"
+        ],
+        "created_at": "2026-09-30T11:49:32Z",
+        "pushed_at": "2026-10-31T16:37:35Z"
+      },
+      "filtered": false,
+      "total_score": 64.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 60.0,
+        "practicality": 63.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "salikhussain71-code/PAKGOV-RAG-project",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/salikhussain71-code/PAKGOV-RAG-project",
+      "summary": "研究 project on bilingual Urdu-English 检索-augmented 生成 for Pakistani government and legal documents, with OCR, hybrid 检索, citation grounding, and 评估. (语言: Python) [标签: artificial-intelligence, inform...",
+      "popularity": {
+        "views": 129,
+        "likes": 129,
+        "comments": 5
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "检索增强生成",
+          "自然语言处理"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-17T10:31:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 129,
+        "forks": 5,
+        "open_issues": 2,
+        "language": "Python",
+        "license": "mit",
+        "topics": [
+          "artificial-intelligence",
+          "information-retrieval",
+          "legal-nlp",
+          "low-resource-languages",
+          "nlp",
+          "ocr",
+          "rag",
+          "retrieval-augmented-generation",
+          "transformers",
+          "urdu-nlp"
+        ],
+        "created_at": "2026-09-17T10:31:00Z",
+        "pushed_at": "2026-10-28T11:51:52Z"
+      },
+      "filtered": false,
+      "total_score": 64.25,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 52.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "amitshekhariitbhu/ai-engineering-course",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/amitshekhariitbhu/ai-engineering-course",
+      "summary": "AI Engineering Course - A free and complete AI Engineering Course to learn AI Engineering step by step - from 机器学习, Neural Networks, and Transformers to LLMs, 微调, RAG, AI 智能体s, LLM 推理, 评估, AI Safet...",
+      "popularity": {
+        "views": 617,
+        "likes": 617,
+        "comments": 119
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "检索增强生成",
+          "AI Agent",
+          "模型微调"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-09-23T08:04:42"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 617,
+        "forks": 119,
+        "open_issues": 0,
+        "language": "Markdown",
+        "license": "apache-2.0",
+        "topics": [
+          "ai-course",
+          "ai-engineering",
+          "ai-engineering-course",
+          "ai-engineering-curriculum",
+          "large-language-models"
+        ],
+        "created_at": "2026-09-23T08:04:42Z",
+        "pushed_at": "2026-11-01T07:02:34Z"
+      },
+      "filtered": false,
+      "total_score": 63.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 53.0,
+        "practicality": 63.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "google/elephant-goldfish-model",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/google/elephant-goldfish-model",
+      "summary": "Open-source skills for designing and reviewing software with AI 智能体s (语言: Python) [标签: agent-skills, ai-agents, antigravity, claude-code, claude-code-plugin]",
+      "popularity": {
+        "views": 8902,
+        "likes": 8902,
+        "comments": 563
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "代码生成"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-09-13T16:31:06"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 8902,
+        "forks": 563,
+        "open_issues": 74,
+        "language": "Python",
+        "license": "apache-2.0",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "antigravity",
+          "claude-code",
+          "claude-code-plugin",
+          "claude-skills",
+          "codex",
+          "codex-plugin",
+          "coding-agents",
+          "context-engineering",
+          "developer-tools",
+          "gemini",
+          "llm",
+          "multi-agent",
+          "prompt-engineering",
+          "spec-driven-development"
+        ],
+        "created_at": "2026-09-13T16:31:06Z",
+        "pushed_at": "2026-11-01T13:38:10Z"
+      },
+      "filtered": false,
+      "total_score": 62.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 53.0,
+        "practicality": 61.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "datasifaw/dataiku-projet-bancaire-analytics",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/datasifaw/dataiku-projet-bancaire-analytics",
+      "summary": "端到端 Banking 分析 with Dataiku | Data Preparation, 机器学习, Customer Scoring & Automated 流水线s [标签: banking-analytics, data, data-analysis, data-analytics, data-engineering]",
+      "popularity": {
+        "views": 99,
+        "likes": 99,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "数据处理"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-16T11:48:01"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 99,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "",
+        "license": "",
+        "topics": [
+          "banking-analytics",
+          "data",
+          "data-analysis",
+          "data-analytics",
+          "data-engineering",
+          "data-engineering-project",
+          "data-science",
+          "data-science-competition",
+          "data-science-portfolio",
+          "data-science-projects",
+          "data-structures",
+          "data-visualization",
+          "database",
+          "dataiku",
+          "dataset",
+          "machine-learning",
+          "machine-learning-algorithms",
+          "machine-learning-models"
+        ],
+        "created_at": "2026-09-16T11:48:01Z",
+        "pushed_at": "2026-10-25T16:03:02Z"
+      },
+      "filtered": false,
+      "total_score": 59.75,
+      "detail_scores": {
+        "popularity": 99.99000000000001,
+        "usability": 53.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "BlueRingsLabs/no-shortcuts",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/BlueRingsLabs/no-shortcuts",
+      "summary": "Free Course : Data, 机器学习, 深度学习 and AI Engineering, the long way round: the math, the code, the systems and the 安全. 173 lessons, 166 runnable labs, no shortcuts. Free under CC BY-NC 4.0. (语言: Python...",
+      "popularity": {
+        "views": 166,
+        "likes": 166,
+        "comments": 30
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "检索增强生成",
+          "代码生成",
+          "数据处理"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-26T19:49:54"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 166,
+        "forks": 30,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "other",
+        "topics": [
+          "ai-engineering",
+          "course",
+          "data-engineering",
+          "deep-learning",
+          "llm",
+          "machine-learning",
+          "mlops",
+          "python",
+          "pytorch",
+          "rag",
+          "reinforcement-learning",
+          "security"
+        ],
+        "created_at": "2026-09-26T19:49:54Z",
+        "pushed_at": "2026-10-28T22:41:02Z"
+      },
+      "filtered": false,
+      "total_score": 58.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 44.0,
+        "practicality": 54.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "LynxOfficialDeveloper/RtG-AI-Core-Engine",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/LynxOfficialDeveloper/RtG-AI-Core-Engine",
+      "summary": "RtG-AI 2026: 开源 Road to Gramby's Spanish 机器学习 实验 (语言: HTML) [标签: ai-json-output, github-pages, gramby, road-to-grambys, roblox]",
+      "popularity": {
+        "views": 70,
+        "likes": 70,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "通用AI应用"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-22T21:09:40"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 70,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "HTML",
+        "license": "",
+        "topics": [
+          "ai-json-output",
+          "github-pages",
+          "gramby",
+          "road-to-grambys",
+          "roblox",
+          "rtg-format",
+          "testing"
+        ],
+        "created_at": "2026-09-22T21:09:40Z",
+        "pushed_at": "2026-11-01T22:29:46Z"
+      },
+      "filtered": false,
+      "total_score": 54.96,
+      "detail_scores": {
+        "popularity": 70.7,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "ecklein/modeldiff-ml",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/ecklein/modeldiff-ml",
+      "summary": "模型Diff-ML is a behavioral regression testing 框架 for 机器学习 模型s. (语言: Python)",
+      "popularity": {
+        "views": 61,
+        "likes": 61,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "通用AI应用"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-04T21:28:36"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 61,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "mit",
+        "topics": [],
+        "created_at": "2026-10-04T21:28:36Z",
+        "pushed_at": "2026-10-24T18:01:48Z"
+      },
+      "filtered": false,
+      "total_score": 53.98,
+      "detail_scores": {
+        "popularity": 61.61000000000001,
+        "usability": 44.0,
+        "practicality": 50.0,
+        "freshness": 60
+      }
+    },
+    {
+      "name": "Nguems1/ml-sgd-param-struct-forge",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/Nguems1/ml-sgd-param-struct-forge",
+      "summary": "Build Custom Float Struct Factories for ML SGD Params 2026 (语言: HTML) [标签: javascript, learning, machine, ml, node]",
+      "popularity": {
+        "views": 56,
+        "likes": 56,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "通用AI应用"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-21T21:53:47"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 56,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "HTML",
+        "license": "",
+        "topics": [
+          "javascript",
+          "learning",
+          "machine",
+          "ml",
+          "node",
+          "node-js",
+          "nodejs",
+          "parameters",
+          "params",
+          "sgd",
+          "stdlib",
+          "stochastic-gradient-descent",
+          "struct",
+          "trainer",
+          "util",
+          "utilities",
+          "utility",
+          "utils"
+        ],
+        "created_at": "2026-09-21T21:53:47Z",
+        "pushed_at": "2026-11-01T21:39:11Z"
+      },
+      "filtered": false,
+      "total_score": 50.72,
+      "detail_scores": {
+        "popularity": 56.56,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "Gabedevz/haiku-bridge-trainer",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/Gabedevz/haiku-bridge-trainer",
+      "summary": "Bax: Flexible JAX and Haiku Trainer Interface for 可扩展 深度学习 2026 (语言: HTML) [标签: boilerplate, dm-haiku, jax, trainer]",
+      "popularity": {
+        "views": 56,
+        "likes": 56,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "通用AI应用"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-21T20:54:20"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 56,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "HTML",
+        "license": "",
+        "topics": [
+          "boilerplate",
+          "dm-haiku",
+          "jax",
+          "trainer"
+        ],
+        "created_at": "2026-09-21T20:54:20Z",
+        "pushed_at": "2026-11-01T20:12:21Z"
+      },
+      "filtered": false,
+      "total_score": 50.72,
+      "detail_scores": {
+        "popularity": 56.56,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "avri22222/TS-Forge",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/avri22222/TS-Forge",
+      "summary": "开源 AI 训练 Hub 2026: Build Ethical 机器学习 模型s (语言: HTML) [标签: ai, ai-models, automl, deep-learning, deep-neural-networks]",
+      "popularity": {
+        "views": 54,
+        "likes": 54,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "模型训练"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-21T22:44:36"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 54,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "HTML",
+        "license": "",
+        "topics": [
+          "ai",
+          "ai-models",
+          "automl",
+          "deep-learning",
+          "deep-neural-networks",
+          "lithicsoft",
+          "machine-learning",
+          "trainer",
+          "trainer-studio",
+          "training",
+          "transfer-learning"
+        ],
+        "created_at": "2026-09-21T22:44:36Z",
+        "pushed_at": "2026-11-01T22:30:01Z"
+      },
+      "filtered": false,
+      "total_score": 50.11,
+      "detail_scores": {
+        "popularity": 54.540000000000006,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "mhdijas-2001/torch-hydra-forge",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/mhdijas-2001/torch-hydra-forge",
+      "summary": "PyTorch Hydra 脚手架 2026: Best 开源 深度学习 Project 模板 (语言: HTML) [标签: boilerplate, boilerplate-template, deep-learning, hydra, machine-learning]",
+      "popularity": {
+        "views": 53,
+        "likes": 53,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "通用AI应用"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-21T22:12:49"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 53,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "HTML",
+        "license": "",
+        "topics": [
+          "boilerplate",
+          "boilerplate-template",
+          "deep-learning",
+          "hydra",
+          "machine-learning",
+          "pytorch",
+          "trainer",
+          "yaml"
+        ],
+        "created_at": "2026-09-21T22:12:49Z",
+        "pushed_at": "2026-11-01T19:57:39Z"
+      },
+      "filtered": false,
+      "total_score": 49.81,
+      "detail_scores": {
+        "popularity": 53.53000000000001,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "nhatphonghoang35-collab/yaket-keras-trainer",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/nhatphonghoang35-collab/yaket-keras-trainer",
+      "summary": "YAML Keras Trainer 2026: 轻量级 Config-Driven 深度学习 模型s Made Simple (语言: HTML) [标签: deeplearning, keras-tensorflow, tensorflow2, trainer]",
+      "popularity": {
+        "views": 53,
+        "likes": 53,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "通用AI应用"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-21T22:53:42"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 53,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "HTML",
+        "license": "",
+        "topics": [
+          "deeplearning",
+          "keras-tensorflow",
+          "tensorflow2",
+          "trainer"
+        ],
+        "created_at": "2026-09-21T22:53:42Z",
+        "pushed_at": "2026-11-01T20:59:20Z"
+      },
+      "filtered": false,
+      "total_score": 49.81,
+      "detail_scores": {
+        "popularity": 53.53000000000001,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "martinguirado95-ux/untangling-ml-complexity",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/martinguirado95-ux/untangling-ml-complexity",
+      "summary": "Clean ML 框架 2026: Simplify 机器学习 Code Structure and Hyperparameters (语言: HTML) [标签: keras, load-data, machine-learning, ml, model]",
+      "popularity": {
+        "views": 56,
+        "likes": 56,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "代码生成",
+          "数据处理"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-21T21:46:02"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 56,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "HTML",
+        "license": "",
+        "topics": [
+          "keras",
+          "load-data",
+          "machine-learning",
+          "ml",
+          "model",
+          "postprocessing",
+          "preprocessing",
+          "python",
+          "trainer"
+        ],
+        "created_at": "2026-09-21T21:46:02Z",
+        "pushed_at": "2026-11-01T20:56:24Z"
+      },
+      "filtered": false,
+      "total_score": 47.22,
+      "detail_scores": {
+        "popularity": 56.56,
+        "usability": 53.0,
+        "practicality": 52.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "nicklucenasantanalucenasant-maker/yapt-core",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/nicklucenasantanalucenasant-maker/yapt-core",
+      "summary": "YAPT 2026: Modern PyTorch 训练 框架 for Faster 深度学习 Workflows (语言: HTML) [标签: deep-learning, neptune-ai, pytorch, trainer]",
+      "popularity": {
+        "views": 53,
+        "likes": 53,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "模型训练"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-21T22:54:48"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 53,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "HTML",
+        "license": "",
+        "topics": [
+          "deep-learning",
+          "neptune-ai",
+          "pytorch",
+          "trainer"
+        ],
+        "created_at": "2026-09-21T22:54:48Z",
+        "pushed_at": "2026-11-01T20:16:58Z"
+      },
+      "filtered": false,
+      "total_score": 45.81,
+      "detail_scores": {
+        "popularity": 53.53000000000001,
+        "usability": 53.0,
         "practicality": 50.0,
         "freshness": 20
       }
