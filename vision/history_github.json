@@ -880,6 +880,295 @@
         "practicality": 52.0,
         "freshness": 20
       }
+    },
+    {
+      "name": "black-forest-labs/flux-action",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/black-forest-labs/flux-action",
+      "summary": "FLUX 3 Action: open weights 7B world action 模型 from Black Forest Labs. Train, fine-tune and run action prediction for robots (DROID, SO-101), simulators and games. (语言: Python) [标签: black-forest-la...",
+      "popularity": {
+        "views": 203,
+        "likes": 203,
+        "comments": 19
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉-语言-动作",
+          "机器人视觉"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-23T03:26:07"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 203,
+        "forks": 19,
+        "open_issues": 5,
+        "language": "Python",
+        "license": "apache-2.0",
+        "topics": [
+          "black-forest-labs",
+          "droid",
+          "flux",
+          "imitation-learning",
+          "lerobot",
+          "pytorch",
+          "robot-learning",
+          "robotics",
+          "so101",
+          "vla",
+          "world-action-model",
+          "world-model"
+        ],
+        "created_at": "2026-09-23T03:26:07Z",
+        "pushed_at": "2026-10-31T00:32:58Z"
+      },
+      "filtered": false,
+      "total_score": 64.25,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 52.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "LMIXR/CV_Deployment_skill",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/LMIXR/CV_Deployment_skill",
+      "summary": "计算机视觉 部署 resources and engineering workflow configuration",
+      "popularity": {
+        "views": 592,
+        "likes": 592,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "机器视觉应用"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-09-29T07:52:38"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 592,
+        "forks": 0,
+        "open_issues": 2,
+        "language": "",
+        "license": "",
+        "topics": [],
+        "created_at": "2026-09-29T07:52:38Z",
+        "pushed_at": "2026-11-01T09:15:59Z"
+      },
+      "filtered": false,
+      "total_score": 59.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 44.0,
+        "practicality": 59.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "deep-learning-alchemy/assignments",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/deep-learning-alchemy/assignments",
+      "summary": "CS312 深度学习 Alchemy student assignments. (语言: Python)",
+      "popularity": {
+        "views": 27,
+        "likes": 27,
+        "comments": 23
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "poor",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "深度学习"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-23T01:38:32"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 27,
+        "forks": 23,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "",
+        "topics": [],
+        "created_at": "2026-09-23T01:38:32Z",
+        "pushed_at": "2026-10-30T17:42:38Z"
+      },
+      "filtered": false,
+      "total_score": 58.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 48.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "BlueRingsLabs/no-shortcuts",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/BlueRingsLabs/no-shortcuts",
+      "summary": "Free Course : Data, 机器学习, 深度学习 and AI Engineering, the long way round: the math, the code, the systems and the security. 173 lessons, 166 runnable labs, no shortcuts. Free under CC BY-NC 4.0. (语言: ...",
+      "popularity": {
+        "views": 166,
+        "likes": 166,
+        "comments": 30
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "深度学习"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-26T19:49:54"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 166,
+        "forks": 30,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "other",
+        "topics": [
+          "ai-engineering",
+          "course",
+          "data-engineering",
+          "deep-learning",
+          "llm",
+          "machine-learning",
+          "mlops",
+          "python",
+          "pytorch",
+          "rag",
+          "reinforcement-learning",
+          "security"
+        ],
+        "created_at": "2026-09-26T19:49:54Z",
+        "pushed_at": "2026-10-28T22:41:02Z"
+      },
+      "filtered": false,
+      "total_score": 57.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 44.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "nhatkhangcs/educational_vlm",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/nhatkhangcs/educational_vlm",
+      "summary": "A set of Jupyter notebooks that teach how 视觉语言模型s work, by building the pieces in code (语言: Jupyter Notebook) [标签: vision-language-model]",
+      "popularity": {
+        "views": 22,
+        "likes": 22,
+        "comments": 2
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉语言模型"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-25T17:19:46"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 22,
+        "forks": 2,
+        "open_issues": 0,
+        "language": "Jupyter Notebook",
+        "license": "",
+        "topics": [
+          "vision-language-model"
+        ],
+        "created_at": "2026-10-25T17:19:46Z",
+        "pushed_at": "2026-10-27T17:09:26Z"
+      },
+      "filtered": false,
+      "total_score": 53.17,
+      "detail_scores": {
+        "popularity": 32.22,
+        "usability": 60.0,
+        "practicality": 50.0,
+        "freshness": 80
+      }
     }
   ],
   "pending_items": [
@@ -1125,60 +1414,6 @@
         "usability": 60.0,
         "practicality": 50.0,
         "freshness": 60
-      }
-    },
-    {
-      "name": "nhatkhangcs/educational_vlm",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/nhatkhangcs/educational_vlm",
-      "summary": "A set of Jupyter notebooks that teach how 视觉语言模型s work, by building the pieces in code (语言: Jupyter Notebook) [标签: vision-language-model]",
-      "popularity": {
-        "views": 22,
-        "likes": 22,
-        "comments": 2
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉语言模型"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-10-25T17:19:46"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 22,
-        "forks": 2,
-        "open_issues": 0,
-        "language": "Jupyter Notebook",
-        "license": "",
-        "topics": [
-          "vision-language-model"
-        ],
-        "created_at": "2026-10-25T17:19:46Z",
-        "pushed_at": "2026-10-27T17:09:26Z"
-      },
-      "filtered": false,
-      "total_score": 53.17,
-      "detail_scores": {
-        "popularity": 32.22,
-        "usability": 60.0,
-        "practicality": 50.0,
-        "freshness": 80
       }
     },
     {
@@ -1542,72 +1777,6 @@
       }
     },
     {
-      "name": "black-forest-labs/flux-action",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/black-forest-labs/flux-action",
-      "summary": "FLUX 3 Action: open weights 7B world action 模型 from Black Forest Labs. Train, fine-tune and run action prediction for robots (DROID, SO-101), simulators and games. (语言: Python) [标签: black-forest-la...",
-      "popularity": {
-        "views": 203,
-        "likes": 203,
-        "comments": 19
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉-语言-动作",
-          "机器人视觉"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-23T03:26:07"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 203,
-        "forks": 19,
-        "open_issues": 5,
-        "language": "Python",
-        "license": "apache-2.0",
-        "topics": [
-          "black-forest-labs",
-          "droid",
-          "flux",
-          "imitation-learning",
-          "lerobot",
-          "pytorch",
-          "robot-learning",
-          "robotics",
-          "so101",
-          "vla",
-          "world-action-model",
-          "world-model"
-        ],
-        "created_at": "2026-09-23T03:26:07Z",
-        "pushed_at": "2026-10-31T00:32:58Z"
-      },
-      "filtered": false,
-      "total_score": 64.25,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 52.0,
-        "freshness": 20
-      }
-    },
-    {
       "name": "starVLA/VLAct",
       "type": "tool",
       "platform": "GitHub",
@@ -1958,58 +2127,6 @@
       }
     },
     {
-      "name": "LMIXR/CV_Deployment_skill",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/LMIXR/CV_Deployment_skill",
-      "summary": "计算机视觉 部署 resources and engineering workflow configuration",
-      "popularity": {
-        "views": 581,
-        "likes": 581,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "机器视觉应用"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-09-29T07:52:38"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 581,
-        "forks": 0,
-        "open_issues": 2,
-        "language": "",
-        "license": "",
-        "topics": [],
-        "created_at": "2026-09-29T07:52:38Z",
-        "pushed_at": "2026-10-31T12:12:34Z"
-      },
-      "filtered": false,
-      "total_score": 59.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 44.0,
-        "practicality": 59.0,
-        "freshness": 20
-      }
-    },
-    {
       "name": "RadixRootMind/RadixQuantVLA",
       "type": "tool",
       "platform": "GitHub",
@@ -2115,18 +2232,18 @@
       }
     },
     {
-      "name": "BlueRingsLabs/no-shortcuts",
+      "name": "neuroailab/psi-0.6",
       "type": "tool",
       "platform": "GitHub",
-      "url": "https://github.com/BlueRingsLabs/no-shortcuts",
-      "summary": "Free Course : Data, 机器学习, 深度学习 and AI Engineering, the long way round: the math, the code, the systems and the security. 173 lessons, 166 runnable labs, no shortcuts. Free under CC BY-NC 4.0. (语言: ...",
+      "url": "https://github.com/neuroailab/psi-0.6",
+      "summary": "Paper: \"Ψ-0.6: Adaptive Streams of Thought in a Unified Vision- Language World 模型\"",
       "popularity": {
-        "views": 164,
-        "likes": 164,
-        "comments": 29
+        "views": 20,
+        "likes": 20,
+        "comments": 2
       },
       "usability": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "deployment": "medium",
         "docs_quality": "medium",
         "requires_coding": true
@@ -2134,12 +2251,12 @@
       "practicality": {
         "scope": "medium",
         "scenarios": [
-          "深度学习"
+          "机器视觉应用"
         ],
         "maturity": "medium"
       },
       "freshness": {
-        "publish_date": "2026-09-26T19:49:54"
+        "publish_date": "2026-10-26T00:52:17"
       },
       "pricing": {
         "has_paid_features": false
@@ -2148,35 +2265,22 @@
         "blocked_in_china": false
       },
       "metadata": {
-        "stars": 164,
-        "forks": 29,
+        "stars": 20,
+        "forks": 2,
         "open_issues": 0,
-        "language": "Python",
-        "license": "other",
-        "topics": [
-          "ai-engineering",
-          "course",
-          "data-engineering",
-          "deep-learning",
-          "llm",
-          "machine-learning",
-          "mlops",
-          "python",
-          "pytorch",
-          "rag",
-          "reinforcement-learning",
-          "security"
-        ],
-        "created_at": "2026-09-26T19:49:54Z",
-        "pushed_at": "2026-10-28T22:41:02Z"
+        "language": "",
+        "license": "mit",
+        "topics": [],
+        "created_at": "2026-10-26T00:52:17Z",
+        "pushed_at": "2026-10-26T18:29:26Z"
       },
       "filtered": false,
-      "total_score": 57.5,
+      "total_score": 52.56,
       "detail_scores": {
-        "popularity": 100,
-        "usability": 44.0,
+        "popularity": 30.2,
+        "usability": 60.0,
         "practicality": 50.0,
-        "freshness": 20
+        "freshness": 80
       }
     },
     {
@@ -2225,7 +2329,7 @@
           "trainer"
         ],
         "created_at": "2026-09-21T20:54:20Z",
-        "pushed_at": "2026-10-31T22:12:12Z"
+        "pushed_at": "2026-11-01T20:12:21Z"
       },
       "filtered": false,
       "total_score": 50.72,
@@ -2233,6 +2337,234 @@
         "popularity": 56.56,
         "usability": 69.0,
         "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "mhdijas-2001/torch-hydra-forge",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/mhdijas-2001/torch-hydra-forge",
+      "summary": "PyTorch Hydra Boilerplate 2026: Best 开源 深度学习 Project Template (语言: HTML) [标签: boilerplate, boilerplate-template, deep-learning, hydra, machine-learning]",
+      "popularity": {
+        "views": 53,
+        "likes": 53,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "深度学习"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-21T22:12:49"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 53,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "HTML",
+        "license": "",
+        "topics": [
+          "boilerplate",
+          "boilerplate-template",
+          "deep-learning",
+          "hydra",
+          "machine-learning",
+          "pytorch",
+          "trainer",
+          "yaml"
+        ],
+        "created_at": "2026-09-21T22:12:49Z",
+        "pushed_at": "2026-11-01T23:20:37Z"
+      },
+      "filtered": false,
+      "total_score": 49.81,
+      "detail_scores": {
+        "popularity": 53.53000000000001,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "nhatphonghoang35-collab/yaket-keras-trainer",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/nhatphonghoang35-collab/yaket-keras-trainer",
+      "summary": "YAML Keras Trainer 2026: Lightweight Config-Driven 深度学习 模型s Made Simple (语言: HTML) [标签: deeplearning, keras-tensorflow, tensorflow2, trainer]",
+      "popularity": {
+        "views": 53,
+        "likes": 53,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "深度学习"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-21T22:53:42"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 53,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "HTML",
+        "license": "",
+        "topics": [
+          "deeplearning",
+          "keras-tensorflow",
+          "tensorflow2",
+          "trainer"
+        ],
+        "created_at": "2026-09-21T22:53:42Z",
+        "pushed_at": "2026-11-01T20:59:20Z"
+      },
+      "filtered": false,
+      "total_score": 49.81,
+      "detail_scores": {
+        "popularity": 53.53000000000001,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "nicklucenasantanalucenasant-maker/yapt-core",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/nicklucenasantanalucenasant-maker/yapt-core",
+      "summary": "YAPT 2026: Modern PyTorch 训练 框架 for Faster 深度学习 Workflows (语言: HTML) [标签: deep-learning, neptune-ai, pytorch, trainer]",
+      "popularity": {
+        "views": 53,
+        "likes": 53,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "深度学习"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-21T22:54:48"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 53,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "HTML",
+        "license": "",
+        "topics": [
+          "deep-learning",
+          "neptune-ai",
+          "pytorch",
+          "trainer"
+        ],
+        "created_at": "2026-09-21T22:54:48Z",
+        "pushed_at": "2026-11-01T20:16:58Z"
+      },
+      "filtered": false,
+      "total_score": 45.81,
+      "detail_scores": {
+        "popularity": 53.53000000000001,
+        "usability": 53.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "llada60/3DHarnessBench",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/llada60/3DHarnessBench",
+      "summary": "三维HarnessBench: Probing Agentic 三维-to-Code Capabilities of Frontier 视觉语言模型s (语言: Python)",
+      "popularity": {
+        "views": 21,
+        "likes": 21,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉语言模型",
+          "三维视觉"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-03T09:26:46"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 21,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "apache-2.0",
+        "topics": [],
+        "created_at": "2026-09-03T09:26:46Z",
+        "pushed_at": "2026-10-28T16:17:09Z"
+      },
+      "filtered": false,
+      "total_score": 38.36,
+      "detail_scores": {
+        "popularity": 21.21,
+        "usability": 60.0,
+        "practicality": 52.0,
         "freshness": 20
       }
     }
