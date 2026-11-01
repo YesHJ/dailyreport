@@ -480,9 +480,51 @@
         "practicality": 49.0,
         "freshness": 60
       }
-    }
-  ],
-  "pending_items": [
+    },
+    {
+      "name": "DeepSeek重磅开源Super-agent：迈向更自主的Agent系统",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/10/506904.html",
+      "summary": "DeepSeek开源Super-agent原型架构，支持跨会话持续在线、多任务并行执行与主动发现问题。采用Router-Worker双层架构和投机执行机制，实测任务完成时间中位数12.4分钟，可自主发现Bug并提交修复PR，为视觉Agent与多模态自动化提供新基座。",
+      "popularity": {
+        "views": 5000,
+        "likes": 200,
+        "comments": 50
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "AI Agent",
+          "自动化运维",
+          "多模态视觉"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-31T21:48:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 80.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 53.0,
+        "practicality": 69.0,
+        "freshness": 100
+      }
+    },
     {
       "name": "VisionMaster、VisionPro、HALCON三大机器视觉工具对比选型",
       "type": "news",
@@ -525,7 +567,9 @@
         "usability": 66.0,
         "practicality": 63.0,
         "freshness": 20
-      }
+      },
+      "_source": "pending"
     }
-  ]
+  ],
+  "pending_items": []
 }
