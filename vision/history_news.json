@@ -569,7 +569,271 @@
         "freshness": 20
       },
       "_source": "pending"
+    },
+    {
+      "name": "2026年视觉智能行业现状：格局、痛点与发展趋势",
+      "type": "news",
+      "platform": "中研网",
+      "url": "http://www.chinairn.com/scfx/20261027/115840856.shtml",
+      "summary": "全球机器视觉市场2026年约184亿美元，AI视觉市场增长预期更高。复合型人才不足制约细分场景落地。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "large",
+        "scenarios": [
+          "机器视觉",
+          "行业分析"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-27T08:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 50.25,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 56.0,
+        "freshness": 80
+      }
+    },
+    {
+      "name": "VisionMaster模块SDK开发流程详解",
+      "type": "news",
+      "platform": "CSDN",
+      "url": "https://m.blog.csdn.net/qq_40335930/",
+      "summary": "详细讲解VisionMaster 4.4.0模块SDK开发流程，包括算法XML生成、输入输出配置及结果展示等关键步骤。",
+      "popularity": {
+        "views": 133,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "VisionMaster",
+          "工业视觉",
+          "SDK开发"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-29T17:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 49.4,
+      "detail_scores": {
+        "popularity": 1.33,
+        "usability": 69.0,
+        "practicality": 63.0,
+        "freshness": 80
+      }
+    },
+    {
+      "name": "HALCON视觉入门实战：环境配置到模板匹配与缺陷检测避坑指南",
+      "type": "news",
+      "platform": "CSDN",
+      "url": "https://m.blog.csdn.net/weixin_28686915/",
+      "summary": "系统梳理HALCON从环境配置到形状匹配、卡尺测量与动态阈值分割的完整链路，总结常见翻车点与排查方法。",
+      "popularity": {
+        "views": 274,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "high",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "工业检测",
+          "HALCON",
+          "缺陷检测"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-28T15:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 49.07,
+      "detail_scores": {
+        "popularity": 2.74,
+        "usability": 66.0,
+        "practicality": 63.0,
+        "freshness": 80
+      }
+    },
+    {
+      "name": "2026全新TVA视觉智能体详解：工业检测落地应用全拆解",
+      "type": "news",
+      "platform": "CSDN",
+      "url": "https://blog.csdn.net/TVAWJK/article/details/160852884",
+      "summary": "TVA视觉智能体从机器看图像升级到智能自主思考检测，覆盖医药、电子、汽车等行业的缺陷检测落地场景。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "工业检测",
+          "TVA",
+          "智能体"
+        ],
+        "maturity": "emerging"
+      },
+      "freshness": {
+        "publish_date": "2026-10-30T08:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 46.0,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 69.0,
+        "practicality": 51.0,
+        "freshness": 80
+      }
+    },
+    {
+      "name": "别再只训YOLO了！2026智能视频分析大模型实战指南",
+      "type": "news",
+      "platform": "CSDN",
+      "url": "https://blog.csdn.net/chenchuang0128/article/details/169560207",
+      "summary": "2026年视频分析进入认知智能时代，用VLM+专用小模型蒸馏混合架构重构安防监控。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "high",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视频分析",
+          "VLM",
+          "安防监控"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-29T08:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 46.0,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 57.0,
+        "practicality": 63.0,
+        "freshness": 80
+      }
     }
   ],
-  "pending_items": []
+  "pending_items": [
+    {
+      "name": "基于YOLOv8的晶圆缺陷检测系统：从传统视觉到深度学习实战",
+      "type": "news",
+      "platform": "CSDN",
+      "url": "https://m.blog.csdn.net/weixin_29063979/",
+      "summary": "从数据集标注、YOLOv8模型训练调参到PySide6界面封装，系统讲解可落地的晶圆缺陷检测系统构建方法。",
+      "popularity": {
+        "views": 55,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "high",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "半导体检测",
+          "YOLOv8",
+          "缺陷检测"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-17T14:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 44.41,
+      "detail_scores": {
+        "popularity": 0.55,
+        "usability": 66.0,
+        "practicality": 63.0,
+        "freshness": 60
+      }
+    }
+  ]
 }
