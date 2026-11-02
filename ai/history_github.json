@@ -1583,6 +1583,357 @@
         "practicality": 50.0,
         "freshness": 60
       }
+    },
+    {
+      "name": "wideeyededi/uncensored-nsfw-ai-video-api",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/wideeyededi/uncensored-nsfw-ai-video-api",
+      "summary": "Uncensored NSFW AI video API — Seedance Spicy & Wan NSFW docs for 18+ text-to-video / image-to-video: async tasks, webhooks, credits billing. 成人向 AI 视频生成 API：Seedance Spicy、Wan NSFW、文生/图生视频、异步任务、积分...",
+      "popularity": {
+        "views": 415,
+        "likes": 415,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "图像生成",
+          "视频生成"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-02T02:15:29"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 415,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "",
+        "license": "mit",
+        "topics": [
+          "123vips",
+          "ai-api",
+          "ai-companion",
+          "ai-video",
+          "ai-video-api",
+          "ai-video-generator",
+          "comfyui",
+          "image-to-video",
+          "nsfw",
+          "nsfw-ai",
+          "seedance",
+          "seedance-api",
+          "spicy",
+          "text-to-video",
+          "uncensored",
+          "uncensored-ai",
+          "video-api",
+          "video-generation",
+          "wan",
+          "wan-video"
+        ],
+        "created_at": "2026-11-02T02:15:29Z",
+        "pushed_at": "2026-11-02T03:01:26Z"
+      },
+      "filtered": false,
+      "total_score": 80.25,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 52.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "islandmed/SculptForge",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/islandmed/SculptForge",
+      "summary": "The free, open-source alternative to ZBrush. Sculpting for Linux, macOS and Windows with free built-in AI (image/text to 3D), Send to Unreal, game-ready LODs, Gaussian splats and OpenUSD. (语言: C++)...",
+      "popularity": {
+        "views": 451,
+        "likes": 451,
+        "comments": 53
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "图像生成"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-21T03:18:08"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 451,
+        "forks": 53,
+        "open_issues": 30,
+        "language": "C++",
+        "license": "gpl-3.0",
+        "topics": [
+          "3d",
+          "cpp",
+          "dear-imgui",
+          "digital-sculpting",
+          "fbx",
+          "game-development",
+          "gaussian-splatting",
+          "gltf",
+          "image-to-3d",
+          "mcp",
+          "opengl",
+          "openusd",
+          "sculpting",
+          "text-to-3d",
+          "unreal-engine",
+          "zbrush-alternative"
+        ],
+        "created_at": "2026-10-21T03:18:08Z",
+        "pushed_at": "2026-11-02T17:25:40Z"
+      },
+      "filtered": false,
+      "total_score": 74.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 81.0,
+        "practicality": 50.0,
+        "freshness": 60
+      }
+    },
+    {
+      "name": "thesysdev/open-intelligent-ui",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/thesysdev/open-intelligent-ui",
+      "summary": "An open-source take on ChatGPT's Intelligent UI: answers stream as interactive UI (maps, photos, charts, drawings and working tools). Built with OpenUI. (语言: TypeScript) [标签: agents, ai, ai-agents,...",
+      "popularity": {
+        "views": 913,
+        "likes": 913,
+        "comments": 77
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-08T05:37:45"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 913,
+        "forks": 77,
+        "open_issues": 30,
+        "language": "TypeScript",
+        "license": "mit",
+        "topics": [
+          "agents",
+          "ai",
+          "ai-agents",
+          "ai-ui",
+          "chat-ui",
+          "chatgpt",
+          "generative-ui",
+          "intelligent-ui",
+          "llm",
+          "nextjs",
+          "open-source",
+          "openui",
+          "react",
+          "streaming-ui",
+          "typescript"
+        ],
+        "created_at": "2026-10-08T05:37:45Z",
+        "pushed_at": "2026-10-31T06:45:22Z"
+      },
+      "filtered": false,
+      "total_score": 74.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 59.0,
+        "freshness": 60
+      }
+    },
+    {
+      "name": "junjamrk/OpenCinema",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/junjamrk/OpenCinema",
+      "summary": "The open-source video studio for AI 智能体s. Plan, generate, and edit films on a local-first canvas with your own 模型s and short drama video. (语言: TypeScript) [标签: ai, ai-drama, ai-drama-generator, ai-...",
+      "popularity": {
+        "views": 133,
+        "likes": 133,
+        "comments": 4
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "图像生成",
+          "视频生成"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-12T08:58:24"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 133,
+        "forks": 4,
+        "open_issues": 4,
+        "language": "TypeScript",
+        "license": "mit",
+        "topics": [
+          "ai",
+          "ai-drama",
+          "ai-drama-generator",
+          "ai-video",
+          "ai-video-editing",
+          "open-source",
+          "opencinema",
+          "text-to-image",
+          "text-to-video-generation",
+          "text-to-voice",
+          "video-generation",
+          "workflow"
+        ],
+        "created_at": "2026-10-12T08:58:24Z",
+        "pushed_at": "2026-11-01T05:41:41Z"
+      },
+      "filtered": false,
+      "total_score": 72.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 54.0,
+        "freshness": 60
+      }
+    },
+    {
+      "name": "flohoeller/affectui",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/flohoeller/affectui",
+      "summary": "UI for AI 智能体s. React components for what 智能体s do – 智能体 trees, tool calls, traces, handoffs and approvals – and for the rest of your app. One file each, install with shadcn or via MCP. Free and 开源....",
+      "popularity": {
+        "views": 433,
+        "likes": 433,
+        "comments": 22
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-03T19:58:10"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 433,
+        "forks": 22,
+        "open_issues": 2,
+        "language": "TypeScript",
+        "license": "mit",
+        "topics": [
+          "agent-ui",
+          "ai",
+          "ai-agents",
+          "ai-ui",
+          "animation",
+          "components",
+          "dark-mode",
+          "illustrations",
+          "llm",
+          "mcp",
+          "motion",
+          "nextjs",
+          "react",
+          "react-components",
+          "shadcn",
+          "shadcn-registry",
+          "shadcn-ui",
+          "typescript",
+          "ui-components",
+          "ui-library"
+        ],
+        "created_at": "2026-10-03T19:58:10Z",
+        "pushed_at": "2026-11-02T20:06:39Z"
+      },
+      "filtered": false,
+      "total_score": 71.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 60
+      }
     }
   ],
   "pending_items": [
@@ -1636,70 +1987,6 @@
         "popularity": 100,
         "usability": 60.0,
         "practicality": 61.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "apimart-66/ai-api-aggregator",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/apimart-66/ai-api-aggregator",
-      "summary": "AI API aggregator companion: machine-readable catalog of 300+ 模型s behind one key and one base URL, with routing patterns, cost accounting, OpenAI SDK and curl examples. (语言: Python) [标签: ai-api-agg...",
-      "popularity": {
-        "views": 150,
-        "likes": 150,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "图像生成"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-16T07:17:05"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 150,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "other",
-        "topics": [
-          "ai-api-aggregator",
-          "ai-api-gateway",
-          "api-relay",
-          "apimart",
-          "gpt-image-2-5",
-          "image-2-5",
-          "image2-5",
-          "model-catalog",
-          "openai-compatible",
-          "text-to-image",
-          "unified-ai-api"
-        ],
-        "created_at": "2026-09-16T07:17:05Z",
-        "pushed_at": "2026-10-29T13:11:54Z"
-      },
-      "filtered": false,
-      "total_score": 66.0,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 78.0,
-        "practicality": 50.0,
         "freshness": 20
       }
     },
@@ -2419,70 +2706,6 @@
       }
     },
     {
-      "name": "nihui/qwenimage-ncnn-vulkan",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/nihui/qwenimage-ncnn-vulkan",
-      "summary": "ncnn implementation of Qwen-Image-2.1, with 文生图, image editing, multi-reference image input and transparent RGBA output (语言: C++) [标签: amd, apple, intel, linux, macos]",
-      "popularity": {
-        "views": 329,
-        "likes": 329,
-        "comments": 18
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "图像生成"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-21T11:11:37"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 329,
-        "forks": 18,
-        "open_issues": 9,
-        "language": "C++",
-        "license": "apache-2.0",
-        "topics": [
-          "amd",
-          "apple",
-          "intel",
-          "linux",
-          "macos",
-          "ncnn",
-          "nvidia",
-          "qwen-image",
-          "qwen-image-2-1",
-          "vulkan",
-          "windows"
-        ],
-        "created_at": "2026-09-21T11:11:37Z",
-        "pushed_at": "2026-10-30T11:54:40Z"
-      },
-      "filtered": false,
-      "total_score": 63.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
       "name": "tigerless-labs/agent-memory",
       "type": "tool",
       "platform": "GitHub",
@@ -2801,269 +3024,6 @@
       }
     },
     {
-      "name": "nanaism/yomiyasu",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/nanaism/yomiyasu",
-      "summary": "AI生成の日本語を自然な日本語へ推敲する智能体 Skill / 智能体 Skill for Refining AI-Generated Japanese into Natural Japanese (语言: Python) [标签: agent-skills, ai-writing, antigravity, claude-code, codex]",
-      "popularity": {
-        "views": 2793,
-        "likes": 2793,
-        "comments": 73
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent",
-          "自然语言处理",
-          "代码生成"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-09-30T11:49:32"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 2793,
-        "forks": 73,
-        "open_issues": 1,
-        "language": "Python",
-        "license": "mit",
-        "topics": [
-          "agent-skills",
-          "ai-writing",
-          "antigravity",
-          "claude-code",
-          "codex",
-          "cursor",
-          "gemini",
-          "japanese",
-          "linter",
-          "llm",
-          "nlp",
-          "writing",
-          "writing-assistant",
-          "writing-tool"
-        ],
-        "created_at": "2026-09-30T11:49:32Z",
-        "pushed_at": "2026-10-31T16:37:35Z"
-      },
-      "filtered": false,
-      "total_score": 64.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 60.0,
-        "practicality": 63.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "salikhussain71-code/PAKGOV-RAG-project",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/salikhussain71-code/PAKGOV-RAG-project",
-      "summary": "研究 project on bilingual Urdu-English 检索-augmented 生成 for Pakistani government and legal documents, with OCR, hybrid 检索, citation grounding, and 评估. (语言: Python) [标签: artificial-intelligence, inform...",
-      "popularity": {
-        "views": 129,
-        "likes": 129,
-        "comments": 5
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "检索增强生成",
-          "自然语言处理"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-17T10:31:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 129,
-        "forks": 5,
-        "open_issues": 2,
-        "language": "Python",
-        "license": "mit",
-        "topics": [
-          "artificial-intelligence",
-          "information-retrieval",
-          "legal-nlp",
-          "low-resource-languages",
-          "nlp",
-          "ocr",
-          "rag",
-          "retrieval-augmented-generation",
-          "transformers",
-          "urdu-nlp"
-        ],
-        "created_at": "2026-09-17T10:31:00Z",
-        "pushed_at": "2026-10-28T11:51:52Z"
-      },
-      "filtered": false,
-      "total_score": 64.25,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 52.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "amitshekhariitbhu/ai-engineering-course",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/amitshekhariitbhu/ai-engineering-course",
-      "summary": "AI Engineering Course - A free and complete AI Engineering Course to learn AI Engineering step by step - from 机器学习, Neural Networks, and Transformers to LLMs, 微调, RAG, AI 智能体s, LLM 推理, 评估, AI Safet...",
-      "popularity": {
-        "views": 617,
-        "likes": 617,
-        "comments": 119
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "检索增强生成",
-          "AI Agent",
-          "模型微调"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-09-23T08:04:42"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 617,
-        "forks": 119,
-        "open_issues": 0,
-        "language": "Markdown",
-        "license": "apache-2.0",
-        "topics": [
-          "ai-course",
-          "ai-engineering",
-          "ai-engineering-course",
-          "ai-engineering-curriculum",
-          "large-language-models"
-        ],
-        "created_at": "2026-09-23T08:04:42Z",
-        "pushed_at": "2026-11-01T07:02:34Z"
-      },
-      "filtered": false,
-      "total_score": 63.0,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 53.0,
-        "practicality": 63.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "google/elephant-goldfish-model",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/google/elephant-goldfish-model",
-      "summary": "Open-source skills for designing and reviewing software with AI 智能体s (语言: Python) [标签: agent-skills, ai-agents, antigravity, claude-code, claude-code-plugin]",
-      "popularity": {
-        "views": 8902,
-        "likes": 8902,
-        "comments": 563
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent",
-          "代码生成"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-09-13T16:31:06"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 8902,
-        "forks": 563,
-        "open_issues": 74,
-        "language": "Python",
-        "license": "apache-2.0",
-        "topics": [
-          "agent-skills",
-          "ai-agents",
-          "antigravity",
-          "claude-code",
-          "claude-code-plugin",
-          "claude-skills",
-          "codex",
-          "codex-plugin",
-          "coding-agents",
-          "context-engineering",
-          "developer-tools",
-          "gemini",
-          "llm",
-          "multi-agent",
-          "prompt-engineering",
-          "spec-driven-development"
-        ],
-        "created_at": "2026-09-13T16:31:06Z",
-        "pushed_at": "2026-11-01T13:38:10Z"
-      },
-      "filtered": false,
-      "total_score": 62.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 53.0,
-        "practicality": 61.0,
-        "freshness": 20
-      }
-    },
-    {
       "name": "datasifaw/dataiku-projet-bancaire-analytics",
       "type": "tool",
       "platform": "GitHub",
@@ -3131,73 +3091,6 @@
         "popularity": 99.99000000000001,
         "usability": 53.0,
         "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "BlueRingsLabs/no-shortcuts",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/BlueRingsLabs/no-shortcuts",
-      "summary": "Free Course : Data, 机器学习, 深度学习 and AI Engineering, the long way round: the math, the code, the systems and the 安全. 173 lessons, 166 runnable labs, no shortcuts. Free under CC BY-NC 4.0. (语言: Python...",
-      "popularity": {
-        "views": 166,
-        "likes": 166,
-        "comments": 30
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "检索增强生成",
-          "代码生成",
-          "数据处理"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-26T19:49:54"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 166,
-        "forks": 30,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "other",
-        "topics": [
-          "ai-engineering",
-          "course",
-          "data-engineering",
-          "deep-learning",
-          "llm",
-          "machine-learning",
-          "mlops",
-          "python",
-          "pytorch",
-          "rag",
-          "reinforcement-learning",
-          "security"
-        ],
-        "created_at": "2026-09-26T19:49:54Z",
-        "pushed_at": "2026-10-28T22:41:02Z"
-      },
-      "filtered": false,
-      "total_score": 58.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 44.0,
-        "practicality": 54.0,
         "freshness": 20
       }
     },
@@ -3740,6 +3633,802 @@
         "popularity": 53.53000000000001,
         "usability": 53.0,
         "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "WaEnhancerX/WaEnhancerX",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/WaEnhancerX/WaEnhancerX",
+      "summary": "WaEnhancer X - An open-source Xposed/LSPosed module for WhatsApp & WhatsApp Business with 隐私 tools, anti-delete, view-once media, Meta AI removal, and UI customization. (语言: Kotlin) [标签: android, a...",
+      "popularity": {
+        "views": 334,
+        "likes": 334,
+        "comments": 10
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "通用AI应用"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-07T12:29:05"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 334,
+        "forks": 10,
+        "open_issues": 35,
+        "language": "Kotlin",
+        "license": "apache-2.0",
+        "topics": [
+          "android",
+          "android-customization",
+          "kernelsu",
+          "lsposed",
+          "lsposed-module",
+          "magisk",
+          "mubashardev",
+          "wae",
+          "waenhancer",
+          "waenhancerx",
+          "waex",
+          "whatsapp",
+          "whatsapp-mod",
+          "whatsapp-module",
+          "whatsapp-privacy",
+          "xposed",
+          "xposed-module",
+          "xposedmodule"
+        ],
+        "created_at": "2026-10-07T12:29:05Z",
+        "pushed_at": "2026-10-29T18:23:11Z"
+      },
+      "filtered": false,
+      "total_score": 67.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 53.0,
+        "practicality": 50.0,
+        "freshness": 60
+      }
+    },
+    {
+      "name": "ThinkWatchProject/ThinkWatch-Lite",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/ThinkWatchProject/ThinkWatch-Lite",
+      "summary": "Local gateway for Claude Code, Codex and other AI clients on macOS, Windows and Linux: switch upstreams without touching clients, keep API keys from relays, cut off malicious tool calls, trace ever...",
+      "popularity": {
+        "views": 545,
+        "likes": 545,
+        "comments": 8
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "代码生成"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-09-12T13:48:15"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 545,
+        "forks": 8,
+        "open_issues": 0,
+        "language": "TypeScript",
+        "license": "mit",
+        "topics": [
+          "ai-gateway",
+          "anthropic",
+          "claude-code",
+          "codex",
+          "cost-monitoring",
+          "cost-tracking",
+          "cross-platform",
+          "linux",
+          "llm-cost",
+          "llm-gateway",
+          "llm-observability",
+          "llm-proxy",
+          "llm-usage",
+          "macos",
+          "openai",
+          "secret-redaction",
+          "system-tray",
+          "token-usage",
+          "usage-tracking",
+          "windows"
+        ],
+        "created_at": "2026-09-12T13:48:15Z",
+        "pushed_at": "2026-11-02T07:52:34Z"
+      },
+      "filtered": false,
+      "total_score": 66.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 59.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "apimart-66/ai-api-aggregator",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/apimart-66/ai-api-aggregator",
+      "summary": "AI API aggregator companion: machine-readable catalog of 300+ 模型s behind one key and one base URL, with routing patterns, cost accounting, OpenAI SDK and curl examples. (语言: Python) [标签: ai-api-agg...",
+      "popularity": {
+        "views": 150,
+        "likes": 150,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "图像生成"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-16T07:17:05"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 150,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "other",
+        "topics": [
+          "ai-api-aggregator",
+          "ai-api-gateway",
+          "api-relay",
+          "apimart",
+          "gpt-image-2-5",
+          "image-2-5",
+          "image2-5",
+          "model-catalog",
+          "openai-compatible",
+          "text-to-image",
+          "unified-ai-api"
+        ],
+        "created_at": "2026-09-16T07:17:05Z",
+        "pushed_at": "2026-11-02T16:09:16Z"
+      },
+      "filtered": false,
+      "total_score": 66.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 78.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "apimart-API-Gateway/grok-image-api",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/apimart-API-Gateway/grok-image-api",
+      "summary": "Grok Image API (Grok Imagine 1.5, grok-imagine-1.5-apimart): 模型 ids, per-image pricing, 文生图 and edit routes, moderation behaviour and runnable API examples. (语言: Python) [标签: ai-api-gateway, ai-ima...",
+      "popularity": {
+        "views": 145,
+        "likes": 145,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "图像生成"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-17T10:26:41"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 145,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "other",
+        "topics": [
+          "ai-api-gateway",
+          "ai-image-api",
+          "apimart",
+          "grok-image",
+          "grok-image-api",
+          "grok-imagine",
+          "grok-imagine-api",
+          "image-api",
+          "image-generation",
+          "text-to-image"
+        ],
+        "created_at": "2026-09-17T10:26:41Z",
+        "pushed_at": "2026-11-02T16:05:37Z"
+      },
+      "filtered": false,
+      "total_score": 66.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 78.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "apimart-awesome-ai-api-proxy/nano-banana-pro-api",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/apimart-awesome-ai-api-proxy/nano-banana-pro-api",
+      "summary": "Nano Banana Pro API (gemini-3-pro-image-preview): 模型 id, per-image pricing, aspect ratios, resolution tiers, curl, Python and JavaScript examples with async task polling. (语言: Python) [标签: ai-api-g...",
+      "popularity": {
+        "views": 139,
+        "likes": 139,
+        "comments": 3
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "图像生成"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-17T10:10:06"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 139,
+        "forks": 3,
+        "open_issues": 1,
+        "language": "Python",
+        "license": "other",
+        "topics": [
+          "ai-api-gateway",
+          "ai-image-api",
+          "apimart",
+          "gemini-3-pro-image",
+          "gemini-image",
+          "image-api",
+          "image-generation",
+          "nano-banana-pro",
+          "nano-banana-pro-api",
+          "text-to-image"
+        ],
+        "created_at": "2026-09-17T10:10:06Z",
+        "pushed_at": "2026-11-02T15:56:49Z"
+      },
+      "filtered": false,
+      "total_score": 66.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 78.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "nanaism/yomiyasu",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/nanaism/yomiyasu",
+      "summary": "AI生成の日本語を自然な日本語へ推敲する智能体 Skill / 智能体 Skill for Refining AI-Generated Japanese into Natural Japanese (语言: Python) [标签: agent-skills, ai-writing, antigravity, claude-code, codex]",
+      "popularity": {
+        "views": 2813,
+        "likes": 2813,
+        "comments": 73
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "自然语言处理",
+          "代码生成"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-09-30T11:49:32"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 2813,
+        "forks": 73,
+        "open_issues": 1,
+        "language": "Python",
+        "license": "mit",
+        "topics": [
+          "agent-skills",
+          "ai-writing",
+          "antigravity",
+          "claude-code",
+          "codex",
+          "cursor",
+          "gemini",
+          "japanese",
+          "linter",
+          "llm",
+          "nlp",
+          "writing",
+          "writing-assistant",
+          "writing-tool"
+        ],
+        "created_at": "2026-09-30T11:49:32Z",
+        "pushed_at": "2026-10-31T16:37:35Z"
+      },
+      "filtered": false,
+      "total_score": 64.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 60.0,
+        "practicality": 63.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "salikhussain71-code/PAKGOV-RAG-project",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/salikhussain71-code/PAKGOV-RAG-project",
+      "summary": "研究 project on bilingual Urdu-English 检索-augmented 生成 for Pakistani government and legal documents, with OCR, hybrid 检索, citation grounding, and 评估. (语言: Python) [标签: artificial-intelligence, inform...",
+      "popularity": {
+        "views": 130,
+        "likes": 130,
+        "comments": 5
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "检索增强生成",
+          "自然语言处理"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-17T10:31:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 130,
+        "forks": 5,
+        "open_issues": 2,
+        "language": "Python",
+        "license": "mit",
+        "topics": [
+          "artificial-intelligence",
+          "information-retrieval",
+          "legal-nlp",
+          "low-resource-languages",
+          "nlp",
+          "ocr",
+          "rag",
+          "retrieval-augmented-generation",
+          "transformers",
+          "urdu-nlp"
+        ],
+        "created_at": "2026-09-17T10:31:00Z",
+        "pushed_at": "2026-11-02T12:36:23Z"
+      },
+      "filtered": false,
+      "total_score": 64.25,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 52.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "abacusai/abacusai-bot",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/abacusai/abacusai-bot",
+      "summary": "100% free, open-source personal 智能体s for your messaging apps, tools, and services (语言: TypeScript) [标签: agent, ai, ai-agents, android, cli]",
+      "popularity": {
+        "views": 427,
+        "likes": 427,
+        "comments": 62
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-11T07:04:16"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 427,
+        "forks": 62,
+        "open_issues": 23,
+        "language": "TypeScript",
+        "license": "mit",
+        "topics": [
+          "agent",
+          "ai",
+          "ai-agents",
+          "android",
+          "cli",
+          "coding-agent",
+          "developer-tools",
+          "electron",
+          "ios",
+          "llm",
+          "local-llm",
+          "mcp",
+          "openrouter",
+          "sandbox",
+          "typescript"
+        ],
+        "created_at": "2026-09-11T07:04:16Z",
+        "pushed_at": "2026-11-02T18:01:16Z"
+      },
+      "filtered": false,
+      "total_score": 63.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "nihui/qwenimage-ncnn-vulkan",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/nihui/qwenimage-ncnn-vulkan",
+      "summary": "ncnn implementation of Qwen-Image-2.1, with 文生图, image editing, multi-reference image input and transparent RGBA output (语言: C++) [标签: amd, apple, intel, linux, macos]",
+      "popularity": {
+        "views": 330,
+        "likes": 330,
+        "comments": 18
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "图像生成"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-21T11:11:37"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 330,
+        "forks": 18,
+        "open_issues": 8,
+        "language": "C++",
+        "license": "apache-2.0",
+        "topics": [
+          "amd",
+          "apple",
+          "intel",
+          "linux",
+          "macos",
+          "ncnn",
+          "nvidia",
+          "qwen-image",
+          "qwen-image-2-1",
+          "vulkan",
+          "windows"
+        ],
+        "created_at": "2026-09-21T11:11:37Z",
+        "pushed_at": "2026-11-02T06:29:35Z"
+      },
+      "filtered": false,
+      "total_score": 63.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "amitshekhariitbhu/ai-engineering-course",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/amitshekhariitbhu/ai-engineering-course",
+      "summary": "AI Engineering Course - A free and complete AI Engineering Course to learn AI Engineering step by step - from 机器学习, Neural Networks, and Transformers to LLMs, 微调, RAG, AI 智能体s, LLM 推理, 评估, AI Safet...",
+      "popularity": {
+        "views": 625,
+        "likes": 625,
+        "comments": 122
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "检索增强生成",
+          "AI Agent",
+          "模型微调"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-09-23T08:04:42"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 625,
+        "forks": 122,
+        "open_issues": 0,
+        "language": "Markdown",
+        "license": "apache-2.0",
+        "topics": [
+          "ai-course",
+          "ai-engineering",
+          "ai-engineering-course",
+          "ai-engineering-curriculum",
+          "large-language-models"
+        ],
+        "created_at": "2026-09-23T08:04:42Z",
+        "pushed_at": "2026-11-02T04:20:30Z"
+      },
+      "filtered": false,
+      "total_score": 63.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 53.0,
+        "practicality": 63.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "google/elephant-goldfish-model",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/google/elephant-goldfish-model",
+      "summary": "Open-source skills for designing and reviewing software with AI 智能体s (语言: Python) [标签: agent-skills, ai-agents, antigravity, claude-code, claude-code-plugin]",
+      "popularity": {
+        "views": 10581,
+        "likes": 10581,
+        "comments": 703
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "代码生成"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-09-13T16:31:06"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 10581,
+        "forks": 703,
+        "open_issues": 64,
+        "language": "Python",
+        "license": "apache-2.0",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "antigravity",
+          "claude-code",
+          "claude-code-plugin",
+          "claude-skills",
+          "codex",
+          "codex-plugin",
+          "coding-agents",
+          "context-engineering",
+          "developer-tools",
+          "gemini",
+          "llm",
+          "multi-agent",
+          "prompt-engineering",
+          "spec-driven-development"
+        ],
+        "created_at": "2026-09-13T16:31:06Z",
+        "pushed_at": "2026-11-02T22:59:27Z"
+      },
+      "filtered": false,
+      "total_score": 62.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 53.0,
+        "practicality": 61.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "BlueRingsLabs/no-shortcuts",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/BlueRingsLabs/no-shortcuts",
+      "summary": "Free Course : Data, 机器学习, 深度学习 and AI Engineering, the long way round: the math, the code, the systems and the 安全. 173 lessons, 166 runnable labs, no shortcuts. Free under CC BY-NC 4.0. (语言: Python...",
+      "popularity": {
+        "views": 170,
+        "likes": 170,
+        "comments": 30
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "检索增强生成",
+          "代码生成",
+          "数据处理"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-26T19:49:54"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 170,
+        "forks": 30,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "other",
+        "topics": [
+          "ai-engineering",
+          "course",
+          "data-engineering",
+          "deep-learning",
+          "llm",
+          "machine-learning",
+          "mlops",
+          "python",
+          "pytorch",
+          "rag",
+          "reinforcement-learning",
+          "security"
+        ],
+        "created_at": "2026-09-26T19:49:54Z",
+        "pushed_at": "2026-10-28T22:41:02Z"
+      },
+      "filtered": false,
+      "total_score": 58.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 44.0,
+        "practicality": 54.0,
         "freshness": 20
       }
     }
