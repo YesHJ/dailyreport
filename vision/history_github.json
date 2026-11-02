@@ -1169,6 +1169,290 @@
         "practicality": 50.0,
         "freshness": 80
       }
+    },
+    {
+      "name": "neuroailab/psi-0.6",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/neuroailab/psi-0.6",
+      "summary": "Paper: \"Ψ-0.6: Adaptive Streams of Thought in a Unified Vision- Language World 模型\"",
+      "popularity": {
+        "views": 21,
+        "likes": 21,
+        "comments": 2
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "机器视觉应用"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-26T00:52:17"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 21,
+        "forks": 2,
+        "open_issues": 0,
+        "language": "",
+        "license": "mit",
+        "topics": [],
+        "created_at": "2026-10-26T00:52:17Z",
+        "pushed_at": "2026-10-26T18:29:26Z"
+      },
+      "filtered": false,
+      "total_score": 52.86,
+      "detail_scores": {
+        "popularity": 31.21,
+        "usability": 60.0,
+        "practicality": 50.0,
+        "freshness": 80
+      }
+    },
+    {
+      "name": "Gabedevz/haiku-bridge-trainer",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/Gabedevz/haiku-bridge-trainer",
+      "summary": "Bax: Flexible JAX and Haiku Trainer Interface for Scalable 深度学习 2026 (语言: HTML) [标签: boilerplate, dm-haiku, jax, trainer]",
+      "popularity": {
+        "views": 56,
+        "likes": 56,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "深度学习"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-21T20:54:20"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 56,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "HTML",
+        "license": "",
+        "topics": [
+          "boilerplate",
+          "dm-haiku",
+          "jax",
+          "trainer"
+        ],
+        "created_at": "2026-09-21T20:54:20Z",
+        "pushed_at": "2026-11-02T17:50:28Z"
+      },
+      "filtered": false,
+      "total_score": 50.72,
+      "detail_scores": {
+        "popularity": 56.56,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "mhdijas-2001/torch-hydra-forge",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/mhdijas-2001/torch-hydra-forge",
+      "summary": "PyTorch Hydra Boilerplate 2026: Best 开源 深度学习 Project Template (语言: HTML) [标签: boilerplate, boilerplate-template, deep-learning, hydra, machine-learning]",
+      "popularity": {
+        "views": 53,
+        "likes": 53,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "深度学习"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-21T22:12:49"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 53,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "HTML",
+        "license": "",
+        "topics": [
+          "boilerplate",
+          "boilerplate-template",
+          "deep-learning",
+          "hydra",
+          "machine-learning",
+          "pytorch",
+          "trainer",
+          "yaml"
+        ],
+        "created_at": "2026-09-21T22:12:49Z",
+        "pushed_at": "2026-11-02T21:02:29Z"
+      },
+      "filtered": false,
+      "total_score": 49.81,
+      "detail_scores": {
+        "popularity": 53.53000000000001,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "nhatphonghoang35-collab/yaket-keras-trainer",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/nhatphonghoang35-collab/yaket-keras-trainer",
+      "summary": "YAML Keras Trainer 2026: Lightweight Config-Driven 深度学习 模型s Made Simple (语言: HTML) [标签: deeplearning, keras-tensorflow, tensorflow2, trainer]",
+      "popularity": {
+        "views": 53,
+        "likes": 53,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "深度学习"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-21T22:53:42"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 53,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "HTML",
+        "license": "",
+        "topics": [
+          "deeplearning",
+          "keras-tensorflow",
+          "tensorflow2",
+          "trainer"
+        ],
+        "created_at": "2026-09-21T22:53:42Z",
+        "pushed_at": "2026-11-02T17:58:31Z"
+      },
+      "filtered": false,
+      "total_score": 49.81,
+      "detail_scores": {
+        "popularity": 53.53000000000001,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "nicklucenasantanalucenasant-maker/yapt-core",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/nicklucenasantanalucenasant-maker/yapt-core",
+      "summary": "YAPT 2026: Modern PyTorch 训练 框架 for Faster 深度学习 Workflows (语言: HTML) [标签: deep-learning, neptune-ai, pytorch, trainer]",
+      "popularity": {
+        "views": 53,
+        "likes": 53,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "深度学习"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-21T22:54:48"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 53,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "HTML",
+        "license": "",
+        "topics": [
+          "deep-learning",
+          "neptune-ai",
+          "pytorch",
+          "trainer"
+        ],
+        "created_at": "2026-09-21T22:54:48Z",
+        "pushed_at": "2026-11-02T17:53:55Z"
+      },
+      "filtered": false,
+      "total_score": 45.81,
+      "detail_scores": {
+        "popularity": 53.53000000000001,
+        "usability": 53.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
     }
   ],
   "pending_items": [
@@ -2232,290 +2516,6 @@
       }
     },
     {
-      "name": "neuroailab/psi-0.6",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/neuroailab/psi-0.6",
-      "summary": "Paper: \"Ψ-0.6: Adaptive Streams of Thought in a Unified Vision- Language World 模型\"",
-      "popularity": {
-        "views": 20,
-        "likes": 20,
-        "comments": 2
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "机器视觉应用"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-10-26T00:52:17"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 20,
-        "forks": 2,
-        "open_issues": 0,
-        "language": "",
-        "license": "mit",
-        "topics": [],
-        "created_at": "2026-10-26T00:52:17Z",
-        "pushed_at": "2026-10-26T18:29:26Z"
-      },
-      "filtered": false,
-      "total_score": 52.56,
-      "detail_scores": {
-        "popularity": 30.2,
-        "usability": 60.0,
-        "practicality": 50.0,
-        "freshness": 80
-      }
-    },
-    {
-      "name": "Gabedevz/haiku-bridge-trainer",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/Gabedevz/haiku-bridge-trainer",
-      "summary": "Bax: Flexible JAX and Haiku Trainer Interface for Scalable 深度学习 2026 (语言: HTML) [标签: boilerplate, dm-haiku, jax, trainer]",
-      "popularity": {
-        "views": 56,
-        "likes": 56,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "深度学习"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-21T20:54:20"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 56,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "HTML",
-        "license": "",
-        "topics": [
-          "boilerplate",
-          "dm-haiku",
-          "jax",
-          "trainer"
-        ],
-        "created_at": "2026-09-21T20:54:20Z",
-        "pushed_at": "2026-11-01T20:12:21Z"
-      },
-      "filtered": false,
-      "total_score": 50.72,
-      "detail_scores": {
-        "popularity": 56.56,
-        "usability": 69.0,
-        "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "mhdijas-2001/torch-hydra-forge",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/mhdijas-2001/torch-hydra-forge",
-      "summary": "PyTorch Hydra Boilerplate 2026: Best 开源 深度学习 Project Template (语言: HTML) [标签: boilerplate, boilerplate-template, deep-learning, hydra, machine-learning]",
-      "popularity": {
-        "views": 53,
-        "likes": 53,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "深度学习"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-21T22:12:49"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 53,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "HTML",
-        "license": "",
-        "topics": [
-          "boilerplate",
-          "boilerplate-template",
-          "deep-learning",
-          "hydra",
-          "machine-learning",
-          "pytorch",
-          "trainer",
-          "yaml"
-        ],
-        "created_at": "2026-09-21T22:12:49Z",
-        "pushed_at": "2026-11-01T23:20:37Z"
-      },
-      "filtered": false,
-      "total_score": 49.81,
-      "detail_scores": {
-        "popularity": 53.53000000000001,
-        "usability": 69.0,
-        "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "nhatphonghoang35-collab/yaket-keras-trainer",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/nhatphonghoang35-collab/yaket-keras-trainer",
-      "summary": "YAML Keras Trainer 2026: Lightweight Config-Driven 深度学习 模型s Made Simple (语言: HTML) [标签: deeplearning, keras-tensorflow, tensorflow2, trainer]",
-      "popularity": {
-        "views": 53,
-        "likes": 53,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "深度学习"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-21T22:53:42"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 53,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "HTML",
-        "license": "",
-        "topics": [
-          "deeplearning",
-          "keras-tensorflow",
-          "tensorflow2",
-          "trainer"
-        ],
-        "created_at": "2026-09-21T22:53:42Z",
-        "pushed_at": "2026-11-01T20:59:20Z"
-      },
-      "filtered": false,
-      "total_score": 49.81,
-      "detail_scores": {
-        "popularity": 53.53000000000001,
-        "usability": 69.0,
-        "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "nicklucenasantanalucenasant-maker/yapt-core",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/nicklucenasantanalucenasant-maker/yapt-core",
-      "summary": "YAPT 2026: Modern PyTorch 训练 框架 for Faster 深度学习 Workflows (语言: HTML) [标签: deep-learning, neptune-ai, pytorch, trainer]",
-      "popularity": {
-        "views": 53,
-        "likes": 53,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "深度学习"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-21T22:54:48"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 53,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "HTML",
-        "license": "",
-        "topics": [
-          "deep-learning",
-          "neptune-ai",
-          "pytorch",
-          "trainer"
-        ],
-        "created_at": "2026-09-21T22:54:48Z",
-        "pushed_at": "2026-11-01T20:16:58Z"
-      },
-      "filtered": false,
-      "total_score": 45.81,
-      "detail_scores": {
-        "popularity": 53.53000000000001,
-        "usability": 53.0,
-        "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
       "name": "llada60/3DHarnessBench",
       "type": "tool",
       "platform": "GitHub",
@@ -2563,6 +2563,59 @@
       "total_score": 38.36,
       "detail_scores": {
         "popularity": 21.21,
+        "usability": 60.0,
+        "practicality": 52.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "jonasherminiodev/resnet152v2-skin-cancer-ham10000",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/jonasherminiodev/resnet152v2-skin-cancer-ham10000",
+      "summary": "🔬 Aplicação Web (Flask + SQLAlchemy) integrada a 深度学习 (ResNet152V2 / Keras) para auxílio ao diagnóstico de câncer de pele (数据集 HAM10000), com 99,01% de acurácia e inferência em 1,17s. (语言: JavaScript)",
+      "popularity": {
+        "views": 18,
+        "likes": 18,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "数据集",
+          "深度学习"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-27T01:46:43"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 18,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "JavaScript",
+        "license": "",
+        "topics": [],
+        "created_at": "2026-09-27T01:46:43Z",
+        "pushed_at": "2026-10-29T01:19:55Z"
+      },
+      "filtered": false,
+      "total_score": 37.45,
+      "detail_scores": {
+        "popularity": 18.18,
         "usability": 60.0,
         "practicality": 52.0,
         "freshness": 20
