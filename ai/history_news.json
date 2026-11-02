@@ -1049,6 +1049,225 @@
         "practicality": 62.0,
         "freshness": 100
       }
+    },
+    {
+      "name": "2026 AI 开发工具选型指南：从需求、设计到编码，每个阶段该用什么？",
+      "type": "news",
+      "platform": "CSDN",
+      "url": "https://blog.csdn.net/m0_37988015/article/details/169843920",
+      "summary": "按需求分析、方案设计、编码实现三个阶段梳理 AI 工具搭配，给出 ChatGPT、Claude、DeepSeek、Kimi 等模型的适用场景与分步骤提示词用法，强调工具要嵌入完整研发流程而非单点写代码。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "开发流程",
+          "效率工具",
+          "大模型"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-02T12:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 59.75,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 78.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "2026年11月02日 AI 行业日报：商汤开源 Loop-9B、Pika 发布 H3 Flex、Meta×傅利叶人形机器人 Max",
+      "type": "news",
+      "platform": "CSDN",
+      "url": "https://blog.csdn.net/Smoothly_Lu/article/details/169820519",
+      "summary": "汇总 11 月 2 日 AI 动态：商汤 Loop-9B 循环架构开源；Pika 基于 MiniMax H3 开源 H3 Flex 音视频联合生成模型，6 步去噪输出带立体声的 5-15 秒视频；OpenAI 拟 12 月合并 Chat 与 Codex 统一 Token 配额。",
+      "popularity": {
+        "views": 380,
+        "likes": 4,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "大模型",
+          "行业动态",
+          "多模态"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-02T09:19:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 58.34,
+      "detail_scores": {
+        "popularity": 7.800000000000001,
+        "usability": 81.0,
+        "practicality": 63.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "AI 日报（2026年11月1日）：模型开源与工程实践要点",
+      "type": "news",
+      "platform": "掘金",
+      "url": "https://juejin.cn/post/7702660318472224802",
+      "summary": "开发者向 AI 日报，覆盖 arXiv 统一极大似然全生命周期训练研究、国产大模型自我改进工程实践，以及开源工具与产业动态，适合作为每日技术雷达速览。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "大模型",
+          "开发工具",
+          "论文"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-01T20:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 56.0,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 63.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "GitHub 开源热榜项目·周榜（2026-10-26 ~ 2026-11-01）",
+      "type": "news",
+      "platform": "CSDN",
+      "url": "https://blog.csdn.net/nmy_2360/article/details/169812966",
+      "summary": "人工整理上周 GitHub 热门的 18 个开源项目，累计约 3.4 万 Star，主线为 AI 创作工具链与实用知识资产，附 star 增量、语言与用途说明，适合快速筛选值得试用的新项目。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "开源工具",
+          "AI Agent"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-02T08:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 55.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 61.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "商汤开源 SenseNova Loop-9B-Preview：Looped Transformer，9B 参数对标 27B",
+      "type": "news",
+      "platform": "IT之家",
+      "url": "https://www.ithome.com/1/020/973.htm",
+      "summary": "商汤开源日日新 SenseNova Loop-9B-Preview，采用 Looped Transformer 循环计算架构，在 9B 参数规模下宣称媲美 27B 模型。Apache 2.0 可商用，支持 262144 token 长上下文，GGUF Q8_0 量化约 8.9GB，16GB 显存即可本地部署。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "大模型",
+          "本地部署",
+          "AI Agent"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-02T10:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 54.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 69.0,
+        "practicality": 69.0,
+        "freshness": 100
+      }
     }
   ],
   "pending_items": [
@@ -1271,6 +1490,50 @@
         "usability": 44.0,
         "practicality": 56.0,
         "freshness": 80
+      }
+    },
+    {
+      "name": "小米开源了个 150 元的 AI 小玩意，能指挥 Agent 干活还能控制智能家居",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/11/507107.html",
+      "summary": "小米开源低价 AI 桌宠硬件 Hachimo Dock，售价约 150 元，可作为本地入口调度 Agent 完成任务并联动智能家居设备，开源后热度带动配件涨价，适合做端侧 AI 交互原型。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI硬件",
+          "智能体",
+          "端侧部署"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-02T16:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 46.25,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 60.0,
+        "practicality": 45.0,
+        "freshness": 100
       }
     }
   ]
