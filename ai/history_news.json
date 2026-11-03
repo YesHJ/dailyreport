@@ -1268,6 +1268,221 @@
         "practicality": 69.0,
         "freshness": 100
       }
+    },
+    {
+      "name": "AI 资讯日报 | 2026年11月3日：美团发布1.6万亿参数国产算力大模型，乌镇峰会千项AI成果亮相",
+      "type": "news",
+      "platform": "CSDN",
+      "url": "https://blog.csdn.net/IT_ORACLE/article/details/169905182",
+      "summary": "当日国内AI要闻汇总：美团LongCat-2.5主打长程智能体任务并针对国产显存重构并行策略，微软开发者大会连发AI新品，杭州发布人形机器人与开源智能体合规指引。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "大模型",
+          "行业动态"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-03T08:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 59.25,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 76.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "2026年11月03日 AI 行业日报｜美团 LongCat-2.5 发布、Anthropic 披露 RSI 风险、大华拿下 26.3 亿算力大单",
+      "type": "news",
+      "platform": "CSDN",
+      "url": "https://blog.csdn.net/Smoothly_Lu/article/details/169922592",
+      "summary": "以国产大模型工程优化与系统性风险为主线的行业日报：美团发布长程智能体多模态模型LongCat-2.5，Anthropic在修订招股书中警示递归自我改进能力临近突破，算力订单持续落地。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "大模型",
+          "行业动态"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-03T09:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 59.25,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 76.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "乌镇峰会观察：中国开源AI大模型持续“圈粉”",
+      "type": "news",
+      "platform": "新浪科技",
+      "url": "http://finance.sina.com.cn/roll/2026-11-03/doc-inixnpzt8587079.shtml",
+      "summary": "2026世界互联网大会乌镇峰会开幕，开源生态成焦点。DeepSeek等中国开源大模型以高性能、低价格降低应用门槛，OpenRouter最新周榜调用量前两名均为DeepSeek版本模型。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "大模型",
+          "开源生态"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-03T18:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 59.25,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 76.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "AI科技每日简报 | 2026年11月2日",
+      "type": "news",
+      "platform": "今日头条",
+      "url": "https://www.toutiao.com/a7703384022558179876/",
+      "summary": "简报梳理当日要点：DeepSeek公布Super Agent架构并开源常驻Agent底座，把长期运行、记忆与工具调用做成基础设施；Mistral开源万亿参数多模态模型Large 4，开源闭源差距收窄。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "大模型",
+          "AI Agent"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-02T08:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 59.25,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 76.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "腾讯研究院AI速递 20261104",
+      "type": "news",
+      "platform": "搜狐科技",
+      "url": "https://m.sohu.com/a/1096760389_455313/",
+      "summary": "当日AI要点速递：人大复旦CoworkOS打造可跨会话持续干活的AI同事；百度披露全模态世界模型Apollo World，提出因果性、交互性等“2+3”标准，虚拟城市中交通参与者均为AI智能体。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "行业动态",
+          "大模型"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-04T07:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 59.25,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 76.0,
+        "freshness": 100
+      }
     }
   ],
   "pending_items": [
@@ -1533,6 +1748,264 @@
         "popularity": 0.0,
         "usability": 60.0,
         "practicality": 45.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "邦早报：美团发布LongCat-2.5、MiniMax冲进全球AI大模型周Token调用榜第八",
+      "type": "news",
+      "platform": "网易科技",
+      "url": "https://www.163.com/dy/article/LAQ1FPI405119C3G.html",
+      "summary": "美团LongCat-2.5总参数1.6万亿、每token激活约480亿，强化原生视觉理解与智能体编程；OpenRouter测算上周全球大模型调用量194万亿Token，环比增3.19%，国产模型份额继续上升。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "大模型",
+          "行业动态"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-03T09:36:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 59.25,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 76.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "新浪AI热点小时报丨2026年11月04日01时 今日实时AI热点速递",
+      "type": "news",
+      "platform": "新浪科技",
+      "url": "https://k.sina.cn/article_7857201856_1d45362c001908tje0.html?from=tech",
+      "summary": "小时级AI热点聚合：乌镇峰会聚焦开源大模型普惠与安全治理，GPT-6.2 Astra与Claude Mythos 5.5同日曝光引发11月旗舰模型集中更新预期，我国AI推理数据量首超训练数据量。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "行业动态",
+          "大模型"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-04T01:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 59.25,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 76.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "Harness Engineering 元年：AI Agent 从「能跑」走向「可控交付」的工程门禁实践",
+      "type": "news",
+      "platform": "CSDN",
+      "url": "https://blog.csdn.net/m0_74899094/article/details/169730002",
+      "summary": "提出Agent上生产的四层递进门禁：识别演示环境差距、写操作人工审批与凭证脱敏、Loop与多智能体编排控制、技能化与记忆分层治理，并给出16条生产就绪自查清单。",
+      "popularity": {
+        "views": 390,
+        "likes": 9,
+        "comments": 1
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "AI Agent",
+          "工程实践"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-01T10:17:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 57.62,
+      "detail_scores": {
+        "popularity": 17.9,
+        "usability": 69.0,
+        "practicality": 76.0,
+        "freshness": 80
+      }
+    },
+    {
+      "name": "每日摘要 | AI追踪 | 2026.11.02：一夜之间GPT-6.2 Astra和Fable 5.5双双曝光",
+      "type": "news",
+      "platform": "AI追踪",
+      "url": "https://www.yeyulingfeng.com/a/1296002.html",
+      "summary": "开发者在Anthropic官网源代码中发现Claude Mythos 5.5字样，并晒出疑似Fable 5.5生成的3D游戏；OpenAI未官宣的GPT-6.2 Astra出现在Codex统计与API记录中，据称支持100万token上下文。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "大模型",
+          "模型评测"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-02T20:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 53.25,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 52.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "小米开源了个150元的AI小玩意，火到配件都涨价了",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026-11-507107.html",
+      "summary": "小米开源一款百元级AI桌宠硬件，可指挥Agent执行任务并联动控制智能家居，代码与硬件方案开放，成为低成本切入AI硬件与Agent交互的样本。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "智能硬件"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-02T14:08:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 50.25,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 69.0,
+        "practicality": 52.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "与DeepSeek Super Agent理念同频：人大复旦提出CoworkOS，构建你的「超级AI同事」",
+      "type": "news",
+      "platform": "机器之心",
+      "url": "https://3g.163.com/news/article/LAQHFKUE0511AQHO.html",
+      "summary": "人大与复旦提出CoworkOS，由主智能体、协调运行时、子智能体三层协作，支持后台长任务与跨会话续跑，人和Agent可共改同一份文档、CAD或Blender作品；在12项基准中6项最优。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "生产力工具"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-03T12:05:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 41.75,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 44.0,
+        "practicality": 43.0,
         "freshness": 100
       }
     }
