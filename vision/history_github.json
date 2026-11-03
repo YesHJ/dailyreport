@@ -1453,6 +1453,318 @@
         "practicality": 50.0,
         "freshness": 20
       }
+    },
+    {
+      "name": "alexshpunt/pi-agent-computer-use",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/alexshpunt/pi-agent-computer-use",
+      "summary": "Computer use for the Pi coding agent — Windows apps, browsers and desktops through native UI trees, screenshots and real input. (语言: TypeScript) [标签: accessibility, agent-tools, ai-agent, browser-a...",
+      "popularity": {
+        "views": 24,
+        "likes": 24,
+        "comments": 2
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "机器视觉应用"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-02T12:20:37"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 24,
+        "forks": 2,
+        "open_issues": 0,
+        "language": "TypeScript",
+        "license": "mit",
+        "topics": [
+          "accessibility",
+          "agent-tools",
+          "ai-agent",
+          "browser-automation",
+          "computer-use",
+          "cua",
+          "desktop-automation",
+          "electron",
+          "pi",
+          "pi-coding-agent",
+          "pi-extension",
+          "pi-package",
+          "playwright",
+          "typescript",
+          "ui-automation",
+          "vision",
+          "webview2",
+          "windows",
+          "windows-automation",
+          "wsl"
+        ],
+        "created_at": "2026-10-02T12:20:37Z",
+        "pushed_at": "2026-11-02T14:47:54Z"
+      },
+      "filtered": false,
+      "total_score": 44.02,
+      "detail_scores": {
+        "popularity": 34.24,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "llada60/3DHarnessBench",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/llada60/3DHarnessBench",
+      "summary": "三维HarnessBench: Probing Agentic 三维-to-Code Capabilities of Frontier 视觉语言模型s (语言: Python)",
+      "popularity": {
+        "views": 23,
+        "likes": 23,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉语言模型",
+          "三维视觉"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-03T09:26:46"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 23,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "apache-2.0",
+        "topics": [],
+        "created_at": "2026-09-03T09:26:46Z",
+        "pushed_at": "2026-10-28T16:17:09Z"
+      },
+      "filtered": false,
+      "total_score": 38.97,
+      "detail_scores": {
+        "popularity": 23.230000000000004,
+        "usability": 60.0,
+        "practicality": 52.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "jonasherminiodev/resnet152v2-skin-cancer-ham10000",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/jonasherminiodev/resnet152v2-skin-cancer-ham10000",
+      "summary": "🔬 Aplicação Web (Flask + SQLAlchemy) integrada a 深度学习 (ResNet152V2 / Keras) para auxílio ao diagnóstico de câncer de pele (数据集 HAM10000), com 99,01% de acurácia e inferência em 1,17s. (语言: JavaScript)",
+      "popularity": {
+        "views": 18,
+        "likes": 18,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "数据集",
+          "深度学习"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-27T01:46:43"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 18,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "JavaScript",
+        "license": "",
+        "topics": [],
+        "created_at": "2026-09-27T01:46:43Z",
+        "pushed_at": "2026-10-29T01:19:55Z"
+      },
+      "filtered": false,
+      "total_score": 37.45,
+      "detail_scores": {
+        "popularity": 18.18,
+        "usability": 60.0,
+        "practicality": 52.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "rokbenko/quackd",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/rokbenko/quackd",
+      "summary": "One CLI for all your robots. Connect them, command them, and let them work together, each with an LLM for a brain (Claude, OpenAI, Gemini, Grok, or local via Ollama or vLLM), VLAs for arms and deci...",
+      "popularity": {
+        "views": 287,
+        "likes": 287,
+        "comments": 29
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉-语言-动作",
+          "机器人视觉"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-08-28T09:09:16"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 287,
+        "forks": 29,
+        "open_issues": 1,
+        "language": "Python",
+        "license": "apache-2.0",
+        "topics": [
+          "ai-agents",
+          "claude",
+          "embodied-ai",
+          "gemini",
+          "jetson",
+          "lerobot",
+          "llm",
+          "local-llm",
+          "mcp",
+          "microduck",
+          "mujoco",
+          "multi-robot",
+          "ollama",
+          "openai",
+          "physical-ai",
+          "robotic-arm",
+          "robotics",
+          "ros2",
+          "so-101",
+          "vla"
+        ],
+        "created_at": "2026-08-28T09:09:16Z",
+        "pushed_at": "2026-10-31T20:06:49Z"
+      },
+      "filtered": false,
+      "total_score": 64.25,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 52.0,
+        "freshness": 20
+      },
+      "_source": "pending"
+    },
+    {
+      "name": "starVLA/VLAct",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/starVLA/VLAct",
+      "summary": "[NeurIPS 2026] Beyond Data Scaling: Representation-Centric Continued Pre-训练 for 视觉-语言-动作 模型s (语言: Python) [标签: robotics, vision-language-action, vision-language-model]",
+      "popularity": {
+        "views": 150,
+        "likes": 150,
+        "comments": 9
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉语言模型",
+          "机器人视觉"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-08-25T15:45:33"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 150,
+        "forks": 9,
+        "open_issues": 4,
+        "language": "Python",
+        "license": "other",
+        "topics": [
+          "robotics",
+          "vision-language-action",
+          "vision-language-model"
+        ],
+        "created_at": "2026-08-25T15:45:33Z",
+        "pushed_at": "2026-09-30T01:20:58Z"
+      },
+      "filtered": false,
+      "total_score": 64.25,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 52.0,
+        "freshness": 20
+      },
+      "_source": "pending"
     }
   ],
   "pending_items": [
@@ -1987,137 +2299,6 @@
       }
     },
     {
-      "name": "rokbenko/quackd",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/rokbenko/quackd",
-      "summary": "One CLI for all your robots. Connect them, command them, and let them work together, each with an LLM for a brain (Claude, OpenAI, Gemini, Grok, or local via Ollama or vLLM), VLAs for arms and deci...",
-      "popularity": {
-        "views": 287,
-        "likes": 287,
-        "comments": 29
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉-语言-动作",
-          "机器人视觉"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-08-28T09:09:16"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 287,
-        "forks": 29,
-        "open_issues": 1,
-        "language": "Python",
-        "license": "apache-2.0",
-        "topics": [
-          "ai-agents",
-          "claude",
-          "embodied-ai",
-          "gemini",
-          "jetson",
-          "lerobot",
-          "llm",
-          "local-llm",
-          "mcp",
-          "microduck",
-          "mujoco",
-          "multi-robot",
-          "ollama",
-          "openai",
-          "physical-ai",
-          "robotic-arm",
-          "robotics",
-          "ros2",
-          "so-101",
-          "vla"
-        ],
-        "created_at": "2026-08-28T09:09:16Z",
-        "pushed_at": "2026-10-31T20:06:49Z"
-      },
-      "filtered": false,
-      "total_score": 64.25,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 52.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "starVLA/VLAct",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/starVLA/VLAct",
-      "summary": "[NeurIPS 2026] Beyond Data Scaling: Representation-Centric Continued Pre-训练 for 视觉-语言-动作 模型s (语言: Python) [标签: robotics, vision-language-action, vision-language-model]",
-      "popularity": {
-        "views": 150,
-        "likes": 150,
-        "comments": 9
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉语言模型",
-          "机器人视觉"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-08-25T15:45:33"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 150,
-        "forks": 9,
-        "open_issues": 4,
-        "language": "Python",
-        "license": "other",
-        "topics": [
-          "robotics",
-          "vision-language-action",
-          "vision-language-model"
-        ],
-        "created_at": "2026-08-25T15:45:33Z",
-        "pushed_at": "2026-09-30T01:20:58Z"
-      },
-      "filtered": false,
-      "total_score": 64.25,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 52.0,
-        "freshness": 20
-      }
-    },
-    {
       "name": "ChidiebereNjoku/ModelBrief",
       "type": "tool",
       "platform": "GitHub",
@@ -2512,112 +2693,6 @@
         "popularity": 87.57000000000002,
         "usability": 60.0,
         "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "llada60/3DHarnessBench",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/llada60/3DHarnessBench",
-      "summary": "三维HarnessBench: Probing Agentic 三维-to-Code Capabilities of Frontier 视觉语言模型s (语言: Python)",
-      "popularity": {
-        "views": 21,
-        "likes": 21,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉语言模型",
-          "三维视觉"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-03T09:26:46"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 21,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "apache-2.0",
-        "topics": [],
-        "created_at": "2026-09-03T09:26:46Z",
-        "pushed_at": "2026-10-28T16:17:09Z"
-      },
-      "filtered": false,
-      "total_score": 38.36,
-      "detail_scores": {
-        "popularity": 21.21,
-        "usability": 60.0,
-        "practicality": 52.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "jonasherminiodev/resnet152v2-skin-cancer-ham10000",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/jonasherminiodev/resnet152v2-skin-cancer-ham10000",
-      "summary": "🔬 Aplicação Web (Flask + SQLAlchemy) integrada a 深度学习 (ResNet152V2 / Keras) para auxílio ao diagnóstico de câncer de pele (数据集 HAM10000), com 99,01% de acurácia e inferência em 1,17s. (语言: JavaScript)",
-      "popularity": {
-        "views": 18,
-        "likes": 18,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "数据集",
-          "深度学习"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-27T01:46:43"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 18,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "JavaScript",
-        "license": "",
-        "topics": [],
-        "created_at": "2026-09-27T01:46:43Z",
-        "pushed_at": "2026-10-29T01:19:55Z"
-      },
-      "filtered": false,
-      "total_score": 37.45,
-      "detail_scores": {
-        "popularity": 18.18,
-        "usability": 60.0,
-        "practicality": 52.0,
         "freshness": 20
       }
     }
