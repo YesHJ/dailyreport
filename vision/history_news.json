@@ -788,9 +788,142 @@
         "practicality": 63.0,
         "freshness": 80
       }
-    }
-  ],
-  "pending_items": [
+    },
+    {
+      "name": "周末超高热度的物理AI：机器人视觉感知主线梳理",
+      "type": "news",
+      "platform": "东方财富",
+      "url": "https://emcreative.eastmoney.com/app_fortune/article/index.html?artCode=20261026200202205363880",
+      "summary": "梳理机器人感知赛道核心标的：奥比中光2026上半年机器人视觉方案收入翻倍、3D视觉全球份额29%居首；海康机器人机器视觉产品累计出货破1000万台，AMR全球市占率第一。机器视觉商业化正从概念验证转向收入兑现。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "机器视觉",
+          "3D视觉",
+          "机器人感知",
+          "工业检测"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-26T20:02:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 48.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 65.0,
+        "freshness": 60
+      }
+    },
+    {
+      "name": "2026年开源多模态VLM模型对比：Qwen3-VL、InternVL3、Kimi K2.5谁最能打",
+      "type": "news",
+      "platform": "CSDN",
+      "url": "https://blog.csdn.net/m0_59235245/article/details/162560472",
+      "summary": "全面对比2026年主流开源VLM：Qwen3-VL-235B全能冠军、InternVL3-78B原生多模态最强、DeepSeek-VL2 OCR超越GPT-4o、STEP3-VL-10B端侧惊喜。按旗舰/中坚/端侧三层给出选型指南和避坑建议。",
+      "popularity": {
+        "views": 1200,
+        "likes": 5,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "high",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "high",
+        "scenarios": [
+          "VLM",
+          "OCR",
+          "视觉问答",
+          "GUI自动化"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-07-03T20:59:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 43.6,
+      "detail_scores": {
+        "popularity": 17.0,
+        "usability": 78.0,
+        "practicality": 60.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "多模态与视觉大模型开发实战：从\"看懂\"到\"理解世界\"的范式革命",
+      "type": "news",
+      "platform": "掘金",
+      "url": "https://juejin.cn/entry/7681138712659574799",
+      "summary": "系统梳理视觉大模型从CNN到ViT的架构演进，重点剖析商汤SenseNova-Vision原生统一视觉任务、小鹏TuringViT高效推理、清华AdaptiveNN主动视觉等2026年突破性技术，探讨视觉大模型从\"执行工具\"到\"世界理解模型\"的转型。",
+      "popularity": {
+        "views": 121,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "high",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "high",
+        "scenarios": [
+          "视觉大模型",
+          "VLM",
+          "目标检测",
+          "图像分割"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-09-03T08:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 35.86,
+      "detail_scores": {
+        "popularity": 1.21,
+        "usability": 66.0,
+        "practicality": 60.0,
+        "freshness": 20
+      }
+    },
     {
       "name": "基于YOLOv8的晶圆缺陷检测系统：从传统视觉到深度学习实战",
       "type": "news",
@@ -833,7 +966,9 @@
         "usability": 66.0,
         "practicality": 63.0,
         "freshness": 60
-      }
+      },
+      "_source": "pending"
     }
-  ]
+  ],
+  "pending_items": []
 }
