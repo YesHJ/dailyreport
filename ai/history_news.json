@@ -1483,6 +1483,222 @@
         "practicality": 76.0,
         "freshness": 100
       }
+    },
+    {
+      "name": "美团发布 LongCat-2.5：1.6 万亿参数原生多模态模型，全程国产算力训练",
+      "type": "news",
+      "platform": "钛媒体",
+      "url": "https://m.tmtpost.com/nictation/8191809.html",
+      "summary": "11 月 2 日美团发布面向长程智能体任务的原生多模态模型 LongCat-2.5，总参数 1.6 万亿、每 token 激活约 480 亿，训练全程基于国产算力，为迄今国产算力上最大训练任务；官方称多项基准介于 Opus 4.8 与 Opus 5 之间，API 同步上线。",
+      "popularity": {
+        "views": 45000,
+        "likes": 260,
+        "comments": 88
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "large",
+        "scenarios": [
+          "大模型",
+          "AI编程",
+          "多模态"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-03T09:20:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 84.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 81.0,
+        "practicality": 58.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "国内首个聚焦山西地域文化的垂类大模型「晋问 AI」上线",
+      "type": "news",
+      "platform": "中国新闻社",
+      "url": "https://www.jwview.com/jingwei/html/11-03/695434.shtml",
+      "summary": "11 月 3 日在太原发布的三晋文化大模型「晋问 AI」正式上线，同步推出数字人「晋豆」，由地方宣传与出版传媒集团联合打造，属垂直领域文化知识库 + 生成式应用的落地样本，可用于文旅讲解与地方文献问答。",
+      "popularity": {
+        "views": 21000,
+        "likes": 120,
+        "comments": 30
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "small",
+        "scenarios": [
+          "行业落地",
+          "知识库问答"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-03T15:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 84.25,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 81.0,
+        "practicality": 56.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "度小满与港科大、HKGAI 联合发布轩辕 4.5 金融增强大模型",
+      "type": "news",
+      "platform": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4316961.html",
+      "summary": "11 月 2 日 2026 香港金融科技周开幕式上发布，称为金融领域首个把自进化 RSI 技术用于模型训练与智能体目标适配的金融增强大模型，含语言与多模态两部分，官方称核心场景效果提升 30%、成本约为通用模型的 10%。",
+      "popularity": {
+        "views": 32000,
+        "likes": 180,
+        "comments": 45
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "行业落地",
+          "金融AI"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-02T11:52:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 82.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 61.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "GPT-6.2 Astra 开启灰测！Claude Mythos 5.5 同日曝光",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/11/507082.html",
+      "summary": "11 月刚开场两大模型阵营同日有新动作：部分 OpenAI 用户模型列表出现 GPT-6.2-Astra，有人约两成请求被路由到 6.2，基本需 500 美元 Pro 套餐才能进入灰度；Claude Mythos 5.5 短暂出现在官网前端代码后被移除，HuggingFace 上疑似泄露权重仓库已被下载约 5000 次。",
+      "popularity": {
+        "views": 120000,
+        "likes": 860,
+        "comments": 210
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "large",
+        "scenarios": [
+          "大模型",
+          "AI编程"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-02T12:28:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 81.25,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 56.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "小米开源了个 150 元的 AI 小玩意，火到配件都涨价了",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/11/507107.html",
+      "summary": "小米发布并开源一款售价约 150 元的端侧 AI 硬件，把小尺寸多模态模型跑在低成本开发板上，用于识屏、主动提醒等轻量智能体场景。由于出货量超出预期，配套传感器与外壳配件在电商平台出现涨价，端侧 AI 的性价比路线再次被验证。",
+      "popularity": {
+        "views": 98000,
+        "likes": 720,
+        "comments": 180
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "多模态"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-02T10:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 81.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 81.0,
+        "practicality": 43.0,
+        "freshness": 100
+      }
     }
   ],
   "pending_items": [
@@ -2006,6 +2222,265 @@
         "popularity": 0.0,
         "usability": 44.0,
         "practicality": 43.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "Claude 紧急叫停：暗改 Harness 禁止逆向工程",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/11/507038.html",
+      "summary": "Anthropic 在未公告的情况下调整智能体执行层限制，阻断通过提示词探测内部工具调用与逆向模型行为的路径，相关变更迅速在开发者社区引发争议，再次把智能体权限边界、可审计性与厂商封禁策略的矛盾推到台前。",
+      "popularity": {
+        "views": 86000,
+        "likes": 540,
+        "comments": 320
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "安全治理"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-01T09:30:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 78.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 61.0,
+        "freshness": 80
+      }
+    },
+    {
+      "name": "GPT-6 自主爆改 Qwen 权重被吹成神？Meta 知名研究员泼冷水",
+      "type": "news",
+      "platform": "36氪",
+      "url": "https://36kr.com/p/4053956984411269",
+      "summary": "从另一面审视权重编辑：Gemma 3 270M 对照实验仅从 6.8% 升到 7% 左右，说明当前方法更像「排障」而非注入新能力；但对模型审计、后门检测、局部缺陷修复等方向意义明确，是可解释性研究值得关注的新线索。",
+      "popularity": {
+        "views": 88000,
+        "likes": 610,
+        "comments": 190
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "大模型",
+          "安全治理"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-03T09:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 78.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 43.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "GPT-6 爆改模型权重，数学能力狂飙 6 倍，MIT 博一新作破圈了",
+      "type": "news",
+      "platform": "36氪",
+      "url": "https://36kr.com/p/4053977031464070",
+      "summary": "拆解权重空间编程实验全流程：Astra 在仅 CPU 沙盒中定位第 15、19 层导致推理死循环的输出列并切除，撞长度上限比例从 93% 降到 33.1%；最强一次尝试耗时 20.3 小时、158 轮交互、80 次代码执行，省掉梯度但诊断成本仍在。",
+      "popularity": {
+        "views": 132000,
+        "likes": 980,
+        "comments": 260
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "大模型",
+          "可解释性"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-03T10:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 74.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 53.0,
+        "practicality": 43.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "AI 与大模型新闻日报 | 2026-11-02",
+      "type": "news",
+      "platform": "CSDN",
+      "url": "https://blog.csdn.net/dozenyaoyida/article/details/169827072",
+      "summary": "汇总当日国内外模型与产品动态，重点包括美团 LongCat-2.5 上线 API、总参数 1.6 万亿每 token 激活约 480 亿，以及国产算力训练与长上下文工程的落地数据，适合作为当日技术选型的快速情报底稿。",
+      "popularity": {
+        "views": 620,
+        "likes": 3,
+        "comments": 1
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "大模型",
+          "资讯简报"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-02T09:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 59.76,
+      "detail_scores": {
+        "popularity": 14.2,
+        "usability": 81.0,
+        "practicality": 61.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "AI 获客每日 AI 精选（2026.11.02）",
+      "type": "news",
+      "platform": "CSDN",
+      "url": "https://blog.csdn.net/aibridge/article/details/169846095",
+      "summary": "聚焦 2026 年 10 月底至 11 月初全球关键进展：GPT-6.1 系列重塑成本效能比、DeepSeek 开源 Personal Agent 架构、腾讯混元持续迭代，同时整理谷歌 A5X 百万 GPU 网络与国产十万卡集群等算力侧动态，便于评估部署成本。",
+      "popularity": {
+        "views": 410,
+        "likes": 2,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "算力与部署"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-02T08:30:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 57.33,
+      "detail_scores": {
+        "popularity": 6.100000000000001,
+        "usability": 81.0,
+        "practicality": 61.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "美团发 1.6 万亿参数模型、DeepSeek 开源推理框架、昇腾 950 拿领先科技奖｜AI 新闻日报 11-03",
+      "type": "news",
+      "platform": "CSDN",
+      "url": "https://blog.csdn.net/qq_39427511/article/details/169901385",
+      "summary": "梳理 11 月 2—3 日要闻：美团 LongCat-2.5 以 1.6 万亿参数全程国产算力训练并给出 W4A4 推理数字；DeepSeek 整仓开源生产级推理框架 DeepInfer，支持昇腾 950 与 NVIDIA SM100；腾讯混元 Hyra 2.0 放出四个科学模型，具身智能侧开始按数据单价与全自主完成率交答卷。",
+      "popularity": {
+        "views": 490,
+        "likes": 1,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "large",
+        "scenarios": [
+          "大模型",
+          "模型部署",
+          "AI编程"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-03T07:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 53.52,
+      "detail_scores": {
+        "popularity": 5.8999999999999995,
+        "usability": 69.0,
+        "practicality": 58.0,
         "freshness": 100
       }
     }
