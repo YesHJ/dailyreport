@@ -1765,6 +1765,284 @@
         "freshness": 20
       },
       "_source": "pending"
+    },
+    {
+      "name": "StarTrail-org/DRPixel",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/StarTrail-org/DRPixel",
+      "summary": "DR Pixel: Page-Native Deep Research with 视觉语言模型s — 基准测试, 评估 harness and 训练 code (语言: Python) [标签: agentic-retrieval, benchmark, credit-assignment, deep-research, multimodal]",
+      "popularity": {
+        "views": 17,
+        "likes": 17,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉语言模型",
+          "多模态"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-01T16:46:21"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 17,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "apache-2.0",
+        "topics": [
+          "agentic-retrieval",
+          "benchmark",
+          "credit-assignment",
+          "deep-research",
+          "multimodal",
+          "rag",
+          "scientific-papers",
+          "visual-document-retrieval",
+          "vlm"
+        ],
+        "created_at": "2026-11-01T16:46:21Z",
+        "pushed_at": "2026-11-02T07:48:12Z"
+      },
+      "filtered": false,
+      "total_score": 51.4,
+      "detail_scores": {
+        "popularity": 17.17,
+        "usability": 69.0,
+        "practicality": 52.0,
+        "freshness": 80
+      }
+    },
+    {
+      "name": "zhangy0822/CofactVLA",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/zhangy0822/CofactVLA",
+      "summary": "CofactVLA: Deconfounding 视觉-语言-动作 模型s via Counterfactual Intervention (语言: Python)",
+      "popularity": {
+        "views": 16,
+        "likes": 16,
+        "comments": 2
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉-语言-动作",
+          "视觉语言模型"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-21T02:03:42"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 16,
+        "forks": 2,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "apache-2.0",
+        "topics": [],
+        "created_at": "2026-10-21T02:03:42Z",
+        "pushed_at": "2026-10-29T03:53:32Z"
+      },
+      "filtered": false,
+      "total_score": 47.85,
+      "detail_scores": {
+        "popularity": 26.16,
+        "usability": 60.0,
+        "practicality": 52.0,
+        "freshness": 60
+      }
+    },
+    {
+      "name": "inclusionAI/Zooming-without-Zooming-v2",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/inclusionAI/Zooming-without-Zooming-v2",
+      "summary": "ZwZ-v2: RL-trained 视觉语言模型s (4B/9B/27B) that connect fine-grained visual evidence across image regions, trained with GRPO on 20.4K verified multi-region VQA examples. (语言: Python)",
+      "popularity": {
+        "views": 16,
+        "likes": 16,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉语言模型"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-14T08:20:34"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 16,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "apache-2.0",
+        "topics": [],
+        "created_at": "2026-10-14T08:20:34Z",
+        "pushed_at": "2026-10-31T14:24:31Z"
+      },
+      "filtered": false,
+      "total_score": 44.35,
+      "detail_scores": {
+        "popularity": 16.16,
+        "usability": 60.0,
+        "practicality": 50.0,
+        "freshness": 60
+      }
+    },
+    {
+      "name": "ChidiebereNjoku/ModelBrief",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/ChidiebereNjoku/ModelBrief",
+      "summary": "An open-source Python 库 that automates the analysis and reporting of 机器学习 experiments, generating structured and comprehensive reports that make 模型 performance, results, and key insights easier to ...",
+      "popularity": {
+        "views": 354,
+        "likes": 354,
+        "comments": 283
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "机器视觉应用"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-08-24T11:09:43"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 354,
+        "forks": 283,
+        "open_issues": 3,
+        "language": "Python",
+        "license": "other",
+        "topics": [],
+        "created_at": "2026-08-24T11:09:43Z",
+        "pushed_at": "2026-10-24T12:29:31Z"
+      },
+      "filtered": false,
+      "total_score": 63.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 20
+      },
+      "_source": "pending"
+    },
+    {
+      "name": "hku-sail/StreamPI",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/hku-sail/StreamPI",
+      "summary": "[NeurIPS 2026] Official code of \"StreamPI: Streaming 多模态 Temporal 模型ing for 视觉-语言-动作 模型s\" (语言: Python) [标签: vla]",
+      "popularity": {
+        "views": 202,
+        "likes": 202,
+        "comments": 15
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉-语言-动作",
+          "视觉语言模型",
+          "多模态"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-08-26T16:13:52"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 202,
+        "forks": 15,
+        "open_issues": 2,
+        "language": "Python",
+        "license": "apache-2.0",
+        "topics": [
+          "vla"
+        ],
+        "created_at": "2026-08-26T16:13:52Z",
+        "pushed_at": "2026-09-27T01:03:16Z"
+      },
+      "filtered": false,
+      "total_score": 62.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 60.0,
+        "practicality": 54.0,
+        "freshness": 20
+      },
+      "_source": "pending"
     }
   ],
   "pending_items": [
@@ -2295,114 +2573,6 @@
         "popularity": 34.34,
         "usability": 60.0,
         "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "ChidiebereNjoku/ModelBrief",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/ChidiebereNjoku/ModelBrief",
-      "summary": "An open-source Python 库 that automates the analysis and reporting of 机器学习 experiments, generating structured and comprehensive reports that make 模型 performance, results, and key insights easier to ...",
-      "popularity": {
-        "views": 354,
-        "likes": 354,
-        "comments": 283
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "机器视觉应用"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-08-24T11:09:43"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 354,
-        "forks": 283,
-        "open_issues": 3,
-        "language": "Python",
-        "license": "other",
-        "topics": [],
-        "created_at": "2026-08-24T11:09:43Z",
-        "pushed_at": "2026-10-24T12:29:31Z"
-      },
-      "filtered": false,
-      "total_score": 63.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "hku-sail/StreamPI",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/hku-sail/StreamPI",
-      "summary": "[NeurIPS 2026] Official code of \"StreamPI: Streaming 多模态 Temporal 模型ing for 视觉-语言-动作 模型s\" (语言: Python) [标签: vla]",
-      "popularity": {
-        "views": 202,
-        "likes": 202,
-        "comments": 15
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉-语言-动作",
-          "视觉语言模型",
-          "多模态"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-08-26T16:13:52"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 202,
-        "forks": 15,
-        "open_issues": 2,
-        "language": "Python",
-        "license": "apache-2.0",
-        "topics": [
-          "vla"
-        ],
-        "created_at": "2026-08-26T16:13:52Z",
-        "pushed_at": "2026-09-27T01:03:16Z"
-      },
-      "filtered": false,
-      "total_score": 62.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 60.0,
-        "practicality": 54.0,
         "freshness": 20
       }
     },
