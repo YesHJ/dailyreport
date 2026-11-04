@@ -968,6 +968,138 @@
         "freshness": 60
       },
       "_source": "pending"
+    },
+    {
+      "name": "Halcon vs OpenCV：机器视觉入门到底该学哪个？2026最新对比",
+      "type": "news",
+      "platform": "搜狐",
+      "url": "https://www.sohu.com/a/1055235413_122842430",
+      "summary": "2026年AI深度学习全面渗透机器视觉，一站式平台崛起。阿丘科技Advision、康耐视VisionPro、海康VisionMaster等降低开发门槛。文章对比Halcon与OpenCV在工业视觉中的定位与趋势。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "Halcon",
+          "OpenCV",
+          "机器视觉学习"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-20T08:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 48.0,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 63.0,
+        "freshness": 60
+      }
+    },
+    {
+      "name": "具身智能：从未来产业到新增长点，如何跨越万亿赛道的死亡谷",
+      "type": "news",
+      "platform": "36氪",
+      "url": "http://36kr.com/p/3956413323335302",
+      "summary": "2026年全球人形机器人出货量预计达6.25万台，同比增长247%。广义具身智能市场规模预计突破1万亿元，上半年国内融资总额935亿元。机器视觉在半导体、新能源、3C行业的商业化兑现加速。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "large",
+        "scenarios": [
+          "具身智能",
+          "人形机器人",
+          "机器视觉市场"
+        ],
+        "maturity": "emerging"
+      },
+      "freshness": {
+        "publish_date": "2026-10-28T08:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 47.75,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 46.0,
+        "freshness": 80
+      }
+    },
+    {
+      "name": "机器视觉在线瑕疵检测：优势、局限与落地实战指南",
+      "type": "news",
+      "platform": "CSDN",
+      "url": "https://blog.csdn.net/weixin_29056101/article/details/165689679",
+      "summary": "系统阐述机器视觉在线瑕疵检测完整技术链路，涵盖成像触发、硬件选型、打光设计、传统算法与深度学习协同策略。强调落地需以光学稳定为前提、以节拍预算为约束、以过杀漏杀权衡为关键决策点。",
+      "popularity": {
+        "views": 247,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "high",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "缺陷检测",
+          "工业视觉",
+          "深度学习"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-13T08:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 44.99,
+      "detail_scores": {
+        "popularity": 2.4699999999999998,
+        "usability": 66.0,
+        "practicality": 63.0,
+        "freshness": 60
+      }
     }
   ],
   "pending_items": []
