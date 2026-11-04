@@ -2259,6 +2259,337 @@
         "practicality": 61.0,
         "freshness": 20
       }
+    },
+    {
+      "name": "ThinkWatchProject/ThinkWatch-Lite",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/ThinkWatchProject/ThinkWatch-Lite",
+      "summary": "Local gateway for Claude Code, Codex and other AI clients on macOS, Windows and Linux: switch upstreams without touching clients, keep API keys from relays, cut off malicious tool calls, trace ever...",
+      "popularity": {
+        "views": 584,
+        "likes": 584,
+        "comments": 8
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "代码生成"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-09-12T13:48:15"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 584,
+        "forks": 8,
+        "open_issues": 0,
+        "language": "TypeScript",
+        "license": "mit",
+        "topics": [
+          "ai-gateway",
+          "anthropic",
+          "claude-code",
+          "codex",
+          "cost-monitoring",
+          "cost-tracking",
+          "cross-platform",
+          "linux",
+          "llm-cost",
+          "llm-gateway",
+          "llm-observability",
+          "llm-proxy",
+          "llm-usage",
+          "macos",
+          "openai",
+          "secret-redaction",
+          "system-tray",
+          "token-usage",
+          "usage-tracking",
+          "windows"
+        ],
+        "created_at": "2026-09-12T13:48:15Z",
+        "pushed_at": "2026-11-03T06:43:38Z"
+      },
+      "filtered": false,
+      "total_score": 66.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 59.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "apimart-66/ai-api-aggregator",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/apimart-66/ai-api-aggregator",
+      "summary": "AI API aggregator companion: machine-readable catalog of 300+ 模型s behind one key and one base URL, with routing patterns, cost accounting, OpenAI SDK and curl examples. (语言: Python) [标签: ai-api-agg...",
+      "popularity": {
+        "views": 150,
+        "likes": 150,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "图像生成"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-16T07:17:05"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 150,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "other",
+        "topics": [
+          "ai-api-aggregator",
+          "ai-api-gateway",
+          "api-relay",
+          "apimart",
+          "gpt-image-2-5",
+          "image-2-5",
+          "image2-5",
+          "model-catalog",
+          "openai-compatible",
+          "text-to-image",
+          "unified-ai-api"
+        ],
+        "created_at": "2026-09-16T07:17:05Z",
+        "pushed_at": "2026-11-03T14:25:38Z"
+      },
+      "filtered": false,
+      "total_score": 66.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 78.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "apimart-API-Gateway/grok-image-api",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/apimart-API-Gateway/grok-image-api",
+      "summary": "Grok Image API (Grok Imagine 1.5, grok-imagine-1.5-apimart): 模型 ids, per-image pricing, 文生图 and edit routes, moderation behaviour and runnable API examples. (语言: Python) [标签: ai-api-gateway, ai-ima...",
+      "popularity": {
+        "views": 145,
+        "likes": 145,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "图像生成"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-17T10:26:41"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 145,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "other",
+        "topics": [
+          "ai-api-gateway",
+          "ai-image-api",
+          "apimart",
+          "grok-image",
+          "grok-image-api",
+          "grok-imagine",
+          "grok-imagine-api",
+          "image-api",
+          "image-generation",
+          "text-to-image"
+        ],
+        "created_at": "2026-09-17T10:26:41Z",
+        "pushed_at": "2026-11-03T14:23:56Z"
+      },
+      "filtered": false,
+      "total_score": 66.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 78.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "apimart-awesome-ai-api-proxy/nano-banana-pro-api",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/apimart-awesome-ai-api-proxy/nano-banana-pro-api",
+      "summary": "Nano Banana Pro API (gemini-3-pro-image-preview): 模型 id, per-image pricing, aspect ratios, resolution tiers, curl, Python and JavaScript examples with async task polling. (语言: Python) [标签: ai-api-g...",
+      "popularity": {
+        "views": 139,
+        "likes": 139,
+        "comments": 3
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "图像生成"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-17T10:10:06"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 139,
+        "forks": 3,
+        "open_issues": 1,
+        "language": "Python",
+        "license": "other",
+        "topics": [
+          "ai-api-gateway",
+          "ai-image-api",
+          "apimart",
+          "gemini-3-pro-image",
+          "gemini-image",
+          "image-api",
+          "image-generation",
+          "nano-banana-pro",
+          "nano-banana-pro-api",
+          "text-to-image"
+        ],
+        "created_at": "2026-09-17T10:10:06Z",
+        "pushed_at": "2026-11-03T14:17:28Z"
+      },
+      "filtered": false,
+      "total_score": 66.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 78.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "abacusai/abacusai-bot",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/abacusai/abacusai-bot",
+      "summary": "100% free, open-source personal 智能体s for your messaging apps, tools, and services (语言: TypeScript) [标签: agent, ai, ai-agents, android, cli]",
+      "popularity": {
+        "views": 437,
+        "likes": 437,
+        "comments": 62
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-11T07:04:16"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 437,
+        "forks": 62,
+        "open_issues": 13,
+        "language": "TypeScript",
+        "license": "mit",
+        "topics": [
+          "agent",
+          "ai",
+          "ai-agents",
+          "android",
+          "cli",
+          "coding-agent",
+          "developer-tools",
+          "electron",
+          "ios",
+          "llm",
+          "local-llm",
+          "mcp",
+          "openrouter",
+          "sandbox",
+          "typescript"
+        ],
+        "created_at": "2026-09-11T07:04:16Z",
+        "pushed_at": "2026-11-03T21:24:32Z"
+      },
+      "filtered": false,
+      "total_score": 63.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
     }
   ],
   "pending_items": [
@@ -3422,401 +3753,6 @@
       }
     },
     {
-      "name": "ThinkWatchProject/ThinkWatch-Lite",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/ThinkWatchProject/ThinkWatch-Lite",
-      "summary": "Local gateway for Claude Code, Codex and other AI clients on macOS, Windows and Linux: switch upstreams without touching clients, keep API keys from relays, cut off malicious tool calls, trace ever...",
-      "popularity": {
-        "views": 545,
-        "likes": 545,
-        "comments": 8
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "代码生成"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-09-12T13:48:15"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 545,
-        "forks": 8,
-        "open_issues": 0,
-        "language": "TypeScript",
-        "license": "mit",
-        "topics": [
-          "ai-gateway",
-          "anthropic",
-          "claude-code",
-          "codex",
-          "cost-monitoring",
-          "cost-tracking",
-          "cross-platform",
-          "linux",
-          "llm-cost",
-          "llm-gateway",
-          "llm-observability",
-          "llm-proxy",
-          "llm-usage",
-          "macos",
-          "openai",
-          "secret-redaction",
-          "system-tray",
-          "token-usage",
-          "usage-tracking",
-          "windows"
-        ],
-        "created_at": "2026-09-12T13:48:15Z",
-        "pushed_at": "2026-11-02T07:52:34Z"
-      },
-      "filtered": false,
-      "total_score": 66.0,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 59.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "apimart-66/ai-api-aggregator",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/apimart-66/ai-api-aggregator",
-      "summary": "AI API aggregator companion: machine-readable catalog of 300+ 模型s behind one key and one base URL, with routing patterns, cost accounting, OpenAI SDK and curl examples. (语言: Python) [标签: ai-api-agg...",
-      "popularity": {
-        "views": 150,
-        "likes": 150,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "图像生成"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-16T07:17:05"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 150,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "other",
-        "topics": [
-          "ai-api-aggregator",
-          "ai-api-gateway",
-          "api-relay",
-          "apimart",
-          "gpt-image-2-5",
-          "image-2-5",
-          "image2-5",
-          "model-catalog",
-          "openai-compatible",
-          "text-to-image",
-          "unified-ai-api"
-        ],
-        "created_at": "2026-09-16T07:17:05Z",
-        "pushed_at": "2026-11-02T16:09:16Z"
-      },
-      "filtered": false,
-      "total_score": 66.0,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 78.0,
-        "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "apimart-API-Gateway/grok-image-api",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/apimart-API-Gateway/grok-image-api",
-      "summary": "Grok Image API (Grok Imagine 1.5, grok-imagine-1.5-apimart): 模型 ids, per-image pricing, 文生图 and edit routes, moderation behaviour and runnable API examples. (语言: Python) [标签: ai-api-gateway, ai-ima...",
-      "popularity": {
-        "views": 145,
-        "likes": 145,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "图像生成"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-17T10:26:41"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 145,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "other",
-        "topics": [
-          "ai-api-gateway",
-          "ai-image-api",
-          "apimart",
-          "grok-image",
-          "grok-image-api",
-          "grok-imagine",
-          "grok-imagine-api",
-          "image-api",
-          "image-generation",
-          "text-to-image"
-        ],
-        "created_at": "2026-09-17T10:26:41Z",
-        "pushed_at": "2026-11-02T16:05:37Z"
-      },
-      "filtered": false,
-      "total_score": 66.0,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 78.0,
-        "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "apimart-awesome-ai-api-proxy/nano-banana-pro-api",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/apimart-awesome-ai-api-proxy/nano-banana-pro-api",
-      "summary": "Nano Banana Pro API (gemini-3-pro-image-preview): 模型 id, per-image pricing, aspect ratios, resolution tiers, curl, Python and JavaScript examples with async task polling. (语言: Python) [标签: ai-api-g...",
-      "popularity": {
-        "views": 139,
-        "likes": 139,
-        "comments": 3
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "图像生成"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-17T10:10:06"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 139,
-        "forks": 3,
-        "open_issues": 1,
-        "language": "Python",
-        "license": "other",
-        "topics": [
-          "ai-api-gateway",
-          "ai-image-api",
-          "apimart",
-          "gemini-3-pro-image",
-          "gemini-image",
-          "image-api",
-          "image-generation",
-          "nano-banana-pro",
-          "nano-banana-pro-api",
-          "text-to-image"
-        ],
-        "created_at": "2026-09-17T10:10:06Z",
-        "pushed_at": "2026-11-02T15:56:49Z"
-      },
-      "filtered": false,
-      "total_score": 66.0,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 78.0,
-        "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "abacusai/abacusai-bot",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/abacusai/abacusai-bot",
-      "summary": "100% free, open-source personal 智能体s for your messaging apps, tools, and services (语言: TypeScript) [标签: agent, ai, ai-agents, android, cli]",
-      "popularity": {
-        "views": 427,
-        "likes": 427,
-        "comments": 62
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-11T07:04:16"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 427,
-        "forks": 62,
-        "open_issues": 23,
-        "language": "TypeScript",
-        "license": "mit",
-        "topics": [
-          "agent",
-          "ai",
-          "ai-agents",
-          "android",
-          "cli",
-          "coding-agent",
-          "developer-tools",
-          "electron",
-          "ios",
-          "llm",
-          "local-llm",
-          "mcp",
-          "openrouter",
-          "sandbox",
-          "typescript"
-        ],
-        "created_at": "2026-09-11T07:04:16Z",
-        "pushed_at": "2026-11-02T18:01:16Z"
-      },
-      "filtered": false,
-      "total_score": 63.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "nihui/qwenimage-ncnn-vulkan",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/nihui/qwenimage-ncnn-vulkan",
-      "summary": "ncnn implementation of Qwen-Image-2.1, with 文生图, image editing, multi-reference image input and transparent RGBA output (语言: C++) [标签: amd, apple, intel, linux, macos]",
-      "popularity": {
-        "views": 330,
-        "likes": 330,
-        "comments": 18
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "图像生成"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-21T11:11:37"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 330,
-        "forks": 18,
-        "open_issues": 8,
-        "language": "C++",
-        "license": "apache-2.0",
-        "topics": [
-          "amd",
-          "apple",
-          "intel",
-          "linux",
-          "macos",
-          "ncnn",
-          "nvidia",
-          "qwen-image",
-          "qwen-image-2-1",
-          "vulkan",
-          "windows"
-        ],
-        "created_at": "2026-09-21T11:11:37Z",
-        "pushed_at": "2026-11-02T06:29:35Z"
-      },
-      "filtered": false,
-      "total_score": 63.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
       "name": "datasifaw/dataiku-projet-bancaire-analytics",
       "type": "tool",
       "platform": "GitHub",
@@ -3884,73 +3820,6 @@
         "popularity": 100,
         "usability": 53.0,
         "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "BlueRingsLabs/no-shortcuts",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/BlueRingsLabs/no-shortcuts",
-      "summary": "Free Course : Data, 机器学习, 深度学习 and AI Engineering, the long way round: the math, the code, the systems and the 安全. 173 lessons, 166 runnable labs, no shortcuts. Free under CC BY-NC 4.0. (语言: Python...",
-      "popularity": {
-        "views": 170,
-        "likes": 170,
-        "comments": 30
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "检索增强生成",
-          "代码生成",
-          "数据处理"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-26T19:49:54"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 170,
-        "forks": 30,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "other",
-        "topics": [
-          "ai-engineering",
-          "course",
-          "data-engineering",
-          "deep-learning",
-          "llm",
-          "machine-learning",
-          "mlops",
-          "python",
-          "pytorch",
-          "rag",
-          "reinforcement-learning",
-          "security"
-        ],
-        "created_at": "2026-09-26T19:49:54Z",
-        "pushed_at": "2026-10-28T22:41:02Z"
-      },
-      "filtered": false,
-      "total_score": 58.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 44.0,
-        "practicality": 54.0,
         "freshness": 20
       }
     },
@@ -4429,6 +4298,137 @@
         "popularity": 53.53000000000001,
         "usability": 53.0,
         "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "nihui/qwenimage-ncnn-vulkan",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/nihui/qwenimage-ncnn-vulkan",
+      "summary": "ncnn implementation of Qwen-Image-2.1, with 文生图, image editing, multi-reference image input and transparent RGBA output (语言: C++) [标签: amd, apple, intel, linux, macos]",
+      "popularity": {
+        "views": 339,
+        "likes": 339,
+        "comments": 18
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "图像生成"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-21T11:11:37"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 339,
+        "forks": 18,
+        "open_issues": 8,
+        "language": "C++",
+        "license": "apache-2.0",
+        "topics": [
+          "amd",
+          "apple",
+          "intel",
+          "linux",
+          "macos",
+          "ncnn",
+          "nvidia",
+          "qwen-image",
+          "qwen-image-2-1",
+          "vulkan",
+          "windows"
+        ],
+        "created_at": "2026-09-21T11:11:37Z",
+        "pushed_at": "2026-11-02T06:29:35Z"
+      },
+      "filtered": false,
+      "total_score": 63.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "BlueRingsLabs/no-shortcuts",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/BlueRingsLabs/no-shortcuts",
+      "summary": "Free Course : Data, 机器学习, 深度学习 and AI Engineering, the long way round: the math, the code, the systems and the 安全. 173 lessons, 166 runnable labs, no shortcuts. Free under CC BY-NC 4.0. (语言: Python...",
+      "popularity": {
+        "views": 170,
+        "likes": 170,
+        "comments": 30
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "检索增强生成",
+          "代码生成",
+          "数据处理"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-26T19:49:54"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 170,
+        "forks": 30,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "other",
+        "topics": [
+          "ai-engineering",
+          "course",
+          "data-engineering",
+          "deep-learning",
+          "llm",
+          "machine-learning",
+          "mlops",
+          "python",
+          "pytorch",
+          "rag",
+          "reinforcement-learning",
+          "security"
+        ],
+        "created_at": "2026-09-26T19:49:54Z",
+        "pushed_at": "2026-10-28T22:41:02Z"
+      },
+      "filtered": false,
+      "total_score": 58.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 44.0,
+        "practicality": 54.0,
         "freshness": 20
       }
     }
