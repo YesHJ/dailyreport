@@ -1699,6 +1699,225 @@
         "practicality": 43.0,
         "freshness": 100
       }
+    },
+    {
+      "name": "腾讯混元正式发布 Hy4：770B 参数，首次跻身最强开源模型之列",
+      "type": "news",
+      "platform": "新浪财经",
+      "url": "https://finance.sina.cn/2026-11-04/detail-inixqnss6126372.d.html",
+      "summary": "11 月 4 日腾讯混元发布新一代大模型 Hy4，参数规模由 Hy3 的不到 300B 提升到 770B，首次引入视觉理解与电脑操作（Computer Use）能力，官方称幻觉率从 12.95% 降至 7.2%，API 价格不变，权重将于近期开源。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "大模型",
+          "多模态",
+          "AI Agent"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-04T12:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 59.75,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 78.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "AI 热点日报（2026-11-03）：美团发布 1.6 万亿参数国产大模型",
+      "type": "news",
+      "platform": "掘金",
+      "url": "https://juejin.cn/post/7703459728308027428",
+      "summary": "11 月 3 日 AI 动态汇总：美团发布 1.6 万亿参数国产大模型，四大厂商共同推动 AI 训练退出标准；HuggingFace 开源 14B 的 DNA-语言混合模型 Carbon-X，DeepSeek 推出可主动监控开发者群聊的编程智能体 Super-Agent。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "大模型",
+          "行业动态",
+          "AI Agent"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-03T09:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 59.75,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 78.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "科技巨头 AI 需求放缓？算力产业链企业回应：没有下调迹象",
+      "type": "news",
+      "platform": "36氪",
+      "url": "https://www.36kr.com/newsflashes/4054722107610246",
+      "summary": "市场传闻大厂 AI 需求下调、引发对科技 AI 支出规模与增速的担忧，36 氪快讯梳理多家算力产业链公司回应，称未接到下调订单，部分订单价格反而上调，可作为判断国内算力景气度的参考。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "行业动态",
+          "算力"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-04T08:36:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 55.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 61.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "openJiuwen Agent-Memory 让 Agent 首次拥有「视听双流记忆」",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/11/507533.html",
+      "summary": "openJiuwen 发布 Agent-Memory 记忆模块，把长视频的视觉与语音双流信息统一纳入 Agent 长期记忆，官方称长视频记忆精度显著提升、问答时延最高下降 97%，适合做视频理解、会话回顾类智能体。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "多模态",
+          "记忆系统"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-04T17:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 50.75,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 69.0,
+        "practicality": 54.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "Vercel 开源 agent-desktop：用无障碍树 ref 替代截图坐标驱动桌面 Agent",
+      "type": "news",
+      "platform": "CSDN",
+      "url": "https://m.blog.csdn.net/Number241/article/details/170014212",
+      "summary": "Vercel Labs 的 Rust 项目 agent-desktop 登上 GitHub 热榜，它不靠截图猜像素，而是读取 Windows/macOS/Linux 原生无障碍树，为每个 UI 元素分配 ref 供 Agent 点击输入并回读校验，作者实测了微信等自绘界面的适配边界。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "自动化",
+          "开源工具"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-04T10:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 48.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 69.0,
+        "practicality": 45.0,
+        "freshness": 100
+      }
     }
   ],
   "pending_items": [
@@ -2481,6 +2700,180 @@
         "popularity": 5.8999999999999995,
         "usability": 69.0,
         "practicality": 58.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "DeepSeek Super-agent 源码拆解 + 本地部署实战",
+      "type": "news",
+      "platform": "掘金",
+      "url": "https://www.juejin.cn/post/7702737817416105999",
+      "summary": "DeepSeek Harness 团队于 10 月 31 日公开更自主的 Agent 架构 Super-agent，并以 MIT 协议开源原型 dsh-superagent-prototype。文章按官方 README 与文档做源码拆解，给出本地部署与跑通步骤，适合想研究长期会话恢复的开发者。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "开源工具",
+          "大模型"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-01T20:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 46.75,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 69.0,
+        "practicality": 54.0,
+        "freshness": 80
+      }
+    },
+    {
+      "name": "FlashProve：70 倍算力换真话——可证明推理的工程账本",
+      "type": "news",
+      "platform": "CSDN",
+      "url": "https://blog.csdn.net/2203_75594169/article/details/170051516",
+      "summary": "开发者拆解 Anthropic 的 FlashProve：它证明的是「谁在回答」而非「回答对不对」，离线权重承诺 + 在线证明两阶段，生成证明的 GPU 开销约为普通推理的 70—95 倍，长上下文与浮点采样仍是未解难题。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "narrow",
+        "scenarios": [
+          "大模型",
+          "AI安全"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-04T14:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 44.25,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 69.0,
+        "practicality": 28.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "Anthropic 开源可证明推理系统 FlashProve，17 秒核验模型真身",
+      "type": "news",
+      "platform": "智东西",
+      "url": "https://m.sohu.com/a/1097269162_447547/",
+      "summary": "Anthropic 开源基于 zkSNARK 的可证明推理系统 FlashProve，服务商为输出附带密码学证明，用户在普通 CPU 上约 17 秒即可核验回答是否来自指定权重，可抓「模型掉包」，代码与 Lean 形式化证明以 Apache 2.0 发布。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "大模型",
+          "AI安全",
+          "开源工具"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-04T09:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 42.25,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 44.0,
+        "practicality": 45.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "招商局狮子山实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/11/507586.html",
+      "summary": "招商局狮子山实验室发布具身推理模型 Lion-ER-35B-A3B，主打不靠堆砌数据让机器人看懂真实物理世界，MoE 架构仅激活 3B 参数，官方称在十项具身基准上全线提升，可用于仓储、操作类机器人的任务规划与推理。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "narrow",
+        "scenarios": [
+          "具身智能",
+          "机器人"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-04T18:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 40.25,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 44.0,
+        "practicality": 37.0,
         "freshness": 100
       }
     }
