@@ -1100,6 +1100,182 @@
         "practicality": 63.0,
         "freshness": 60
       }
+    },
+    {
+      "name": "物理AI+具身智能强关联10家公司：感知、决策、执行全链条",
+      "type": "news",
+      "platform": "今日头条",
+      "url": "https://m.toutiao.com/article/7703861631272485410/",
+      "summary": "文章梳理物理AI与具身智能产业链10家核心公司，涵盖能科科技的灵智训推平台、奥比中光3D视觉感知龙头、汇川技术工业自动化等。行业正从视觉中心主义迈向视觉+触觉双中心新阶段。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "具身智能",
+          "3D视觉",
+          "物理AI"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-04T08:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 56.0,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 63.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "2026具身智能企业场景布局全景：单岗位深耕还是多岗位覆盖？",
+      "type": "news",
+      "platform": "证券之星",
+      "url": "https://stock.stockstar.com/IG2026110500017951.shtml",
+      "summary": "2026年中国具身智能产业突破万亿市场规模，智平方发布全球首个类脑架构VLA大模型NeuroVLA，构建皮层-小脑-脊髓三层体系。行业从技术验证迈入生产力兑现阶段，头部企业按在岗时间分为四层梯队。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "high",
+        "scenarios": [
+          "具身智能",
+          "VLA",
+          "人形机器人"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-05T12:38:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 54.75,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 58.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "宇树科技陈立：2030年具身智能机器人有望走进千家万户",
+      "type": "news",
+      "platform": "光明网/腾讯新闻",
+      "url": "https://view.inews.qq.com/a/20261104A0E9CG00",
+      "summary": "宇树科技联合创始人在2026世界互联网大会乌镇峰会表示，具身智能是机器人最大挑战也是最具潜力方向。他认为具身智能可跨越大语言模型曾面临的三大核心挑战，2030年机器人有望真正进入家庭。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "high",
+        "scenarios": [
+          "具身智能",
+          "人形机器人",
+          "VLA"
+        ],
+        "maturity": "growing"
+      },
+      "freshness": {
+        "publish_date": "2026-11-04T10:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 51.75,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 46.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "具身数据成风口中的风口：简智机器人再融1亿美元",
+      "type": "news",
+      "platform": "东方财富网",
+      "url": "https://wap.eastmoney.com/a/202611033920103544.html",
+      "summary": "简智机器人完成1亿美元A+轮融资，上汽、百度、银河通用等参投。公司已与超30家AI企业合作，单季度有效数据交付达百万小时级，与蚂蚁灵波围绕具身模型开展数据协同，计划2027年实现千万小时交付。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "具身智能",
+          "训练数据",
+          "机器人"
+        ],
+        "maturity": "growing"
+      },
+      "freshness": {
+        "publish_date": "2026-11-03T09:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 46.0,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 69.0,
+        "practicality": 51.0,
+        "freshness": 80
+      }
     }
   ],
   "pending_items": []
