@@ -2043,6 +2043,285 @@
         "freshness": 20
       },
       "_source": "pending"
+    },
+    {
+      "name": "patrasc237/EEG-DL",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/patrasc237/EEG-DL",
+      "summary": "A 深度学习 库 for EEG signal 分类, with 26 network architectures. (语言: Python) [标签: classification, deep-learning, eeg, neuroscience, python]",
+      "popularity": {
+        "views": 50,
+        "likes": 50,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "图像分类",
+          "深度学习"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-05T14:19:24"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 50,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "mit",
+        "topics": [
+          "classification",
+          "deep-learning",
+          "eeg",
+          "neuroscience",
+          "python",
+          "tensorflow"
+        ],
+        "created_at": "2026-11-05T14:19:24Z",
+        "pushed_at": "2026-11-05T14:19:48Z"
+      },
+      "filtered": false,
+      "total_score": 65.4,
+      "detail_scores": {
+        "popularity": 50.5,
+        "usability": 69.0,
+        "practicality": 52.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "GehaoZhang6/Grounded-Action-Model",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/GehaoZhang6/Grounded-Action-Model",
+      "summary": "Grounded Action 模型: 三维 Grounding as a Foundation for 机器人 (语言: Python) [标签: 3d-grounding, foundation-models, manipulation, robot-learning, robotics]",
+      "popularity": {
+        "views": 55,
+        "likes": 55,
+        "comments": 2
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉语言模型",
+          "三维视觉",
+          "机器人视觉"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-22T02:56:39"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 55,
+        "forks": 2,
+        "open_issues": 1,
+        "language": "Python",
+        "license": "mit",
+        "topics": [
+          "3d-grounding",
+          "foundation-models",
+          "manipulation",
+          "robot-learning",
+          "robotics",
+          "vision-language-action"
+        ],
+        "created_at": "2026-09-22T02:56:39Z",
+        "pushed_at": "2026-11-05T03:59:38Z"
+      },
+      "filtered": false,
+      "total_score": 54.41,
+      "detail_scores": {
+        "popularity": 65.55,
+        "usability": 69.0,
+        "practicality": 54.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "keyu-wang-2002/ScalingDepth",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/keyu-wang-2002/ScalingDepth",
+      "summary": "Discover, compare, and contribute to cutting-edge residual connections designed for large-scale 深度学习 and depth scaling. (语言: JavaScript)",
+      "popularity": {
+        "views": 24,
+        "likes": 24,
+        "comments": 2
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "深度估计",
+          "深度学习"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-11T12:25:46"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 24,
+        "forks": 2,
+        "open_issues": 0,
+        "language": "JavaScript",
+        "license": "mit",
+        "topics": [],
+        "created_at": "2026-10-11T12:25:46Z",
+        "pushed_at": "2026-11-04T15:44:53Z"
+      },
+      "filtered": false,
+      "total_score": 52.52,
+      "detail_scores": {
+        "popularity": 34.24,
+        "usability": 69.0,
+        "practicality": 52.0,
+        "freshness": 60
+      }
+    },
+    {
+      "name": "tacclaw-infinity/TacClaw-Infinity",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/tacclaw-infinity/TacClaw-Infinity",
+      "summary": "TacClaw-Infinity: research code and 数据集 resources for a large-scale Vision-Tactile-Language-Action 数据集. (语言: Python)",
+      "popularity": {
+        "views": 19,
+        "likes": 19,
+        "comments": 2
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "数据集"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-30T03:17:23"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 19,
+        "forks": 2,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "",
+        "topics": [],
+        "created_at": "2026-10-30T03:17:23Z",
+        "pushed_at": "2026-10-30T05:48:31Z"
+      },
+      "filtered": false,
+      "total_score": 52.26,
+      "detail_scores": {
+        "popularity": 29.19,
+        "usability": 60.0,
+        "practicality": 50.0,
+        "freshness": 80
+      }
+    },
+    {
+      "name": "bingaochen/Astra-on-RoboMME",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/bingaochen/Astra-on-RoboMME",
+      "summary": "A three-tier system for memory-augmented robotic manipulation: Astra plans, a small VLM monitors, and a VLA acts. 79.13% success on RoboMME. (语言: Python)",
+      "popularity": {
+        "views": 31,
+        "likes": 31,
+        "comments": 3
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉语言模型",
+          "视觉-语言-动作"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-21T19:32:30"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 31,
+        "forks": 3,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "apache-2.0",
+        "topics": [],
+        "created_at": "2026-09-21T19:32:30Z",
+        "pushed_at": "2026-11-05T07:44:21Z"
+      },
+      "filtered": false,
+      "total_score": 48.14,
+      "detail_scores": {
+        "popularity": 46.31,
+        "usability": 69.0,
+        "practicality": 52.0,
+        "freshness": 20
+      }
     }
   ],
   "pending_items": [
@@ -2863,6 +3142,59 @@
         "popularity": 87.57000000000002,
         "usability": 60.0,
         "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "alibaba-damo-academy/RynnVLA-Latent",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/alibaba-damo-academy/RynnVLA-Latent",
+      "summary": "RynnVLA-Latent: Scaling Robotic Manipulation 基础模型s with 三维-Grounded Latent Actions (语言: Python)",
+      "popularity": {
+        "views": 15,
+        "likes": 15,
+        "comments": 1
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉-语言-动作",
+          "三维视觉"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-05T06:27:35"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 15,
+        "forks": 1,
+        "open_issues": 1,
+        "language": "Python",
+        "license": "apache-2.0",
+        "topics": [],
+        "created_at": "2026-10-05T06:27:35Z",
+        "pushed_at": "2026-10-28T06:46:26Z"
+      },
+      "filtered": false,
+      "total_score": 38.05,
+      "detail_scores": {
+        "popularity": 20.15,
+        "usability": 60.0,
+        "practicality": 52.0,
         "freshness": 20
       }
     }
