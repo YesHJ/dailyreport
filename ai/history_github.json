@@ -2916,6 +2916,287 @@
         "practicality": 50.0,
         "freshness": 20
       }
+    },
+    {
+      "name": "patrasc237/EEG-DL",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/patrasc237/EEG-DL",
+      "summary": "A 深度学习 库 for EEG signal 分类, with 26 network architectures. (语言: Python) [标签: classification, deep-learning, eeg, neuroscience, python]",
+      "popularity": {
+        "views": 50,
+        "likes": 50,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "通用AI应用"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-05T14:19:24"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 50,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "mit",
+        "topics": [
+          "classification",
+          "deep-learning",
+          "eeg",
+          "neuroscience",
+          "python",
+          "tensorflow"
+        ],
+        "created_at": "2026-11-05T14:19:24Z",
+        "pushed_at": "2026-11-05T14:19:48Z"
+      },
+      "filtered": false,
+      "total_score": 64.9,
+      "detail_scores": {
+        "popularity": 50.5,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "Barry81-666/kaggle-portfolio",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/Barry81-666/kaggle-portfolio",
+      "summary": "Curated Kaggle projects in computational biology, medical imaging, data science and 机器学习. (语言: Jupyter Notebook)",
+      "popularity": {
+        "views": 59,
+        "likes": 59,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "数据处理"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-24T14:00:16"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 59,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "Jupyter Notebook",
+        "license": "",
+        "topics": [],
+        "created_at": "2026-10-24T14:00:16Z",
+        "pushed_at": "2026-10-29T11:02:21Z"
+      },
+      "filtered": false,
+      "total_score": 57.38,
+      "detail_scores": {
+        "popularity": 59.59,
+        "usability": 60.0,
+        "practicality": 50.0,
+        "freshness": 60
+      }
+    },
+    {
+      "name": "niharika2309/16-week-ai-ml-series",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/niharika2309/16-week-ai-ml-series",
+      "summary": "AI, One Concept at a Time A beginner-friendly journey into 人工智能 and 机器学习  By Niharika Batra  No complicated jargon. No assumption that you already know AI. Just one concept at a time. (语言: JavaScript)",
+      "popularity": {
+        "views": 45,
+        "likes": 45,
+        "comments": 3
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "通用AI应用"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-14T02:26:27"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 45,
+        "forks": 3,
+        "open_issues": 0,
+        "language": "JavaScript",
+        "license": "",
+        "topics": [],
+        "created_at": "2026-09-14T02:26:27Z",
+        "pushed_at": "2026-11-03T02:13:01Z"
+      },
+      "filtered": false,
+      "total_score": 51.89,
+      "detail_scores": {
+        "popularity": 60.45,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "mhdijas-2001/torch-hydra-forge",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/mhdijas-2001/torch-hydra-forge",
+      "summary": "PyTorch Hydra 脚手架 2026: Best 开源 深度学习 Project 模板 (语言: HTML) [标签: boilerplate, boilerplate-template, deep-learning, hydra, machine-learning]",
+      "popularity": {
+        "views": 53,
+        "likes": 53,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "通用AI应用"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-21T22:12:49"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 53,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "HTML",
+        "license": "",
+        "topics": [
+          "boilerplate",
+          "boilerplate-template",
+          "deep-learning",
+          "hydra",
+          "machine-learning",
+          "pytorch",
+          "trainer",
+          "yaml"
+        ],
+        "created_at": "2026-09-21T22:12:49Z",
+        "pushed_at": "2026-11-05T21:41:18Z"
+      },
+      "filtered": false,
+      "total_score": 49.81,
+      "detail_scores": {
+        "popularity": 53.53000000000001,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "nhatphonghoang35-collab/yaket-keras-trainer",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/nhatphonghoang35-collab/yaket-keras-trainer",
+      "summary": "YAML Keras Trainer 2026: 轻量级 Config-Driven 深度学习 模型s Made Simple (语言: HTML) [标签: deeplearning, keras-tensorflow, tensorflow2, trainer]",
+      "popularity": {
+        "views": 53,
+        "likes": 53,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "通用AI应用"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-21T22:53:42"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 53,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "HTML",
+        "license": "",
+        "topics": [
+          "deeplearning",
+          "keras-tensorflow",
+          "tensorflow2",
+          "trainer"
+        ],
+        "created_at": "2026-09-21T22:53:42Z",
+        "pushed_at": "2026-11-05T21:22:46Z"
+      },
+      "filtered": false,
+      "total_score": 49.81,
+      "detail_scores": {
+        "popularity": 53.53000000000001,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
     }
   ],
   "pending_items": [
@@ -3840,58 +4121,6 @@
       }
     },
     {
-      "name": "niharika2309/16-week-ai-ml-series",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/niharika2309/16-week-ai-ml-series",
-      "summary": "AI, One Concept at a Time A beginner-friendly journey into 人工智能 and 机器学习  By Niharika Batra  No complicated jargon. No assumption that you already know AI. Just one concept at a time. (语言: JavaScript)",
-      "popularity": {
-        "views": 43,
-        "likes": 43,
-        "comments": 3
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "通用AI应用"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-14T02:26:27"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 43,
-        "forks": 3,
-        "open_issues": 0,
-        "language": "JavaScript",
-        "license": "",
-        "topics": [],
-        "created_at": "2026-09-14T02:26:27Z",
-        "pushed_at": "2026-10-22T01:35:14Z"
-      },
-      "filtered": false,
-      "total_score": 51.28,
-      "detail_scores": {
-        "popularity": 58.43,
-        "usability": 69.0,
-        "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
       "name": "terryds/bestvaluemodel",
       "type": "tool",
       "platform": "GitHub",
@@ -4143,124 +4372,6 @@
       }
     },
     {
-      "name": "mhdijas-2001/torch-hydra-forge",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/mhdijas-2001/torch-hydra-forge",
-      "summary": "PyTorch Hydra 脚手架 2026: Best 开源 深度学习 Project 模板 (语言: HTML) [标签: boilerplate, boilerplate-template, deep-learning, hydra, machine-learning]",
-      "popularity": {
-        "views": 53,
-        "likes": 53,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "通用AI应用"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-21T22:12:49"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 53,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "HTML",
-        "license": "",
-        "topics": [
-          "boilerplate",
-          "boilerplate-template",
-          "deep-learning",
-          "hydra",
-          "machine-learning",
-          "pytorch",
-          "trainer",
-          "yaml"
-        ],
-        "created_at": "2026-09-21T22:12:49Z",
-        "pushed_at": "2026-11-04T19:03:15Z"
-      },
-      "filtered": false,
-      "total_score": 49.81,
-      "detail_scores": {
-        "popularity": 53.53000000000001,
-        "usability": 69.0,
-        "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "nhatphonghoang35-collab/yaket-keras-trainer",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/nhatphonghoang35-collab/yaket-keras-trainer",
-      "summary": "YAML Keras Trainer 2026: 轻量级 Config-Driven 深度学习 模型s Made Simple (语言: HTML) [标签: deeplearning, keras-tensorflow, tensorflow2, trainer]",
-      "popularity": {
-        "views": 53,
-        "likes": 53,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "通用AI应用"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-21T22:53:42"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 53,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "HTML",
-        "license": "",
-        "topics": [
-          "deeplearning",
-          "keras-tensorflow",
-          "tensorflow2",
-          "trainer"
-        ],
-        "created_at": "2026-09-21T22:53:42Z",
-        "pushed_at": "2026-11-04T17:03:59Z"
-      },
-      "filtered": false,
-      "total_score": 49.81,
-      "detail_scores": {
-        "popularity": 53.53000000000001,
-        "usability": 69.0,
-        "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
       "name": "martinguirado95-ux/untangling-ml-complexity",
       "type": "tool",
       "platform": "GitHub",
@@ -4312,7 +4423,7 @@
           "trainer"
         ],
         "created_at": "2026-09-21T21:46:02Z",
-        "pushed_at": "2026-11-04T22:22:08Z"
+        "pushed_at": "2026-11-05T19:24:58Z"
       },
       "filtered": false,
       "total_score": 47.22,
@@ -4421,7 +4532,7 @@
           "trainer"
         ],
         "created_at": "2026-09-21T22:54:48Z",
-        "pushed_at": "2026-11-04T22:27:16Z"
+        "pushed_at": "2026-11-05T19:38:36Z"
       },
       "filtered": false,
       "total_score": 45.81,
