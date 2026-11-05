@@ -1918,6 +1918,222 @@
         "practicality": 45.0,
         "freshness": 100
       }
+    },
+    {
+      "name": "SuperCLUE 11 月中文大模型测评榜：Gemini-4-Argon 登顶，Kimi 拿下国内第一",
+      "type": "news",
+      "platform": "新浪财经",
+      "url": "https://finance.sina.cn/tech/2026-11-05/detail-inixrytw8847229.d.html",
+      "summary": "SuperCLUE 发布 2026 年 11 月通用大模型测评榜单，Google 闭源模型 Gemini-4-Argon 以 73.62 分位列总分第一，月之暗面开源模型 Kimi-K3.1-Pro 以 61.46 分成为国内得分最高模型，可作为中文任务选型与对比的第三方参考口径。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "大模型",
+          "效率工具"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-05T11:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 55.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 61.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "中国开源模型下载量首超美国，20 家单位在乌镇签下智能体自律公约",
+      "type": "news",
+      "platform": "今日头条",
+      "url": "https://m.toutiao.com/article/7704602345979757098/",
+      "summary": "11 月 4 日混元 Hy4 发布同日，中国信通院联合华为、阿里、腾讯、小米、百度、火山引擎等 20 家单位在乌镇峰会签署智能体发展自律公约，提出八条措施，围绕开源生态、能力边界与治理规则同步推进。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "low",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "Agent智能体",
+          "行业观察"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-04T20:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 54.75,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 78.0,
+        "practicality": 61.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "AI 新闻日报 11-03：美团 1.6 万亿参数 LongCat-2.5、混元 Hyra 2.0 科学模型开源",
+      "type": "news",
+      "platform": "CSDN",
+      "url": "https://blog.csdn.net/qq_39427511/article/details/169901385",
+      "summary": "美团 11 月 2 日发布原生多模态 LongCat-2.5，总参数 1.6 万亿、激活约 480 亿，训练全程跑在国产算力上，采用 1M 序列长上下文与 W4A4 量化，预填充/解码吞吐较 W8A8 提升约 43%。腾讯混元 Hyra 2.0 一次放出 HyInv、HyPLM-Flash、HyFF 等 Apache-2.0 科学模型，DeepSeek 推理框架 DeepInfer 同步支持昇腾 950。",
+      "popularity": {
+        "views": 607,
+        "likes": 1,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "high",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "large",
+        "scenarios": [
+          "大模型",
+          "数据分析",
+          "私有化部署"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-03T07:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 52.12,
+      "detail_scores": {
+        "popularity": 7.069999999999999,
+        "usability": 78.0,
+        "practicality": 58.0,
+        "freshness": 80
+      }
+    },
+    {
+      "name": "为何选择开源路线？多家大模型负责人在乌镇给出答案",
+      "type": "news",
+      "platform": "搜狐",
+      "url": "https://m.sohu.com/a/1096958704_161795/?pvid=000115_3w_a",
+      "summary": "11 月 3 日 2026 世界互联网大会乌镇峰会开幕，多家国内大模型公司业务负责人回应为何走开源路线，认为开放研究成果能加速通用人工智能到来；DeepSeek、阿里千问、MiniMax 负责人围绕开源工程与应用生态展开讨论。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "small",
+        "scenarios": [
+          "行业观察",
+          "大模型"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-03T21:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 50.25,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 56.0,
+        "freshness": 80
+      }
+    },
+    {
+      "name": "百度开源文心 5.5 Flash Base 基座模型，多基准刷新同尺寸 SOTA",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/11/507787.html",
+      "summary": "11月5日百度正式开源基座模型文心5.5 Flash Base，权重已上传 HuggingFace。面向长文档分析、多轮交互与智能体任务，强调在同等参数尺寸下提升资源利用效率，刷新多项同尺寸基准成绩，适合继续预训练和垂直场景微调。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "moderate",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "大模型",
+          "知识库"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-05T10:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 49.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 57.0,
+        "practicality": 61.0,
+        "freshness": 100
+      }
     }
   ],
   "pending_items": [
@@ -2875,6 +3091,49 @@
         "usability": 44.0,
         "practicality": 37.0,
         "freshness": 100
+      }
+    },
+    {
+      "name": "GitHub 日榜趋势速报 2026-11-03：20 个开源项目 24 小时 Star 增速领先",
+      "type": "news",
+      "platform": "掘金",
+      "url": "https://juejin.cn/post/7703423062713335858",
+      "summary": "按近 24 小时 Star 增量筛出 20 个开源项目：纯 Rust 的 Craft Anything 用真实检查工具逆向分析网站、应用与游戏并生成可编译工程，24 小时增 2687 Star；Google 的 elephant-goldfish-model 达 1.06 万 Star，主打编码前先收集项目上下文、草拟设计规格。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "moderate",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI编程",
+          "开源工具"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-03T12:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 41.0,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 57.0,
+        "practicality": 43.0,
+        "freshness": 80
       }
     }
   ]
