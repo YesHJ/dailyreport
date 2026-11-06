@@ -2322,6 +2322,282 @@
         "practicality": 52.0,
         "freshness": 20
       }
+    },
+    {
+      "name": "scy-v/VLA-Precision",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/scy-v/VLA-Precision",
+      "summary": "VLA-Precision: Asymmetric Co-Bootstrapping for Efficient Real-World Online RL of 视觉-语言-动作 模型s (语言: Python)",
+      "popularity": {
+        "views": 101,
+        "likes": 101,
+        "comments": 10
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉-语言-动作",
+          "视觉语言模型"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-02T08:40:01"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 101,
+        "forks": 10,
+        "open_issues": 1,
+        "language": "Python",
+        "license": "apache-2.0",
+        "topics": [],
+        "created_at": "2026-09-02T08:40:01Z",
+        "pushed_at": "2026-11-06T10:11:47Z"
+      },
+      "filtered": false,
+      "total_score": 62.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 60.0,
+        "practicality": 52.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "Arafat-shuvo/Deep-Learning-with-PyTorch",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/Arafat-shuvo/Deep-Learning-with-PyTorch",
+      "summary": "PyTorch: A comprehensive learning 框架 for mastering 深度学习, neural networks, 计算机视觉, and modern AI architectures through hands-on implementations, practical projects, and research-oriented experiments....",
+      "popularity": {
+        "views": 22,
+        "likes": 22,
+        "comments": 9
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "深度学习"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-03T19:10:49"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 22,
+        "forks": 9,
+        "open_issues": 12,
+        "language": "Python",
+        "license": "mit",
+        "topics": [],
+        "created_at": "2026-11-03T19:10:49Z",
+        "pushed_at": "2026-11-05T14:48:56Z"
+      },
+      "filtered": false,
+      "total_score": 59.67,
+      "detail_scores": {
+        "popularity": 67.22,
+        "usability": 44.0,
+        "practicality": 50.0,
+        "freshness": 80
+      }
+    },
+    {
+      "name": "RicePasteM/RiO-DETRv2",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/RicePasteM/RiO-DETRv2",
+      "summary": "The official implementation for RiO-DETRv2: Geometry-Aware Uncertainty 模型ing Meets 实时 Oriented 目标检测 Transformer (语言: Python)",
+      "popularity": {
+        "views": 14,
+        "likes": 14,
+        "comments": 1
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "目标检测"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-21T02:16:55"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 14,
+        "forks": 1,
+        "open_issues": 1,
+        "language": "Python",
+        "license": "agpl-3.0",
+        "topics": [],
+        "created_at": "2026-10-21T02:16:55Z",
+        "pushed_at": "2026-10-29T05:27:47Z"
+      },
+      "filtered": false,
+      "total_score": 45.24,
+      "detail_scores": {
+        "popularity": 19.14,
+        "usability": 60.0,
+        "practicality": 50.0,
+        "freshness": 60
+      }
+    },
+    {
+      "name": "alibaba-damo-academy/RynnVLA-Latent",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/alibaba-damo-academy/RynnVLA-Latent",
+      "summary": "RynnVLA-Latent: Scaling Robotic Manipulation 基础模型s with 三维-Grounded Latent Actions (语言: Python)",
+      "popularity": {
+        "views": 15,
+        "likes": 15,
+        "comments": 1
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉-语言-动作",
+          "三维视觉"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-05T06:27:35"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 15,
+        "forks": 1,
+        "open_issues": 1,
+        "language": "Python",
+        "license": "apache-2.0",
+        "topics": [],
+        "created_at": "2026-10-05T06:27:35Z",
+        "pushed_at": "2026-10-28T06:46:26Z"
+      },
+      "filtered": false,
+      "total_score": 38.05,
+      "detail_scores": {
+        "popularity": 20.15,
+        "usability": 60.0,
+        "practicality": 52.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "988hj7tczd-oss/dsh-computer-use",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/988hj7tczd-oss/dsh-computer-use",
+      "summary": "跨平台 Computer Use plugin for DeepSeek Harness: observable desktop 自动化 with an isolated virtual cursor, AX/UIA observation, screenshot vision, and 12 guarded tools. (语言: JavaScript) [标签: ai-agents, a...",
+      "popularity": {
+        "views": 63,
+        "likes": 63,
+        "comments": 6
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "机器视觉应用"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-08-15T16:22:25"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 63,
+        "forks": 6,
+        "open_issues": 4,
+        "language": "JavaScript",
+        "license": "mit",
+        "topics": [
+          "ai-agents",
+          "ai-computer-use",
+          "computer-use",
+          "cua-driver",
+          "deepseek-harness",
+          "desktop-automation",
+          "dsh-plugin",
+          "linux",
+          "macos",
+          "mcp",
+          "virtual-cursor",
+          "windows"
+        ],
+        "created_at": "2026-08-15T16:22:25Z",
+        "pushed_at": "2026-10-05T07:12:59Z"
+      },
+      "filtered": false,
+      "total_score": 61.84,
+      "detail_scores": {
+        "popularity": 93.63,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 20
+      },
+      "_source": "pending"
     }
   ],
   "pending_items": [
@@ -2856,71 +3132,6 @@
       }
     },
     {
-      "name": "988hj7tczd-oss/dsh-computer-use",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/988hj7tczd-oss/dsh-computer-use",
-      "summary": "跨平台 Computer Use plugin for DeepSeek Harness: observable desktop 自动化 with an isolated virtual cursor, AX/UIA observation, screenshot vision, and 12 guarded tools. (语言: JavaScript) [标签: ai-agents, a...",
-      "popularity": {
-        "views": 63,
-        "likes": 63,
-        "comments": 6
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "机器视觉应用"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-08-15T16:22:25"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 63,
-        "forks": 6,
-        "open_issues": 4,
-        "language": "JavaScript",
-        "license": "mit",
-        "topics": [
-          "ai-agents",
-          "ai-computer-use",
-          "computer-use",
-          "cua-driver",
-          "deepseek-harness",
-          "desktop-automation",
-          "dsh-plugin",
-          "linux",
-          "macos",
-          "mcp",
-          "virtual-cursor",
-          "windows"
-        ],
-        "created_at": "2026-08-15T16:22:25Z",
-        "pushed_at": "2026-10-05T07:12:59Z"
-      },
-      "filtered": false,
-      "total_score": 61.84,
-      "detail_scores": {
-        "popularity": 93.63,
-        "usability": 69.0,
-        "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
       "name": "OpenMOSS/EasyWAM",
       "type": "tool",
       "platform": "GitHub",
@@ -3142,59 +3353,6 @@
         "popularity": 87.57000000000002,
         "usability": 60.0,
         "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "alibaba-damo-academy/RynnVLA-Latent",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/alibaba-damo-academy/RynnVLA-Latent",
-      "summary": "RynnVLA-Latent: Scaling Robotic Manipulation 基础模型s with 三维-Grounded Latent Actions (语言: Python)",
-      "popularity": {
-        "views": 15,
-        "likes": 15,
-        "comments": 1
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉-语言-动作",
-          "三维视觉"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-10-05T06:27:35"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 15,
-        "forks": 1,
-        "open_issues": 1,
-        "language": "Python",
-        "license": "apache-2.0",
-        "topics": [],
-        "created_at": "2026-10-05T06:27:35Z",
-        "pushed_at": "2026-10-28T06:46:26Z"
-      },
-      "filtered": false,
-      "total_score": 38.05,
-      "detail_scores": {
-        "popularity": 20.15,
-        "usability": 60.0,
-        "practicality": 52.0,
         "freshness": 20
       }
     }
