@@ -1,181 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "2026年10月大模型盘点：GPT-6、Claude、Gemini、DeepSeek多款旗舰发布",
-      "type": "news",
-      "platform": "宁小瓣科技",
-      "url": "https://www.ningxiaoban.tech/blog/llm-october-2026-roundup.html",
-      "summary": "2026年10月迎来史上发布最密集月份之一，16款新模型、14家厂商集体亮相。GPT-6全系推送、Claude Haiku 5.5成本降75%、Gemini 4 Argon百万token上下文、DeepSeek V4.1 Flash开源高性价比、阿里Qwen3.6 27B端侧部署。AI竞争从单点突破走向生态竞争。",
-      "popularity": {
-        "views": 60000,
-        "likes": 4500,
-        "comments": 1200
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "high",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "large",
-        "scenarios": [
-          "模型选型",
-          "企业部署",
-          "开发参考"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-10-28T08:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 84.0,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 78.0,
-        "practicality": 58.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "机器之心2026年度「AI中国」榜单评选正式启动",
-      "type": "news",
-      "platform": "机器之心",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-10-23/doc-iniweqhs8207057.shtml",
-      "summary": "机器之心启动2026年度「AI中国」榜单评选。文章指出2026年AI正从屏幕里的智能助手成为参与实际工作的生产力，软件开发、多模态视频生成、具身智能、科学研究等领域全面突破，中国AI产业加速成长，开源生态全球影响力持续扩大。",
-      "popularity": {
-        "views": 32000,
-        "likes": 1800,
-        "comments": 450
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "行业评估",
-          "趋势分析"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-10-26T10:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 81.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 81.0,
-        "practicality": 61.0,
-        "freshness": 80
-      }
-    },
-    {
-      "name": "中央广播电视总台发布2026年人工智能十大趋势",
-      "type": "news",
-      "platform": "vacyl.com",
-      "url": "https://www.vacyl.com/news/zjtaizhou17729/",
-      "summary": "央视发布2026年AI十大趋势：AI智能体全面走进场景，企业级智能体在研发、客服、办公自动化实现规模化部署；多模态实用化从专用工具向通用智能伙伴跨越；国产大模型持续提升技术实力，开源生态全球影响力扩大。政策目标2030年智能体应用普及率超90%。",
-      "popularity": {
-        "views": 55000,
-        "likes": 3800,
-        "comments": 920
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "large",
-        "scenarios": [
-          "趋势预测",
-          "政策参考",
-          "行业规划"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-10-26T08:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 80.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 81.0,
-        "practicality": 58.0,
-        "freshness": 80
-      }
-    },
-    {
-      "name": "IT时代网：2026年10月AI人工智能领域合集",
-      "type": "news",
-      "platform": "IT时代网",
-      "url": "https://www.itsdw.cn/news/35160.html",
-      "summary": "2026年10月AI领域高频迭代：OpenAI全量推送GPT-6，谷歌发布Gemini 4 Argon百万token上下文，Anthropic推出Claude Haiku 5.5成本降75%，Meta发布Muse Wonder。国内方面，DeepSeek融资增至千亿，月之暗面计划IPO，智能体加速嵌入办公系统。",
-      "popularity": {
-        "views": 85000,
-        "likes": 5200,
-        "comments": 1500
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "high",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "large",
-        "scenarios": [
-          "行业跟踪",
-          "技术选型",
-          "投资参考"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-10-26T10:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 80.0,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 78.0,
-        "practicality": 58.0,
-        "freshness": 80
-      }
-    },
-    {
       "name": "开源逆向分析工具REA爆火：一夜获超1.4万颗星",
       "type": "news",
       "platform": "36氪",
@@ -2134,6 +1959,220 @@
         "practicality": 61.0,
         "freshness": 100
       }
+    },
+    {
+      "name": "AI与大模型新闻日报 | 2026-11-06",
+      "type": "news",
+      "platform": "CSDN",
+      "url": "https://blog.csdn.net/dozenyaoyida/article/details/170183921",
+      "summary": "11月6日AI要闻汇总：OpenAI发布安全专用模型GPT-6 Cyber，京东物流在CeMAT ASIA升级仓储机器人，英伟达发布推理技术解读。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "行业动态",
+          "大模型"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-06T08:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 55.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 61.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "荣耀CEO李健：AI入口无需争夺 信任自会汇聚",
+      "type": "news",
+      "platform": "东方财富",
+      "url": "https://wap.eastmoney.com/a/202611063924705123.html",
+      "summary": "11月6日2026移动网络大会上，荣耀CEO李健称算力与大模型并非终局，AI入口之争不是零和博弈，端侧Agent应以用户信任为核心。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "端侧AI",
+          "行业动态"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-06T14:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 55.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 61.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "OpenAI、Anthropic接连更新产品，海外大模型商业化应用加速落地",
+      "type": "news",
+      "platform": "今日头条",
+      "url": "https://m.toutiao.com/w/1881065442689098/",
+      "summary": "11月6日消息，海外头部厂商密集迭代，OpenAI推出GPT-6 Cyber强化网络安全，安全AI与金融AI路径为国内厂商商业化提供参考。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "大模型",
+          "AI安全"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-06T10:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 55.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 61.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "澎湃AI早新闻丨2026年11月5日：进博会开幕，AI与机器人成最大看点",
+      "type": "news",
+      "platform": "澎湃新闻",
+      "url": "https://m.thepaper.cn/newsDetail_forward_34410019",
+      "summary": "澎湃AI早新闻11月5日：第九届进博会开幕，4142家境外企业参展、展览面积首破44万平方米，AI与机器人成为本届最大看点。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "行业动态",
+          "具身智能"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-05T07:30:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 55.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 61.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "张朝阳乌镇发声：搜狐做不起大模型，是清醒而非冷静选择",
+      "type": "news",
+      "platform": "新浪财经",
+      "url": "https://finance.sina.cn/stock/jdts/2026-11-06/detail-inixuqia5509972.d.html",
+      "summary": "在2026世界互联网大会乌镇峰会期间，张朝阳谈大模型热潮，称搜狐不做基础大模型是资源约束下的清醒选择，应用层优先。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "行业动态"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-06T11:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 55.0,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 59.0,
+        "freshness": 100
+      }
     }
   ],
   "pending_items": [
@@ -3134,6 +3173,49 @@
         "usability": 57.0,
         "practicality": 43.0,
         "freshness": 80
+      }
+    },
+    {
+      "name": "AI 资讯 TOP10｜2026/11/06：美股 AI 板块暴跌，GPT-6 Cyber 发布",
+      "type": "news",
+      "platform": "今日头条",
+      "url": "https://m.toutiao.com/article/7704905824192086543/",
+      "summary": "11月5日美股单日市值蒸发约3.2万亿美元、纳指跌5.52%，AI板块领跌；同期GPT-6 Cyber发布，智能体降低漏洞利用成本引发安全争论。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "large",
+        "scenarios": [
+          "行业动态",
+          "AI安全"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-06T09:30:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 54.25,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 56.0,
+        "freshness": 100
       }
     }
   ]
