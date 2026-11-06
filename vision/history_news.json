@@ -1276,6 +1276,221 @@
         "practicality": 51.0,
         "freshness": 80
       }
+    },
+    {
+      "name": "工业AI应用场景加快落地，机器视觉产业链迎来业绩验证窗口",
+      "type": "news",
+      "platform": "财联社",
+      "url": "https://www.cls.cn/subject/1321",
+      "summary": "从视觉系统集成到下游需求变化，海外龙头Basler、基恩士、康耐视近期动向为观察机器视觉行业提供新线索。国内企业三季报已披露，工业AI应用能否转化为经营增量有了更具体的观察样本。",
+      "popularity": {
+        "views": 11200,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "high",
+        "scenarios": [
+          "机器视觉",
+          "工业AI"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-05T07:43:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 84.25,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 81.0,
+        "practicality": 56.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "摄像头拍下的画面机器怎么看懂的？一文读懂机器视觉产业链",
+      "type": "news",
+      "platform": "东方财富",
+      "url": "https://emcreative.eastmoney.com/app_fortune/article/index.html?artCode=20261101120244099348380",
+      "summary": "机器视觉链路为感光CIS、处理ISP与视觉SoC、识别NPU与算法。全球CIS市场2026年预计突破300亿美元，前三家合计份额超七成。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "机器视觉",
+          "产业链"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-01T12:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 51.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 61.0,
+        "freshness": 80
+      }
+    },
+    {
+      "name": "第一届中国工业视觉人工智能大会在沪举办",
+      "type": "news",
+      "platform": "新浪",
+      "url": "https://k.sina.cn/article_7857201856_1d45362c001908taio.html",
+      "summary": "大会以定义新工业智领新时代为主题，围绕工业AI与智能光学成像前沿进展展开交流。当前AI正从信息世界加快走向物理世界，工业场景成为检验技术规模化应用能力的重要领域。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "high",
+        "scenarios": [
+          "工业视觉",
+          "AI大会"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-02T01:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 50.25,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 56.0,
+        "freshness": 80
+      }
+    },
+    {
+      "name": "2026工业AI视觉监测厂商推荐：智能图纸识别成为差异化竞争关键",
+      "type": "news",
+      "platform": "搜狐",
+      "url": "https://m.sohu.com/a/1097127229_121078241/",
+      "summary": "深兰科技等厂商在视觉缺陷检测与三维建模领域积累深厚，2026年通过DeepAgent智能体开放平台向大模型方向升级，智能图纸识别成为工业AI视觉新差异化方向。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "moderate",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "工业视觉",
+          "缺陷检测"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-05T10:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 49.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 57.0,
+        "practicality": 61.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "20家机器人公司吃掉具身智能融资半壁江山",
+      "type": "news",
+      "platform": "36氪",
+      "url": "https://36kr.com/p/4053825059574656",
+      "summary": "2026年具身智能融资继续加速，超半数资金流入机器人大脑赛道。VLA、世界模型、RL与运控交叉方向是缺口和薪酬弹性最大的领域，自动驾驶成为最大人才输送源。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "具身智能",
+          "融资"
+        ],
+        "maturity": "emerging"
+      },
+      "freshness": {
+        "publish_date": "2026-11-03T18:08:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 48.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 49.0,
+        "freshness": 80
+      }
     }
   ],
   "pending_items": []
