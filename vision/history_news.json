@@ -1491,6 +1491,50 @@
         "practicality": 49.0,
         "freshness": 80
       }
+    },
+    {
+      "name": "2026机器视觉行业案例解析：北京中远通工业落地实践",
+      "type": "news",
+      "platform": "中远通",
+      "url": "https://www.zyttech.com/newd/113.html",
+      "summary": "机器视觉在缺陷检测场景应用最广，覆盖汽车零部件、3C电子、锂电、半导体等行业。2026年3D视觉落地加速普及，边缘端轻量化部署与多光谱成像成为技术升级方向。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "缺陷检测",
+          "3D视觉",
+          "工业质检"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-05T08:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 49.0,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 69.0,
+        "practicality": 63.0,
+        "freshness": 80
+      }
     }
   ],
   "pending_items": []
