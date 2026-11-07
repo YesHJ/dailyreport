@@ -2598,6 +2598,288 @@
         "freshness": 20
       },
       "_source": "pending"
+    },
+    {
+      "name": "ZJU-REAL/GPD",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/ZJU-REAL/GPD",
+      "summary": "GPD: Distilling Routed 三维 Privilege for Spatial Reasoning in 视觉语言模型s (语言: Python)",
+      "popularity": {
+        "views": 23,
+        "likes": 23,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉语言模型",
+          "三维视觉"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-29T10:52:08"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 23,
+        "forks": 0,
+        "open_issues": 2,
+        "language": "Python",
+        "license": "",
+        "topics": [],
+        "created_at": "2026-09-29T10:52:08Z",
+        "pushed_at": "2026-11-05T09:47:43Z"
+      },
+      "filtered": false,
+      "total_score": 38.97,
+      "detail_scores": {
+        "popularity": 23.230000000000004,
+        "usability": 60.0,
+        "practicality": 52.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "OpenMOSS/EasyWAM",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/OpenMOSS/EasyWAM",
+      "summary": "A unified 框架 for 训练, 微调, and evaluating World Action 模型s (语言: Python) [标签: benchmark, codebase, embodied-ai, foundation-models, lora]",
+      "popularity": {
+        "views": 404,
+        "likes": 404,
+        "comments": 13
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉语言模型",
+          "机器人视觉"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-08-26T15:08:36"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 404,
+        "forks": 13,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "other",
+        "topics": [
+          "benchmark",
+          "codebase",
+          "embodied-ai",
+          "foundation-models",
+          "lora",
+          "robotics",
+          "vision-language-action",
+          "world-action-model",
+          "world-models"
+        ],
+        "created_at": "2026-08-26T15:08:36Z",
+        "pushed_at": "2026-10-28T10:52:39Z"
+      },
+      "filtered": false,
+      "total_score": 60.25,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 53.0,
+        "practicality": 52.0,
+        "freshness": 20
+      },
+      "_source": "pending"
+    },
+    {
+      "name": "OpenBMB/SimpleNav",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/OpenBMB/SimpleNav",
+      "summary": "SimpleNav: A simple, unified, reproducible, and extensible 框架 for navigation VLA research. (语言: Python) [标签: embodied, navigation, vision-language-action]",
+      "popularity": {
+        "views": 139,
+        "likes": 139,
+        "comments": 5
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉-语言-动作",
+          "视觉语言模型"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-08-27T02:52:20"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 139,
+        "forks": 5,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "mit",
+        "topics": [
+          "embodied",
+          "navigation",
+          "vision-language-action"
+        ],
+        "created_at": "2026-08-27T02:52:20Z",
+        "pushed_at": "2026-10-09T05:20:24Z"
+      },
+      "filtered": false,
+      "total_score": 60.25,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 53.0,
+        "practicality": 52.0,
+        "freshness": 20
+      },
+      "_source": "pending"
+    },
+    {
+      "name": "RadixRootMind/RadixQuantVLA",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/RadixRootMind/RadixQuantVLA",
+      "summary": "RadixQuantVLA is a unified, Lego-like 框架 for post-训练 quantization, 基准测试ing, and 部署   preparation of 视觉-语言-动作 模型s, integrating QuantVLA, Omega-QVLA, OpenVLA, UniVLA, StarVLA, GR00T, and   Pi0.5 rout...",
+      "popularity": {
+        "views": 90,
+        "likes": 90,
+        "comments": 10
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉-语言-动作",
+          "视觉语言模型"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-08-19T07:20:37"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 90,
+        "forks": 10,
+        "open_issues": 0,
+        "language": "Jupyter Notebook",
+        "license": "gpl-3.0",
+        "topics": [],
+        "created_at": "2026-08-19T07:20:37Z",
+        "pushed_at": "2026-10-29T10:14:12Z"
+      },
+      "filtered": false,
+      "total_score": 58.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 44.0,
+        "practicality": 52.0,
+        "freshness": 20
+      },
+      "_source": "pending"
+    },
+    {
+      "name": "stubbb/c-shop",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/stubbb/c-shop",
+      "summary": "Graphic editor supporting agentic workflows with 深度学习 modules. (语言: Rust)",
+      "popularity": {
+        "views": 57,
+        "likes": 57,
+        "comments": 6
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "深度学习"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-08-28T19:28:45"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 57,
+        "forks": 6,
+        "open_issues": 1,
+        "language": "Rust",
+        "license": "apache-2.0",
+        "topics": [],
+        "created_at": "2026-08-28T19:28:45Z",
+        "pushed_at": "2026-10-15T20:45:34Z"
+      },
+      "filtered": false,
+      "total_score": 57.77,
+      "detail_scores": {
+        "popularity": 87.57000000000002,
+        "usability": 60.0,
+        "practicality": 50.0,
+        "freshness": 20
+      },
+      "_source": "pending"
     }
   ],
   "pending_items": [
@@ -3126,231 +3408,6 @@
       "total_score": 41.8,
       "detail_scores": {
         "popularity": 34.34,
-        "usability": 60.0,
-        "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "OpenMOSS/EasyWAM",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/OpenMOSS/EasyWAM",
-      "summary": "A unified 框架 for 训练, 微调, and evaluating World Action 模型s (语言: Python) [标签: benchmark, codebase, embodied-ai, foundation-models, lora]",
-      "popularity": {
-        "views": 404,
-        "likes": 404,
-        "comments": 13
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉语言模型",
-          "机器人视觉"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-08-26T15:08:36"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 404,
-        "forks": 13,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "other",
-        "topics": [
-          "benchmark",
-          "codebase",
-          "embodied-ai",
-          "foundation-models",
-          "lora",
-          "robotics",
-          "vision-language-action",
-          "world-action-model",
-          "world-models"
-        ],
-        "created_at": "2026-08-26T15:08:36Z",
-        "pushed_at": "2026-10-28T10:52:39Z"
-      },
-      "filtered": false,
-      "total_score": 60.25,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 53.0,
-        "practicality": 52.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "OpenBMB/SimpleNav",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/OpenBMB/SimpleNav",
-      "summary": "SimpleNav: A simple, unified, reproducible, and extensible 框架 for navigation VLA research. (语言: Python) [标签: embodied, navigation, vision-language-action]",
-      "popularity": {
-        "views": 139,
-        "likes": 139,
-        "comments": 5
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉-语言-动作",
-          "视觉语言模型"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-08-27T02:52:20"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 139,
-        "forks": 5,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "mit",
-        "topics": [
-          "embodied",
-          "navigation",
-          "vision-language-action"
-        ],
-        "created_at": "2026-08-27T02:52:20Z",
-        "pushed_at": "2026-10-09T05:20:24Z"
-      },
-      "filtered": false,
-      "total_score": 60.25,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 53.0,
-        "practicality": 52.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "RadixRootMind/RadixQuantVLA",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/RadixRootMind/RadixQuantVLA",
-      "summary": "RadixQuantVLA is a unified, Lego-like 框架 for post-训练 quantization, 基准测试ing, and 部署   preparation of 视觉-语言-动作 模型s, integrating QuantVLA, Omega-QVLA, OpenVLA, UniVLA, StarVLA, GR00T, and   Pi0.5 rout...",
-      "popularity": {
-        "views": 90,
-        "likes": 90,
-        "comments": 10
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉-语言-动作",
-          "视觉语言模型"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-08-19T07:20:37"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 90,
-        "forks": 10,
-        "open_issues": 0,
-        "language": "Jupyter Notebook",
-        "license": "gpl-3.0",
-        "topics": [],
-        "created_at": "2026-08-19T07:20:37Z",
-        "pushed_at": "2026-10-29T10:14:12Z"
-      },
-      "filtered": false,
-      "total_score": 58.0,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 44.0,
-        "practicality": 52.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "stubbb/c-shop",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/stubbb/c-shop",
-      "summary": "Graphic editor supporting agentic workflows with 深度学习 modules. (语言: Rust)",
-      "popularity": {
-        "views": 57,
-        "likes": 57,
-        "comments": 6
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "深度学习"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-08-28T19:28:45"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 57,
-        "forks": 6,
-        "open_issues": 1,
-        "language": "Rust",
-        "license": "apache-2.0",
-        "topics": [],
-        "created_at": "2026-08-28T19:28:45Z",
-        "pushed_at": "2026-10-15T20:45:34Z"
-      },
-      "filtered": false,
-      "total_score": 57.77,
-      "detail_scores": {
-        "popularity": 87.57000000000002,
         "usability": 60.0,
         "practicality": 50.0,
         "freshness": 20
