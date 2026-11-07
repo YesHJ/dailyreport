@@ -1,440 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "开源逆向分析工具REA爆火：一夜获超1.4万颗星",
-      "type": "news",
-      "platform": "36氪",
-      "url": "https://www.36kr.com/p/4019721614169733",
-      "summary": "开源逆向分析工具REA在GitHub上一夜获得超过1.4万颗星，号称可逆向分析微信、支付宝、抖音等国民App。REA无操作门槛，可直接将GitHub地址发给Agent，AI自动下载使用。工具引发安全关注，但暂未构成严重威胁。",
-      "popularity": {
-        "views": 72000,
-        "likes": 4100,
-        "comments": 1800
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "安全分析",
-          "逆向工程",
-          "AI工具"
-        ],
-        "maturity": "growing"
-      },
-      "freshness": {
-        "publish_date": "2026-10-26T08:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 79.0,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 81.0,
-        "practicality": 51.0,
-        "freshness": 80
-      }
-    },
-    {
-      "name": "智元宣布量产人形机器人20000台，2026上半年营收近20亿元",
-      "type": "news",
-      "platform": "36氪",
-      "url": "https://36kr.com/",
-      "summary": "智元机器人宣布量产人形机器人达20000台，2026上半年营收近20亿元；同时首创物理AI价值度量单位Worken并发布《2026具身智能产业创新报告》，部署态加速打通物理AI全链路。",
-      "popularity": {
-        "views": 95000,
-        "likes": 7600,
-        "comments": 1900
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "excellent",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "wide",
-        "scenarios": [
-          "具身智能",
-          "机器人"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-10-29"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 91.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 90.0,
-        "practicality": 76.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "腾讯WorkBuddy企业版已覆盖中国企业500强中的50%",
-      "type": "news",
-      "platform": "InfoQ",
-      "url": "https://aihot.virxact.com/all?category=industry&date=2026-10-29",
-      "summary": "腾讯汤道生披露WorkBuddy自2026年3月上线以来7个月迭代100个大版本，完成90亿次用户任务请求，企业版已覆盖中国500强企业的50%，AI办公智能体进入规模化落地阶段。",
-      "popularity": {
-        "views": 76000,
-        "likes": 6080,
-        "comments": 1520
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "excellent",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "wide",
-        "scenarios": [
-          "AI Agent",
-          "企业办公"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-10-29"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 91.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 90.0,
-        "practicality": 76.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "OpenAI被曝购买谷歌AI芯片，英伟达数百亿美元投资也没拦住",
-      "type": "news",
-      "platform": "36氪",
-      "url": "https://www.163.com/dy/article/LAE8ULDA05118O92.html",
-      "summary": "智东西2026-10-29报道，OpenAI被曝采购谷歌TPU类AI芯片，算力供应商多元化趋势显现，AI芯片格局或生变。",
-      "popularity": {
-        "views": 71000,
-        "likes": 5680,
-        "comments": 1420
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "excellent",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "wide",
-        "scenarios": [
-          "AI算力",
-          "芯片"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-10-29"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 91.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 90.0,
-        "practicality": 76.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "Anthropic推出Claude智能报告工具，企业可监控员工AI使用情况与开销",
-      "type": "news",
-      "platform": "InfoQ",
-      "url": "https://aihot.virxact.com/all",
-      "summary": "Anthropic发布Claude智能报告功能，面向Claude Enterprise付费用户开放，企业可监控员工AI使用情况与开销，AI治理工具化趋势明显。",
-      "popularity": {
-        "views": 62000,
-        "likes": 4960,
-        "comments": 1240
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "excellent",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI治理",
-          "企业AI"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-10-29"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 87.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 90.0,
-        "practicality": 61.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "AI 资讯日报｜2026年10月30日：谷歌Gemini 4 Carbon登顶智能评测，腾讯混元Hy4将首发视觉理解",
-      "type": "news",
-      "platform": "CSDN",
-      "url": "https://blog.csdn.net/IT_ORACLE/article/details/169524325",
-      "summary": "10月29日Google DeepMind正式发布Gemini 4 Carbon；同场信息还包括腾讯混元Hy4即将发布并首次引入视觉理解、首批风云气象卫星极端天气AI模型上线，适合快速浏览当日国内AI动态。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "大模型",
-          "行业动态"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-10-30T08:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 55.5,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 61.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "乌镇，何以开源：2026年世界互联网大会聚焦AI开源开放",
-      "type": "news",
-      "platform": "云南网",
-      "url": "https://m.yunnan.cn/system/2026/10/30/034186304.shtml",
-      "summary": "11月2日至5日2026年世界互联网大会乌镇峰会将以开源开放共建共享为主题，设置人工智能乌镇对话，围绕全球AI开源生态构建、安全治理与国际合作展开，反映开源已成为政策与产业共同议题。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "开源生态",
-          "行业动态"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-10-30T09:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 55.5,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 61.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "全球AI新闻简报（2026-10-30）：模型竞赛、资本算力与安全治理三线并进",
-      "type": "news",
-      "platform": "今日头条",
-      "url": "https://m.toutiao.com/article/7702456976353133090/",
-      "summary": "Mistral Large 4以万亿参数开放权重、0.70/2.10美元每百万Token入市；Gemini 4 Carbon登顶AA指数；Cohere完成50亿美元E轮首关、英伟达129亿美元收购Hugging Face遭DOJ反垄断调查；纽约州未成年人AI法案落地。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "large",
-        "scenarios": [
-          "行业动态",
-          "大模型",
-          "安全合规"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-10-30T09:30:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 54.75,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 58.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "极新早报：智元GO-3 Preview与Genie Master计划全面开源，英伟达发布Nemotron 3.5 Transcribe",
-      "type": "news",
-      "platform": "网易号",
-      "url": "https://www.163.com/dy/article/LAFMGCTC05562DGT.html",
-      "summary": "智元在10月29日创新日发布具身基座模型GO-3 Preview，宣布2026年底前全面开源并配套Genie Master框架；英伟达推出开放权重转录模型Nemotron 3.5 Transcribe，支持40种语言、最多区分8名说话人。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "large",
-        "scenarios": [
-          "具身智能",
-          "语音转录",
-          "开源模型"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-10-29T08:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 51.75,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 69.0,
-        "practicality": 58.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "36氪研究院发布2026年中国工业AI行业发展研究报告",
-      "type": "news",
-      "platform": "36氪",
-      "url": "https://m.10jqka.com.cn/20261029/c681235624.shtml",
-      "summary": "36氪10月29日发布报告指出机理+数据双驱动下工业AI加速全域渗透，数据、技术、成本、认知四大瓶颈仍制约规模化落地。",
-      "popularity": {
-        "views": 38000,
-        "likes": 3040,
-        "comments": 760
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "excellent",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "工业AI",
-          "行业报告"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-10-29"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 87.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 90.0,
-        "practicality": 61.0,
-        "freshness": 100
-      },
-      "_source": "pending"
-    },
-    {
       "name": "阿里开源 skill-up 实战：用 CLI 给 Agent Skill 做发布前评测与回归",
       "type": "news",
       "platform": "CSDN",
@@ -2173,9 +1739,311 @@
         "practicality": 59.0,
         "freshness": 100
       }
-    }
-  ],
-  "pending_items": [
+    },
+    {
+      "name": "腾讯 Hy4 调用激增已十倍扩容，Agent 能力开源模型第一",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/11/507967.html",
+      "summary": "11月5日腾讯宣布因 Hy4 调用激增，WorkBuddy 推理集群十倍扩容并提升免费额度。Hy4 在 Artificial Analysis 智能指数中位列中国模型第二（仅次于 Kimi K3.1 Pro），Agent Arena 开源模型第一、总榜第13，单任务成本约0.78美元，官方称比同级 Grok 4.7（xhigh）便宜约10倍。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "large",
+        "scenarios": [
+          "大模型",
+          "AI Agent",
+          "企业应用"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-06T10:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 54.75,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 58.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "SuperCLUE 发布 2026 年 11 月通用大模型测评榜单",
+      "type": "news",
+      "platform": "TechWeb",
+      "url": "http://m.techweb.com.cn/article/2026-11-05/2980297.shtml",
+      "summary": "11月5日 SuperCLUE 发布 11 月中文通用基准测评，19 个国内外模型参与：Google 闭源模型 Gemini-4-Argon 以 73.62 分登顶总榜，月之暗面开源模型 Kimi-K3.1-Pro 以 61.46 分位居国内模型首位，可作为中文场景选型参考。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "大模型",
+          "评测基准"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-05T16:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 51.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 61.0,
+        "freshness": 80
+      }
+    },
+    {
+      "name": "AI Safety Benchmark 2026 Q3 大模型迎合谄媚风险测试结果发布",
+      "type": "news",
+      "platform": "网易科技",
+      "url": "https://3g.163.com/news/article/LB1N6SC105562DGT.html",
+      "summary": "11月5日消息，中国信通院组织 AI Safety Benchmark 2026 Q3「大模型迎合谄媚风险」测试，参照《工业和信息化领域人工智能安全评测框架（2026版）》评估模型一味顺从用户倾向的安全隐患，为国内企业级模型安全验收提供新参考维度。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI安全",
+          "合规"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-05T18:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 51.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 61.0,
+        "freshness": 80
+      }
+    },
+    {
+      "name": "每日 AI 研究简报 · 2026-11-06",
+      "type": "news",
+      "platform": "CSDN",
+      "url": "https://devpress.csdn.net/aibjcy/6aedd90640858c2d8818f8e3.html",
+      "summary": "聚合当日国内外 AI 关键动作：百度文心 5.5 Flash Base 开源刷新同尺寸 SOTA；前 Google 团队推出 Ripple-65B Preview 开放权重模型（Apache 2.0），登顶美国开放编码两项基准；腾讯 Hy4 因调用激增十倍扩容；百度无人车世界模型实现实时全局推演。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "大模型",
+          "资讯获取"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-06T09:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 51.0,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 43.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "奇富科技开源自动建模 Agent ModelEvo 2.0",
+      "type": "news",
+      "platform": "网易科技",
+      "url": "https://m.163.com/news/article/LB27FTOL05568W0A.html",
+      "summary": "11月4日奇富科技开源自动建模 Agent ModelEvo 2.0，面向结构化/表格数据，可在预算内自动完成数据分析、实验规划与持续优化；采用「大模型提案、代码裁决」+ 测试集隔离降低数据泄漏风险，五个公开数据集冷启动评测平均名次 1.60，启用经验库后迭代耗时缩至约六分之一，代码已在 GitHub 开源。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "large",
+        "scenarios": [
+          "AI Agent",
+          "机器学习",
+          "金融风控"
+        ],
+        "maturity": "beta"
+      },
+      "freshness": {
+        "publish_date": "2026-11-06T09:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 48.75,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 69.0,
+        "practicality": 46.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "混元 Hy4 实测：腾讯的产品基因，模型继承了几分？",
+      "type": "news",
+      "platform": "InfoQ",
+      "url": "https://www.infoq.cn/news/C61Q16LQIDq45l0iCCzV",
+      "summary": "11月4日腾讯混元发布 Hy4，770B 参数级，首次集成视觉理解、Computer Use 与长程 Agent 能力，可完成 Blender/CAD 等跨应用长程任务规划，并已发布 System Card 关注网络与生物安全风险；模型权重称将于近期开源。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "high",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "large",
+        "scenarios": [
+          "大模型",
+          "多模态",
+          "AI Agent"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-05T09:30:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 47.0,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 66.0,
+        "practicality": 58.0,
+        "freshness": 80
+      }
+    },
+    {
+      "name": "每日 AI 研究简报 · 2026-11-05",
+      "type": "news",
+      "platform": "CSDN",
+      "url": "https://blog.csdn.net/debug_fan/article/details/170149726",
+      "summary": "月之暗面 11月4日放出 Kimi K3.1 Pro 完整权重，3T 级最强开源权重模型、100 万 token 上下文，配套 Highspeed 版本提速 2–3 倍；同时腾讯混元 Hy4 发布、Anthropic 开源可证明推理框架 FlashProve、百度文心 5.5 Flash Base 开源。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "大模型",
+          "开源模型"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-05T09:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 47.0,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 43.0,
+        "freshness": 80
+      }
+    },
     {
       "name": "DeepSeek据报接近完成至少800亿元融资，腾讯与宁德时代参与",
       "type": "news",
@@ -2211,13 +2079,14 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 87.5,
+      "total_score": 83.5,
       "detail_scores": {
         "popularity": 100,
         "usability": 90.0,
         "practicality": 76.0,
-        "freshness": 80
-      }
+        "freshness": 60
+      },
+      "_source": "pending"
     },
     {
       "name": "高德发布首个基于开放世界行为的全身基座模型λ0",
@@ -2254,14 +2123,61 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 83.75,
+      "total_score": 79.75,
       "detail_scores": {
         "popularity": 100,
         "usability": 90.0,
         "practicality": 61.0,
-        "freshness": 80
-      }
+        "freshness": 60
+      },
+      "_source": "pending"
     },
+    {
+      "name": "Claude 紧急叫停：暗改 Harness 禁止逆向工程",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/11/507038.html",
+      "summary": "Anthropic 在未公告的情况下调整智能体执行层限制，阻断通过提示词探测内部工具调用与逆向模型行为的路径，相关变更迅速在开发者社区引发争议，再次把智能体权限边界、可审计性与厂商封禁策略的矛盾推到台前。",
+      "popularity": {
+        "views": 86000,
+        "likes": 540,
+        "comments": 320
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "安全治理"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-01T09:30:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 78.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 61.0,
+        "freshness": 80
+      },
+      "_source": "pending"
+    }
+  ],
+  "pending_items": [
     {
       "name": "DeepSeek Super-agent 是什么：双层架构拆解与部署要点",
       "type": "技术解读",
@@ -2299,12 +2215,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 81.25,
+      "total_score": 77.25,
       "detail_scores": {
         "popularity": 100,
         "usability": 69.0,
         "practicality": 56.0,
-        "freshness": 100
+        "freshness": 80
       }
     },
     {
@@ -2344,12 +2260,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 72.75,
+      "total_score": 68.75,
       "detail_scores": {
         "popularity": 100,
         "usability": 44.0,
         "practicality": 47.0,
-        "freshness": 100
+        "freshness": 80
       }
     },
     {
@@ -2389,12 +2305,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 71.0,
+      "total_score": 67.0,
       "detail_scores": {
         "popularity": 100,
         "usability": 44.0,
         "practicality": 56.0,
-        "freshness": 80
+        "freshness": 60
       }
     },
     {
@@ -2433,12 +2349,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 46.25,
+      "total_score": 42.25,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 60.0,
         "practicality": 45.0,
-        "freshness": 100
+        "freshness": 80
       }
     },
     {
@@ -2476,12 +2392,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 59.25,
+      "total_score": 55.25,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 81.0,
         "practicality": 76.0,
-        "freshness": 100
+        "freshness": 80
       }
     },
     {
@@ -2519,12 +2435,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 59.25,
+      "total_score": 55.25,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 81.0,
         "practicality": 76.0,
-        "freshness": 100
+        "freshness": 80
       }
     },
     {
@@ -2605,12 +2521,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 53.25,
+      "total_score": 49.25,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 81.0,
         "practicality": 52.0,
-        "freshness": 100
+        "freshness": 80
       }
     },
     {
@@ -2648,12 +2564,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 50.25,
+      "total_score": 46.25,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 69.0,
         "practicality": 52.0,
-        "freshness": 100
+        "freshness": 80
       }
     },
     {
@@ -2691,54 +2607,11 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 41.75,
+      "total_score": 37.75,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 44.0,
         "practicality": 43.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "Claude 紧急叫停：暗改 Harness 禁止逆向工程",
-      "type": "news",
-      "platform": "量子位",
-      "url": "https://www.qbitai.com/2026/11/507038.html",
-      "summary": "Anthropic 在未公告的情况下调整智能体执行层限制，阻断通过提示词探测内部工具调用与逆向模型行为的路径，相关变更迅速在开发者社区引发争议，再次把智能体权限边界、可审计性与厂商封禁策略的矛盾推到台前。",
-      "popularity": {
-        "views": 86000,
-        "likes": 540,
-        "comments": 320
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent",
-          "安全治理"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-01T09:30:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 78.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 61.0,
         "freshness": 80
       }
     },
@@ -2777,12 +2650,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 78.0,
+      "total_score": 74.0,
       "detail_scores": {
         "popularity": 100,
         "usability": 69.0,
         "practicality": 43.0,
-        "freshness": 100
+        "freshness": 80
       }
     },
     {
@@ -2820,12 +2693,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 74.0,
+      "total_score": 70.0,
       "detail_scores": {
         "popularity": 100,
         "usability": 53.0,
         "practicality": 43.0,
-        "freshness": 100
+        "freshness": 80
       }
     },
     {
@@ -2863,12 +2736,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 59.76,
+      "total_score": 55.76,
       "detail_scores": {
         "popularity": 14.2,
         "usability": 81.0,
         "practicality": 61.0,
-        "freshness": 100
+        "freshness": 80
       }
     },
     {
@@ -2906,12 +2779,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 57.33,
+      "total_score": 53.33,
       "detail_scores": {
         "popularity": 6.100000000000001,
         "usability": 81.0,
         "practicality": 61.0,
-        "freshness": 100
+        "freshness": 80
       }
     },
     {
@@ -2950,12 +2823,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 53.52,
+      "total_score": 49.52,
       "detail_scores": {
         "popularity": 5.8999999999999995,
         "usability": 69.0,
         "practicality": 58.0,
-        "freshness": 100
+        "freshness": 80
       }
     },
     {
@@ -3037,12 +2910,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 44.25,
+      "total_score": 40.25,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 69.0,
         "practicality": 28.0,
-        "freshness": 100
+        "freshness": 80
       }
     },
     {
@@ -3081,12 +2954,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 42.25,
+      "total_score": 38.25,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 44.0,
         "practicality": 45.0,
-        "freshness": 100
+        "freshness": 80
       }
     },
     {
@@ -3124,12 +2997,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 40.25,
+      "total_score": 36.25,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 44.0,
         "practicality": 37.0,
-        "freshness": 100
+        "freshness": 80
       }
     },
     {
