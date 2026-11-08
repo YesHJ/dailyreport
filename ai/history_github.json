@@ -1,333 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "Phantomduke375846-alt/clinic_rag_rpocket_bot",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/Phantomduke375846-alt/clinic_rag_rpocket_bot",
-      "summary": "A domain-specific medical 检索-Augmented 生成 (RAG) system that answers health-related questions strictly based on retrieved evidence from a local vector database. (语言: HTML) [标签: ai-moderation, aiogra...",
-      "popularity": {
-        "views": 68,
-        "likes": 68,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "对话交互",
-          "检索增强生成",
-          "AI Agent"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-10-28T16:15:36"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 68,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "HTML",
-        "license": "",
-        "topics": [
-          "ai-moderation",
-          "aiogram",
-          "assistant-chat-bots",
-          "calendar",
-          "calendar-events",
-          "calendar-view",
-          "crush",
-          "crush-cli",
-          "local-llm",
-          "logging",
-          "notifications",
-          "rag",
-          "rag-chatbot",
-          "rag-pipeline",
-          "safety-agent",
-          "sqlite",
-          "telegram",
-          "telegram-bot-ai-assistant",
-          "telegram-bot-with-ai",
-          "transformers"
-        ],
-        "created_at": "2026-10-28T16:15:36Z",
-        "pushed_at": "2026-10-28T16:15:44Z"
-      },
-      "filtered": false,
-      "total_score": 69.6,
-      "detail_scores": {
-        "popularity": 68.68,
-        "usability": 78.0,
-        "practicality": 54.0,
-        "freshness": 80
-      }
-    },
-    {
-      "name": "soumatheusgomes/vibe-coding-toolkit",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/soumatheusgomes/vibe-coding-toolkit",
-      "summary": "A curated, battle-tested AI-coding 工具包: Claude Code plugins, sub智能体 orchestration, quality gates, and ready-to-copy prompts, extracted from real production use. (语言: JavaScript) [标签: ai-agents, ai-...",
-      "popularity": {
-        "views": 2172,
-        "likes": 2172,
-        "comments": 364
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent",
-          "代码生成"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-08-14T23:41:31"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 2172,
-        "forks": 364,
-        "open_issues": 3,
-        "language": "JavaScript",
-        "license": "mit",
-        "topics": [
-          "ai-agents",
-          "ai-coding",
-          "claude-code",
-          "developer-tools",
-          "llm-agents",
-          "prompts"
-        ],
-        "created_at": "2026-08-14T23:41:31Z",
-        "pushed_at": "2026-10-30T00:45:50Z"
-      },
-      "filtered": false,
-      "total_score": 66.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 61.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "Akshayykadam/PixelBoard",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/Akshayykadam/PixelBoard",
-      "summary": "Unlock Google 11's Gemini \"Rambler\" Natural Voice Dictation & AI Writing Tools on ANY Android phone. No root required. (语言: Java) [标签: ai-writing-tools, android, apk, gboard, gboard-ai]",
-      "popularity": {
-        "views": 1362,
-        "likes": 1362,
-        "comments": 59
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "通用AI应用"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-09-17T04:23:43"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 1362,
-        "forks": 59,
-        "open_issues": 50,
-        "language": "Java",
-        "license": "gpl-3.0",
-        "topics": [
-          "ai-writing-tools",
-          "android",
-          "apk",
-          "gboard",
-          "gboard-ai",
-          "gboard-mod",
-          "gboards",
-          "gemini",
-          "gemini-ai",
-          "google-keyboard",
-          "keyboard",
-          "no-root",
-          "pixel-features",
-          "pixel11",
-          "rambler",
-          "voice-typing",
-          "voice-typing-app"
-        ],
-        "created_at": "2026-09-17T04:23:43Z",
-        "pushed_at": "2026-10-28T05:42:18Z"
-      },
-      "filtered": false,
-      "total_score": 66.0,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 59.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "eternityspring/reelbench-skills",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/eternityspring/reelbench-skills",
-      "summary": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill (语言: JavaScript) [标签: ai-video, claude-skills, ffmpeg, shot-analysis, video-analysis]",
-      "popularity": {
-        "views": 1188,
-        "likes": 1188,
-        "comments": 152
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视频生成"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-09-11T04:55:49"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 1188,
-        "forks": 152,
-        "open_issues": 1,
-        "language": "JavaScript",
-        "license": "apache-2.0",
-        "topics": [
-          "ai-video",
-          "claude-skills",
-          "ffmpeg",
-          "shot-analysis",
-          "video-analysis"
-        ],
-        "created_at": "2026-09-11T04:55:49Z",
-        "pushed_at": "2026-10-24T03:29:20Z"
-      },
-      "filtered": false,
-      "total_score": 66.0,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 59.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "vanzll/DiffusionART",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/vanzll/DiffusionART",
-      "summary": "Official Implementation of \"扩散ART: Efficient, Stable and 可扩展 Reinforcement of 扩散 模型s\" (语言: Python) [标签: diffusion-models, diffusionart, flow-matching, image-to-video, post-training]",
-      "popularity": {
-        "views": 207,
-        "likes": 207,
-        "comments": 2
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "图像生成",
-          "视频生成",
-          "模型训练"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-24T08:35:23"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 207,
-        "forks": 2,
-        "open_issues": 2,
-        "language": "Python",
-        "license": "apache-2.0",
-        "topics": [
-          "diffusion-models",
-          "diffusionart",
-          "flow-matching",
-          "image-to-video",
-          "post-training",
-          "reinforcement-learning",
-          "text-to-image",
-          "text-to-video",
-          "video-generation"
-        ],
-        "created_at": "2026-09-24T08:35:23Z",
-        "pushed_at": "2026-10-31T09:33:33Z"
-      },
-      "filtered": false,
-      "total_score": 64.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 54.0,
-        "freshness": 20
-      }
-    },
-    {
       "name": "wangzan101/Mika",
       "type": "tool",
       "platform": "GitHub",
@@ -3181,9 +2854,253 @@
         "freshness": 20
       },
       "_source": "pending"
-    }
-  ],
-  "pending_items": [
+    },
+    {
+      "name": "qybaihe/bla",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/qybaihe/bla",
+      "summary": "🛡️ BLA (Blind LLM 智能体s) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering 智能体s like REA. Poison -> Exhaust -> Ha...",
+      "popularity": {
+        "views": 3762,
+        "likes": 3762,
+        "comments": 466
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "代码生成"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-25T05:25:45"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 3762,
+        "forks": 466,
+        "open_issues": 5,
+        "language": "TypeScript",
+        "license": "mit",
+        "topics": [
+          "adversarial-ai",
+          "claude-code",
+          "cursor",
+          "electron-security",
+          "llm-security",
+          "mcp",
+          "mcp-server",
+          "obfuscation",
+          "reverse-engineering",
+          "webassembly"
+        ],
+        "created_at": "2026-10-25T05:25:45Z",
+        "pushed_at": "2026-11-08T18:19:54Z"
+      },
+      "filtered": false,
+      "total_score": 70.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 53.0,
+        "practicality": 61.0,
+        "freshness": 60
+      }
+    },
+    {
+      "name": "conglu1997/local-autoresearch",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/conglu1997/local-autoresearch",
+      "summary": "Local auto研究 on a MacBook, with Flint: geometry, scheduling and 机器学习 实验s. (语言: Python)",
+      "popularity": {
+        "views": 109,
+        "likes": 109,
+        "comments": 16
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "通用AI应用"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-21T16:45:57"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 109,
+        "forks": 16,
+        "open_issues": 1,
+        "language": "Python",
+        "license": "mit",
+        "topics": [],
+        "created_at": "2026-10-21T16:45:57Z",
+        "pushed_at": "2026-10-27T16:03:09Z"
+      },
+      "filtered": false,
+      "total_score": 69.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 60.0,
+        "practicality": 50.0,
+        "freshness": 60
+      }
+    },
+    {
+      "name": "Louis-CFM/coucou",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/Louis-CFM/coucou",
+      "summary": "A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding 智能体s: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more. Approve from the notch or your Lock Scre...",
+      "popularity": {
+        "views": 7061,
+        "likes": 7061,
+        "comments": 1158
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "代码生成"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-09-27T21:54:12"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 7061,
+        "forks": 1158,
+        "open_issues": 462,
+        "language": "Swift",
+        "license": "mit",
+        "topics": [
+          "ai-agents",
+          "anthropic",
+          "antigravity",
+          "claude",
+          "claude-code",
+          "codex",
+          "cursor",
+          "dynamic-island",
+          "gemini-cli",
+          "ios",
+          "iphon",
+          "linux",
+          "macos",
+          "macos-app",
+          "menubar-app",
+          "notch",
+          "open-source",
+          "swift",
+          "swiftui",
+          "windows"
+        ],
+        "created_at": "2026-09-27T21:54:12Z",
+        "pushed_at": "2026-11-06T13:51:13Z"
+      },
+      "filtered": false,
+      "total_score": 68.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 78.0,
+        "practicality": 61.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "solongate/agent-security",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/solongate/agent-security",
+      "summary": "Local-first, open-source 安全 gateway for AI coding 智能体s. Enforce tool-call policies, detect secrets, and audit actions on-device. (语言: Go) [标签: agent-security, ai-agent-security, ai-agents]",
+      "popularity": {
+        "views": 564,
+        "likes": 564,
+        "comments": 38
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-09-27T10:48:40"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 564,
+        "forks": 38,
+        "open_issues": 150,
+        "language": "Go",
+        "license": "apache-2.0",
+        "topics": [
+          "agent-security",
+          "ai-agent-security",
+          "ai-agents"
+        ],
+        "created_at": "2026-09-27T10:48:40Z",
+        "pushed_at": "2026-11-08T11:26:55Z"
+      },
+      "filtered": false,
+      "total_score": 63.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 60.0,
+        "practicality": 59.0,
+        "freshness": 20
+      }
+    },
     {
       "name": "ChidiebereNjoku/ModelBrief",
       "type": "tool",
@@ -3234,8 +3151,11 @@
         "usability": 69.0,
         "practicality": 50.0,
         "freshness": 20
-      }
-    },
+      },
+      "_source": "pending"
+    }
+  ],
+  "pending_items": [
     {
       "name": "baojian/llm-26-fall",
       "type": "tool",
