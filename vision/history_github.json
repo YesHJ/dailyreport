@@ -1,292 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "groundingpi/GroundingPI",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/groundingpi/GroundingPI",
-      "summary": "A 4B grounding 基础模型 for physical intelligence. Unifies 检测, referring, pointing, OCR, GUI, and layout grounding, achieving SOTA overall across 34 基准测试s and improving robot generalization and data ef...",
-      "popularity": {
-        "views": 246,
-        "likes": 246,
-        "comments": 13
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "目标检测",
-          "文字识别",
-          "视觉-语言-动作"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-30T08:15:37"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 246,
-        "forks": 13,
-        "open_issues": 3,
-        "language": "Python",
-        "license": "apache-2.0",
-        "topics": [
-          "embodied-ai",
-          "gui-grounding",
-          "object-detection",
-          "ocr",
-          "physical-intelligence",
-          "pointing",
-          "robot-learning",
-          "vision-language-model",
-          "visual-grounding",
-          "vla"
-        ],
-        "created_at": "2026-09-30T08:15:37Z",
-        "pushed_at": "2026-10-14T10:23:15Z"
-      },
-      "filtered": false,
-      "total_score": 75.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 81.0,
-        "practicality": 54.0,
-        "freshness": 60
-      }
-    },
-    {
-      "name": "rzc156/dreamforge",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/rzc156/dreamforge",
-      "summary": "Turn world-模型 imagination into corrective 训练 data for robot policies — a single-GPU, falsifiable 流水线 (SmolVLA · LIBERO · CEM · paired simulator replays). (语言: Python) [标签: embodied-ai, imitation-le...",
-      "popularity": {
-        "views": 131,
-        "likes": 131,
-        "comments": 3
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉-语言-动作",
-          "视觉语言模型",
-          "机器人视觉"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-10-12T05:09:09"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 131,
-        "forks": 3,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "mit",
-        "topics": [
-          "embodied-ai",
-          "imitation-learning",
-          "lerobot",
-          "libero",
-          "pytorch",
-          "research",
-          "robotics",
-          "vision-language-action",
-          "vla",
-          "world-model"
-        ],
-        "created_at": "2026-10-12T05:09:09Z",
-        "pushed_at": "2026-10-12T07:11:24Z"
-      },
-      "filtered": false,
-      "total_score": 72.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 54.0,
-        "freshness": 60
-      }
-    },
-    {
-      "name": "deepseek-ai/DeepEP-Ascend",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/deepseek-ai/DeepEP-Ascend",
-      "summary": "A high-performance communication 库 for 机器学习 训练 and 推理 on Huawei Ascend NPUs. (语言: C++)",
-      "popularity": {
-        "views": 282,
-        "likes": 282,
-        "comments": 51
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "机器视觉应用"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-30T00:44:59"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 282,
-        "forks": 51,
-        "open_issues": 9,
-        "language": "C++",
-        "license": "",
-        "topics": [],
-        "created_at": "2026-09-30T00:44:59Z",
-        "pushed_at": "2026-09-30T00:53:14Z"
-      },
-      "filtered": false,
-      "total_score": 71.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 50.0,
-        "freshness": 60
-      }
-    },
-    {
-      "name": "sumuru789/DK-VLM",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/sumuru789/DK-VLM",
-      "summary": "Official implementation for \"DK-VLM: Geometry as Position for Spatial Reasoning in 视觉语言模型s\" (语言: Python)",
-      "popularity": {
-        "views": 123,
-        "likes": 123,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉语言模型"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-10-13T08:19:04"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 123,
-        "forks": 0,
-        "open_issues": 1,
-        "language": "Python",
-        "license": "mit",
-        "topics": [],
-        "created_at": "2026-10-13T08:19:04Z",
-        "pushed_at": "2026-10-16T02:36:30Z"
-      },
-      "filtered": false,
-      "total_score": 69.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 60.0,
-        "practicality": 50.0,
-        "freshness": 60
-      }
-    },
-    {
-      "name": "Motor-Mind/MotorMind-Code",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/Motor-Mind/MotorMind-Code",
-      "summary": "MotorMind: Scaffolding General 视觉语言模型s for Zero-Shot Robot Manipulation (语言: Python)",
-      "popularity": {
-        "views": 116,
-        "likes": 116,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "机器视觉应用"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-29T02:02:37"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 116,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "",
-        "topics": [],
-        "created_at": "2026-09-29T02:02:37Z",
-        "pushed_at": "2026-10-08T00:01:48Z"
-      },
-      "filtered": false,
-      "total_score": 69.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 60.0,
-        "practicality": 50.0,
-        "freshness": 60
-      }
-    },
-    {
       "name": "tuotuoLyu/ForesightSafety-VLA",
       "type": "tool",
       "platform": "GitHub",
@@ -2880,9 +2594,183 @@
         "freshness": 20
       },
       "_source": "pending"
-    }
-  ],
-  "pending_items": [
+    },
+    {
+      "name": "maaazhuang/mvkit",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/maaazhuang/mvkit",
+      "summary": "工业 机器视觉 库 with C11 and C++14 APIs. (语言: C++) [标签: 3d-reconstruction, camera-calibration, computer-vision, image-processing, machine-vision]",
+      "popularity": {
+        "views": 35,
+        "likes": 35,
+        "comments": 1
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "机器视觉",
+          "工业视觉",
+          "三维视觉"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-18T03:15:48"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 35,
+        "forks": 1,
+        "open_issues": 0,
+        "language": "C++",
+        "license": "apache-2.0",
+        "topics": [
+          "3d-reconstruction",
+          "camera-calibration",
+          "computer-vision",
+          "image-processing",
+          "machine-vision",
+          "template-matching"
+        ],
+        "created_at": "2026-10-18T03:15:48Z",
+        "pushed_at": "2026-10-18T03:22:50Z"
+      },
+      "filtered": false,
+      "total_score": 57.11,
+      "detail_scores": {
+        "popularity": 40.35,
+        "usability": 78.0,
+        "practicality": 54.0,
+        "freshness": 60
+      },
+      "_source": "pending"
+    },
+    {
+      "name": "kyutai-labs/reki",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/kyutai-labs/reki",
+      "summary": "REKI: a 2.4B 视觉-语言-动作 模型 pretrained on public data only, with a memory of its recent past at negligible cost. (语言: Python)",
+      "popularity": {
+        "views": 34,
+        "likes": 34,
+        "comments": 4
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉语言模型"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-15T16:18:44"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 34,
+        "forks": 4,
+        "open_issues": 4,
+        "language": "Python",
+        "license": "mit",
+        "topics": [],
+        "created_at": "2026-10-15T16:18:44Z",
+        "pushed_at": "2026-10-21T11:13:35Z"
+      },
+      "filtered": false,
+      "total_score": 55.8,
+      "detail_scores": {
+        "popularity": 54.34,
+        "usability": 60.0,
+        "practicality": 50.0,
+        "freshness": 60
+      },
+      "_source": "pending"
+    },
+    {
+      "name": "yoheinakajima/glance",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/yoheinakajima/glance",
+      "summary": "Ask an open 视觉语言模型 typed questions about an image and get probabilities back, on your own machine. (语言: Python) [标签: calibration, image-classification, vision-language-model, vlm, zero-shot]",
+      "popularity": {
+        "views": 31,
+        "likes": 31,
+        "comments": 5
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉语言模型",
+          "图像分类",
+          "相机标定"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-21T06:51:38"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 31,
+        "forks": 5,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "apache-2.0",
+        "topics": [
+          "calibration",
+          "image-classification",
+          "vision-language-model",
+          "vlm",
+          "zero-shot"
+        ],
+        "created_at": "2026-09-21T06:51:38Z",
+        "pushed_at": "2026-09-28T20:15:02Z"
+      },
+      "filtered": false,
+      "total_score": 51.64,
+      "detail_scores": {
+        "popularity": 56.31,
+        "usability": 69.0,
+        "practicality": 54.0,
+        "freshness": 20
+      },
+      "_source": "pending"
+    },
     {
       "name": "alrisqi/MrD-Optimizer-Lab",
       "type": "tool",
@@ -2951,7 +2839,8 @@
         "usability": 69.0,
         "practicality": 54.0,
         "freshness": 20
-      }
+      },
+      "_source": "pending"
     },
     {
       "name": "Sanane001/torch-hydra-starter",
@@ -3012,181 +2901,11 @@
         "usability": 69.0,
         "practicality": 50.0,
         "freshness": 20
-      }
-    },
-    {
-      "name": "maaazhuang/mvkit",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/maaazhuang/mvkit",
-      "summary": "工业 机器视觉 库 with C11 and C++14 APIs. (语言: C++) [标签: 3d-reconstruction, camera-calibration, computer-vision, image-processing, machine-vision]",
-      "popularity": {
-        "views": 35,
-        "likes": 35,
-        "comments": 1
       },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "机器视觉",
-          "工业视觉",
-          "三维视觉"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-10-18T03:15:48"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 35,
-        "forks": 1,
-        "open_issues": 0,
-        "language": "C++",
-        "license": "apache-2.0",
-        "topics": [
-          "3d-reconstruction",
-          "camera-calibration",
-          "computer-vision",
-          "image-processing",
-          "machine-vision",
-          "template-matching"
-        ],
-        "created_at": "2026-10-18T03:15:48Z",
-        "pushed_at": "2026-10-18T03:22:50Z"
-      },
-      "filtered": false,
-      "total_score": 57.11,
-      "detail_scores": {
-        "popularity": 40.35,
-        "usability": 78.0,
-        "practicality": 54.0,
-        "freshness": 60
-      }
-    },
-    {
-      "name": "kyutai-labs/reki",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/kyutai-labs/reki",
-      "summary": "REKI: a 2.4B 视觉-语言-动作 模型 pretrained on public data only, with a memory of its recent past at negligible cost. (语言: Python)",
-      "popularity": {
-        "views": 34,
-        "likes": 34,
-        "comments": 4
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉语言模型"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-10-15T16:18:44"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 34,
-        "forks": 4,
-        "open_issues": 4,
-        "language": "Python",
-        "license": "mit",
-        "topics": [],
-        "created_at": "2026-10-15T16:18:44Z",
-        "pushed_at": "2026-10-21T11:13:35Z"
-      },
-      "filtered": false,
-      "total_score": 55.8,
-      "detail_scores": {
-        "popularity": 54.34,
-        "usability": 60.0,
-        "practicality": 50.0,
-        "freshness": 60
-      }
-    },
-    {
-      "name": "yoheinakajima/glance",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/yoheinakajima/glance",
-      "summary": "Ask an open 视觉语言模型 typed questions about an image and get probabilities back, on your own machine. (语言: Python) [标签: calibration, image-classification, vision-language-model, vlm, zero-shot]",
-      "popularity": {
-        "views": 31,
-        "likes": 31,
-        "comments": 5
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉语言模型",
-          "图像分类",
-          "相机标定"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-21T06:51:38"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 31,
-        "forks": 5,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "apache-2.0",
-        "topics": [
-          "calibration",
-          "image-classification",
-          "vision-language-model",
-          "vlm",
-          "zero-shot"
-        ],
-        "created_at": "2026-09-21T06:51:38Z",
-        "pushed_at": "2026-09-28T20:15:02Z"
-      },
-      "filtered": false,
-      "total_score": 51.64,
-      "detail_scores": {
-        "popularity": 56.31,
-        "usability": 69.0,
-        "practicality": 54.0,
-        "freshness": 20
-      }
-    },
+      "_source": "pending"
+    }
+  ],
+  "pending_items": [
     {
       "name": "iris0329/GeoReader",
       "type": "tool",
