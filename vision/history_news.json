@@ -1535,6 +1535,178 @@
         "practicality": 63.0,
         "freshness": 80
       }
+    },
+    {
+      "name": "传统规则视觉与嵌入式AI智能相机的技术差异及量产选型策略",
+      "type": "news",
+      "platform": "eet-china",
+      "url": "https://mbb.eet-china.com/blog/4158828-479212.html",
+      "summary": "文章对比了传统规则算法视觉与嵌入式AI智能相机在工业检测中的技术差异，分析了柔性制造场景下两者的选型策略，指出AI相机在多品类混线生产中优势明显。",
+      "popularity": {
+        "views": 893,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "high",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "工业检测",
+          "AI相机"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-05T16:23:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 53.43,
+      "detail_scores": {
+        "popularity": 8.93,
+        "usability": 78.0,
+        "practicality": 61.0,
+        "freshness": 80
+      }
+    },
+    {
+      "name": "2026具身智能机器人传感器白皮书发布",
+      "type": "news",
+      "platform": "eet-china",
+      "url": "https://www.eet-china.com/mp/a537677.html",
+      "summary": "该白皮书梳理了2026年具身智能机器人所用传感器的技术路线与市场规模，涵盖视觉、力觉、触觉等多模态感知方案，为机器人感知系统选型提供参考。",
+      "popularity": {
+        "views": 179,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "具身智能",
+          "机器视觉"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-08T08:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 53.04,
+      "detail_scores": {
+        "popularity": 1.79,
+        "usability": 69.0,
+        "practicality": 61.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "睿创燧石「红外热成像+AI大模型」亮相北京安博会",
+      "type": "news",
+      "platform": "eet-china",
+      "url": "https://www.eet-china.com/mp/a537652.html",
+      "summary": "睿创燧石展示将红外热成像与AI大模型融合的视觉检测方案，可在无可见光条件下完成设备异常温度检测与智能预警，拓展了机器视觉在安防和工业巡检中的应用。",
+      "popularity": {
+        "views": 179,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "红外视觉",
+          "工业巡检"
+        ],
+        "maturity": "emerging"
+      },
+      "freshness": {
+        "publish_date": "2026-11-08T09:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 50.04,
+      "detail_scores": {
+        "popularity": 1.79,
+        "usability": 69.0,
+        "practicality": 49.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "每日瞰AI：混元Hy4上线首日调用激增，Sand.ai完成2亿美元融资",
+      "type": "news",
+      "platform": "eet-china",
+      "url": "https://www.eet-china.com/mp/a537325.html",
+      "summary": "腾讯混元Hy4大模型上线首日调用量激增，推理集群紧急扩容十倍；国产视频模型公司Sand.ai完成2亿美元A+轮融资，10个月累计融资3亿美元，计划发布MAGI-2正式版。",
+      "popularity": {
+        "views": 298,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "large",
+        "scenarios": [
+          "大模型",
+          "视频生成"
+        ],
+        "maturity": "emerging"
+      },
+      "freshness": {
+        "publish_date": "2026-11-06T11:30:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 48.14,
+      "detail_scores": {
+        "popularity": 2.98,
+        "usability": 81.0,
+        "practicality": 44.0,
+        "freshness": 80
+      }
     }
   ],
   "pending_items": []
