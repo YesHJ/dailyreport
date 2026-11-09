@@ -1,302 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "wangzan101/Mika",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/wangzan101/Mika",
-      "summary": "An on-device AI 智能体 for Android that operates apps and the web to get things done for you. (语言: Kotlin) [标签: accessibility, ai-agent, android, automation, jetpack-compose]",
-      "popularity": {
-        "views": 3781,
-        "likes": 3781,
-        "comments": 688
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent",
-          "自动化"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-10-29T14:34:07"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 3781,
-        "forks": 688,
-        "open_issues": 18,
-        "language": "Kotlin",
-        "license": "apache-2.0",
-        "topics": [
-          "accessibility",
-          "ai-agent",
-          "android",
-          "automation",
-          "jetpack-compose",
-          "kotlin",
-          "llm",
-          "mobile-agent"
-        ],
-        "created_at": "2026-10-29T14:34:07Z",
-        "pushed_at": "2026-11-01T19:10:15Z"
-      },
-      "filtered": false,
-      "total_score": 78.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 61.0,
-        "freshness": 80
-      }
-    },
-    {
-      "name": "openfilm/openfilm",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/openfilm/openfilm",
-      "summary": "The 开源 AI video 智能体: turns any coding 智能体 into a video 智能体, with an editor to change anything it makes. (语言: TypeScript) [标签: ai-video, claude-code, codex, coding-agents, html]",
-      "popularity": {
-        "views": 4090,
-        "likes": 4090,
-        "comments": 392
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent",
-          "视频生成",
-          "代码生成"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-10-04T09:29:07"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 4090,
-        "forks": 392,
-        "open_issues": 25,
-        "language": "TypeScript",
-        "license": "mit",
-        "topics": [
-          "ai-video",
-          "claude-code",
-          "codex",
-          "coding-agents",
-          "html",
-          "motion-graphics",
-          "video-agent",
-          "video-editor"
-        ],
-        "created_at": "2026-10-04T09:29:07Z",
-        "pushed_at": "2026-10-31T17:59:51Z"
-      },
-      "filtered": false,
-      "total_score": 72.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 60.0,
-        "practicality": 63.0,
-        "freshness": 60
-      }
-    },
-    {
-      "name": "aliyun/ai-agent-handbook",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/aliyun/ai-agent-handbook",
-      "summary": "A practical guide to building enterprise AI 智能体s across their full lifecycle. (语言: JavaScript)",
-      "popularity": {
-        "views": 2735,
-        "likes": 2735,
-        "comments": 346
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-09-11T07:02:17"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 2735,
-        "forks": 346,
-        "open_issues": 3,
-        "language": "JavaScript",
-        "license": "apache-2.0",
-        "topics": [],
-        "created_at": "2026-09-11T07:02:17Z",
-        "pushed_at": "2026-11-01T12:53:28Z"
-      },
-      "filtered": false,
-      "total_score": 66.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 72.0,
-        "practicality": 59.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "kuafuai/andee",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/kuafuai/andee",
-      "summary": "Andee lives on your phone or Mac and uses any app like you do—no integrations, no root, any 模型; memory and passwords never leave your device | Andee 住进你的手机或 Mac，像你一样操作任何 App——无需集成、无需 Root、支持任意模型，记忆...",
-      "popularity": {
-        "views": 3390,
-        "likes": 3390,
-        "comments": 220
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent",
-          "自动化"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-09-17T13:20:59"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 3390,
-        "forks": 220,
-        "open_issues": 10,
-        "language": "Kotlin",
-        "license": "other",
-        "topics": [
-          "agent",
-          "ai",
-          "ai-agents",
-          "android-automation",
-          "mobile-agents",
-          "personal-agent",
-          "personal-ai",
-          "phone-automation"
-        ],
-        "created_at": "2026-09-17T13:20:59Z",
-        "pushed_at": "2026-10-30T10:49:08Z"
-      },
-      "filtered": false,
-      "total_score": 66.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 61.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "somastllc/nlp-for-machine-learning-bootcamp",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/somastllc/nlp-for-machine-learning-bootcamp",
-      "summary": "NLP for 机器学习 Bootcamp. [标签: ai, bootcamp, machine-learning, nlp]",
-      "popularity": {
-        "views": 55,
-        "likes": 55,
-        "comments": 6
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "自然语言处理"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-10-20T19:48:09"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 55,
-        "forks": 6,
-        "open_issues": 0,
-        "language": "",
-        "license": "other",
-        "topics": [
-          "ai",
-          "bootcamp",
-          "machine-learning",
-          "nlp"
-        ],
-        "created_at": "2026-10-20T19:48:09Z",
-        "pushed_at": "2026-10-24T13:28:24Z"
-      },
-      "filtered": false,
-      "total_score": 65.16,
-      "detail_scores": {
-        "popularity": 85.55,
-        "usability": 60.0,
-        "practicality": 50.0,
-        "freshness": 60
-      }
-    },
-    {
       "name": "wideeyededi/uncensored-nsfw-ai-video-api",
       "type": "tool",
       "platform": "GitHub",
@@ -3153,6 +2857,339 @@
         "freshness": 20
       },
       "_source": "pending"
+    },
+    {
+      "name": "Akshayykadam/PixelBoard",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/Akshayykadam/PixelBoard",
+      "summary": "Unlock Google 11's Gemini \"Rambler\" Natural Voice Dictation & AI Writing Tools on ANY Android phone. No root required. (语言: Java) [标签: ai-writing-tools, android, apk, gboard, gboard-ai]",
+      "popularity": {
+        "views": 1478,
+        "likes": 1478,
+        "comments": 67
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "通用AI应用"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-09-17T04:23:43"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 1478,
+        "forks": 67,
+        "open_issues": 72,
+        "language": "Java",
+        "license": "gpl-3.0",
+        "topics": [
+          "ai-writing-tools",
+          "android",
+          "apk",
+          "gboard",
+          "gboard-ai",
+          "gboard-mod",
+          "gboards",
+          "gemini",
+          "gemini-ai",
+          "google-keyboard",
+          "keyboard",
+          "no-root",
+          "pixel-features",
+          "pixel11",
+          "rambler",
+          "voice-typing",
+          "voice-typing-app"
+        ],
+        "created_at": "2026-09-17T04:23:43Z",
+        "pushed_at": "2026-11-09T08:24:25Z"
+      },
+      "filtered": false,
+      "total_score": 66.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 59.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "eternityspring/reelbench-skills",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/eternityspring/reelbench-skills",
+      "summary": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill (语言: JavaScript) [标签: ai-video, claude-skills, ffmpeg, shot-analysis, video-analysis]",
+      "popularity": {
+        "views": 1208,
+        "likes": 1208,
+        "comments": 154
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视频生成"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-09-11T04:55:49"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 1208,
+        "forks": 154,
+        "open_issues": 1,
+        "language": "JavaScript",
+        "license": "apache-2.0",
+        "topics": [
+          "ai-video",
+          "claude-skills",
+          "ffmpeg",
+          "shot-analysis",
+          "video-analysis"
+        ],
+        "created_at": "2026-09-11T04:55:49Z",
+        "pushed_at": "2026-11-09T14:58:50Z"
+      },
+      "filtered": false,
+      "total_score": 66.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 59.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "vanzll/DiffusionART",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/vanzll/DiffusionART",
+      "summary": "Official Implementation of \"扩散ART: Efficient, Stable and 可扩展 Reinforcement of 扩散 模型s\" (语言: Python) [标签: diffusion-models, diffusionart, flow-matching, image-to-video, post-training]",
+      "popularity": {
+        "views": 229,
+        "likes": 229,
+        "comments": 3
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "图像生成",
+          "视频生成",
+          "模型训练"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-24T08:35:23"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 229,
+        "forks": 3,
+        "open_issues": 3,
+        "language": "Python",
+        "license": "apache-2.0",
+        "topics": [
+          "diffusion-models",
+          "diffusionart",
+          "flow-matching",
+          "image-to-video",
+          "post-training",
+          "reinforcement-learning",
+          "text-to-image",
+          "text-to-video",
+          "video-generation"
+        ],
+        "created_at": "2026-09-24T08:35:23Z",
+        "pushed_at": "2026-11-09T11:24:58Z"
+      },
+      "filtered": false,
+      "total_score": 64.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 54.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "tigerless-labs/agent-memory",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/tigerless-labs/agent-memory",
+      "summary": "Long-term memory 运行时 for AI 智能体s — plain Markdown as the source of truth, local ranked 检索, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key. (语言: Python...",
+      "popularity": {
+        "views": 4303,
+        "likes": 4303,
+        "comments": 201
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "代码生成"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-09-01T21:52:29"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 4303,
+        "forks": 201,
+        "open_issues": 19,
+        "language": "Python",
+        "license": "mit",
+        "topics": [
+          "agent-memory",
+          "ai-agents",
+          "claude-code",
+          "codex",
+          "llm",
+          "local-first",
+          "long-term-memory",
+          "markdown",
+          "mcp",
+          "python",
+          "retrieval",
+          "sqlite"
+        ],
+        "created_at": "2026-09-01T21:52:29Z",
+        "pushed_at": "2026-10-30T14:02:49Z"
+      },
+      "filtered": false,
+      "total_score": 62.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 53.0,
+        "practicality": 61.0,
+        "freshness": 20
+      },
+      "_source": "pending"
+    },
+    {
+      "name": "2akouwu/reverify",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/2akouwu/reverify",
+      "summary": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering ...",
+      "popularity": {
+        "views": 1321,
+        "likes": 1321,
+        "comments": 258
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-08-31T01:02:18"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 1321,
+        "forks": 258,
+        "open_issues": 16,
+        "language": "Python",
+        "license": "mit",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-coding",
+          "anti-hallucination",
+          "binary-analysis",
+          "context-engineering",
+          "ctf",
+          "developer-tools",
+          "disassembler",
+          "grounding",
+          "hallucination",
+          "hallucination-detection",
+          "llm",
+          "malware-analysis",
+          "mcp",
+          "mcp-server",
+          "python",
+          "reverse-engineering",
+          "security-tools",
+          "verification"
+        ],
+        "created_at": "2026-08-31T01:02:18Z",
+        "pushed_at": "2026-10-01T11:31:02Z"
+      },
+      "filtered": false,
+      "total_score": 62.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 53.0,
+        "practicality": 59.0,
+        "freshness": 20
+      },
+      "_source": "pending"
     }
   ],
   "pending_items": [
@@ -3514,145 +3551,6 @@
         "popularity": 55.55,
         "usability": 69.0,
         "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "tigerless-labs/agent-memory",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/tigerless-labs/agent-memory",
-      "summary": "Long-term memory 运行时 for AI 智能体s — plain Markdown as the source of truth, local ranked 检索, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key. (语言: Python...",
-      "popularity": {
-        "views": 4303,
-        "likes": 4303,
-        "comments": 201
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent",
-          "代码生成"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-09-01T21:52:29"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 4303,
-        "forks": 201,
-        "open_issues": 19,
-        "language": "Python",
-        "license": "mit",
-        "topics": [
-          "agent-memory",
-          "ai-agents",
-          "claude-code",
-          "codex",
-          "llm",
-          "local-first",
-          "long-term-memory",
-          "markdown",
-          "mcp",
-          "python",
-          "retrieval",
-          "sqlite"
-        ],
-        "created_at": "2026-09-01T21:52:29Z",
-        "pushed_at": "2026-10-30T14:02:49Z"
-      },
-      "filtered": false,
-      "total_score": 62.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 53.0,
-        "practicality": 61.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "2akouwu/reverify",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/2akouwu/reverify",
-      "summary": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering ...",
-      "popularity": {
-        "views": 1321,
-        "likes": 1321,
-        "comments": 258
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-08-31T01:02:18"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 1321,
-        "forks": 258,
-        "open_issues": 16,
-        "language": "Python",
-        "license": "mit",
-        "topics": [
-          "ai",
-          "ai-agents",
-          "ai-coding",
-          "anti-hallucination",
-          "binary-analysis",
-          "context-engineering",
-          "ctf",
-          "developer-tools",
-          "disassembler",
-          "grounding",
-          "hallucination",
-          "hallucination-detection",
-          "llm",
-          "malware-analysis",
-          "mcp",
-          "mcp-server",
-          "python",
-          "reverse-engineering",
-          "security-tools",
-          "verification"
-        ],
-        "created_at": "2026-08-31T01:02:18Z",
-        "pushed_at": "2026-10-01T11:31:02Z"
-      },
-      "filtered": false,
-      "total_score": 62.0,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 53.0,
-        "practicality": 59.0,
         "freshness": 20
       }
     },
