@@ -1,231 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "10月31日 AI日报：智元 CEL 群体经验学习、Apple 智能接入千问等",
-      "type": "资讯聚合",
-      "platform": "CSDN",
-      "url": "https://blog.csdn.net/python_yjys/article/details/169636093",
-      "summary": "汇总当日国内 AI 要点：智元联合清华、无问芯穹提出群体经验学习范式 CEL，96 台真机集群验证，手机包装任务成功率由 86.7% 提升到 98.3%；GO-3 Preview 登顶三大具身榜单；Apple 智能宣布接入阿里千问；百度搜索 AI API 降至 4.9 元/千次。",
-      "popularity": {
-        "views": 31000,
-        "likes": 620,
-        "comments": 140
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "wide",
-        "scenarios": [
-          "每日 AI 动态速览",
-          "具身智能落地进度跟踪",
-          "国内大模型 API 定价对比",
-          "选题与竞品扫描"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-10-31T09:10:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 90.25,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 81.0,
-        "practicality": 80.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "2026年11月01日 AI行业日报：可灵 198 亿融资落地、DeepSeek 开源超级智能体",
-      "type": "资讯聚合",
-      "platform": "CSDN",
-      "url": "https://blog.csdn.net/Smoothly_Lu/article/details/169744252",
-      "summary": "11 月 1 日行业日报，覆盖可灵 AI 198 亿元融资落地、DeepSeek 开源 Super-agent 底座、Anthropic 取消 Ultra 时长限制、小米开源 0.8B Xiaomi-OCR-0、智谱 GLM-5.3 十万卡集群训练实践与 ForgeKernel 推理内核等信息。",
-      "popularity": {
-        "views": 26000,
-        "likes": 520,
-        "comments": 120
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "wide",
-        "scenarios": [
-          "行业融资与竞争格局跟踪",
-          "小参数 OCR 模型选型",
-          "大模型训练基础设施参考",
-          "日报式信息补齐"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-01T08:40:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 90.25,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 81.0,
-        "practicality": 80.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "RSI立大功！国产开源 1.3B OXR 登顶全球 OCR 三榜第一",
-      "type": "开源发布",
-      "platform": "量子位",
-      "url": "https://www.qbitai.com/2026-10-506686.html",
-      "summary": "SoMark 开源 OXR-1.0，仅 1.3B 参数在 OmniDocBench、olmOCR-Bench、DocParsingBench 三个文档解析榜单登顶全球第一，解析 100 页文档约 101 秒，24G 显存即可本地运行，GitHub 已放出权重，并提供免费 API 与 Demo。",
-      "popularity": {
-        "views": 96000,
-        "likes": 2100,
-        "comments": 360
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "wide",
-        "scenarios": [
-          "扫描件与 PDF 文档结构化",
-          "RAG 前的文档清洗与切分",
-          "表格公式混排解析",
-          "端侧低成本 OCR 部署"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-10-30T13:52:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 88.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 90.0,
-        "practicality": 80.0,
-        "freshness": 80
-      }
-    },
-    {
-      "name": "掘金 · 小春学习日刊 2026年第9期（2026.10.31）",
-      "type": "资讯聚合",
-      "platform": "掘金",
-      "url": "https://www.juejin.cn/post/7702438435248619556",
-      "summary": "10 月 31 日期刊汇编：AI 从大模型竞争延伸到端侧硬件与开源生态，记录智元自 10 月 22 日起连续七天发布具身智能全栈技术、Grok Imagine 生成式内容进展等一周线索，适合做周度回顾与选题补充。",
-      "popularity": {
-        "views": 9000,
-        "likes": 210,
-        "comments": 45
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "一周 AI 线索回顾",
-          "端侧硬件与开源生态跟踪",
-          "具身智能进展索引",
-          "选题素材补充"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-10-31T22:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 86.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 81.0,
-        "practicality": 65.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "刚刚，DeepSeek重磅开源：Agent底座架构 dsh-superagent-prototype",
-      "type": "开源发布",
-      "platform": "量子位",
-      "url": "https://www.qbitai.com/2026-10-506904.html",
-      "summary": "DeepSeek 开源 Super-agent 原型 dsh-superagent-prototype，采用 Router/Worker 双层底座架构，支持事件直通、异步 ReAct、存算分离与 Watchdog 超时治理；多会话中位耗时 12.4 分钟，明显优于单会话 29.5 分钟，代码以 MIT 协议发布，定位研究原型。",
-      "popularity": {
-        "views": 128000,
-        "likes": 2600,
-        "comments": 480
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "wide",
-        "scenarios": [
-          "多智能体编排底座",
-          "长耗时 Agent 任务调度",
-          "Agent 运行时可观测与容错",
-          "自研 Agent 框架参考实现"
-        ],
-        "maturity": "experimental"
-      },
-      "freshness": {
-        "publish_date": "2026-10-31T21:49:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 82.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 62.0,
-        "freshness": 100
-      }
-    },
-    {
       "name": "2026 AI 开发工具选型指南：从需求、设计到编码，每个阶段该用什么？",
       "type": "news",
       "platform": "CSDN",
@@ -2174,6 +1949,226 @@
         "practicality": 67.0,
         "freshness": 100
       }
+    },
+    {
+      "name": "大模型周报（11.01—11.08）：AI智能体新进展",
+      "type": "news",
+      "platform": "亿欧",
+      "url": "https://www.iyiou.com/data/202611091145657",
+      "summary": "以周为单位汇总模型发布与产品进展，覆盖原生多模态大模型、国产算力适配与智能体落地数据，适合快速建立一周AI技术地图并挑选跟进对象。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "大模型",
+          "智能体",
+          "行业数据"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-09T10:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 59.75,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 78.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "千问办公2.0发布：首个支持多人与Agent协作的Team Agent来了",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/11/508694.html",
+      "summary": "11月9日千问办公升级到2.0，把智能体从个人助手扩展为团队可共享的执行角色，支持多人围绕同一任务与Agent协同。对想评估办公场景下Agent编排方式的团队有直接参考价值。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "AI办公",
+          "智能体",
+          "企业协作"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-09T18:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 57.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 69.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "腾讯混元跻身最强开源模型：一手实测Hy4搭配WorkBuddy的多模态Agent交付",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/11/507843.html",
+      "summary": "混元Hy4发布即开源，补充了视觉理解与电脑操作能力，实测中配合智能体工具可完成跨模态任务交付，适合关注国产开源模型接入与Agent能力评估的开发者。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "大模型",
+          "开源",
+          "AI Agent"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-09T17:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 56.75,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 69.0,
+        "practicality": 78.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "每日极客日报 · 2026年11月08日",
+      "type": "news",
+      "platform": "CSDN",
+      "url": "https://blog.csdn.net/weixin_45635831/article/details/170293233",
+      "summary": "30条科技要闻汇总，重点包括MiniMax坚持边收费边开放权重的双轨开源策略，以及投资机构报告显示美国企业在开源大模型上的支出明显向中国模型集中。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "大模型",
+          "开源生态",
+          "行业动态"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-08T08:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 56.0,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 63.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "开源AI的竞争不是零和博弈",
+      "type": "news",
+      "platform": "人民网",
+      "url": "http://finance.people.com.cn/n1/2026/1109/c1004-40830161.html",
+      "summary": "盘点10月底以来中美欧密集释出的开源模型权重，认为中国技术突破改变了开源模型性能不如闭源的固有认知，并讨论开放权重对全球开发者选型与协作的影响。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "开源生态",
+          "大模型",
+          "产业观察"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-09T07:45:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 56.0,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 63.0,
+        "freshness": 100
+      }
     }
   ],
   "pending_items": [
@@ -3261,6 +3256,93 @@
         "usability": 60.0,
         "practicality": 52.0,
         "freshness": 80
+      }
+    },
+    {
+      "name": "新浪人工智能热点小时报（2026年11月10日 02时）",
+      "type": "news",
+      "platform": "新浪科技",
+      "url": "https://k.sina.cn/article_7857201856_1d45362c001908u9cg.html?from=tech",
+      "summary": "按小时聚合AI与政策、产业消息，包括监管层对前沿模型发布前后加强安全测试的表态、地方机器人产业链名单公布以及终端厂商新增AI场景备案等信息。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "narrow",
+        "scenarios": [
+          "行业动态",
+          "政策"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-10T02:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 51.75,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 46.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "AI接管一家8万Star开源公司：写代码、派任务、查Bug全包了",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/11/508607.html",
+      "summary": "作者用LobeHub搭出一个由主管Agent带多名执行Agent的迷你编辑部，实测任务拆解、派工、收稿与汇总流程，记录了多智能体协作在真实内容工作流里的可用边界。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "多智能体",
+          "内容生产"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-09T15:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 46.25,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 60.0,
+        "practicality": 45.0,
+        "freshness": 100
       }
     }
   ]
