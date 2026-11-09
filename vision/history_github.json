@@ -1,308 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "tuotuoLyu/ForesightSafety-VLA",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/tuotuoLyu/ForesightSafety-VLA",
-      "summary": "Official code for ForesightSafety-VLA (IROS 2026): a unified diagnostic safety 基准测试 for 视觉-语言-动作 模型s on RoboTwin (语言: Python) [标签: benchmark, embodied-ai, iros2026, robot-safety, robotics]",
-      "popularity": {
-        "views": 80,
-        "likes": 80,
-        "comments": 2
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉-语言-动作",
-          "视觉语言模型",
-          "机器人视觉"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-10-29T03:52:03"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 80,
-        "forks": 2,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "other",
-        "topics": [
-          "benchmark",
-          "embodied-ai",
-          "iros2026",
-          "robot-safety",
-          "robotics",
-          "robotwin",
-          "safety-evaluation",
-          "vision-language-action"
-        ],
-        "created_at": "2026-10-29T03:52:03Z",
-        "pushed_at": "2026-10-29T03:52:24Z"
-      },
-      "filtered": false,
-      "total_score": 77.99,
-      "detail_scores": {
-        "popularity": 90.8,
-        "usability": 69.0,
-        "practicality": 54.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "ShuhongLL/RawVLA",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/ShuhongLL/RawVLA",
-      "summary": "RawVLA: Embodied Neural Image Signal Processor For Robotic Manipulation (语言: Python)",
-      "popularity": {
-        "views": 94,
-        "likes": 94,
-        "comments": 6
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉-语言-动作"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-10-02T07:51:36"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 94,
-        "forks": 6,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "mit",
-        "topics": [],
-        "created_at": "2026-10-02T07:51:36Z",
-        "pushed_at": "2026-10-04T08:04:37Z"
-      },
-      "filtered": false,
-      "total_score": 69.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 60.0,
-        "practicality": 50.0,
-        "freshness": 60
-      }
-    },
-    {
-      "name": "jeremyipark/vision-demos",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/jeremyipark/vision-demos",
-      "summary": "Fun real-world 计算机视觉 demos! (语言: Python)",
-      "popularity": {
-        "views": 915,
-        "likes": 915,
-        "comments": 147
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "机器视觉应用"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-09-08T19:53:41"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 915,
-        "forks": 147,
-        "open_issues": 3,
-        "language": "Python",
-        "license": "apache-2.0",
-        "topics": [],
-        "created_at": "2026-09-08T19:53:41Z",
-        "pushed_at": "2026-10-26T22:43:43Z"
-      },
-      "filtered": false,
-      "total_score": 66.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 72.0,
-        "practicality": 59.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "DAGroup-PKU/PyRUA-Lean",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/DAGroup-PKU/PyRUA-Lean",
-      "summary": "Fewer Tokens, Better Action: GPT-6 Astra Robot Agents with 14% Higher Success but 65% Fewer Tokens (语言: Python) [标签: computer-use-agent, gpt-6-astra, post-training, recursive-self-improvement, robo...",
-      "popularity": {
-        "views": 147,
-        "likes": 147,
-        "comments": 3
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉-语言-动作",
-          "视觉语言模型",
-          "机器人视觉"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-25T08:04:11"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 147,
-        "forks": 3,
-        "open_issues": 1,
-        "language": "Python",
-        "license": "apache-2.0",
-        "topics": [
-          "computer-use-agent",
-          "gpt-6-astra",
-          "post-training",
-          "recursive-self-improvement",
-          "robodojo",
-          "robot-use-agent",
-          "robotics",
-          "rsi",
-          "self-evolving",
-          "self-evolving-agent",
-          "token-efficiency",
-          "vision-language-action",
-          "vision-language-model",
-          "vla"
-        ],
-        "created_at": "2026-09-25T08:04:11Z",
-        "pushed_at": "2026-10-30T13:41:13Z"
-      },
-      "filtered": false,
-      "total_score": 64.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 54.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "OpenBMB/SimpleMemVLA",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/OpenBMB/SimpleMemVLA",
-      "summary": "Native-视频 memory for 视觉-语言-动作 模型s, using timestamped visual history and exact streaming 推理 for long-horizon robot manipulation. (语言: Python) [标签: embodied-ai, long-horizon-robotics, multimodal-lear...",
-      "popularity": {
-        "views": 102,
-        "likes": 102,
-        "comments": 13
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉-语言-动作",
-          "视觉语言模型",
-          "多模态"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-08-29T16:37:48"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 102,
-        "forks": 13,
-        "open_issues": 3,
-        "language": "Python",
-        "license": "mit",
-        "topics": [
-          "embodied-ai",
-          "long-horizon-robotics",
-          "multimodal-learning",
-          "native-video-memory",
-          "robot-learning",
-          "robot-manipulation",
-          "streaming-inference",
-          "video-understanding",
-          "vision-language-action",
-          "visual-memory",
-          "vla"
-        ],
-        "created_at": "2026-08-29T16:37:48Z",
-        "pushed_at": "2026-10-18T05:34:42Z"
-      },
-      "filtered": false,
-      "total_score": 64.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 54.0,
-        "freshness": 20
-      }
-    },
-    {
       "name": "tuotuoLyu/FPO",
       "type": "tool",
       "platform": "GitHub",
@@ -2903,9 +2601,241 @@
         "freshness": 20
       },
       "_source": "pending"
-    }
-  ],
-  "pending_items": [
+    },
+    {
+      "name": "groundingpi/GroundingPI",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/groundingpi/GroundingPI",
+      "summary": "A 4B grounding 基础模型 for physical intelligence. Unifies 检测, referring, pointing, OCR, GUI, and layout grounding, achieving SOTA overall across 34 基准测试s and improving robot generalization and data ef...",
+      "popularity": {
+        "views": 415,
+        "likes": 415,
+        "comments": 14
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "目标检测",
+          "文字识别",
+          "视觉-语言-动作"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-30T08:15:37"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 415,
+        "forks": 14,
+        "open_issues": 3,
+        "language": "Python",
+        "license": "apache-2.0",
+        "topics": [
+          "embodied-ai",
+          "gui-grounding",
+          "object-detection",
+          "ocr",
+          "physical-intelligence",
+          "pointing",
+          "robot-learning",
+          "vision-language-model",
+          "visual-grounding",
+          "vla"
+        ],
+        "created_at": "2026-09-30T08:15:37Z",
+        "pushed_at": "2026-10-31T13:19:48Z"
+      },
+      "filtered": false,
+      "total_score": 67.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 81.0,
+        "practicality": 54.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "deepseek-ai/DeepEP-Ascend",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/deepseek-ai/DeepEP-Ascend",
+      "summary": "A high-performance communication 库 for 机器学习 训练 and 推理 on Huawei Ascend NPUs. (语言: C++)",
+      "popularity": {
+        "views": 288,
+        "likes": 288,
+        "comments": 62
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "机器视觉应用"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-30T00:44:59"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 288,
+        "forks": 62,
+        "open_issues": 21,
+        "language": "C++",
+        "license": "",
+        "topics": [],
+        "created_at": "2026-09-30T00:44:59Z",
+        "pushed_at": "2026-11-03T01:45:19Z"
+      },
+      "filtered": false,
+      "total_score": 63.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "Garfield-kh/FastVLA",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/Garfield-kh/FastVLA",
+      "summary": "Fast-VLA (FastVLA): You Only Think Once for Robot Manipulation (语言: Python) [标签: embodied-ai, fast-vla, fastvla, imitation-learning, libero]",
+      "popularity": {
+        "views": 12,
+        "likes": 12,
+        "comments": 3
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉-语言-动作",
+          "视觉语言模型",
+          "机器人视觉"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-16T03:08:30"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 12,
+        "forks": 3,
+        "open_issues": 1,
+        "language": "Python",
+        "license": "apache-2.0",
+        "topics": [
+          "embodied-ai",
+          "fast-vla",
+          "fastvla",
+          "imitation-learning",
+          "libero",
+          "robot-manipulation",
+          "robotics",
+          "robotwin",
+          "vision-language-action",
+          "vla"
+        ],
+        "created_at": "2026-10-16T03:08:30Z",
+        "pushed_at": "2026-10-30T08:50:36Z"
+      },
+      "filtered": false,
+      "total_score": 48.64,
+      "detail_scores": {
+        "popularity": 27.12,
+        "usability": 60.0,
+        "practicality": 54.0,
+        "freshness": 60
+      }
+    },
+    {
+      "name": "Aqshalikhsan/Colosseum-Microcontroller",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/Aqshalikhsan/Colosseum-Microcontroller",
+      "summary": "Colosseum: compact 目标检测 for microcontrollers, with 模型s, 训练, and 推理 (语言: Python)",
+      "popularity": {
+        "views": 13,
+        "likes": 13,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "目标检测"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-29T14:22:16"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 13,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "mit",
+        "topics": [],
+        "created_at": "2026-10-29T14:22:16Z",
+        "pushed_at": "2026-11-02T06:42:21Z"
+      },
+      "filtered": false,
+      "total_score": 43.44,
+      "detail_scores": {
+        "popularity": 13.129999999999999,
+        "usability": 60.0,
+        "practicality": 50.0,
+        "freshness": 60
+      }
+    },
     {
       "name": "iris0329/GeoReader",
       "type": "tool",
@@ -2961,8 +2891,11 @@
         "usability": 69.0,
         "practicality": 50.0,
         "freshness": 60
-      }
-    },
+      },
+      "_source": "pending"
+    }
+  ],
+  "pending_items": [
     {
       "name": "AndreiiArhire/LightMIS",
       "type": "tool",
