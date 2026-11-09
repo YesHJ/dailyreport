@@ -1707,6 +1707,181 @@
         "practicality": 44.0,
         "freshness": 80
       }
+    },
+    {
+      "name": "IT周报 2026 11.02–11.08：GPT Image 2.6、混元Hy4视觉能力盘点",
+      "type": "news",
+      "platform": "CSDN",
+      "url": "https://blog.csdn.net/lovechris00/article/details/170335003",
+      "summary": "一周视觉与多模态要点汇总：OpenAI Images 2.6生成提速50%并新增原生GIF与SVG导出，全球周生图量达40亿张；腾讯Hy4由不足300B升至770B，首次引入原生视觉理解与Computer Use，幻觉率降至7.2%。",
+      "popularity": {
+        "views": 5000,
+        "likes": 60,
+        "comments": 4
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "行业资讯汇总",
+          "图像生成",
+          "多模态"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-08T20:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 89.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 81.0,
+        "practicality": 78.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "腾讯混元跻身最强开源模型：一手实测Hy4多模态视觉与电脑操作",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/11/507843.html",
+      "summary": "混元Hy4（770B MoE）首次引入原生视觉理解与Computer Use，可结合GUI与命令行完成长程任务，并对Blender、CAD等专业软件做专项训练，权重即将开源，为视觉Agent与多模态工作流提供国产开源底座。",
+      "popularity": {
+        "views": 15000,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "多模态理解",
+          "视觉Agent",
+          "本地化部署"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-09T09:30:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 84.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 60.0,
+        "practicality": 78.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "中国引领「开源10月」：多国先进开源大模型密集发布",
+      "type": "news",
+      "platform": "科技日报",
+      "url": "https://tech.sina.cn/2026-11-09/detail-iniyazcy6386527.d.html",
+      "summary": "科技日报梳理10月以来中美欧密集推出百亿参数以上开源模型（Mistral Le Chonk、Kimi K3.1 Pro、混元4、Inkling 2 Small），单月逾10个；认为DeepSeek等技术突破扭转了开源性能弱于闭源的认知，为多模态与视觉底座开源铺路。",
+      "popularity": {
+        "views": 6000,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "开源生态",
+          "大模型选型"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-09T10:01:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 75.0,
+      "detail_scores": {
+        "popularity": 60.0,
+        "usability": 72.0,
+        "practicality": 76.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "英伟达等重新设计VLA推理！机器人动作提速3.4倍（TacitVLA）",
+      "type": "news",
+      "platform": "机器之心",
+      "url": "https://finance.sina.cn/2026-11-08/detail-inixywfe7455068.d.html",
+      "summary": "英伟达联合NYU、伯克利等提出TacitVLA：动作头训练时学会写推理、部署时不读取推理文本，仅改attention mask即可。LIBERO成功率98.6%，单动作147ms（显式推理495ms），延迟最多降3.4倍，RMBench提升21个百分点。",
+      "popularity": {
+        "views": 12000,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "VLA/具身智能",
+          "机器人实时控制",
+          "自动驾驶"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-08T19:42:50"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 72.25,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 44.0,
+        "practicality": 45.0,
+        "freshness": 100
+      }
     }
   ],
   "pending_items": []
