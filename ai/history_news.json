@@ -1,225 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "2026 AI 开发工具选型指南：从需求、设计到编码，每个阶段该用什么？",
-      "type": "news",
-      "platform": "CSDN",
-      "url": "https://blog.csdn.net/m0_37988015/article/details/169843920",
-      "summary": "按需求分析、方案设计、编码实现三个阶段梳理 AI 工具搭配，给出 ChatGPT、Claude、DeepSeek、Kimi 等模型的适用场景与分步骤提示词用法，强调工具要嵌入完整研发流程而非单点写代码。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "wide",
-        "scenarios": [
-          "开发流程",
-          "效率工具",
-          "大模型"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-02T12:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 59.75,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 78.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "2026年11月02日 AI 行业日报：商汤开源 Loop-9B、Pika 发布 H3 Flex、Meta×傅利叶人形机器人 Max",
-      "type": "news",
-      "platform": "CSDN",
-      "url": "https://blog.csdn.net/Smoothly_Lu/article/details/169820519",
-      "summary": "汇总 11 月 2 日 AI 动态：商汤 Loop-9B 循环架构开源；Pika 基于 MiniMax H3 开源 H3 Flex 音视频联合生成模型，6 步去噪输出带立体声的 5-15 秒视频；OpenAI 拟 12 月合并 Chat 与 Codex 统一 Token 配额。",
-      "popularity": {
-        "views": 380,
-        "likes": 4,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "大模型",
-          "行业动态",
-          "多模态"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-02T09:19:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 58.34,
-      "detail_scores": {
-        "popularity": 7.800000000000001,
-        "usability": 81.0,
-        "practicality": 63.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "AI 日报（2026年11月1日）：模型开源与工程实践要点",
-      "type": "news",
-      "platform": "掘金",
-      "url": "https://juejin.cn/post/7702660318472224802",
-      "summary": "开发者向 AI 日报，覆盖 arXiv 统一极大似然全生命周期训练研究、国产大模型自我改进工程实践，以及开源工具与产业动态，适合作为每日技术雷达速览。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "大模型",
-          "开发工具",
-          "论文"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-01T20:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 56.0,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 63.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "GitHub 开源热榜项目·周榜（2026-10-26 ~ 2026-11-01）",
-      "type": "news",
-      "platform": "CSDN",
-      "url": "https://blog.csdn.net/nmy_2360/article/details/169812966",
-      "summary": "人工整理上周 GitHub 热门的 18 个开源项目，累计约 3.4 万 Star，主线为 AI 创作工具链与实用知识资产，附 star 增量、语言与用途说明，适合快速筛选值得试用的新项目。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "开源工具",
-          "AI Agent"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-02T08:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 55.5,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 61.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "商汤开源 SenseNova Loop-9B-Preview：Looped Transformer，9B 参数对标 27B",
-      "type": "news",
-      "platform": "IT之家",
-      "url": "https://www.ithome.com/1/020/973.htm",
-      "summary": "商汤开源日日新 SenseNova Loop-9B-Preview，采用 Looped Transformer 循环计算架构，在 9B 参数规模下宣称媲美 27B 模型。Apache 2.0 可商用，支持 262144 token 长上下文，GGUF Q8_0 量化约 8.9GB，16GB 显存即可本地部署。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "wide",
-        "scenarios": [
-          "大模型",
-          "本地部署",
-          "AI Agent"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-11-02T10:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 54.5,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 69.0,
-        "practicality": 69.0,
-        "freshness": 100
-      }
-    },
-    {
       "name": "AI 资讯日报 | 2026年11月3日：美团发布1.6万亿参数国产算力大模型，乌镇峰会千项AI成果亮相",
       "type": "news",
       "platform": "CSDN",
@@ -2167,6 +1948,221 @@
         "popularity": 0.0,
         "usability": 81.0,
         "practicality": 63.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "AI 日报（2026年11月10日）：旗舰模型密集更新与 Agent 落地动态汇总",
+      "type": "news",
+      "platform": "掘金",
+      "url": "https://juejin.cn/post/7706098926289879091",
+      "summary": "25条中文日报梳理11月10日要点：Anthropic 发布 Claude Fable 5.2 与 Mythos 5.2 并降价20%，Meta 推轻量任务模型 Muse Ember，亚马逊开源 MoE 空闲专家解绑方案 HOPE，OpenAI 披露内部算力管控系统 Control Room。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "行业情报",
+          "大模型"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-10T09:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 55.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 61.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "并行推测解码刷新 SOTA：因果依赖刻进草稿网络深度，SGLang 吞吐最高达 4 倍（已开源）",
+      "type": "news",
+      "platform": "机器之心",
+      "url": "https://view.inews.qq.com/a/20261109A0AOP100",
+      "summary": "腾讯优图发布 DSpine 推测解码草稿模型并开源（Apache 2.0）：在 Qwen3-4B/8B 的28组接受长度与40组 SGLang 服务测试中全部第一，相对自回归解码最高4.01倍吞吐；另提供面向 Agent 优化的 Qwen3.8-27B 草稿权重，可直接在 SGLang 启动参数中启用。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "high",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "large",
+        "scenarios": [
+          "推理加速",
+          "大模型部署"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-09T16:44:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 50.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 66.0,
+        "practicality": 56.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "DeepSeek Harness 深度学习与架构手册",
+      "type": "news",
+      "platform": "CSDN",
+      "url": "https://blog.csdn.net/csdn122345/article/details/170413789",
+      "summary": "以 deepseek-ai/deepseek-harness 为对象的中文架构手册：拆解 Agent Loop、Session 与工具流水线、上下文压缩与会话恢复、审批沙箱与权限预设，并给出「产品边界→Agent 循环→工具链→沙箱扩展→评测生产化」的学习顺序。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "high",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "large",
+        "scenarios": [
+          "AI Agent",
+          "工程实践"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-10T10:10:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 50.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 66.0,
+        "practicality": 56.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "AI 前沿日报 · 2026-11-10：重估",
+      "type": "news",
+      "platform": "CSDN",
+      "url": "https://blog.csdn.net/johnsong2009/article/details/170452285",
+      "summary": "中文技术日报复盘模型能力与评测口径变化：指出 Opus 5.5「思考模式突变」、Google 撤下审核承诺等事件，并用 Inspect 框架量化 LLM 工具调用的四种检索状态（零检索、摘要、部分未脱敏引用等），提醒 RAG 与权限设计中的泄密风险。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "RAG",
+          "安全评测"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-10T08:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 48.0,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 69.0,
+        "practicality": 43.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "voicebox 开源 AI 语音工作室：从文本前端到声音克隆的工程实践",
+      "type": "news",
+      "platform": "CSDN",
+      "url": "https://blog.csdn.net/weixin_29038303/article/details/170272992",
+      "summary": "开发者解析开源项目 voicebox：定位为面向开发者与内容创作者的「AI 语音工作室」，把文本前端、合成流程与声音克隆整合成带界面和工作流的集成环境，可自部署、可改可扩，适合做配音与语音内容生产的技术选型参考。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI语音",
+          "内容创作"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-10T11:01:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 48.0,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 69.0,
+        "practicality": 43.0,
         "freshness": 100
       }
     }
