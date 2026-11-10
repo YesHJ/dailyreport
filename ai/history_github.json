@@ -1,357 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "wideeyededi/uncensored-nsfw-ai-video-api",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/wideeyededi/uncensored-nsfw-ai-video-api",
-      "summary": "Uncensored NSFW AI video API — Seedance Spicy & Wan NSFW docs for 18+ text-to-video / image-to-video: async tasks, webhooks, credits billing. 成人向 AI 视频生成 API：Seedance Spicy、Wan NSFW、文生/图生视频、异步任务、积分...",
-      "popularity": {
-        "views": 415,
-        "likes": 415,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "图像生成",
-          "视频生成"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-11-02T02:15:29"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 415,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "",
-        "license": "mit",
-        "topics": [
-          "123vips",
-          "ai-api",
-          "ai-companion",
-          "ai-video",
-          "ai-video-api",
-          "ai-video-generator",
-          "comfyui",
-          "image-to-video",
-          "nsfw",
-          "nsfw-ai",
-          "seedance",
-          "seedance-api",
-          "spicy",
-          "text-to-video",
-          "uncensored",
-          "uncensored-ai",
-          "video-api",
-          "video-generation",
-          "wan",
-          "wan-video"
-        ],
-        "created_at": "2026-11-02T02:15:29Z",
-        "pushed_at": "2026-11-02T03:01:26Z"
-      },
-      "filtered": false,
-      "total_score": 80.25,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 52.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "islandmed/SculptForge",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/islandmed/SculptForge",
-      "summary": "The free, open-source alternative to ZBrush. Sculpting for Linux, macOS and Windows with free built-in AI (image/text to 3D), Send to Unreal, game-ready LODs, Gaussian splats and OpenUSD. (语言: C++)...",
-      "popularity": {
-        "views": 451,
-        "likes": 451,
-        "comments": 53
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "图像生成"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-10-21T03:18:08"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 451,
-        "forks": 53,
-        "open_issues": 30,
-        "language": "C++",
-        "license": "gpl-3.0",
-        "topics": [
-          "3d",
-          "cpp",
-          "dear-imgui",
-          "digital-sculpting",
-          "fbx",
-          "game-development",
-          "gaussian-splatting",
-          "gltf",
-          "image-to-3d",
-          "mcp",
-          "opengl",
-          "openusd",
-          "sculpting",
-          "text-to-3d",
-          "unreal-engine",
-          "zbrush-alternative"
-        ],
-        "created_at": "2026-10-21T03:18:08Z",
-        "pushed_at": "2026-11-02T17:25:40Z"
-      },
-      "filtered": false,
-      "total_score": 74.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 81.0,
-        "practicality": 50.0,
-        "freshness": 60
-      }
-    },
-    {
-      "name": "thesysdev/open-intelligent-ui",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/thesysdev/open-intelligent-ui",
-      "summary": "An open-source take on ChatGPT's Intelligent UI: answers stream as interactive UI (maps, photos, charts, drawings and working tools). Built with OpenUI. (语言: TypeScript) [标签: agents, ai, ai-agents,...",
-      "popularity": {
-        "views": 913,
-        "likes": 913,
-        "comments": 77
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-10-08T05:37:45"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 913,
-        "forks": 77,
-        "open_issues": 30,
-        "language": "TypeScript",
-        "license": "mit",
-        "topics": [
-          "agents",
-          "ai",
-          "ai-agents",
-          "ai-ui",
-          "chat-ui",
-          "chatgpt",
-          "generative-ui",
-          "intelligent-ui",
-          "llm",
-          "nextjs",
-          "open-source",
-          "openui",
-          "react",
-          "streaming-ui",
-          "typescript"
-        ],
-        "created_at": "2026-10-08T05:37:45Z",
-        "pushed_at": "2026-10-31T06:45:22Z"
-      },
-      "filtered": false,
-      "total_score": 74.0,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 59.0,
-        "freshness": 60
-      }
-    },
-    {
-      "name": "junjamrk/OpenCinema",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/junjamrk/OpenCinema",
-      "summary": "The open-source video studio for AI 智能体s. Plan, generate, and edit films on a local-first canvas with your own 模型s and short drama video. (语言: TypeScript) [标签: ai, ai-drama, ai-drama-generator, ai-...",
-      "popularity": {
-        "views": 133,
-        "likes": 133,
-        "comments": 4
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent",
-          "图像生成",
-          "视频生成"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-10-12T08:58:24"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 133,
-        "forks": 4,
-        "open_issues": 4,
-        "language": "TypeScript",
-        "license": "mit",
-        "topics": [
-          "ai",
-          "ai-drama",
-          "ai-drama-generator",
-          "ai-video",
-          "ai-video-editing",
-          "open-source",
-          "opencinema",
-          "text-to-image",
-          "text-to-video-generation",
-          "text-to-voice",
-          "video-generation",
-          "workflow"
-        ],
-        "created_at": "2026-10-12T08:58:24Z",
-        "pushed_at": "2026-11-01T05:41:41Z"
-      },
-      "filtered": false,
-      "total_score": 72.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 54.0,
-        "freshness": 60
-      }
-    },
-    {
-      "name": "flohoeller/affectui",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/flohoeller/affectui",
-      "summary": "UI for AI 智能体s. React components for what 智能体s do – 智能体 trees, tool calls, traces, handoffs and approvals – and for the rest of your app. One file each, install with shadcn or via MCP. Free and 开源....",
-      "popularity": {
-        "views": 433,
-        "likes": 433,
-        "comments": 22
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-10-03T19:58:10"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 433,
-        "forks": 22,
-        "open_issues": 2,
-        "language": "TypeScript",
-        "license": "mit",
-        "topics": [
-          "agent-ui",
-          "ai",
-          "ai-agents",
-          "ai-ui",
-          "animation",
-          "components",
-          "dark-mode",
-          "illustrations",
-          "llm",
-          "mcp",
-          "motion",
-          "nextjs",
-          "react",
-          "react-components",
-          "shadcn",
-          "shadcn-registry",
-          "shadcn-ui",
-          "typescript",
-          "ui-components",
-          "ui-library"
-        ],
-        "created_at": "2026-10-03T19:58:10Z",
-        "pushed_at": "2026-11-02T20:06:39Z"
-      },
-      "filtered": false,
-      "total_score": 71.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 50.0,
-        "freshness": 60
-      }
-    },
-    {
       "name": "nanaism/yomiyasu",
       "type": "tool",
       "platform": "GitHub",
@@ -3190,6 +2839,323 @@
         "freshness": 20
       },
       "_source": "pending"
+    },
+    {
+      "name": "wangzan101/Mika",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/wangzan101/Mika",
+      "summary": "An on-device AI 智能体 for Android that operates apps and the web to get things done for you. (语言: Kotlin) [标签: accessibility, ai-agent, android, automation, jetpack-compose]",
+      "popularity": {
+        "views": 8068,
+        "likes": 8068,
+        "comments": 1840
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "自动化"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-29T14:34:07"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 8068,
+        "forks": 1840,
+        "open_issues": 121,
+        "language": "Kotlin",
+        "license": "apache-2.0",
+        "topics": [
+          "accessibility",
+          "ai-agent",
+          "android",
+          "automation",
+          "jetpack-compose",
+          "kotlin",
+          "llm",
+          "mobile-agent"
+        ],
+        "created_at": "2026-10-29T14:34:07Z",
+        "pushed_at": "2026-11-10T17:00:01Z"
+      },
+      "filtered": false,
+      "total_score": 74.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 61.0,
+        "freshness": 60
+      }
+    },
+    {
+      "name": "somastllc/nlp-for-machine-learning-bootcamp",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/somastllc/nlp-for-machine-learning-bootcamp",
+      "summary": "NLP for 机器学习 Bootcamp. [标签: ai, bootcamp, machine-learning, nlp]",
+      "popularity": {
+        "views": 93,
+        "likes": 93,
+        "comments": 9
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "自然语言处理"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-20T19:48:09"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 93,
+        "forks": 9,
+        "open_issues": 0,
+        "language": "",
+        "license": "other",
+        "topics": [
+          "ai",
+          "bootcamp",
+          "machine-learning",
+          "nlp"
+        ],
+        "created_at": "2026-10-20T19:48:09Z",
+        "pushed_at": "2026-10-24T13:28:24Z"
+      },
+      "filtered": false,
+      "total_score": 69.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 60.0,
+        "practicality": 50.0,
+        "freshness": 60
+      }
+    },
+    {
+      "name": "kuafuai/andee",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/kuafuai/andee",
+      "summary": "Andee lives on your phone or Mac and uses any app like you do—no integrations, no root, any 模型; memory and passwords never leave your device | Andee 住进你的手机或 Mac，像你一样操作任何 App——无需集成、无需 Root、支持任意模型，记忆...",
+      "popularity": {
+        "views": 4405,
+        "likes": 4405,
+        "comments": 278
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "自动化"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-09-17T13:20:59"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 4405,
+        "forks": 278,
+        "open_issues": 15,
+        "language": "Kotlin",
+        "license": "other",
+        "topics": [
+          "agent",
+          "ai",
+          "ai-agents",
+          "android-automation",
+          "mobile-agents",
+          "personal-agent",
+          "personal-ai",
+          "phone-automation"
+        ],
+        "created_at": "2026-09-17T13:20:59Z",
+        "pushed_at": "2026-11-10T13:33:11Z"
+      },
+      "filtered": false,
+      "total_score": 66.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 61.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "openfilm/openfilm",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/openfilm/openfilm",
+      "summary": "The 开源 AI video 智能体: turns any coding 智能体 into a video 智能体, with an editor to change anything it makes. (语言: TypeScript) [标签: ai-video, claude-code, codex, coding-agents, html]",
+      "popularity": {
+        "views": 5661,
+        "likes": 5661,
+        "comments": 539
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "视频生成",
+          "代码生成"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-04T09:29:07"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 5661,
+        "forks": 539,
+        "open_issues": 41,
+        "language": "TypeScript",
+        "license": "mit",
+        "topics": [
+          "ai-video",
+          "claude-code",
+          "codex",
+          "coding-agents",
+          "html",
+          "motion-graphics",
+          "video-agent",
+          "video-editor"
+        ],
+        "created_at": "2026-10-04T09:29:07Z",
+        "pushed_at": "2026-11-09T19:48:33Z"
+      },
+      "filtered": false,
+      "total_score": 64.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 60.0,
+        "practicality": 63.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "e2sy/jailbreak-archives",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/e2sy/jailbreak-archives",
+      "summary": "A structured, versioned archive of adversarial prompt engineering techniques against 大语言模型s — for AI safety 研究, red-teaming, and 防御性 hardening. (语言: Roff) [标签: adversarial-prompts, ai-red-team, ai-...",
+      "popularity": {
+        "views": 97,
+        "likes": 97,
+        "comments": 9
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "对话交互"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-30T07:34:14"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 97,
+        "forks": 9,
+        "open_issues": 0,
+        "language": "Roff",
+        "license": "mit",
+        "topics": [
+          "adversarial-prompts",
+          "ai-red-team",
+          "ai-safety",
+          "chatbot",
+          "chatgpt",
+          "claude",
+          "cybersecurity",
+          "deepseek",
+          "jailbreak",
+          "jailbreak-prompts",
+          "jailbreak-script",
+          "llm",
+          "llm-jailbreak",
+          "llm-security",
+          "offensive-security",
+          "prompt-engineering",
+          "prompt-injection",
+          "qwen",
+          "red-teaming",
+          "responsible-disclosure"
+        ],
+        "created_at": "2026-09-30T07:34:14Z",
+        "pushed_at": "2026-11-10T06:44:07Z"
+      },
+      "filtered": false,
+      "total_score": 59.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 53.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
     }
   ],
   "pending_items": [
@@ -3754,7 +3720,7 @@
       "popularity": {
         "views": 56,
         "likes": 56,
-        "comments": 0
+        "comments": 1
       },
       "usability": {
         "difficulty": "hard",
@@ -3781,7 +3747,7 @@
       },
       "metadata": {
         "stars": 56,
-        "forks": 0,
+        "forks": 1,
         "open_issues": 0,
         "language": "HTML",
         "license": "",
@@ -3797,12 +3763,12 @@
           "trainer"
         ],
         "created_at": "2026-09-21T21:46:02Z",
-        "pushed_at": "2026-11-05T19:24:58Z"
+        "pushed_at": "2026-11-10T18:26:05Z"
       },
       "filtered": false,
-      "total_score": 47.22,
+      "total_score": 48.72,
       "detail_scores": {
-        "popularity": 56.56,
+        "popularity": 61.56,
         "usability": 53.0,
         "practicality": 52.0,
         "freshness": 20
@@ -3906,7 +3872,7 @@
           "trainer"
         ],
         "created_at": "2026-09-21T22:54:48Z",
-        "pushed_at": "2026-11-05T19:38:36Z"
+        "pushed_at": "2026-11-10T20:17:47Z"
       },
       "filtered": false,
       "total_score": 45.81,
