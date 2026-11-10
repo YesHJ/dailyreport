@@ -1882,6 +1882,136 @@
         "practicality": 45.0,
         "freshness": 100
       }
+    },
+    {
+      "name": "工业AI视觉质检选型：厂商格局与五类落地「坑」的化解思路",
+      "type": "news",
+      "platform": "搜狐",
+      "url": "https://m.sohu.com/a/1099574278_121078241/",
+      "summary": "梳理综合平台与垂直专精两条路线（华为云、百度、阿里、腾讯优图、创新奇智、阿丘等），并针对样本不足、误检漏检、与MES/QMS孤岛、无异常上报、光学环境未规范五类陷阱给出验收口径与选型建议。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "工业缺陷检测",
+          "机器视觉选型"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-10T13:09:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 57.0,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 72.0,
+        "practicality": 76.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "从「一脑多机」到「一脑多手」，蚂蚁灵波开源LingBot-Touch触觉基础模型",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/11/508996.html",
+      "summary": "11月10日蚂蚁灵波科技开源触觉基础模型LingBot-Touch，主打跨本体、跨末端执行器的「通用手感」，与视觉-语言模型协同，用于机器人操作中的接触状态判断。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "具身智能",
+          "机器人视觉"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-10T18:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 48.0,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 60.0,
+        "practicality": 52.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "NeurIPS 2026｜VLM架构新突破：DGP打通全部ViT与LLM层，让大模型每一层按需「看图」",
+      "type": "news",
+      "platform": "机器之心",
+      "url": "https://m.sohu.com/a/1099738407_122014422/",
+      "summary": "西北工业大学与港科大提出DGP（动态门控路径），让每个LLM层按需融合全部ViT层特征。LLaVA-1.5-7B的11项指标全部提升（SQA-I +4.2、MM-Vet +3.3），在Qwen3-VL-2B与LLaVA-NeXT同样有效，参数仅增约5%，代码已开源。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "机器视觉",
+          "多模态大模型",
+          "VLM推理优化"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-10T20:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 46.25,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 60.0,
+        "practicality": 45.0,
+        "freshness": 100
+      }
     }
   ],
   "pending_items": []
