@@ -1,221 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "AI 资讯日报 | 2026年11月3日：美团发布1.6万亿参数国产算力大模型，乌镇峰会千项AI成果亮相",
-      "type": "news",
-      "platform": "CSDN",
-      "url": "https://blog.csdn.net/IT_ORACLE/article/details/169905182",
-      "summary": "当日国内AI要闻汇总：美团LongCat-2.5主打长程智能体任务并针对国产显存重构并行策略，微软开发者大会连发AI新品，杭州发布人形机器人与开源智能体合规指引。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "wide",
-        "scenarios": [
-          "大模型",
-          "行业动态"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-03T08:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 59.25,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 76.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "2026年11月03日 AI 行业日报｜美团 LongCat-2.5 发布、Anthropic 披露 RSI 风险、大华拿下 26.3 亿算力大单",
-      "type": "news",
-      "platform": "CSDN",
-      "url": "https://blog.csdn.net/Smoothly_Lu/article/details/169922592",
-      "summary": "以国产大模型工程优化与系统性风险为主线的行业日报：美团发布长程智能体多模态模型LongCat-2.5，Anthropic在修订招股书中警示递归自我改进能力临近突破，算力订单持续落地。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "wide",
-        "scenarios": [
-          "大模型",
-          "行业动态"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-03T09:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 59.25,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 76.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "乌镇峰会观察：中国开源AI大模型持续“圈粉”",
-      "type": "news",
-      "platform": "新浪科技",
-      "url": "http://finance.sina.com.cn/roll/2026-11-03/doc-inixnpzt8587079.shtml",
-      "summary": "2026世界互联网大会乌镇峰会开幕，开源生态成焦点。DeepSeek等中国开源大模型以高性能、低价格降低应用门槛，OpenRouter最新周榜调用量前两名均为DeepSeek版本模型。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "wide",
-        "scenarios": [
-          "大模型",
-          "开源生态"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-03T18:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 59.25,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 76.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "AI科技每日简报 | 2026年11月2日",
-      "type": "news",
-      "platform": "今日头条",
-      "url": "https://www.toutiao.com/a7703384022558179876/",
-      "summary": "简报梳理当日要点：DeepSeek公布Super Agent架构并开源常驻Agent底座，把长期运行、记忆与工具调用做成基础设施；Mistral开源万亿参数多模态模型Large 4，开源闭源差距收窄。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "wide",
-        "scenarios": [
-          "大模型",
-          "AI Agent"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-02T08:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 59.25,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 76.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "腾讯研究院AI速递 20261104",
-      "type": "news",
-      "platform": "搜狐科技",
-      "url": "https://m.sohu.com/a/1096760389_455313/",
-      "summary": "当日AI要点速递：人大复旦CoworkOS打造可跨会话持续干活的AI同事；百度披露全模态世界模型Apollo World，提出因果性、交互性等“2+3”标准，虚拟城市中交通参与者均为AI智能体。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "wide",
-        "scenarios": [
-          "行业动态",
-          "大模型"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-04T07:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 59.25,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 76.0,
-        "freshness": 100
-      }
-    },
-    {
       "name": "美团发布 LongCat-2.5：1.6 万亿参数原生多模态模型，全程国产算力训练",
       "type": "news",
       "platform": "钛媒体",
@@ -2165,6 +1950,226 @@
         "practicality": 43.0,
         "freshness": 100
       }
+    },
+    {
+      "name": "千问办公2.0 发布首个 Team Agent，支持多人与 Agent 协作",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/11/508798.html",
+      "summary": "千问办公2.0上线首个支持多人与Agent协作的Team Agent，可进群协同干活，实测覆盖选题、写稿、整理等编辑部日常，办公AI从单机模式走向协作模式。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "AI办公",
+          "智能体",
+          "效率工具"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-09T09:27:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 58.0,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 90.0,
+        "practicality": 78.0,
+        "freshness": 80
+      }
+    },
+    {
+      "name": "AI科技热点日报（2026年11月11日）：Fable 5.2 与 Claude 办公套件集中发布",
+      "type": "news",
+      "platform": "CSDN",
+      "url": "https://blog.csdn.net/haohaizi_liu/article/details/170517245",
+      "summary": "汇总当日主线：Anthropic 发布 Fable 5.2 与 Mythos 5.2 并推出 Claude Sheets、Whiteboards、Data 与会议助手，同时披露招股书与一级市场动态。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "大模型",
+          "行业动态",
+          "AI办公"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-11T09:30:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 56.0,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 63.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "新浪AI热点小时报：基元律动发布180B Agent原生模型，蚂蚁灵波开源触觉模型",
+      "type": "news",
+      "platform": "新浪科技",
+      "url": "https://k.sina.cn/article_7857201856_1d45362c001908ub76.html",
+      "summary": "11月10日资讯聚合：基元律动发布总参数180B的Agent原生模型并开放限量内测，蚂蚁灵波开源LingBot-Touch，乌镇峰会首次把开源开放定为核心关键词。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "智能体",
+          "大模型",
+          "行业动态"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-10T13:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 56.0,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 63.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "MiniMax 正式发布并开源 H3 Image：4K 图像生成约10秒，支持16张参考图",
+      "type": "news",
+      "platform": "新智元",
+      "url": "https://cj.sina.cn/articles/view/7857201856/1d45362c001908udqa",
+      "summary": "MiniMax 发布 H3 Image 并当天开源权重、同步开放 API，支持最多16张参考图、7500字符提示词与4K出图，官方称生成耗时约10秒，可直接接入自家编码与创作平台。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "多模态",
+          "图像生成",
+          "开源模型",
+          "内容创作"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-11T03:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 55.75,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 72.0,
+        "practicality": 71.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "8点1氪：Anthropic 正式启动 IPO 路演，英伟达及黄仁勋遭股东集体诉讼",
+      "type": "news",
+      "platform": "36氪",
+      "url": "https://www.163.com/dy/article/LBEK5KC005118DFD.html",
+      "summary": "36氪8点1氪汇总：Anthropic启动IPO路演、高盛给出2030年6000亿美元营收预测，英伟达市值两日大幅蒸发并遭股东诉讼，阿里拟分拆平头哥独立上市。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "行业动态",
+          "投融资"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-11T08:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 55.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 61.0,
+        "freshness": 100
+      }
     }
   ],
   "pending_items": [
@@ -3338,6 +3343,227 @@
         "popularity": 0.0,
         "usability": 60.0,
         "practicality": 45.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "aiXcoder 开源上下文压缩专用模型 aiXcompact-4B，推理成本直降78%",
+      "type": "news",
+      "platform": "机器之心",
+      "url": "https://www.donews.com/news/detail/4/6771559.html",
+      "summary": "11月11日北大软件所孵化的aiXcoder开源4B上下文压缩模型aiXcompact-4B，面向编程Agent长程任务，单张A100-40GB即可私有化部署，官方称推理成本降78%。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "AI编程",
+          "智能体",
+          "成本控制",
+          "开源模型"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-11T17:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 55.0,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 69.0,
+        "practicality": 71.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "纯代码造《后室》，116秒切20种画风！百度文心新模型玩嗨了",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/11/509224.html",
+      "summary": "百度文心新一代模型被实测可用纯代码一次性生成《后室》风格网页场景，116秒内切换20种画风，官方称该版本即将开源，适合前端与创意编程玩法。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "多模态",
+          "代码生成",
+          "内容创作"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-11T10:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 53.75,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 54.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "禾赛加码物理AI：激光雷达主业退居二线，港股盘中涨超11%",
+      "type": "news",
+      "platform": "36氪",
+      "url": "https://www.36kr.com/p/4065162767587205",
+      "summary": "36氪分析称禾赛管理层预计2027年新业务收入约1亿美元并实现盈亏平衡，物理AI与具身感知成为第二增长曲线，11月11日港股盘中涨幅一度超11%。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "narrow",
+        "scenarios": [
+          "具身智能",
+          "行业动态"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-11T15:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 51.75,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 46.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "上智院开源 REMORY：1.9B 记忆模块让Agent越过上下文压缩持续工作",
+      "type": "news",
+      "platform": "机器之心",
+      "url": "https://www.163.com/dy/article/LBET76RG0511AQHO.html",
+      "summary": "上海科学智能研究院等团队开源REMORY，用1.9B可训练参数、两张H800自监督训练残差记忆模块，在Terminal-Bench等评测中显著减少工具报错与重复输出。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "大模型",
+          "智能体",
+          "上下文工程",
+          "开源模型"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-11T11:01:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 49.0,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 69.0,
+        "practicality": 47.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "蚂蚁灵波开源触觉基础模型 LingBot-Touch，统一三类传感器触觉表征",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/11/508996.html",
+      "summary": "11月10日蚂蚁灵波科技开源触觉基础模型 LingBot-Touch，统一三类触觉传感器表征，把大模型感知能力延伸到机器人指尖，支撑一脑多手的具身操作。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "具身智能",
+          "机器人",
+          "开源模型"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-10T15:57:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 48.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 60.0,
+        "practicality": 54.0,
         "freshness": 100
       }
     }
