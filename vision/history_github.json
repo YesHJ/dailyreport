@@ -1,295 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "black-forest-labs/flux-action",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/black-forest-labs/flux-action",
-      "summary": "FLUX 3 Action: open weights 7B world action 模型 from Black Forest Labs. Train, fine-tune and run action prediction for robots (DROID, SO-101), simulators and games. (语言: Python) [标签: black-forest-la...",
-      "popularity": {
-        "views": 203,
-        "likes": 203,
-        "comments": 19
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉-语言-动作",
-          "机器人视觉"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-23T03:26:07"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 203,
-        "forks": 19,
-        "open_issues": 5,
-        "language": "Python",
-        "license": "apache-2.0",
-        "topics": [
-          "black-forest-labs",
-          "droid",
-          "flux",
-          "imitation-learning",
-          "lerobot",
-          "pytorch",
-          "robot-learning",
-          "robotics",
-          "so101",
-          "vla",
-          "world-action-model",
-          "world-model"
-        ],
-        "created_at": "2026-09-23T03:26:07Z",
-        "pushed_at": "2026-10-31T00:32:58Z"
-      },
-      "filtered": false,
-      "total_score": 64.25,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 52.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "LMIXR/CV_Deployment_skill",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/LMIXR/CV_Deployment_skill",
-      "summary": "计算机视觉 部署 resources and engineering workflow configuration",
-      "popularity": {
-        "views": 592,
-        "likes": 592,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "机器视觉应用"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-09-29T07:52:38"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 592,
-        "forks": 0,
-        "open_issues": 2,
-        "language": "",
-        "license": "",
-        "topics": [],
-        "created_at": "2026-09-29T07:52:38Z",
-        "pushed_at": "2026-11-01T09:15:59Z"
-      },
-      "filtered": false,
-      "total_score": 59.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 44.0,
-        "practicality": 59.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "deep-learning-alchemy/assignments",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/deep-learning-alchemy/assignments",
-      "summary": "CS312 深度学习 Alchemy student assignments. (语言: Python)",
-      "popularity": {
-        "views": 27,
-        "likes": 27,
-        "comments": 23
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "poor",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "深度学习"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-23T01:38:32"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 27,
-        "forks": 23,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "",
-        "topics": [],
-        "created_at": "2026-09-23T01:38:32Z",
-        "pushed_at": "2026-10-30T17:42:38Z"
-      },
-      "filtered": false,
-      "total_score": 58.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 48.0,
-        "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "BlueRingsLabs/no-shortcuts",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/BlueRingsLabs/no-shortcuts",
-      "summary": "Free Course : Data, 机器学习, 深度学习 and AI Engineering, the long way round: the math, the code, the systems and the security. 173 lessons, 166 runnable labs, no shortcuts. Free under CC BY-NC 4.0. (语言: ...",
-      "popularity": {
-        "views": 166,
-        "likes": 166,
-        "comments": 30
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "深度学习"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-26T19:49:54"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 166,
-        "forks": 30,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "other",
-        "topics": [
-          "ai-engineering",
-          "course",
-          "data-engineering",
-          "deep-learning",
-          "llm",
-          "machine-learning",
-          "mlops",
-          "python",
-          "pytorch",
-          "rag",
-          "reinforcement-learning",
-          "security"
-        ],
-        "created_at": "2026-09-26T19:49:54Z",
-        "pushed_at": "2026-10-28T22:41:02Z"
-      },
-      "filtered": false,
-      "total_score": 57.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 44.0,
-        "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "nhatkhangcs/educational_vlm",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/nhatkhangcs/educational_vlm",
-      "summary": "A set of Jupyter notebooks that teach how 视觉语言模型s work, by building the pieces in code (语言: Jupyter Notebook) [标签: vision-language-model]",
-      "popularity": {
-        "views": 22,
-        "likes": 22,
-        "comments": 2
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉语言模型"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-10-25T17:19:46"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 22,
-        "forks": 2,
-        "open_issues": 0,
-        "language": "Jupyter Notebook",
-        "license": "",
-        "topics": [
-          "vision-language-model"
-        ],
-        "created_at": "2026-10-25T17:19:46Z",
-        "pushed_at": "2026-10-27T17:09:26Z"
-      },
-      "filtered": false,
-      "total_score": 53.17,
-      "detail_scores": {
-        "popularity": 32.22,
-        "usability": 60.0,
-        "practicality": 50.0,
-        "freshness": 80
-      }
-    },
-    {
       "name": "neuroailab/psi-0.6",
       "type": "tool",
       "platform": "GitHub",
@@ -2912,6 +2623,309 @@
         "freshness": 20
       },
       "_source": "pending"
+    },
+    {
+      "name": "tuotuoLyu/ForesightSafety-VLA",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/tuotuoLyu/ForesightSafety-VLA",
+      "summary": "Official code for ForesightSafety-VLA (IROS 2026): a unified diagnostic safety 基准测试 for 视觉-语言-动作 模型s on RoboTwin (语言: Python) [标签: benchmark, embodied-ai, iros2026, robot-safety, robotics]",
+      "popularity": {
+        "views": 85,
+        "likes": 85,
+        "comments": 3
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉-语言-动作",
+          "视觉语言模型",
+          "机器人视觉"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-29T03:52:03"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 85,
+        "forks": 3,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "other",
+        "topics": [
+          "benchmark",
+          "embodied-ai",
+          "iros2026",
+          "robot-safety",
+          "robotics",
+          "robotwin",
+          "safety-evaluation",
+          "vision-language-action"
+        ],
+        "created_at": "2026-10-29T03:52:03Z",
+        "pushed_at": "2026-10-29T03:52:24Z"
+      },
+      "filtered": false,
+      "total_score": 72.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 54.0,
+        "freshness": 60
+      }
+    },
+    {
+      "name": "tuotuoLyu/FPO",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/tuotuoLyu/FPO",
+      "summary": "Official code for \"Reinforcement 微调 of Flow-Matching Policies for 视觉-语言-动作 模型s\" (ICRA 2026): Flow Policy 优化 for pi0 (语言: Python) [标签: aloha, flow-matching, icra2026, jax, libero]",
+      "popularity": {
+        "views": 131,
+        "likes": 131,
+        "comments": 4
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉语言模型"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-29T03:51:55"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 131,
+        "forks": 4,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "mit",
+        "topics": [
+          "aloha",
+          "flow-matching",
+          "icra2026",
+          "jax",
+          "libero",
+          "reinforcement-learning",
+          "robot-learning",
+          "vision-language-action"
+        ],
+        "created_at": "2026-10-29T03:51:55Z",
+        "pushed_at": "2026-10-29T04:06:24Z"
+      },
+      "filtered": false,
+      "total_score": 71.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 60
+      }
+    },
+    {
+      "name": "jeremyipark/vision-demos",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/jeremyipark/vision-demos",
+      "summary": "Fun real-world 计算机视觉 demos! (语言: Python)",
+      "popularity": {
+        "views": 1143,
+        "likes": 1143,
+        "comments": 190
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "机器视觉应用"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-09-08T19:53:41"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 1143,
+        "forks": 190,
+        "open_issues": 3,
+        "language": "Python",
+        "license": "apache-2.0",
+        "topics": [],
+        "created_at": "2026-09-08T19:53:41Z",
+        "pushed_at": "2026-11-05T20:58:37Z"
+      },
+      "filtered": false,
+      "total_score": 66.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 72.0,
+        "practicality": 59.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "NVlabs/alpamayo2-edge",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/NVlabs/alpamayo2-edge",
+      "summary": "NVIDIA Alpamayo 2 Edge is a 2B-parameter in-vehicle reasoning 视觉-语言-动作 模型 using adaptive reasoning to generate trajectories and causal explanations for 微调 and efficient 部署. (语言: Python) [标签: adapti...",
+      "popularity": {
+        "views": 28,
+        "likes": 28,
+        "comments": 4
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉-语言-动作",
+          "视觉语言模型",
+          "机器人视觉"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-06T22:58:22"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 28,
+        "forks": 4,
+        "open_issues": 1,
+        "language": "Python",
+        "license": "apache-2.0",
+        "topics": [
+          "adaptive-reasoning",
+          "alpamayo",
+          "alpamayo-2-edge",
+          "autonomous-driving",
+          "autonomous-mobile-robots",
+          "cosmos",
+          "drive-agx-thor",
+          "edge-ai",
+          "embodied-ai",
+          "embodied-navigation",
+          "fine-tuning",
+          "humanoid-robots",
+          "nvidia",
+          "off-road-autonomy",
+          "physical-ai",
+          "quadruped-robots",
+          "robot-navigation",
+          "robotics",
+          "vision-language-action",
+          "vla"
+        ],
+        "created_at": "2026-10-06T22:58:22Z",
+        "pushed_at": "2026-11-10T07:16:09Z"
+      },
+      "filtered": false,
+      "total_score": 49.23,
+      "detail_scores": {
+        "popularity": 48.28,
+        "usability": 69.0,
+        "practicality": 54.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "Xtbreak/Xtbreak",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/Xtbreak/Xtbreak",
+      "summary": "徐同博 · AI PM · 计算机视觉 · Agent Skills (语言: JavaScript)",
+      "popularity": {
+        "views": 11,
+        "likes": 11,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "机器视觉应用"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-02T11:10:38"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 11,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "JavaScript",
+        "license": "",
+        "topics": [],
+        "created_at": "2026-11-02T11:10:38Z",
+        "pushed_at": "2026-11-11T04:01:49Z"
+      },
+      "filtered": false,
+      "total_score": 42.83,
+      "detail_scores": {
+        "popularity": 11.11,
+        "usability": 60.0,
+        "practicality": 50.0,
+        "freshness": 60
+      }
     }
   ],
   "pending_items": [
@@ -3015,6 +3029,128 @@
       "total_score": 41.8,
       "detail_scores": {
         "popularity": 34.34,
+        "usability": 60.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "OrderG-X/dsh-mac-computer-use",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/OrderG-X/dsh-mac-computer-use",
+      "summary": "Vision-first desktop computer use for DSH on macOS: OCR text targeting, set-of-mark indices, 11 desktop_* tools and a visible cursor. No accessibility tree. · 让 DSH 看着屏幕操作你的 Mac。 (语言: Swift) [标签: a...",
+      "popularity": {
+        "views": 11,
+        "likes": 11,
+        "comments": 1
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "文字识别"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-10T09:36:38"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 11,
+        "forks": 1,
+        "open_issues": 0,
+        "language": "Swift",
+        "license": "mit",
+        "topics": [
+          "accessibility",
+          "agent-tools",
+          "ai-agent",
+          "automation",
+          "computer-use",
+          "computer-use-agent",
+          "cursor",
+          "deepseek",
+          "deepseek-harness",
+          "desktop-automation",
+          "dsh",
+          "dsh-plugin",
+          "mac-automation",
+          "macos",
+          "ocr",
+          "screenshot",
+          "swift"
+        ],
+        "created_at": "2026-10-10T09:36:38Z",
+        "pushed_at": "2026-11-06T09:52:08Z"
+      },
+      "filtered": false,
+      "total_score": 38.58,
+      "detail_scores": {
+        "popularity": 16.11,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "zhangyi-magic/BUTR",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/zhangyi-magic/BUTR",
+      "summary": "[NeurIPS 2026] The official implementation for BUTR: Dynamic Query as Budgeting for Tiny 目标检测 (语言: Python)",
+      "popularity": {
+        "views": 12,
+        "likes": 12,
+        "comments": 1
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "目标检测"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-14T08:51:24"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 12,
+        "forks": 1,
+        "open_issues": 1,
+        "language": "Python",
+        "license": "apache-2.0",
+        "topics": [],
+        "created_at": "2026-09-14T08:51:24Z",
+        "pushed_at": "2026-11-11T02:42:03Z"
+      },
+      "filtered": false,
+      "total_score": 36.64,
+      "detail_scores": {
+        "popularity": 17.12,
         "usability": 60.0,
         "practicality": 50.0,
         "freshness": 20
