@@ -1,331 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "nanaism/yomiyasu",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/nanaism/yomiyasu",
-      "summary": "AI生成の日本語を自然な日本語へ推敲する智能体 Skill / 智能体 Skill for Refining AI-Generated Japanese into Natural Japanese (语言: Python) [标签: agent-skills, ai-writing, antigravity, claude-code, codex]",
-      "popularity": {
-        "views": 2830,
-        "likes": 2830,
-        "comments": 74
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent",
-          "自然语言处理",
-          "代码生成"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-09-30T11:49:32"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 2830,
-        "forks": 74,
-        "open_issues": 1,
-        "language": "Python",
-        "license": "mit",
-        "topics": [
-          "agent-skills",
-          "ai-writing",
-          "antigravity",
-          "claude-code",
-          "codex",
-          "cursor",
-          "gemini",
-          "japanese",
-          "linter",
-          "llm",
-          "nlp",
-          "writing",
-          "writing-assistant",
-          "writing-tool"
-        ],
-        "created_at": "2026-09-30T11:49:32Z",
-        "pushed_at": "2026-10-31T16:37:35Z"
-      },
-      "filtered": false,
-      "total_score": 64.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 60.0,
-        "practicality": 63.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "salikhussain71-code/PAKGOV-RAG-project",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/salikhussain71-code/PAKGOV-RAG-project",
-      "summary": "研究 project on bilingual Urdu-English 检索-augmented 生成 for Pakistani government and legal documents, with OCR, hybrid 检索, citation grounding, and 评估. (语言: Python) [标签: artificial-intelligence, inform...",
-      "popularity": {
-        "views": 130,
-        "likes": 130,
-        "comments": 5
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "检索增强生成",
-          "自然语言处理"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-17T10:31:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 130,
-        "forks": 5,
-        "open_issues": 2,
-        "language": "Python",
-        "license": "mit",
-        "topics": [
-          "artificial-intelligence",
-          "information-retrieval",
-          "legal-nlp",
-          "low-resource-languages",
-          "nlp",
-          "ocr",
-          "rag",
-          "retrieval-augmented-generation",
-          "transformers",
-          "urdu-nlp"
-        ],
-        "created_at": "2026-09-17T10:31:00Z",
-        "pushed_at": "2026-11-02T12:36:23Z"
-      },
-      "filtered": false,
-      "total_score": 64.25,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 52.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "l-wn/ClusterChat",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/l-wn/ClusterChat",
-      "summary": "A 聊天机器人, with a 大语言模型 split across its users, entirely in the browser. (语言: JavaScript) [标签: chatbot, distributed-inference, llm, open-models, open-source]",
-      "popularity": {
-        "views": 52,
-        "likes": 52,
-        "comments": 4
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "对话交互",
-          "推理部署"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-10-09T14:22:32"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 52,
-        "forks": 4,
-        "open_issues": 2,
-        "language": "JavaScript",
-        "license": "agpl-3.0",
-        "topics": [
-          "chatbot",
-          "distributed-inference",
-          "llm",
-          "open-models",
-          "open-source",
-          "p2p",
-          "webgpu",
-          "webrtc"
-        ],
-        "created_at": "2026-10-09T14:22:32Z",
-        "pushed_at": "2026-11-03T14:15:32Z"
-      },
-      "filtered": false,
-      "total_score": 64.01,
-      "detail_scores": {
-        "popularity": 72.52,
-        "usability": 69.0,
-        "practicality": 52.0,
-        "freshness": 60
-      }
-    },
-    {
-      "name": "amitshekhariitbhu/ai-engineering-course",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/amitshekhariitbhu/ai-engineering-course",
-      "summary": "AI Engineering Course - A free and complete AI Engineering Course to learn AI Engineering step by step - from 机器学习, Neural Networks, and Transformers to LLMs, 微调, RAG, AI 智能体s, LLM 推理, 评估, AI Safet...",
-      "popularity": {
-        "views": 628,
-        "likes": 628,
-        "comments": 124
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "检索增强生成",
-          "AI Agent",
-          "模型微调"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-09-23T08:04:42"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 628,
-        "forks": 124,
-        "open_issues": 0,
-        "language": "Markdown",
-        "license": "apache-2.0",
-        "topics": [
-          "ai-course",
-          "ai-engineering",
-          "ai-engineering-course",
-          "ai-engineering-curriculum",
-          "large-language-models"
-        ],
-        "created_at": "2026-09-23T08:04:42Z",
-        "pushed_at": "2026-11-03T06:23:53Z"
-      },
-      "filtered": false,
-      "total_score": 63.0,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 53.0,
-        "practicality": 63.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "google/elephant-goldfish-model",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/google/elephant-goldfish-model",
-      "summary": "Open-source skills for designing and reviewing software with AI 智能体s (语言: Python) [标签: agent-skills, ai-agents, antigravity, claude-code, claude-code-plugin]",
-      "popularity": {
-        "views": 11270,
-        "likes": 11270,
-        "comments": 768
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent",
-          "代码生成"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-09-13T16:31:06"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 11270,
-        "forks": 768,
-        "open_issues": 47,
-        "language": "Python",
-        "license": "apache-2.0",
-        "topics": [
-          "agent-skills",
-          "ai-agents",
-          "antigravity",
-          "claude-code",
-          "claude-code-plugin",
-          "claude-skills",
-          "codex",
-          "codex-plugin",
-          "coding-agents",
-          "context-engineering",
-          "developer-tools",
-          "gemini",
-          "llm",
-          "multi-agent",
-          "prompt-engineering",
-          "spec-driven-development"
-        ],
-        "created_at": "2026-09-13T16:31:06Z",
-        "pushed_at": "2026-11-03T21:31:42Z"
-      },
-      "filtered": false,
-      "total_score": 62.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 53.0,
-        "practicality": 61.0,
-        "freshness": 20
-      }
-    },
-    {
       "name": "ThinkWatchProject/ThinkWatch-Lite",
       "type": "tool",
       "platform": "GitHub",
@@ -3156,6 +2831,350 @@
         "practicality": 50.0,
         "freshness": 20
       }
+    },
+    {
+      "name": "MiniMax-AI/MiniMax-H3-Image",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/MiniMax-AI/MiniMax-H3-Image",
+      "summary": "MiniMax-H3-Image, an open-weight 模型 for 16-megapixel image 生成 and editing. (语言: Python) [标签: agent-skills, diffusion-models, image-editing, image-generation, minimax-h3-image]",
+      "popularity": {
+        "views": 203,
+        "likes": 203,
+        "comments": 8
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "图像生成"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-09T17:11:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 203,
+        "forks": 8,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "other",
+        "topics": [
+          "agent-skills",
+          "diffusion-models",
+          "image-editing",
+          "image-generation",
+          "minimax-h3-image",
+          "text-to-image"
+        ],
+        "created_at": "2026-11-09T17:11:00Z",
+        "pushed_at": "2026-11-11T18:48:54Z"
+      },
+      "filtered": false,
+      "total_score": 78.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 78.0,
+        "practicality": 52.0,
+        "freshness": 80
+      }
+    },
+    {
+      "name": "islandmed/SculptForge",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/islandmed/SculptForge",
+      "summary": "Free, open-source 3D sculpting for Linux, macOS and Windows: dense meshes, remeshing, painting, built-in AI (image/text to 3D), Send to Unreal, game-ready LODs, Gaussian splats and OpenUSD. (语言: C+...",
+      "popularity": {
+        "views": 671,
+        "likes": 671,
+        "comments": 84
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "图像生成"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-21T03:18:08"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 671,
+        "forks": 84,
+        "open_issues": 18,
+        "language": "C++",
+        "license": "gpl-3.0",
+        "topics": [
+          "3d",
+          "3d-sculpting",
+          "blender",
+          "blender-addon",
+          "cpp",
+          "dear-imgui",
+          "digital-sculpting",
+          "fbx",
+          "game-development",
+          "gaussian-splatting",
+          "gltf",
+          "image-to-3d",
+          "mcp",
+          "opengl",
+          "openusd",
+          "sculpting",
+          "text-to-3d",
+          "unreal-engine"
+        ],
+        "created_at": "2026-10-21T03:18:08Z",
+        "pushed_at": "2026-11-11T23:04:13Z"
+      },
+      "filtered": false,
+      "total_score": 77.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 81.0,
+        "practicality": 59.0,
+        "freshness": 60
+      }
+    },
+    {
+      "name": "Arda313131882/aion-2-trainer-tool",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/Arda313131882/aion-2-trainer-tool",
+      "summary": "Aion 2 AI Prompt Engineering 工具包 - Standalone Desktop Trainer Setup (语言: HTML) [标签: aion-2, aion-2-2026, aion-2-game, aion-2-optimizer, aion-2-trainer]",
+      "popularity": {
+        "views": 1296,
+        "likes": 1296,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "自动化"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-06T20:34:15"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 1296,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "HTML",
+        "license": "mit",
+        "topics": [
+          "aion-2",
+          "aion-2-2026",
+          "aion-2-game",
+          "aion-2-optimizer",
+          "aion-2-trainer",
+          "aion-2-trainer-tool",
+          "aion2-combat-analysis",
+          "aion2-meter",
+          "automation",
+          "desktop",
+          "developer-tools",
+          "open-source",
+          "python",
+          "scripts",
+          "software-engineering",
+          "system",
+          "utility",
+          "windows-app"
+        ],
+        "created_at": "2026-11-06T20:34:15Z",
+        "pushed_at": "2026-11-11T18:27:04Z"
+      },
+      "filtered": false,
+      "total_score": 74.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 53.0,
+        "practicality": 59.0,
+        "freshness": 80
+      }
+    },
+    {
+      "name": "wideeyededi/uncensored-nsfw-ai-video-api",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/wideeyededi/uncensored-nsfw-ai-video-api",
+      "summary": "Uncensored NSFW API for AI video 生成 — Seedance Spicy & Wan NSFW docs: 18+ text-to-video / image-to-video, async tasks, webhooks, credits billing. 成人向 AI 视频生成 API：Seedance Spicy、Wan NSFW、文生/图生视频、异步任...",
+      "popularity": {
+        "views": 428,
+        "likes": 428,
+        "comments": 65
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "图像生成",
+          "视频生成"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-02T02:15:29"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 428,
+        "forks": 65,
+        "open_issues": 0,
+        "language": "",
+        "license": "mit",
+        "topics": [
+          "123vips",
+          "ai-api",
+          "ai-companion",
+          "ai-video",
+          "ai-video-api",
+          "ai-video-generator",
+          "comfyui",
+          "image-to-video",
+          "nsfw",
+          "nsfw-ai",
+          "nsfw-api",
+          "seedance",
+          "seedance-api",
+          "text-to-video",
+          "uncensored",
+          "uncensored-ai",
+          "video-api",
+          "video-generation",
+          "wan",
+          "wan-video"
+        ],
+        "created_at": "2026-11-02T02:15:29Z",
+        "pushed_at": "2026-11-05T12:05:07Z"
+      },
+      "filtered": false,
+      "total_score": 72.25,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 52.0,
+        "freshness": 60
+      }
+    },
+    {
+      "name": "thesysdev/open-intelligent-ui",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/thesysdev/open-intelligent-ui",
+      "summary": "An open-source take on ChatGPT's Intelligent UI: answers stream as interactive UI (maps, photos, charts, drawings and working tools). Built with OpenUI. (语言: TypeScript) [标签: agents, ai, ai-agents,...",
+      "popularity": {
+        "views": 977,
+        "likes": 977,
+        "comments": 89
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-08T05:37:45"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 977,
+        "forks": 89,
+        "open_issues": 30,
+        "language": "TypeScript",
+        "license": "mit",
+        "topics": [
+          "agents",
+          "ai",
+          "ai-agents",
+          "ai-ui",
+          "chat-ui",
+          "chatgpt",
+          "generative-ui",
+          "intelligent-ui",
+          "llm",
+          "nextjs",
+          "open-source",
+          "openui",
+          "react",
+          "streaming-ui",
+          "typescript"
+        ],
+        "created_at": "2026-10-08T05:37:45Z",
+        "pushed_at": "2026-11-11T19:15:26Z"
+      },
+      "filtered": false,
+      "total_score": 66.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 59.0,
+        "freshness": 20
+      }
     }
   ],
   "pending_items": [
@@ -3880,6 +3899,79 @@
         "popularity": 53.53000000000001,
         "usability": 53.0,
         "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "flohoeller/affectui",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/flohoeller/affectui",
+      "summary": "UI for AI 智能体s. React components for what 智能体s do – 智能体 trees, tool calls, traces, handoffs and approvals – and for the rest of your app. One file each, install with shadcn or via MCP. Free and 开源....",
+      "popularity": {
+        "views": 734,
+        "likes": 734,
+        "comments": 49
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-03T19:58:10"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 734,
+        "forks": 49,
+        "open_issues": 1,
+        "language": "TypeScript",
+        "license": "mit",
+        "topics": [
+          "agent-ui",
+          "ai",
+          "ai-agents",
+          "ai-ui",
+          "animation",
+          "components",
+          "dark-mode",
+          "illustrations",
+          "llm",
+          "mcp",
+          "motion",
+          "nextjs",
+          "react",
+          "react-components",
+          "shadcn",
+          "shadcn-registry",
+          "shadcn-ui",
+          "typescript",
+          "ui-components",
+          "ui-library"
+        ],
+        "created_at": "2026-10-03T19:58:10Z",
+        "pushed_at": "2026-11-10T13:17:50Z"
+      },
+      "filtered": false,
+      "total_score": 66.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 59.0,
         "freshness": 20
       }
     }
