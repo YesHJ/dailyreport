@@ -1,50 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "矩子科技：持续推进AI技术在机器视觉检测领域的应用",
-      "type": "news",
-      "platform": "东方财富",
-      "url": "https://emcreative.eastmoney.com/app_fortune/article/index.html?artCode=20261027205011131120510",
-      "summary": "矩子科技在投资者互动平台表示，公司将AI算法及推理模型与传统视觉算法结合，持续优化缺陷识别能力与检测效率，技术已应用于电子制造、半导体封测等领域的检测场景。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "缺陷检测",
-          "电子制造",
-          "半导体"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-10-27T20:50:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 52.0,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 63.0,
-        "freshness": 80
-      }
-    },
-    {
       "name": "一文讲透2026年具身智能技术栈：VLM、VLA、VLN、世界模型",
       "type": "news",
       "platform": "CSDN",
@@ -2012,7 +1968,357 @@
         "practicality": 45.0,
         "freshness": 100
       }
+    },
+    {
+      "name": "100轮图像编辑这道「毙刷题」，新出的Seedream 5.5稳上来了！",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.woshipm.com/ai/6491624.html",
+      "summary": "字节Seed团队发布Seedream 5.5，主打多轮编辑稳定：同一张图连续编辑最多100轮仍能保持主体、构图与光影一致，而GPT-Image 2.6约10轮即开始畸变。原生支持RGBA透明素材与分层输出，严重文字崩坏率降至0.4%，2K方图编辑约0.28元/张，较前代降价60%。",
+      "popularity": {
+        "views": 0,
+        "likes": 8,
+        "comments": 8
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "机器视觉",
+          "图像生成",
+          "设计生产"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-10T10:38:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 76.4,
+      "detail_scores": {
+        "popularity": 48.0,
+        "usability": 90.0,
+        "practicality": 78.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "Fable 5.2与蚂蚁灵波触觉模型撞期发布，通用大模型与具身基础模型协同加速具身产业",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://m.163.com/dy/article/LBCVA5DB05118HA4.html",
+      "summary": "11月10日蚂蚁灵波开源触觉基础模型LingBot-Touch，基于近5000小时真实触觉数据预训练，统一磁触觉、视触觉、压阻三类信号表征，已接入LingBot-VLA。26项真机测试任务成功率提升14—26个百分点，模型与代码上线Hugging Face、GitHub与魔搭。",
+      "popularity": {
+        "views": 0,
+        "likes": 1,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "机器视觉",
+          "具身智能",
+          "机器人操作"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-10T15:26:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 55.55,
+      "detail_scores": {
+        "popularity": 1.0,
+        "usability": 78.0,
+        "practicality": 63.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "AI 日报（2026年11月11日）：LingBot-Touch 开源、Gemini Robotics 2.5 进奔驰产线",
+      "type": "news",
+      "platform": "SegmentFault",
+      "url": "https://segmentfault.com/a/1190000048392120",
+      "summary": "11月11日汇总28条行业动态：美团开源LongCat-2.5、蚂蚁灵波开源触觉基础模型LingBot-Touch、Gemini Robotics 2.5在奔驰产线试运行，并覆盖安全与政策条目，适合快速浏览当日具身与视觉领域进展。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "机器视觉",
+          "行业动态"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-11T09:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 55.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 61.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "MiniMax开源H3 Image：4K图像生成仅10秒，支持多达16张参考图",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.163.com/dy/article/LBDV51B505198NMR.html",
+      "summary": "MiniMax开源图像模型H3 Image，宣称4K图像生成仅需10秒，支持最多16张参考图输入，适合批量素材生成与视觉数据构造，为工业检测样本增广、缺陷图合成提供了低成本可选方案。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "机器视觉",
+          "图像生成"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-11T10:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 52.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 69.0,
+        "practicality": 61.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "谷歌Gemini Robotics 2.5发布：灵巧操作能力突破、奔驰产线成功率96%（产业拆解）",
+      "type": "news",
+      "platform": "东方财富",
+      "url": "https://emcreative.eastmoney.com/app_fortune/article/index.html?artCode=20261111154813092460340",
+      "summary": "拆解Gemini Robotics 2.5的技术路径：Gemini 4 Argon生成数字孪生做数千次仿真练习+真机示范微调；夹取糕点成功率5%→100%、关闭工具箱0%→93%，障碍物/人员附近安全任务完成率提升33%/43%，Argon抗越狱率99.5%，指向「通用推理+仿真训练+动作执行」的具身范式。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "机器视觉",
+          "具身智能",
+          "工业分拣"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-11T15:48:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 46.25,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 60.0,
+        "practicality": 45.0,
+        "freshness": 100
+      }
     }
   ],
-  "pending_items": []
+  "pending_items": [
+    {
+      "name": "谷歌上线其最强机器人模型 入驻奔驰生产线 分拣成功率96%",
+      "type": "news",
+      "platform": "财联社",
+      "url": "https://m.163.com/dy/article/LBESKLLT0550B1DU.html",
+      "summary": "11月10日谷歌DeepMind发布Gemini Robotics 2.5，定位迄今最强VLA机器人模型。Apptronik Apollo 2人形机器人在奔驰匈牙利与德国工厂产线自主分拣金属支架，成功率96%；200余项真实任务中成功率最高提升100%、速度提升30%，目前仅对机器人合作伙伴开放，仍处PoC阶段。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "机器视觉",
+          "工业机器人",
+          "智能制造"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-11T08:25:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 42.25,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 44.0,
+        "practicality": 45.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "不靠外部裁判，统一多模态模型学会自己「看图改图」：修复成功率提升到3倍，GenEval 0.72→0.84",
+      "type": "news",
+      "platform": "机器之心",
+      "url": "https://www.renzhiwake.com/news/news-c985cda4da97",
+      "summary": "统一多模态模型用自我校验替代外部裁判奖励，自主完成「看图—改图—再核对」闭环，图像修复成功率提升到原来的3倍，GenEval从0.72升至0.84。对缺陷图复现、数据增广与图像编辑流水线有直接参考价值。",
+      "popularity": {
+        "views": 0,
+        "likes": 1,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "机器视觉",
+          "图像生成与编辑"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-11T08:34:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 42.05,
+      "detail_scores": {
+        "popularity": 1.0,
+        "usability": 44.0,
+        "practicality": 43.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "看视频、建世界、做实验：清华Asking the World让AI用物理回答问题",
+      "type": "news",
+      "platform": "机器之心",
+      "url": "https://news.qq.com/rain/a/20261110A08A2G00",
+      "summary": "清华团队提出ATW：先用视觉语言模型从视频恢复可执行的物理世界，再选择操作并用物理工具计算运动，无需额外训练或微调即可「用物理回答问题」。相比Astra等大模型，调用Gemini-3-Flash等轻量VLM成本更低，为视觉仿真与检测场景提供新思路。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "narrow",
+        "scenarios": [
+          "机器视觉",
+          "具身智能",
+          "仿真"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-10T13:59:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 38.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 44.0,
+        "practicality": 30.0,
+        "freshness": 100
+      }
+    }
+  ]
 }
