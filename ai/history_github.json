@@ -1,337 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "ThinkWatchProject/ThinkWatch-Lite",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/ThinkWatchProject/ThinkWatch-Lite",
-      "summary": "Local gateway for Claude Code, Codex and other AI clients on macOS, Windows and Linux: switch upstreams without touching clients, keep API keys from relays, cut off malicious tool calls, trace ever...",
-      "popularity": {
-        "views": 584,
-        "likes": 584,
-        "comments": 8
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "代码生成"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-09-12T13:48:15"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 584,
-        "forks": 8,
-        "open_issues": 0,
-        "language": "TypeScript",
-        "license": "mit",
-        "topics": [
-          "ai-gateway",
-          "anthropic",
-          "claude-code",
-          "codex",
-          "cost-monitoring",
-          "cost-tracking",
-          "cross-platform",
-          "linux",
-          "llm-cost",
-          "llm-gateway",
-          "llm-observability",
-          "llm-proxy",
-          "llm-usage",
-          "macos",
-          "openai",
-          "secret-redaction",
-          "system-tray",
-          "token-usage",
-          "usage-tracking",
-          "windows"
-        ],
-        "created_at": "2026-09-12T13:48:15Z",
-        "pushed_at": "2026-11-03T06:43:38Z"
-      },
-      "filtered": false,
-      "total_score": 66.0,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 59.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "apimart-66/ai-api-aggregator",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/apimart-66/ai-api-aggregator",
-      "summary": "AI API aggregator companion: machine-readable catalog of 300+ 模型s behind one key and one base URL, with routing patterns, cost accounting, OpenAI SDK and curl examples. (语言: Python) [标签: ai-api-agg...",
-      "popularity": {
-        "views": 150,
-        "likes": 150,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "图像生成"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-16T07:17:05"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 150,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "other",
-        "topics": [
-          "ai-api-aggregator",
-          "ai-api-gateway",
-          "api-relay",
-          "apimart",
-          "gpt-image-2-5",
-          "image-2-5",
-          "image2-5",
-          "model-catalog",
-          "openai-compatible",
-          "text-to-image",
-          "unified-ai-api"
-        ],
-        "created_at": "2026-09-16T07:17:05Z",
-        "pushed_at": "2026-11-03T14:25:38Z"
-      },
-      "filtered": false,
-      "total_score": 66.0,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 78.0,
-        "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "apimart-API-Gateway/grok-image-api",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/apimart-API-Gateway/grok-image-api",
-      "summary": "Grok Image API (Grok Imagine 1.5, grok-imagine-1.5-apimart): 模型 ids, per-image pricing, 文生图 and edit routes, moderation behaviour and runnable API examples. (语言: Python) [标签: ai-api-gateway, ai-ima...",
-      "popularity": {
-        "views": 145,
-        "likes": 145,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "图像生成"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-17T10:26:41"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 145,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "other",
-        "topics": [
-          "ai-api-gateway",
-          "ai-image-api",
-          "apimart",
-          "grok-image",
-          "grok-image-api",
-          "grok-imagine",
-          "grok-imagine-api",
-          "image-api",
-          "image-generation",
-          "text-to-image"
-        ],
-        "created_at": "2026-09-17T10:26:41Z",
-        "pushed_at": "2026-11-03T14:23:56Z"
-      },
-      "filtered": false,
-      "total_score": 66.0,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 78.0,
-        "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "apimart-awesome-ai-api-proxy/nano-banana-pro-api",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/apimart-awesome-ai-api-proxy/nano-banana-pro-api",
-      "summary": "Nano Banana Pro API (gemini-3-pro-image-preview): 模型 id, per-image pricing, aspect ratios, resolution tiers, curl, Python and JavaScript examples with async task polling. (语言: Python) [标签: ai-api-g...",
-      "popularity": {
-        "views": 139,
-        "likes": 139,
-        "comments": 3
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "图像生成"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-17T10:10:06"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 139,
-        "forks": 3,
-        "open_issues": 1,
-        "language": "Python",
-        "license": "other",
-        "topics": [
-          "ai-api-gateway",
-          "ai-image-api",
-          "apimart",
-          "gemini-3-pro-image",
-          "gemini-image",
-          "image-api",
-          "image-generation",
-          "nano-banana-pro",
-          "nano-banana-pro-api",
-          "text-to-image"
-        ],
-        "created_at": "2026-09-17T10:10:06Z",
-        "pushed_at": "2026-11-03T14:17:28Z"
-      },
-      "filtered": false,
-      "total_score": 66.0,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 78.0,
-        "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "abacusai/abacusai-bot",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/abacusai/abacusai-bot",
-      "summary": "100% free, open-source personal 智能体s for your messaging apps, tools, and services (语言: TypeScript) [标签: agent, ai, ai-agents, android, cli]",
-      "popularity": {
-        "views": 437,
-        "likes": 437,
-        "comments": 62
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-11T07:04:16"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 437,
-        "forks": 62,
-        "open_issues": 13,
-        "language": "TypeScript",
-        "license": "mit",
-        "topics": [
-          "agent",
-          "ai",
-          "ai-agents",
-          "android",
-          "cli",
-          "coding-agent",
-          "developer-tools",
-          "electron",
-          "ios",
-          "llm",
-          "local-llm",
-          "mcp",
-          "openrouter",
-          "sandbox",
-          "typescript"
-        ],
-        "created_at": "2026-09-11T07:04:16Z",
-        "pushed_at": "2026-11-03T21:24:32Z"
-      },
-      "filtered": false,
-      "total_score": 63.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
       "name": "datasifaw/dataiku-projet-bancaire-analytics",
       "type": "tool",
       "platform": "GitHub",
@@ -3175,9 +2844,271 @@
         "practicality": 59.0,
         "freshness": 20
       }
-    }
-  ],
-  "pending_items": [
+    },
+    {
+      "name": "N1nEmAn/sapper-v2",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/N1nEmAn/sapper-v2",
+      "summary": "The first fruit of the Nüwa tree — an 自主 AI pentest legion (634-team champion, 8h unattended, 1B tokens beat 4.5B). Not just a tool: evolvable by design. Grow your own fruit on the Nüwa Foundation ...",
+      "popularity": {
+        "views": 2019,
+        "likes": 2019,
+        "comments": 1031
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "代码生成"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-30T15:12:35"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 2019,
+        "forks": 1031,
+        "open_issues": 3,
+        "language": "Python",
+        "license": "mit",
+        "topics": [
+          "agentic-workflows",
+          "ai-agents",
+          "ai-security",
+          "autonomous-agents",
+          "claude-code",
+          "ctf",
+          "cybersecurity",
+          "fact-graph",
+          "llm",
+          "multi-agent",
+          "pentest",
+          "swarm-intelligence"
+        ],
+        "created_at": "2026-10-30T15:12:35Z",
+        "pushed_at": "2026-11-11T12:18:45Z"
+      },
+      "filtered": false,
+      "total_score": 72.25,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 60.0,
+        "practicality": 61.0,
+        "freshness": 60
+      }
+    },
+    {
+      "name": "salikhussain71-code/PAKGOV-RAG-project",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/salikhussain71-code/PAKGOV-RAG-project",
+      "summary": "研究 project on bilingual Urdu-English 检索-augmented 生成 for Pakistani government and legal documents, with OCR, hybrid 检索, citation grounding, and 评估. (语言: Python) [标签: artificial-intelligence, inform...",
+      "popularity": {
+        "views": 130,
+        "likes": 130,
+        "comments": 7
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "检索增强生成",
+          "自然语言处理"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-17T10:31:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 130,
+        "forks": 7,
+        "open_issues": 2,
+        "language": "Python",
+        "license": "mit",
+        "topics": [
+          "artificial-intelligence",
+          "information-retrieval",
+          "legal-nlp",
+          "low-resource-languages",
+          "nlp",
+          "ocr",
+          "rag",
+          "retrieval-augmented-generation",
+          "transformers",
+          "urdu-nlp"
+        ],
+        "created_at": "2026-09-17T10:31:00Z",
+        "pushed_at": "2026-11-07T18:42:45Z"
+      },
+      "filtered": false,
+      "total_score": 64.25,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 52.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "amitshekhariitbhu/ai-engineering-course",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/amitshekhariitbhu/ai-engineering-course",
+      "summary": "AI Engineering Course - A free and complete AI Engineering Course to learn AI Engineering step by step - from 机器学习, Neural Networks, and Transformers to LLMs, 微调, RAG, AI 智能体s, LLM 推理, 评估, AI Safet...",
+      "popularity": {
+        "views": 725,
+        "likes": 725,
+        "comments": 146
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "检索增强生成",
+          "AI Agent",
+          "模型微调"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-09-23T08:04:42"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 725,
+        "forks": 146,
+        "open_issues": 0,
+        "language": "Markdown",
+        "license": "apache-2.0",
+        "topics": [
+          "ai-course",
+          "ai-engineering",
+          "ai-engineering-course",
+          "ai-engineering-curriculum",
+          "large-language-models"
+        ],
+        "created_at": "2026-09-23T08:04:42Z",
+        "pushed_at": "2026-11-12T04:00:42Z"
+      },
+      "filtered": false,
+      "total_score": 63.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 53.0,
+        "practicality": 63.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "flohoeller/affectui",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/flohoeller/affectui",
+      "summary": "UI for AI 智能体s. React components for what 智能体s do – 智能体 trees, tool calls, traces, handoffs and approvals – and for the rest of your app. One file each, install with shadcn or via MCP. Free and 开源....",
+      "popularity": {
+        "views": 734,
+        "likes": 734,
+        "comments": 49
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-03T19:58:10"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 734,
+        "forks": 49,
+        "open_issues": 1,
+        "language": "TypeScript",
+        "license": "mit",
+        "topics": [
+          "agent-ui",
+          "ai",
+          "ai-agents",
+          "ai-ui",
+          "animation",
+          "components",
+          "dark-mode",
+          "illustrations",
+          "llm",
+          "mcp",
+          "motion",
+          "nextjs",
+          "react",
+          "react-components",
+          "shadcn",
+          "shadcn-registry",
+          "shadcn-ui",
+          "typescript",
+          "ui-components",
+          "ui-library"
+        ],
+        "created_at": "2026-10-03T19:58:10Z",
+        "pushed_at": "2026-11-10T13:17:50Z"
+      },
+      "filtered": false,
+      "total_score": 66.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 59.0,
+        "freshness": 20
+      },
+      "_source": "pending"
+    },
     {
       "name": "baojian/llm-26-fall",
       "type": "tool",
@@ -3228,8 +3159,11 @@
         "usability": 60.0,
         "practicality": 50.0,
         "freshness": 20
-      }
-    },
+      },
+      "_source": "pending"
+    }
+  ],
+  "pending_items": [
     {
       "name": "whitecircle/halo",
       "type": "tool",
@@ -3899,79 +3833,6 @@
         "popularity": 53.53000000000001,
         "usability": 53.0,
         "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "flohoeller/affectui",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/flohoeller/affectui",
-      "summary": "UI for AI 智能体s. React components for what 智能体s do – 智能体 trees, tool calls, traces, handoffs and approvals – and for the rest of your app. One file each, install with shadcn or via MCP. Free and 开源....",
-      "popularity": {
-        "views": 734,
-        "likes": 734,
-        "comments": 49
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-10-03T19:58:10"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 734,
-        "forks": 49,
-        "open_issues": 1,
-        "language": "TypeScript",
-        "license": "mit",
-        "topics": [
-          "agent-ui",
-          "ai",
-          "ai-agents",
-          "ai-ui",
-          "animation",
-          "components",
-          "dark-mode",
-          "illustrations",
-          "llm",
-          "mcp",
-          "motion",
-          "nextjs",
-          "react",
-          "react-components",
-          "shadcn",
-          "shadcn-registry",
-          "shadcn-ui",
-          "typescript",
-          "ui-components",
-          "ui-library"
-        ],
-        "created_at": "2026-10-03T19:58:10Z",
-        "pushed_at": "2026-11-10T13:17:50Z"
-      },
-      "filtered": false,
-      "total_score": 66.0,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 59.0,
         "freshness": 20
       }
     }
