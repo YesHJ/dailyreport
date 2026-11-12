@@ -1,222 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "美团发布 LongCat-2.5：1.6 万亿参数原生多模态模型，全程国产算力训练",
-      "type": "news",
-      "platform": "钛媒体",
-      "url": "https://m.tmtpost.com/nictation/8191809.html",
-      "summary": "11 月 2 日美团发布面向长程智能体任务的原生多模态模型 LongCat-2.5，总参数 1.6 万亿、每 token 激活约 480 亿，训练全程基于国产算力，为迄今国产算力上最大训练任务；官方称多项基准介于 Opus 4.8 与 Opus 5 之间，API 同步上线。",
-      "popularity": {
-        "views": 45000,
-        "likes": 260,
-        "comments": 88
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "large",
-        "scenarios": [
-          "大模型",
-          "AI编程",
-          "多模态"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-03T09:20:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 84.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 81.0,
-        "practicality": 58.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "国内首个聚焦山西地域文化的垂类大模型「晋问 AI」上线",
-      "type": "news",
-      "platform": "中国新闻社",
-      "url": "https://www.jwview.com/jingwei/html/11-03/695434.shtml",
-      "summary": "11 月 3 日在太原发布的三晋文化大模型「晋问 AI」正式上线，同步推出数字人「晋豆」，由地方宣传与出版传媒集团联合打造，属垂直领域文化知识库 + 生成式应用的落地样本，可用于文旅讲解与地方文献问答。",
-      "popularity": {
-        "views": 21000,
-        "likes": 120,
-        "comments": 30
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "small",
-        "scenarios": [
-          "行业落地",
-          "知识库问答"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-03T15:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 84.25,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 81.0,
-        "practicality": 56.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "度小满与港科大、HKGAI 联合发布轩辕 4.5 金融增强大模型",
-      "type": "news",
-      "platform": "证券时报",
-      "url": "https://www.stcn.com/article/detail/4316961.html",
-      "summary": "11 月 2 日 2026 香港金融科技周开幕式上发布，称为金融领域首个把自进化 RSI 技术用于模型训练与智能体目标适配的金融增强大模型，含语言与多模态两部分，官方称核心场景效果提升 30%、成本约为通用模型的 10%。",
-      "popularity": {
-        "views": 32000,
-        "likes": 180,
-        "comments": 45
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "行业落地",
-          "金融AI"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-02T11:52:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 82.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 61.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "GPT-6.2 Astra 开启灰测！Claude Mythos 5.5 同日曝光",
-      "type": "news",
-      "platform": "量子位",
-      "url": "https://www.qbitai.com/2026/11/507082.html",
-      "summary": "11 月刚开场两大模型阵营同日有新动作：部分 OpenAI 用户模型列表出现 GPT-6.2-Astra，有人约两成请求被路由到 6.2，基本需 500 美元 Pro 套餐才能进入灰度；Claude Mythos 5.5 短暂出现在官网前端代码后被移除，HuggingFace 上疑似泄露权重仓库已被下载约 5000 次。",
-      "popularity": {
-        "views": 120000,
-        "likes": 860,
-        "comments": 210
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "large",
-        "scenarios": [
-          "大模型",
-          "AI编程"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-02T12:28:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 81.25,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 56.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "小米开源了个 150 元的 AI 小玩意，火到配件都涨价了",
-      "type": "news",
-      "platform": "量子位",
-      "url": "https://www.qbitai.com/2026/11/507107.html",
-      "summary": "小米发布并开源一款售价约 150 元的端侧 AI 硬件，把小尺寸多模态模型跑在低成本开发板上，用于识屏、主动提醒等轻量智能体场景。由于出货量超出预期，配套传感器与外壳配件在电商平台出现涨价，端侧 AI 的性价比路线再次被验证。",
-      "popularity": {
-        "views": 98000,
-        "likes": 720,
-        "comments": 180
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent",
-          "多模态"
-        ],
-        "maturity": "experimental"
-      },
-      "freshness": {
-        "publish_date": "2026-11-02T10:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 81.0,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 81.0,
-        "practicality": 43.0,
-        "freshness": 100
-      }
-    },
-    {
       "name": "腾讯混元正式发布 Hy4：770B 参数，首次跻身最强开源模型之列",
       "type": "news",
       "platform": "新浪财经",
@@ -2168,6 +1952,205 @@
         "popularity": 0.0,
         "usability": 81.0,
         "practicality": 61.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "智能体 AI 架构中记忆、知识与上下文的系统化方案",
+      "type": "news",
+      "platform": "InfoQ",
+      "url": "https://www.infoq.cn/article/COuPKpA6rTf05C6JM10y",
+      "summary": "文章提出可靠智能体架构的核心做法：用上下文引擎预处理信息，明确区分上下文、记忆与知识三层，配合分层记忆、知识库治理和 Token 预算机制，并逐一给出常见架构反模式（上下文灌满、记忆与知识混用等）的应对方案，适合落地 Agent 的工程团队直接参考。",
+      "popularity": {
+        "views": 5624,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "good",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "Agent",
+          "RAG"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-12T09:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "filtered": false,
+      "total_score": 72.37,
+      "detail_scores": {
+        "popularity": 56.24000000000001,
+        "usability": 66.0,
+        "practicality": 76.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "Coding agent写测试集体失败，AI代码合格率被高估一倍",
+      "type": "news",
+      "platform": "36氪",
+      "url": "https://36kr.com/p/4066443372450690",
+      "summary": "多项实测显示，编程智能体在自动生成单元测试时合格率远低于厂商宣传，被\"能跑通示例\"的选择偏差高估约一倍，文章提醒团队在把 AI 代码合入主干前必须建立独立验收与变异测试机制，不能把\"代码暴涨\"当成交付能力。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "AI编程",
+          "Agent"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-12T08:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "filtered": false,
+      "total_score": 59.25,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 76.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "诺奖得主Hassabis再交神作，AlphaGenome 2破译人类98%基因\"暗物质\"",
+      "type": "news",
+      "platform": "36氪",
+      "url": "https://36kr.com/p/4066698258502792",
+      "summary": "谷歌 DeepMind 发布新一代 DNA 基础模型 AlphaGenome 2，基于 1.07 亿单细胞数据训练，把预测从组织级细化到单细胞级，致病突变识别率从 16% 提升到 30%，纯计算复现《Nature》数年实验结论；API、Colab 教程与近 700 万变异评分库对非商业科研免费开放，并将封装为 Skills 接入 Gemini 4。",
+      "popularity": {
+        "views": 0,
+        "likes": 13,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "good",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "研究实验",
+          "AI for Science"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-12T19:59:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "filtered": false,
+      "total_score": 55.65,
+      "detail_scores": {
+        "popularity": 13.0,
+        "usability": 66.0,
+        "practicality": 61.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "Anthropic启动IPO路演，估值已缩水6000亿美元",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/11/509381.html",
+      "summary": "Anthropic 在撤回近 700 亿美元 IPO 定价后启动路演，市场预期估值较此前高点大幅下修，反映大模型厂商在算力资本开支与商业化节奏上面临的再定价压力，对整个基础模型赛道的融资与估值具有风向标意义。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "narrow",
+        "scenarios": [
+          "行业观察"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-12T10:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "filtered": false,
+      "total_score": 51.25,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 44.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "Agent 上下文越跑越贵？aiXcompact-4B 值不值得接",
+      "type": "news",
+      "platform": "CSDN",
+      "url": "https://blog.csdn.net/IndieDevLee/article/details/170590898",
+      "summary": "围绕 aiXcoder 11 月 11 日开源的上下文压缩专用模型 aiXcompact-4B（Apache-2.0，HuggingFace 可下载）做独立开发者视角评估：官方称历史上下文平均压至原长 25.89%、Terminal-Bench 上准确率不降，作者强调其输出是\"压缩决策\"需应用侧校验后落到原始轨迹，并给出单卡 A100-40GB 私有化接入的注意点。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "Agent",
+          "AI编程"
+        ],
+        "maturity": "beta"
+      },
+      "freshness": {
+        "publish_date": "2026-11-11T20:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "filtered": false,
+      "total_score": 51.0,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 60.0,
+        "practicality": 64.0,
         "freshness": 100
       }
     }
