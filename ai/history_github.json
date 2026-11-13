@@ -1,332 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "datasifaw/dataiku-projet-bancaire-analytics",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/datasifaw/dataiku-projet-bancaire-analytics",
-      "summary": "端到端 Banking 分析 with Dataiku | Data Preparation, 机器学习, Customer Scoring & Automated 流水线s [标签: banking-analytics, data, data-analysis, data-analytics, data-engineering]",
-      "popularity": {
-        "views": 100,
-        "likes": 100,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "数据处理"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-16T11:48:01"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 100,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "",
-        "license": "",
-        "topics": [
-          "banking-analytics",
-          "data",
-          "data-analysis",
-          "data-analytics",
-          "data-engineering",
-          "data-engineering-project",
-          "data-science",
-          "data-science-competition",
-          "data-science-portfolio",
-          "data-science-projects",
-          "data-structures",
-          "data-visualization",
-          "database",
-          "dataiku",
-          "dataset",
-          "machine-learning",
-          "machine-learning-algorithms",
-          "machine-learning-models"
-        ],
-        "created_at": "2026-09-16T11:48:01Z",
-        "pushed_at": "2026-10-25T16:03:02Z"
-      },
-      "filtered": false,
-      "total_score": 59.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 53.0,
-        "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "BlueRingsLabs/no-shortcuts",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/BlueRingsLabs/no-shortcuts",
-      "summary": "Free Course : Data, 机器学习, 深度学习 and AI Engineering, the long way round: the math, the code, the systems and the 安全. 173 lessons, 166 runnable labs, no shortcuts. Free under CC BY-NC 4.0. (语言: Python...",
-      "popularity": {
-        "views": 172,
-        "likes": 172,
-        "comments": 30
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "检索增强生成",
-          "代码生成",
-          "数据处理"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-26T19:49:54"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 172,
-        "forks": 30,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "other",
-        "topics": [
-          "ai-engineering",
-          "course",
-          "data-engineering",
-          "deep-learning",
-          "llm",
-          "machine-learning",
-          "mlops",
-          "python",
-          "pytorch",
-          "rag",
-          "reinforcement-learning",
-          "security"
-        ],
-        "created_at": "2026-09-26T19:49:54Z",
-        "pushed_at": "2026-10-28T22:41:02Z"
-      },
-      "filtered": false,
-      "total_score": 58.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 44.0,
-        "practicality": 54.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "LynxOfficialDeveloper/RtG-AI-Core-Engine",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/LynxOfficialDeveloper/RtG-AI-Core-Engine",
-      "summary": "RtG-AI 2026: 开源 Road to Gramby's Spanish 机器学习 实验 (语言: HTML) [标签: ai-json-output, github-pages, gramby, road-to-grambys, roblox]",
-      "popularity": {
-        "views": 70,
-        "likes": 70,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "通用AI应用"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-22T21:09:40"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 70,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "HTML",
-        "license": "",
-        "topics": [
-          "ai-json-output",
-          "github-pages",
-          "gramby",
-          "road-to-grambys",
-          "roblox",
-          "rtg-format",
-          "testing"
-        ],
-        "created_at": "2026-09-22T21:09:40Z",
-        "pushed_at": "2026-11-04T22:56:37Z"
-      },
-      "filtered": false,
-      "total_score": 54.96,
-      "detail_scores": {
-        "popularity": 70.7,
-        "usability": 69.0,
-        "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "Nguems1/ml-sgd-param-struct-forge",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/Nguems1/ml-sgd-param-struct-forge",
-      "summary": "Build Custom Float Struct Factories for ML SGD Params 2026 (语言: HTML) [标签: javascript, learning, machine, ml, node]",
-      "popularity": {
-        "views": 56,
-        "likes": 56,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "通用AI应用"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-21T21:53:47"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 56,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "HTML",
-        "license": "",
-        "topics": [
-          "javascript",
-          "learning",
-          "machine",
-          "ml",
-          "node",
-          "node-js",
-          "nodejs",
-          "parameters",
-          "params",
-          "sgd",
-          "stdlib",
-          "stochastic-gradient-descent",
-          "struct",
-          "trainer",
-          "util",
-          "utilities",
-          "utility",
-          "utils"
-        ],
-        "created_at": "2026-09-21T21:53:47Z",
-        "pushed_at": "2026-11-04T18:25:20Z"
-      },
-      "filtered": false,
-      "total_score": 50.72,
-      "detail_scores": {
-        "popularity": 56.56,
-        "usability": 69.0,
-        "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "Gabedevz/haiku-bridge-trainer",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/Gabedevz/haiku-bridge-trainer",
-      "summary": "Bax: Flexible JAX and Haiku Trainer Interface for 可扩展 深度学习 2026 (语言: HTML) [标签: boilerplate, dm-haiku, jax, trainer]",
-      "popularity": {
-        "views": 56,
-        "likes": 56,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "通用AI应用"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-21T20:54:20"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 56,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "HTML",
-        "license": "",
-        "topics": [
-          "boilerplate",
-          "dm-haiku",
-          "jax",
-          "trainer"
-        ],
-        "created_at": "2026-09-21T20:54:20Z",
-        "pushed_at": "2026-11-04T22:25:08Z"
-      },
-      "filtered": false,
-      "total_score": 50.72,
-      "detail_scores": {
-        "popularity": 56.56,
-        "usability": 69.0,
-        "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
       "name": "patrasc237/EEG-DL",
       "type": "tool",
       "platform": "GitHub",
@@ -3161,9 +2835,207 @@
         "freshness": 20
       },
       "_source": "pending"
-    }
-  ],
-  "pending_items": [
+    },
+    {
+      "name": "ThinkWatchProject/ThinkWatch-Lite",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/ThinkWatchProject/ThinkWatch-Lite",
+      "summary": "Local gateway for Claude Code, Codex and other AI clients on macOS, Windows and Linux: switch upstreams without touching clients, keep API keys from relays, cut off malicious tool calls, trace ever...",
+      "popularity": {
+        "views": 1070,
+        "likes": 1070,
+        "comments": 8
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "代码生成"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-09-12T13:48:15"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 1070,
+        "forks": 8,
+        "open_issues": 0,
+        "language": "TypeScript",
+        "license": "mit",
+        "topics": [
+          "ai-gateway",
+          "anthropic",
+          "claude-code",
+          "codex",
+          "cost-monitoring",
+          "cost-tracking",
+          "cross-platform",
+          "linux",
+          "llm-cost",
+          "llm-gateway",
+          "llm-observability",
+          "llm-proxy",
+          "llm-usage",
+          "macos",
+          "openai",
+          "secret-redaction",
+          "system-tray",
+          "token-usage",
+          "usage-tracking",
+          "windows"
+        ],
+        "created_at": "2026-09-12T13:48:15Z",
+        "pushed_at": "2026-11-13T15:04:56Z"
+      },
+      "filtered": false,
+      "total_score": 66.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 59.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "apimart-66/ai-api-aggregator",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/apimart-66/ai-api-aggregator",
+      "summary": "AI API aggregator companion: machine-readable catalog of 300+ 模型s behind one key and one base URL, with routing patterns, cost accounting, OpenAI SDK and curl examples. (语言: Python) [标签: ai-api-agg...",
+      "popularity": {
+        "views": 150,
+        "likes": 150,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "图像生成"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-16T07:17:05"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 150,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "other",
+        "topics": [
+          "ai-api-aggregator",
+          "ai-api-gateway",
+          "api-relay",
+          "apimart",
+          "gpt-image-2-5",
+          "image-2-5",
+          "image2-5",
+          "model-catalog",
+          "openai-compatible",
+          "text-to-image",
+          "unified-ai-api"
+        ],
+        "created_at": "2026-09-16T07:17:05Z",
+        "pushed_at": "2026-11-13T14:40:59Z"
+      },
+      "filtered": false,
+      "total_score": 66.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 78.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "apimart-API-Gateway/grok-image-api",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/apimart-API-Gateway/grok-image-api",
+      "summary": "Grok Image API (Grok Imagine 1.5, grok-imagine-1.5-apimart): 模型 ids, per-image pricing, 文生图 and edit routes, moderation behaviour and runnable API examples. (语言: Python) [标签: ai-api-gateway, ai-ima...",
+      "popularity": {
+        "views": 145,
+        "likes": 145,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "图像生成"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-17T10:26:41"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 145,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "other",
+        "topics": [
+          "ai-api-gateway",
+          "ai-image-api",
+          "apimart",
+          "grok-image",
+          "grok-image-api",
+          "grok-imagine",
+          "grok-imagine-api",
+          "image-api",
+          "image-generation",
+          "text-to-image"
+        ],
+        "created_at": "2026-09-17T10:26:41Z",
+        "pushed_at": "2026-11-13T14:39:41Z"
+      },
+      "filtered": false,
+      "total_score": 66.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 78.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
     {
       "name": "whitecircle/halo",
       "type": "tool",
@@ -3237,7 +3109,8 @@
         "usability": 44.0,
         "practicality": 63.0,
         "freshness": 20
-      }
+      },
+      "_source": "pending"
     },
     {
       "name": "stubbb/c-shop",
@@ -3289,8 +3162,11 @@
         "usability": 60.0,
         "practicality": 50.0,
         "freshness": 20
-      }
-    },
+      },
+      "_source": "pending"
+    }
+  ],
+  "pending_items": [
     {
       "name": "Erutaner/CLADE",
       "type": "tool",
