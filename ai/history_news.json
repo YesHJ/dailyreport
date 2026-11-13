@@ -1,225 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "腾讯混元正式发布 Hy4：770B 参数，首次跻身最强开源模型之列",
-      "type": "news",
-      "platform": "新浪财经",
-      "url": "https://finance.sina.cn/2026-11-04/detail-inixqnss6126372.d.html",
-      "summary": "11 月 4 日腾讯混元发布新一代大模型 Hy4，参数规模由 Hy3 的不到 300B 提升到 770B，首次引入视觉理解与电脑操作（Computer Use）能力，官方称幻觉率从 12.95% 降至 7.2%，API 价格不变，权重将于近期开源。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "wide",
-        "scenarios": [
-          "大模型",
-          "多模态",
-          "AI Agent"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-04T12:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 59.75,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 78.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "AI 热点日报（2026-11-03）：美团发布 1.6 万亿参数国产大模型",
-      "type": "news",
-      "platform": "掘金",
-      "url": "https://juejin.cn/post/7703459728308027428",
-      "summary": "11 月 3 日 AI 动态汇总：美团发布 1.6 万亿参数国产大模型，四大厂商共同推动 AI 训练退出标准；HuggingFace 开源 14B 的 DNA-语言混合模型 Carbon-X，DeepSeek 推出可主动监控开发者群聊的编程智能体 Super-Agent。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "wide",
-        "scenarios": [
-          "大模型",
-          "行业动态",
-          "AI Agent"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-03T09:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 59.75,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 78.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "科技巨头 AI 需求放缓？算力产业链企业回应：没有下调迹象",
-      "type": "news",
-      "platform": "36氪",
-      "url": "https://www.36kr.com/newsflashes/4054722107610246",
-      "summary": "市场传闻大厂 AI 需求下调、引发对科技 AI 支出规模与增速的担忧，36 氪快讯梳理多家算力产业链公司回应，称未接到下调订单，部分订单价格反而上调，可作为判断国内算力景气度的参考。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "行业动态",
-          "算力"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-04T08:36:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 55.5,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 61.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "openJiuwen Agent-Memory 让 Agent 首次拥有「视听双流记忆」",
-      "type": "news",
-      "platform": "量子位",
-      "url": "https://www.qbitai.com/2026/11/507533.html",
-      "summary": "openJiuwen 发布 Agent-Memory 记忆模块，把长视频的视觉与语音双流信息统一纳入 Agent 长期记忆，官方称长视频记忆精度显著提升、问答时延最高下降 97%，适合做视频理解、会话回顾类智能体。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent",
-          "多模态",
-          "记忆系统"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-11-04T17:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 50.75,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 69.0,
-        "practicality": 54.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "Vercel 开源 agent-desktop：用无障碍树 ref 替代截图坐标驱动桌面 Agent",
-      "type": "news",
-      "platform": "CSDN",
-      "url": "https://m.blog.csdn.net/Number241/article/details/170014212",
-      "summary": "Vercel Labs 的 Rust 项目 agent-desktop 登上 GitHub 热榜，它不靠截图猜像素，而是读取 Windows/macOS/Linux 原生无障碍树，为每个 UI 元素分配 ref 供 Agent 点击输入并回读校验，作者实测了微信等自绘界面的适配边界。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent",
-          "自动化",
-          "开源工具"
-        ],
-        "maturity": "experimental"
-      },
-      "freshness": {
-        "publish_date": "2026-11-04T10:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 48.5,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 69.0,
-        "practicality": 45.0,
-        "freshness": 100
-      }
-    },
-    {
       "name": "SuperCLUE 11 月中文大模型测评榜：Gemini-4-Argon 登顶，Kimi 拿下国内第一",
       "type": "news",
       "platform": "新浪财经",
@@ -2153,6 +1934,226 @@
         "practicality": 64.0,
         "freshness": 100
       }
+    },
+    {
+      "name": "黄仁勋辞职，英伟达33年首换帅，市值蒸发超3万亿",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/11/509995.html",
+      "summary": "英伟达33年首次换帅，黄仁勋卸任CEO由CFO Colette Kress临时接任，Harvey C. Jones出任首任董事会主席，股价盘前跌约13.58%，市值蒸发超3万亿元。",
+      "popularity": {
+        "views": 320000,
+        "likes": 9800,
+        "comments": 21000
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "算力供应链与采购决策",
+          "AI行业格局与战略研判",
+          "投资与风险提示"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-13"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 85.25,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 72.0,
+        "practicality": 69.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "10秒生成4K图：MiniMax再次拿出开源SOTA",
+      "type": "news",
+      "platform": "机器之心",
+      "url": "https://www.36kr.com/p/4066749635155078",
+      "summary": "MiniMax开源H3-Image，原生4K、10秒级出图、支持16张参考图，331亿参数DiT，登顶Artificial Analysis开放权重文生图与图像编辑双榜。",
+      "popularity": {
+        "views": 120000,
+        "likes": 4200,
+        "comments": 860
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "开源文生图选型",
+          "广告与电商素材生产",
+          "4K高分辨率图像编辑"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-13"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 82.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 53.0,
+        "practicality": 78.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "硬科技早报｜字节AI芯片负责人离职；Qwen4将登场；沐曦优必选合资造芯",
+      "type": "news",
+      "platform": "观察者网",
+      "url": "https://www.guancha.cn/CaiJing/2026_11_12_908028.shtml",
+      "summary": "Qwen4-Max预览版上线Token Plan并接入千问办公、Qoder与QwenStudio；字节AI芯片负责人施云峰离职；沐曦与优必选合资公司获5亿元天使轮，主攻机器人大小脑一体SoC。",
+      "popularity": {
+        "views": 52000,
+        "likes": 1400,
+        "comments": 380
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "medium",
+        "docs_quality": "poor",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "国产大模型选型参考",
+          "AI芯片与供应链跟踪",
+          "开发者工具动态了解"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-12"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 78.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 60.0,
+        "practicality": 54.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "2026年11月12日全球AI简报",
+      "type": "news",
+      "platform": "今日头条",
+      "url": "https://www.toutiao.com/a1881692590534665/",
+      "summary": "百度上线\"词元所\"大模型交易平台，通芯智能获数亿元融资，息壤开物完成两轮融资估值达5亿美元，中科闻歌发布媒体智能体 MediaOne，福建出台\"人工智能+\"行动方案并发放算力券。",
+      "popularity": {
+        "views": 33000,
+        "likes": 880,
+        "comments": 190
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "medium",
+        "docs_quality": "poor",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "国内AI政策与补贴跟踪",
+          "投融资情报汇总",
+          "算力资源采购参考"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-12"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 78.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 60.0,
+        "practicality": 54.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "擎天租一年融7轮，芒果系投了",
+      "type": "news",
+      "platform": "36氪",
+      "url": "https://www.36kr.com/p/4067624314016640",
+      "summary": "由智元机器人与飞阔科技共同发起的机器人租赁公司擎天租完成数亿元战略融资，为年内第7轮融资，资方含芒果系资本，主打具身智能设备的集群化部署与租赁运营。",
+      "popularity": {
+        "views": 38000,
+        "likes": 980,
+        "comments": 210
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "narrow",
+        "scenarios": [
+          "机器人租赁商业模式分析",
+          "具身智能集群化部署",
+          "一级市场融资跟踪"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-13"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 77.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 72.0,
+        "practicality": 39.0,
+        "freshness": 100
+      }
     }
   ],
   "pending_items": [
@@ -3547,6 +3548,94 @@
         "popularity": 0.0,
         "usability": 60.0,
         "practicality": 54.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "AI 日报（2026年11月11日）",
+      "type": "news",
+      "platform": "CSDN",
+      "url": "https://tianqi.csdn.net/6af3dba540858c2d8819d085.html",
+      "summary": "28条行业动态速览：Gemini 4 Carbon开放、Gemini Robotics 2.5进入奔驰产线、美团开源1.6万亿参数LongCat-2.5、NVIDIA OpenShell捐CNCF。",
+      "popularity": {
+        "views": 26000,
+        "likes": 760,
+        "comments": 140
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "medium",
+        "docs_quality": "poor",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "团队晨会与日报素材",
+          "开源模型与竞品进展跟踪",
+          "行业情报速览"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-11"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 74.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 60.0,
+        "practicality": 54.0,
+        "freshness": 80
+      }
+    },
+    {
+      "name": "openJiuwen发布RSI原生AgentOS，让Agent自由变身，持续迭代",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/11/509653.html",
+      "summary": "openJiuwen发布RSI原生AgentOS与WorkSwarm，扩展包支持热插拔与版本回退，划分五类扩展点，代码已在GitHub开源。",
+      "popularity": {
+        "views": 45000,
+        "likes": 1500,
+        "comments": 320
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "多智能体协作编排",
+          "Agent能力自迭代研究",
+          "企业Agent基础设施选型"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-13"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 72.25,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 44.0,
+        "practicality": 45.0,
         "freshness": 100
       }
     }
