@@ -1,318 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "alexshpunt/pi-agent-computer-use",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/alexshpunt/pi-agent-computer-use",
-      "summary": "Computer use for the Pi coding agent — Windows apps, browsers and desktops through native UI trees, screenshots and real input. (语言: TypeScript) [标签: accessibility, agent-tools, ai-agent, browser-a...",
-      "popularity": {
-        "views": 24,
-        "likes": 24,
-        "comments": 2
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "机器视觉应用"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-10-02T12:20:37"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 24,
-        "forks": 2,
-        "open_issues": 0,
-        "language": "TypeScript",
-        "license": "mit",
-        "topics": [
-          "accessibility",
-          "agent-tools",
-          "ai-agent",
-          "browser-automation",
-          "computer-use",
-          "cua",
-          "desktop-automation",
-          "electron",
-          "pi",
-          "pi-coding-agent",
-          "pi-extension",
-          "pi-package",
-          "playwright",
-          "typescript",
-          "ui-automation",
-          "vision",
-          "webview2",
-          "windows",
-          "windows-automation",
-          "wsl"
-        ],
-        "created_at": "2026-10-02T12:20:37Z",
-        "pushed_at": "2026-11-02T14:47:54Z"
-      },
-      "filtered": false,
-      "total_score": 44.02,
-      "detail_scores": {
-        "popularity": 34.24,
-        "usability": 69.0,
-        "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "llada60/3DHarnessBench",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/llada60/3DHarnessBench",
-      "summary": "三维HarnessBench: Probing Agentic 三维-to-Code Capabilities of Frontier 视觉语言模型s (语言: Python)",
-      "popularity": {
-        "views": 23,
-        "likes": 23,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉语言模型",
-          "三维视觉"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-03T09:26:46"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 23,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "apache-2.0",
-        "topics": [],
-        "created_at": "2026-09-03T09:26:46Z",
-        "pushed_at": "2026-10-28T16:17:09Z"
-      },
-      "filtered": false,
-      "total_score": 38.97,
-      "detail_scores": {
-        "popularity": 23.230000000000004,
-        "usability": 60.0,
-        "practicality": 52.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "jonasherminiodev/resnet152v2-skin-cancer-ham10000",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/jonasherminiodev/resnet152v2-skin-cancer-ham10000",
-      "summary": "🔬 Aplicação Web (Flask + SQLAlchemy) integrada a 深度学习 (ResNet152V2 / Keras) para auxílio ao diagnóstico de câncer de pele (数据集 HAM10000), com 99,01% de acurácia e inferência em 1,17s. (语言: JavaScript)",
-      "popularity": {
-        "views": 18,
-        "likes": 18,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "数据集",
-          "深度学习"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-27T01:46:43"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 18,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "JavaScript",
-        "license": "",
-        "topics": [],
-        "created_at": "2026-09-27T01:46:43Z",
-        "pushed_at": "2026-10-29T01:19:55Z"
-      },
-      "filtered": false,
-      "total_score": 37.45,
-      "detail_scores": {
-        "popularity": 18.18,
-        "usability": 60.0,
-        "practicality": 52.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "rokbenko/quackd",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/rokbenko/quackd",
-      "summary": "One CLI for all your robots. Connect them, command them, and let them work together, each with an LLM for a brain (Claude, OpenAI, Gemini, Grok, or local via Ollama or vLLM), VLAs for arms and deci...",
-      "popularity": {
-        "views": 287,
-        "likes": 287,
-        "comments": 29
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉-语言-动作",
-          "机器人视觉"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-08-28T09:09:16"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 287,
-        "forks": 29,
-        "open_issues": 1,
-        "language": "Python",
-        "license": "apache-2.0",
-        "topics": [
-          "ai-agents",
-          "claude",
-          "embodied-ai",
-          "gemini",
-          "jetson",
-          "lerobot",
-          "llm",
-          "local-llm",
-          "mcp",
-          "microduck",
-          "mujoco",
-          "multi-robot",
-          "ollama",
-          "openai",
-          "physical-ai",
-          "robotic-arm",
-          "robotics",
-          "ros2",
-          "so-101",
-          "vla"
-        ],
-        "created_at": "2026-08-28T09:09:16Z",
-        "pushed_at": "2026-10-31T20:06:49Z"
-      },
-      "filtered": false,
-      "total_score": 64.25,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 52.0,
-        "freshness": 20
-      },
-      "_source": "pending"
-    },
-    {
-      "name": "starVLA/VLAct",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/starVLA/VLAct",
-      "summary": "[NeurIPS 2026] Beyond Data Scaling: Representation-Centric Continued Pre-训练 for 视觉-语言-动作 模型s (语言: Python) [标签: robotics, vision-language-action, vision-language-model]",
-      "popularity": {
-        "views": 150,
-        "likes": 150,
-        "comments": 9
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉语言模型",
-          "机器人视觉"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-08-25T15:45:33"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 150,
-        "forks": 9,
-        "open_issues": 4,
-        "language": "Python",
-        "license": "other",
-        "topics": [
-          "robotics",
-          "vision-language-action",
-          "vision-language-model"
-        ],
-        "created_at": "2026-08-25T15:45:33Z",
-        "pushed_at": "2026-09-30T01:20:58Z"
-      },
-      "filtered": false,
-      "total_score": 64.25,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 52.0,
-        "freshness": 20
-      },
-      "_source": "pending"
-    },
-    {
       "name": "StarTrail-org/DRPixel",
       "type": "tool",
       "platform": "GitHub",
@@ -2917,6 +2605,305 @@
         "practicality": 50.0,
         "freshness": 60
       }
+    },
+    {
+      "name": "jushengzhang/robot-weight-debugging",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/jushengzhang/robot-weight-debugging",
+      "summary": "First release for Can LLMs Debug Robots by Editing Their Weights? Code, 65-row edit, 16 experiment logs and evidence. V2 and real-robot experiments in progress. (语言: Python) [标签: model-editing, rob...",
+      "popularity": {
+        "views": 64,
+        "likes": 64,
+        "comments": 6
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉语言模型",
+          "机器人视觉"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-09T05:00:18"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 64,
+        "forks": 6,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "apache-2.0",
+        "topics": [
+          "model-editing",
+          "robotics",
+          "vision-language-action",
+          "weight-space-programming"
+        ],
+        "created_at": "2026-11-09T05:00:18Z",
+        "pushed_at": "2026-11-09T05:31:05Z"
+      },
+      "filtered": false,
+      "total_score": 74.64,
+      "detail_scores": {
+        "popularity": 94.64,
+        "usability": 69.0,
+        "practicality": 52.0,
+        "freshness": 80
+      }
+    },
+    {
+      "name": "black-forest-labs/flux-action",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/black-forest-labs/flux-action",
+      "summary": "FLUX 3 Action: open weights 7B world action 模型 from Black Forest Labs. Train, fine-tune and run action prediction for robots (DROID, SO-101), simulators and games. (语言: Python) [标签: black-forest-la...",
+      "popularity": {
+        "views": 218,
+        "likes": 218,
+        "comments": 21
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉-语言-动作",
+          "机器人视觉"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-23T03:26:07"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 218,
+        "forks": 21,
+        "open_issues": 3,
+        "language": "Python",
+        "license": "apache-2.0",
+        "topics": [
+          "black-forest-labs",
+          "droid",
+          "flux",
+          "imitation-learning",
+          "lerobot",
+          "pytorch",
+          "robot-learning",
+          "robotics",
+          "so101",
+          "vla",
+          "world-action-model",
+          "world-model"
+        ],
+        "created_at": "2026-09-23T03:26:07Z",
+        "pushed_at": "2026-11-10T13:23:34Z"
+      },
+      "filtered": false,
+      "total_score": 64.25,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 52.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "Gabedevz/haiku-bridge-trainer",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/Gabedevz/haiku-bridge-trainer",
+      "summary": "Bax: Flexible JAX and Haiku Trainer Interface for Scalable 深度学习 2026 (语言: HTML) [标签: boilerplate, dm-haiku, jax, trainer]",
+      "popularity": {
+        "views": 56,
+        "likes": 56,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "深度学习"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-21T20:54:20"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 56,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "HTML",
+        "license": "",
+        "topics": [
+          "boilerplate",
+          "dm-haiku",
+          "jax",
+          "trainer"
+        ],
+        "created_at": "2026-09-21T20:54:20Z",
+        "pushed_at": "2026-11-13T18:23:04Z"
+      },
+      "filtered": false,
+      "total_score": 50.72,
+      "detail_scores": {
+        "popularity": 56.56,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "mhdijas-2001/torch-hydra-forge",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/mhdijas-2001/torch-hydra-forge",
+      "summary": "PyTorch Hydra Boilerplate 2026: Best 开源 深度学习 Project Template (语言: HTML) [标签: boilerplate, boilerplate-template, deep-learning, hydra, machine-learning]",
+      "popularity": {
+        "views": 53,
+        "likes": 53,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "深度学习"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-21T22:12:49"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 53,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "HTML",
+        "license": "",
+        "topics": [
+          "boilerplate",
+          "boilerplate-template",
+          "deep-learning",
+          "hydra",
+          "machine-learning",
+          "pytorch",
+          "trainer",
+          "yaml"
+        ],
+        "created_at": "2026-09-21T22:12:49Z",
+        "pushed_at": "2026-11-13T18:17:21Z"
+      },
+      "filtered": false,
+      "total_score": 49.81,
+      "detail_scores": {
+        "popularity": 53.53000000000001,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "nhatphonghoang35-collab/yaket-keras-trainer",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/nhatphonghoang35-collab/yaket-keras-trainer",
+      "summary": "YAML Keras Trainer 2026: Lightweight Config-Driven 深度学习 模型s Made Simple (语言: HTML) [标签: deeplearning, keras-tensorflow, tensorflow2, trainer]",
+      "popularity": {
+        "views": 53,
+        "likes": 53,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "深度学习"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-21T22:53:42"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 53,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "HTML",
+        "license": "",
+        "topics": [
+          "deeplearning",
+          "keras-tensorflow",
+          "tensorflow2",
+          "trainer"
+        ],
+        "created_at": "2026-09-21T22:53:42Z",
+        "pushed_at": "2026-11-13T21:15:27Z"
+      },
+      "filtered": false,
+      "total_score": 49.81,
+      "detail_scores": {
+        "popularity": 53.53000000000001,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
     }
   ],
   "pending_items": [
@@ -3143,6 +3130,240 @@
       "detail_scores": {
         "popularity": 17.12,
         "usability": 60.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "RainBowLuoCS/Gamer",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/RainBowLuoCS/Gamer",
+      "summary": "Official Implementation of Gamer: A Generalist 视觉-语言-动作 基础模型 for Long-Horizon 实时 Game Agents [标签: continual-pretraining, embodied-agent, foundation-model, game-agent, game-ai]",
+      "popularity": {
+        "views": 28,
+        "likes": 28,
+        "comments": 1
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉语言模型"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-30T07:10:02"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 28,
+        "forks": 1,
+        "open_issues": 0,
+        "language": "",
+        "license": "apache-2.0",
+        "topics": [
+          "continual-pretraining",
+          "embodied-agent",
+          "foundation-model",
+          "game-agent",
+          "game-ai",
+          "inference-engine",
+          "mihoyo",
+          "real-time",
+          "reinforcement-learning",
+          "scaling-laws",
+          "supervised-finetuning",
+          "vlm"
+        ],
+        "created_at": "2026-10-30T07:10:02Z",
+        "pushed_at": "2026-11-13T04:56:38Z"
+      },
+      "filtered": false,
+      "total_score": 47.73,
+      "detail_scores": {
+        "popularity": 33.28,
+        "usability": 53.0,
+        "practicality": 50.0,
+        "freshness": 60
+      }
+    },
+    {
+      "name": "nicklucenasantanalucenasant-maker/yapt-core",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/nicklucenasantanalucenasant-maker/yapt-core",
+      "summary": "YAPT 2026: Modern PyTorch 训练 框架 for Faster 深度学习 Workflows (语言: HTML) [标签: deep-learning, neptune-ai, pytorch, trainer]",
+      "popularity": {
+        "views": 53,
+        "likes": 53,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "深度学习"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-21T22:54:48"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 53,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "HTML",
+        "license": "",
+        "topics": [
+          "deep-learning",
+          "neptune-ai",
+          "pytorch",
+          "trainer"
+        ],
+        "created_at": "2026-09-21T22:54:48Z",
+        "pushed_at": "2026-11-13T19:17:20Z"
+      },
+      "filtered": false,
+      "total_score": 45.81,
+      "detail_scores": {
+        "popularity": 53.53000000000001,
+        "usability": 53.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "monurcan/simit_paper",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/monurcan/simit_paper",
+      "summary": "SIMIT: Self-Improving 视觉语言模型s via Imagination at Test-Time, official implementation of the paper (语言: Python) [标签: llm, multimodal-llm, self-improvement, test-time-training, vision-language-model]",
+      "popularity": {
+        "views": 10,
+        "likes": 10,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉语言模型",
+          "多模态"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-02T19:02:45"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 10,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "apache-2.0",
+        "topics": [
+          "llm",
+          "multimodal-llm",
+          "self-improvement",
+          "test-time-training",
+          "vision-language-model",
+          "vlm"
+        ],
+        "created_at": "2026-10-02T19:02:45Z",
+        "pushed_at": "2026-11-06T17:29:51Z"
+      },
+      "filtered": false,
+      "total_score": 37.28,
+      "detail_scores": {
+        "popularity": 10.1,
+        "usability": 69.0,
+        "practicality": 52.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "gexinh/vlm-probe",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/gexinh/vlm-probe",
+      "summary": "模型-bound lens, attention, and causal probes for 视觉语言模型s (语言: Python)",
+      "popularity": {
+        "views": 10,
+        "likes": 10,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉语言模型"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-19T05:40:57"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 10,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "other",
+        "topics": [],
+        "created_at": "2026-09-19T05:40:57Z",
+        "pushed_at": "2026-11-05T00:15:30Z"
+      },
+      "filtered": false,
+      "total_score": 36.78,
+      "detail_scores": {
+        "popularity": 10.1,
+        "usability": 69.0,
         "practicality": 50.0,
         "freshness": 20
       }
