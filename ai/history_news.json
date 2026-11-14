@@ -1,222 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "SuperCLUE 11 月中文大模型测评榜：Gemini-4-Argon 登顶，Kimi 拿下国内第一",
-      "type": "news",
-      "platform": "新浪财经",
-      "url": "https://finance.sina.cn/tech/2026-11-05/detail-inixrytw8847229.d.html",
-      "summary": "SuperCLUE 发布 2026 年 11 月通用大模型测评榜单，Google 闭源模型 Gemini-4-Argon 以 73.62 分位列总分第一，月之暗面开源模型 Kimi-K3.1-Pro 以 61.46 分成为国内得分最高模型，可作为中文任务选型与对比的第三方参考口径。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "大模型",
-          "效率工具"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-05T11:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 55.5,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 61.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "中国开源模型下载量首超美国，20 家单位在乌镇签下智能体自律公约",
-      "type": "news",
-      "platform": "今日头条",
-      "url": "https://m.toutiao.com/article/7704602345979757098/",
-      "summary": "11 月 4 日混元 Hy4 发布同日，中国信通院联合华为、阿里、腾讯、小米、百度、火山引擎等 20 家单位在乌镇峰会签署智能体发展自律公约，提出八条措施，围绕开源生态、能力边界与治理规则同步推进。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "low",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "Agent智能体",
-          "行业观察"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-04T20:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 54.75,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 78.0,
-        "practicality": 61.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "AI 新闻日报 11-03：美团 1.6 万亿参数 LongCat-2.5、混元 Hyra 2.0 科学模型开源",
-      "type": "news",
-      "platform": "CSDN",
-      "url": "https://blog.csdn.net/qq_39427511/article/details/169901385",
-      "summary": "美团 11 月 2 日发布原生多模态 LongCat-2.5，总参数 1.6 万亿、激活约 480 亿，训练全程跑在国产算力上，采用 1M 序列长上下文与 W4A4 量化，预填充/解码吞吐较 W8A8 提升约 43%。腾讯混元 Hyra 2.0 一次放出 HyInv、HyPLM-Flash、HyFF 等 Apache-2.0 科学模型，DeepSeek 推理框架 DeepInfer 同步支持昇腾 950。",
-      "popularity": {
-        "views": 607,
-        "likes": 1,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "high",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "large",
-        "scenarios": [
-          "大模型",
-          "数据分析",
-          "私有化部署"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-03T07:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 52.12,
-      "detail_scores": {
-        "popularity": 7.069999999999999,
-        "usability": 78.0,
-        "practicality": 58.0,
-        "freshness": 80
-      }
-    },
-    {
-      "name": "为何选择开源路线？多家大模型负责人在乌镇给出答案",
-      "type": "news",
-      "platform": "搜狐",
-      "url": "https://m.sohu.com/a/1096958704_161795/?pvid=000115_3w_a",
-      "summary": "11 月 3 日 2026 世界互联网大会乌镇峰会开幕，多家国内大模型公司业务负责人回应为何走开源路线，认为开放研究成果能加速通用人工智能到来；DeepSeek、阿里千问、MiniMax 负责人围绕开源工程与应用生态展开讨论。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "small",
-        "scenarios": [
-          "行业观察",
-          "大模型"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-03T21:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 50.25,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 56.0,
-        "freshness": 80
-      }
-    },
-    {
-      "name": "百度开源文心 5.5 Flash Base 基座模型，多基准刷新同尺寸 SOTA",
-      "type": "news",
-      "platform": "量子位",
-      "url": "https://www.qbitai.com/2026/11/507787.html",
-      "summary": "11月5日百度正式开源基座模型文心5.5 Flash Base，权重已上传 HuggingFace。面向长文档分析、多轮交互与智能体任务，强调在同等参数尺寸下提升资源利用效率，刷新多项同尺寸基准成绩，适合继续预训练和垂直场景微调。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "moderate",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "大模型",
-          "知识库"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-05T10:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 49.5,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 57.0,
-        "practicality": 61.0,
-        "freshness": 100
-      }
-    },
-    {
       "name": "AI与大模型新闻日报 | 2026-11-06",
       "type": "news",
       "platform": "CSDN",
@@ -2154,6 +1938,226 @@
         "practicality": 39.0,
         "freshness": 100
       }
+    },
+    {
+      "name": "突发！DeepSeek开放全家桶API",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/11/510003.html",
+      "summary": "DeepSeek 将官方 App 内的全部能力拆成可自由组合调用的 API 开放出来，开发者可自行编排搜索、推理与工具调用链路，不再只能拿单模型接口。对做 Agent 和 RAG 的团队是直接利好，成本仍是其一贯的低价策略。",
+      "popularity": {
+        "views": 42000,
+        "likes": 380,
+        "comments": 96
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "AI Agent",
+          "RAG",
+          "API集成"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-14T11:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 92.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 90.0,
+        "practicality": 78.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "2026年11月14日 AI 行业日报：ChatGPT Wallet 上线、llama.cpp 迈入 1.0 稳定版、LangChain 完成 3 亿美元融资",
+      "type": "news",
+      "platform": "CSDN",
+      "url": "https://devpress.csdn.net/aibjcy/6af7e6a4e5f4ca4eff9168df.html",
+      "summary": "当日要点集中：llama.cpp 发布 v1.0.0 首个稳定大版本，移除 35 个废弃公共 API 并新增 FP8 KV 缓存，本地推理链路正式进入稳定期；LangChain 完成 3 亿美元融资；ChatGPT Wallet 上线。适合开发者一页速览当天基础设施变化。",
+      "popularity": {
+        "views": 12000,
+        "likes": 96,
+        "comments": 18
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "本地推理",
+          "行业动态",
+          "开源工具"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-14T09:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 89.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 81.0,
+        "practicality": 78.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "文心5.5 Flash Preview发布：2800亿参数MoE，11月25日前 Apache 2.0 开源权重",
+      "type": "news",
+      "platform": "Donews",
+      "url": "https://www.donews.com/news/detail/4/6772092.html",
+      "summary": "百度发布文心 5.5 Flash Preview，稀疏 MoE 总参数 2800 亿、单 Token 激活 140 亿，支持 100 万上下文，生成速度超 200 tokens/s，主打编程、3D 建模与代码驱动内容创作。千帆 API 已上线且定价偏低，权重将在 11 月 25 日前按 Apache 2.0 开源。",
+      "popularity": {
+        "views": 38000,
+        "likes": 290,
+        "comments": 88
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "AI编程",
+          "长上下文",
+          "大模型"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-12T23:28:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 89.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 90.0,
+        "practicality": 69.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "早报｜腾讯混元发布实时语音模型 Hy Realtime，Thinking Machines 开放 Inkling 2 Small 权重",
+      "type": "news",
+      "platform": "爱范儿",
+      "url": "https://www.ifanr.com/1689450",
+      "summary": "混元 Hy Realtime 在语音对话中加入 Agentic 工具调用与唱歌能力，文本推理保留率从 21% 提到 69%，已在元宝语音通话和腾讯客服上线，腾讯云 API 近期开放；同时 Thinking Machines 以 Apache 2.0 放出 Inkling 2 Small 权重，可自行部署。",
+      "popularity": {
+        "views": 15000,
+        "likes": 120,
+        "comments": 35
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "语音交互",
+          "AI Agent",
+          "开源模型"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-14T08:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 87.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 81.0,
+        "practicality": 69.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "百度推出大模型交易平台「词元所」：主打验真与征信，日均调用 Token 超 7000 亿",
+      "type": "news",
+      "platform": "品玩",
+      "url": "https://www.pingwest.com/w/319526",
+      "summary": "百度世界 2026 上官宣推出大模型交易平台词元所，用模型指纹比对、能力与可用性测试做准入核验，再以定期抽检和全链路监测给供应商打信用评级，试图解决 Token 中转站不对效果负责的问题。上线一个月入驻供应资源超 100 个。",
+      "popularity": {
+        "views": 24000,
+        "likes": 170,
+        "comments": 63
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "大模型选型",
+          "API采购",
+          "企业落地"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-13T10:30:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 83.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 81.0,
+        "practicality": 54.0,
+        "freshness": 100
+      }
     }
   ],
   "pending_items": [
@@ -3637,6 +3641,50 @@
         "usability": 44.0,
         "practicality": 45.0,
         "freshness": 100
+      }
+    },
+    {
+      "name": "高难盲测超越 GPT-6-Astra 与 Opus-5！无界前沿开源 Fx-Bio-1031，把 RSI 带进生命科学",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/11/509663.html",
+      "summary": "上海交大系团队无界前沿开源 Fx-Bio-1031 生命科学模型，在高难盲测中超过多个闭源旗舰，强调数据不出域、可本地部署，把递归自改进（RSI）方法落到生物信息科研流程，适合有私有数据合规要求的团队评估。",
+      "popularity": {
+        "views": 9000,
+        "likes": 78,
+        "comments": 12
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "narrow",
+        "scenarios": [
+          "AI for Science",
+          "生物信息",
+          "本地部署"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-12T15:06:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 64.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 44.0,
+        "practicality": 30.0,
+        "freshness": 80
       }
     }
   ]
