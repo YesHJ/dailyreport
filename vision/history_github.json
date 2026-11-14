@@ -1,284 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "StarTrail-org/DRPixel",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/StarTrail-org/DRPixel",
-      "summary": "DR Pixel: Page-Native Deep Research with 视觉语言模型s — 基准测试, 评估 harness and 训练 code (语言: Python) [标签: agentic-retrieval, benchmark, credit-assignment, deep-research, multimodal]",
-      "popularity": {
-        "views": 17,
-        "likes": 17,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉语言模型",
-          "多模态"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-11-01T16:46:21"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 17,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "apache-2.0",
-        "topics": [
-          "agentic-retrieval",
-          "benchmark",
-          "credit-assignment",
-          "deep-research",
-          "multimodal",
-          "rag",
-          "scientific-papers",
-          "visual-document-retrieval",
-          "vlm"
-        ],
-        "created_at": "2026-11-01T16:46:21Z",
-        "pushed_at": "2026-11-02T07:48:12Z"
-      },
-      "filtered": false,
-      "total_score": 51.4,
-      "detail_scores": {
-        "popularity": 17.17,
-        "usability": 69.0,
-        "practicality": 52.0,
-        "freshness": 80
-      }
-    },
-    {
-      "name": "zhangy0822/CofactVLA",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/zhangy0822/CofactVLA",
-      "summary": "CofactVLA: Deconfounding 视觉-语言-动作 模型s via Counterfactual Intervention (语言: Python)",
-      "popularity": {
-        "views": 16,
-        "likes": 16,
-        "comments": 2
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉-语言-动作",
-          "视觉语言模型"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-10-21T02:03:42"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 16,
-        "forks": 2,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "apache-2.0",
-        "topics": [],
-        "created_at": "2026-10-21T02:03:42Z",
-        "pushed_at": "2026-10-29T03:53:32Z"
-      },
-      "filtered": false,
-      "total_score": 47.85,
-      "detail_scores": {
-        "popularity": 26.16,
-        "usability": 60.0,
-        "practicality": 52.0,
-        "freshness": 60
-      }
-    },
-    {
-      "name": "inclusionAI/Zooming-without-Zooming-v2",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/inclusionAI/Zooming-without-Zooming-v2",
-      "summary": "ZwZ-v2: RL-trained 视觉语言模型s (4B/9B/27B) that connect fine-grained visual evidence across image regions, trained with GRPO on 20.4K verified multi-region VQA examples. (语言: Python)",
-      "popularity": {
-        "views": 16,
-        "likes": 16,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉语言模型"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-10-14T08:20:34"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 16,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "apache-2.0",
-        "topics": [],
-        "created_at": "2026-10-14T08:20:34Z",
-        "pushed_at": "2026-10-31T14:24:31Z"
-      },
-      "filtered": false,
-      "total_score": 44.35,
-      "detail_scores": {
-        "popularity": 16.16,
-        "usability": 60.0,
-        "practicality": 50.0,
-        "freshness": 60
-      }
-    },
-    {
-      "name": "ChidiebereNjoku/ModelBrief",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/ChidiebereNjoku/ModelBrief",
-      "summary": "An open-source Python 库 that automates the analysis and reporting of 机器学习 experiments, generating structured and comprehensive reports that make 模型 performance, results, and key insights easier to ...",
-      "popularity": {
-        "views": 354,
-        "likes": 354,
-        "comments": 283
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "机器视觉应用"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-08-24T11:09:43"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 354,
-        "forks": 283,
-        "open_issues": 3,
-        "language": "Python",
-        "license": "other",
-        "topics": [],
-        "created_at": "2026-08-24T11:09:43Z",
-        "pushed_at": "2026-10-24T12:29:31Z"
-      },
-      "filtered": false,
-      "total_score": 63.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 50.0,
-        "freshness": 20
-      },
-      "_source": "pending"
-    },
-    {
-      "name": "hku-sail/StreamPI",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/hku-sail/StreamPI",
-      "summary": "[NeurIPS 2026] Official code of \"StreamPI: Streaming 多模态 Temporal 模型ing for 视觉-语言-动作 模型s\" (语言: Python) [标签: vla]",
-      "popularity": {
-        "views": 202,
-        "likes": 202,
-        "comments": 15
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉-语言-动作",
-          "视觉语言模型",
-          "多模态"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-08-26T16:13:52"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 202,
-        "forks": 15,
-        "open_issues": 2,
-        "language": "Python",
-        "license": "apache-2.0",
-        "topics": [
-          "vla"
-        ],
-        "created_at": "2026-08-26T16:13:52Z",
-        "pushed_at": "2026-09-27T01:03:16Z"
-      },
-      "filtered": false,
-      "total_score": 62.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 60.0,
-        "practicality": 54.0,
-        "freshness": 20
-      },
-      "_source": "pending"
-    },
-    {
       "name": "patrasc237/EEG-DL",
       "type": "tool",
       "platform": "GitHub",
@@ -2904,6 +2626,306 @@
         "practicality": 50.0,
         "freshness": 20
       }
+    },
+    {
+      "name": "RainBowLuoCS/Gamer",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/RainBowLuoCS/Gamer",
+      "summary": "Official Implementation of Gamer: A Generalist 视觉-语言-动作 基础模型 for Long-Horizon 实时 Game Agents [标签: continual-pretraining, embodied-agent, foundation-model, game-agent, game-ai]",
+      "popularity": {
+        "views": 99,
+        "likes": 99,
+        "comments": 1
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉语言模型"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-30T07:10:02"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 99,
+        "forks": 1,
+        "open_issues": 0,
+        "language": "",
+        "license": "apache-2.0",
+        "topics": [
+          "continual-pretraining",
+          "embodied-agent",
+          "foundation-model",
+          "game-agent",
+          "game-ai",
+          "inference-engine",
+          "mihoyo",
+          "real-time",
+          "reinforcement-learning",
+          "scaling-laws",
+          "supervised-finetuning",
+          "vlm"
+        ],
+        "created_at": "2026-10-30T07:10:02Z",
+        "pushed_at": "2026-11-14T14:35:52Z"
+      },
+      "filtered": false,
+      "total_score": 67.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 53.0,
+        "practicality": 50.0,
+        "freshness": 60
+      }
+    },
+    {
+      "name": "alexshpunt/pi-agent-computer-use",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/alexshpunt/pi-agent-computer-use",
+      "summary": "Computer use for the Pi coding agent — Windows apps, browsers and desktops through native UI trees, screenshots and real input. (语言: TypeScript) [标签: accessibility, agent-tools, ai-agent, browser-a...",
+      "popularity": {
+        "views": 75,
+        "likes": 75,
+        "comments": 5
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "机器视觉应用"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-02T12:20:37"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 75,
+        "forks": 5,
+        "open_issues": 0,
+        "language": "TypeScript",
+        "license": "mit",
+        "topics": [
+          "accessibility",
+          "agent-tools",
+          "ai-agent",
+          "browser-automation",
+          "computer-use",
+          "cua",
+          "desktop-automation",
+          "electron",
+          "pi",
+          "pi-coding-agent",
+          "pi-extension",
+          "pi-package",
+          "playwright",
+          "typescript",
+          "ui-automation",
+          "vision",
+          "webview2",
+          "windows",
+          "windows-automation",
+          "wsl"
+        ],
+        "created_at": "2026-10-02T12:20:37Z",
+        "pushed_at": "2026-11-13T16:36:49Z"
+      },
+      "filtered": false,
+      "total_score": 63.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "krishavijayanand2007-ship-7/Real-Time-Yoga-Pose-Recognition",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/krishavijayanand2007-ship-7/Real-Time-Yoga-Pose-Recognition",
+      "summary": "A 计算机视觉 project for yoga pose 识别 and posture analysis.",
+      "popularity": {
+        "views": 23,
+        "likes": 23,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "姿态估计"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-12T14:09:31"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 23,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "",
+        "license": "",
+        "topics": [],
+        "created_at": "2026-11-12T14:09:31Z",
+        "pushed_at": "2026-11-12T15:05:06Z"
+      },
+      "filtered": false,
+      "total_score": 50.47,
+      "detail_scores": {
+        "popularity": 23.230000000000004,
+        "usability": 60.0,
+        "practicality": 50.0,
+        "freshness": 80
+      }
+    },
+    {
+      "name": "neuroailab/psi-0.6",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/neuroailab/psi-0.6",
+      "summary": "Paper: \"Ψ-0.6: Adaptive Streams of Thought in a Unified Vision- Language World 模型\"",
+      "popularity": {
+        "views": 25,
+        "likes": 25,
+        "comments": 2
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "机器视觉应用"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-26T00:52:17"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 25,
+        "forks": 2,
+        "open_issues": 0,
+        "language": "",
+        "license": "mit",
+        "topics": [],
+        "created_at": "2026-10-26T00:52:17Z",
+        "pushed_at": "2026-10-26T18:29:26Z"
+      },
+      "filtered": false,
+      "total_score": 50.08,
+      "detail_scores": {
+        "popularity": 35.25,
+        "usability": 60.0,
+        "practicality": 50.0,
+        "freshness": 60
+      }
+    },
+    {
+      "name": "MuhammadMustafa18/VisionHarness",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/MuhammadMustafa18/VisionHarness",
+      "summary": "Describe what you want to detect in plain English, get a working 计算机视觉 流水线. Supports CCTV streams and 视频 uploads. (语言: TypeScript) [标签: agentic-ai, computer-vision, harness-engineering, vision-lang...",
+      "popularity": {
+        "views": 10,
+        "likes": 10,
+        "comments": 2
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉语言模型",
+          "视频理解"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-07T04:59:07"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 10,
+        "forks": 2,
+        "open_issues": 1,
+        "language": "TypeScript",
+        "license": "",
+        "topics": [
+          "agentic-ai",
+          "computer-vision",
+          "harness-engineering",
+          "vision-language-model"
+        ],
+        "created_at": "2026-11-07T04:59:07Z",
+        "pushed_at": "2026-11-10T03:38:08Z"
+      },
+      "filtered": false,
+      "total_score": 48.28,
+      "detail_scores": {
+        "popularity": 20.099999999999998,
+        "usability": 53.0,
+        "practicality": 52.0,
+        "freshness": 80
+      }
     }
   ],
   "pending_items": [
@@ -3013,76 +3035,6 @@
       }
     },
     {
-      "name": "OrderG-X/dsh-mac-computer-use",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/OrderG-X/dsh-mac-computer-use",
-      "summary": "Vision-first desktop computer use for DSH on macOS: OCR text targeting, set-of-mark indices, 11 desktop_* tools and a visible cursor. No accessibility tree. · 让 DSH 看着屏幕操作你的 Mac。 (语言: Swift) [标签: a...",
-      "popularity": {
-        "views": 11,
-        "likes": 11,
-        "comments": 1
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "文字识别"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-10-10T09:36:38"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 11,
-        "forks": 1,
-        "open_issues": 0,
-        "language": "Swift",
-        "license": "mit",
-        "topics": [
-          "accessibility",
-          "agent-tools",
-          "ai-agent",
-          "automation",
-          "computer-use",
-          "computer-use-agent",
-          "cursor",
-          "deepseek",
-          "deepseek-harness",
-          "desktop-automation",
-          "dsh",
-          "dsh-plugin",
-          "mac-automation",
-          "macos",
-          "ocr",
-          "screenshot",
-          "swift"
-        ],
-        "created_at": "2026-10-10T09:36:38Z",
-        "pushed_at": "2026-11-12T14:10:28Z"
-      },
-      "filtered": false,
-      "total_score": 38.58,
-      "detail_scores": {
-        "popularity": 16.11,
-        "usability": 69.0,
-        "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
       "name": "zhangyi-magic/BUTR",
       "type": "tool",
       "platform": "GitHub",
@@ -3132,71 +3084,6 @@
         "usability": 60.0,
         "practicality": 50.0,
         "freshness": 20
-      }
-    },
-    {
-      "name": "RainBowLuoCS/Gamer",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/RainBowLuoCS/Gamer",
-      "summary": "Official Implementation of Gamer: A Generalist 视觉-语言-动作 基础模型 for Long-Horizon 实时 Game Agents [标签: continual-pretraining, embodied-agent, foundation-model, game-agent, game-ai]",
-      "popularity": {
-        "views": 28,
-        "likes": 28,
-        "comments": 1
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉语言模型"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-10-30T07:10:02"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 28,
-        "forks": 1,
-        "open_issues": 0,
-        "language": "",
-        "license": "apache-2.0",
-        "topics": [
-          "continual-pretraining",
-          "embodied-agent",
-          "foundation-model",
-          "game-agent",
-          "game-ai",
-          "inference-engine",
-          "mihoyo",
-          "real-time",
-          "reinforcement-learning",
-          "scaling-laws",
-          "supervised-finetuning",
-          "vlm"
-        ],
-        "created_at": "2026-10-30T07:10:02Z",
-        "pushed_at": "2026-11-13T04:56:38Z"
-      },
-      "filtered": false,
-      "total_score": 47.73,
-      "detail_scores": {
-        "popularity": 33.28,
-        "usability": 53.0,
-        "practicality": 50.0,
-        "freshness": 60
       }
     },
     {
@@ -3365,6 +3252,272 @@
         "popularity": 10.1,
         "usability": 69.0,
         "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "Xeakaes/computer-use-for-all-agents",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/Xeakaes/computer-use-for-all-agents",
+      "summary": "Give any AI agent general-purpose computer use: live screen perception (OCR, vision frames, MJPEG stream) plus safety-gated mouse, keyboard, window, virtual-desktop and game-mode control over a loc...",
+      "popularity": {
+        "views": 10,
+        "likes": 10,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "文字识别",
+          "姿态估计"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-15T13:58:50"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 10,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "mit",
+        "topics": [
+          "agent-tools",
+          "ai-agents",
+          "automation",
+          "computer-use",
+          "desktop-automation",
+          "gui-automation",
+          "llm-tools",
+          "mcp",
+          "ocr",
+          "python",
+          "remote-control",
+          "screen-capture",
+          "vision",
+          "windows"
+        ],
+        "created_at": "2026-09-15T13:58:50Z",
+        "pushed_at": "2026-10-29T08:14:55Z"
+      },
+      "filtered": false,
+      "total_score": 40.28,
+      "detail_scores": {
+        "popularity": 10.1,
+        "usability": 81.0,
+        "practicality": 52.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "llada60/3DHarnessBench",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/llada60/3DHarnessBench",
+      "summary": "三维HarnessBench: Probing Agentic 三维-to-Code Capabilities of Frontier 视觉语言模型s (语言: Python)",
+      "popularity": {
+        "views": 25,
+        "likes": 25,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉语言模型",
+          "三维视觉"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-03T09:26:46"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 25,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "apache-2.0",
+        "topics": [],
+        "created_at": "2026-09-03T09:26:46Z",
+        "pushed_at": "2026-10-28T16:17:09Z"
+      },
+      "filtered": false,
+      "total_score": 39.58,
+      "detail_scores": {
+        "popularity": 25.25,
+        "usability": 60.0,
+        "practicality": 52.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "OrderG-X/dsh-mac-computer-use",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/OrderG-X/dsh-mac-computer-use",
+      "summary": "Vision-first desktop computer use for DSH on macOS: OCR text targeting, set-of-mark indices, 11 desktop_* tools and a visible cursor. No accessibility tree. · 让 DSH 看着屏幕操作你的 Mac。 (语言: Swift) [标签: a...",
+      "popularity": {
+        "views": 11,
+        "likes": 11,
+        "comments": 1
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "文字识别"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-10T09:36:38"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 11,
+        "forks": 1,
+        "open_issues": 0,
+        "language": "Swift",
+        "license": "mit",
+        "topics": [
+          "accessibility",
+          "agent-tools",
+          "ai-agent",
+          "automation",
+          "computer-use",
+          "computer-use-agent",
+          "cursor",
+          "deepseek",
+          "deepseek-harness",
+          "desktop-automation",
+          "dsh",
+          "dsh-plugin",
+          "mac-automation",
+          "macos",
+          "ocr",
+          "screenshot",
+          "swift"
+        ],
+        "created_at": "2026-10-10T09:36:38Z",
+        "pushed_at": "2026-11-12T14:10:28Z"
+      },
+      "filtered": false,
+      "total_score": 38.58,
+      "detail_scores": {
+        "popularity": 16.11,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    },
+    {
+      "name": "cmir79/CvInspect",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/cmir79/CvInspect",
+      "summary": "Machine-vision 检测 工具包 for .NET on OpenCVSharp — rotation/scale template matching, caliper line & circle finders, blob, WPF teaching controls, vendor-free GigE acquisition (语言: C#) [标签: blob-detecti...",
+      "popularity": {
+        "views": 10,
+        "likes": 10,
+        "comments": 1
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "工业检测",
+          "工业视觉",
+          "目标检测"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-01T23:08:52"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 10,
+        "forks": 1,
+        "open_issues": 0,
+        "language": "C#",
+        "license": "apache-2.0",
+        "topics": [
+          "blob-detection",
+          "caliper",
+          "computer-vision",
+          "csharp",
+          "dotnet",
+          "edge-detection",
+          "gige",
+          "image-processing",
+          "industrial-camera",
+          "industrial-inspection",
+          "inspection",
+          "machine-vision",
+          "metrology",
+          "netstandard",
+          "opencv",
+          "opencvsharp",
+          "pattern-matching",
+          "template-matching",
+          "unity",
+          "wpf"
+        ],
+        "created_at": "2026-09-01T23:08:52Z",
+        "pushed_at": "2026-11-02T04:32:25Z"
+      },
+      "filtered": false,
+      "total_score": 37.03,
+      "detail_scores": {
+        "popularity": 15.1,
+        "usability": 60.0,
+        "practicality": 54.0,
         "freshness": 20
       }
     }
