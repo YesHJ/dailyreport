@@ -1,226 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "DeepSeek重磅开源Super-agent：迈向更自主的Agent系统",
-      "type": "news",
-      "platform": "量子位",
-      "url": "https://www.qbitai.com/2026/10/506904.html",
-      "summary": "DeepSeek开源Super-agent原型架构，支持跨会话持续在线、多任务并行执行与主动发现问题。采用Router-Worker双层架构和投机执行机制，实测任务完成时间中位数12.4分钟，可自主发现Bug并提交修复PR，为视觉Agent与多模态自动化提供新基座。",
-      "popularity": {
-        "views": 5000,
-        "likes": 200,
-        "comments": 50
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "wide",
-        "scenarios": [
-          "AI Agent",
-          "自动化运维",
-          "多模态视觉"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-10-31T21:48:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 80.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 53.0,
-        "practicality": 69.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "VisionMaster、VisionPro、HALCON三大机器视觉工具对比选型",
-      "type": "news",
-      "platform": "CSDN",
-      "url": "https://blog.csdn.net/2601_96519735/article/details/168029482",
-      "summary": "系统对比VisionMaster、VisionPro、HALCON三大机器视觉软件的核心特点与适用场景。VisionMaster以图形化流程开发见长，适合快速部署；HALCON高精度工业标杆但成本高；VisionPro平衡易用性与灵活性。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "high",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "机器视觉",
-          "软件选型",
-          "工业检测"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-08-18T08:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 36.25,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 66.0,
-        "practicality": 63.0,
-        "freshness": 20
-      },
-      "_source": "pending"
-    },
-    {
-      "name": "2026年视觉智能行业现状：格局、痛点与发展趋势",
-      "type": "news",
-      "platform": "中研网",
-      "url": "http://www.chinairn.com/scfx/20261027/115840856.shtml",
-      "summary": "全球机器视觉市场2026年约184亿美元，AI视觉市场增长预期更高。复合型人才不足制约细分场景落地。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "large",
-        "scenarios": [
-          "机器视觉",
-          "行业分析"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-10-27T08:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 50.25,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 56.0,
-        "freshness": 80
-      }
-    },
-    {
-      "name": "VisionMaster模块SDK开发流程详解",
-      "type": "news",
-      "platform": "CSDN",
-      "url": "https://m.blog.csdn.net/qq_40335930/",
-      "summary": "详细讲解VisionMaster 4.4.0模块SDK开发流程，包括算法XML生成、输入输出配置及结果展示等关键步骤。",
-      "popularity": {
-        "views": 133,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "VisionMaster",
-          "工业视觉",
-          "SDK开发"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-10-29T17:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 49.4,
-      "detail_scores": {
-        "popularity": 1.33,
-        "usability": 69.0,
-        "practicality": 63.0,
-        "freshness": 80
-      }
-    },
-    {
-      "name": "HALCON视觉入门实战：环境配置到模板匹配与缺陷检测避坑指南",
-      "type": "news",
-      "platform": "CSDN",
-      "url": "https://m.blog.csdn.net/weixin_28686915/",
-      "summary": "系统梳理HALCON从环境配置到形状匹配、卡尺测量与动态阈值分割的完整链路，总结常见翻车点与排查方法。",
-      "popularity": {
-        "views": 274,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "high",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "工业检测",
-          "HALCON",
-          "缺陷检测"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-10-28T15:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 49.07,
-      "detail_scores": {
-        "popularity": 2.74,
-        "usability": 66.0,
-        "practicality": 63.0,
-        "freshness": 80
-      }
-    },
-    {
       "name": "2026全新TVA视觉智能体详解：工业检测落地应用全拆解",
       "type": "news",
       "platform": "CSDN",
@@ -2183,22 +1963,62 @@
         "practicality": 52.0,
         "freshness": 80
       }
-    }
-  ],
-  "pending_items": [
+    },
     {
-      "name": "谷歌上线其最强机器人模型 入驻奔驰生产线 分拣成功率96%",
+      "name": "新浪机器人热点小时报丨2026年11月14日02时",
       "type": "news",
-      "platform": "财联社",
-      "url": "https://m.163.com/dy/article/LBESKLLT0550B1DU.html",
-      "summary": "11月10日谷歌DeepMind发布Gemini Robotics 2.5，定位迄今最强VLA机器人模型。Apptronik Apollo 2人形机器人在奔驰匈牙利与德国工厂产线自主分拣金属支架，成功率96%；200余项真实任务中成功率最高提升100%、速度提升30%，目前仅对机器人合作伙伴开放，仍处PoC阶段。",
+      "platform": "新浪科技",
+      "url": "https://k.sina.cn/article_7857201856_1d45362c001908uqoy.html?from=tech",
+      "summary": "当日机器人/视觉要闻聚合：京东物流发布半导体行业首个智能物流方案，实现晶圆下线到包装 100% 无人化；OpenAI 被曝解散独立机器人团队，转向用通用多模态模型操控机器人。",
       "popularity": {
         "views": 0,
         "likes": 0,
         "comments": 0
       },
       "usability": {
-        "difficulty": "hard",
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "行业资讯"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-14T02:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 55.0,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 59.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "多模态\"源神\"！MiniMax 开源 SOTA 生图模型，原生 4K，一张两毛",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026-11/509440.html",
+      "summary": "MiniMax 开放权重发布新一代图像生成模型，原生支持 4K 分辨率，单张成本约两毛人民币，主打电商素材、海报与 CAD 拆解类高精度出图，被认为是当前开源生图第一梯队。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
         "deployment": "medium",
         "docs_quality": "medium",
         "requires_coding": true
@@ -2206,14 +2026,12 @@
       "practicality": {
         "scope": "medium",
         "scenarios": [
-          "机器视觉",
-          "工业机器人",
-          "智能制造"
+          "视觉生成"
         ],
-        "maturity": "experimental"
+        "maturity": "medium"
       },
       "freshness": {
-        "publish_date": "2026-11-11T08:25:00"
+        "publish_date": "2026-11-12T19:36:00"
       },
       "pricing": {
         "has_paid_features": false
@@ -2222,99 +2040,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 42.25,
+      "total_score": 43.5,
       "detail_scores": {
         "popularity": 0.0,
-        "usability": 44.0,
-        "practicality": 45.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "不靠外部裁判，统一多模态模型学会自己「看图改图」：修复成功率提升到3倍，GenEval 0.72→0.84",
-      "type": "news",
-      "platform": "机器之心",
-      "url": "https://www.renzhiwake.com/news/news-c985cda4da97",
-      "summary": "统一多模态模型用自我校验替代外部裁判奖励，自主完成「看图—改图—再核对」闭环，图像修复成功率提升到原来的3倍，GenEval从0.72升至0.84。对缺陷图复现、数据增广与图像编辑流水线有直接参考价值。",
-      "popularity": {
-        "views": 0,
-        "likes": 1,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "机器视觉",
-          "图像生成与编辑"
-        ],
-        "maturity": "experimental"
-      },
-      "freshness": {
-        "publish_date": "2026-11-11T08:34:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 42.05,
-      "detail_scores": {
-        "popularity": 1.0,
-        "usability": 44.0,
-        "practicality": 43.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "看视频、建世界、做实验：清华Asking the World让AI用物理回答问题",
-      "type": "news",
-      "platform": "机器之心",
-      "url": "https://news.qq.com/rain/a/20261110A08A2G00",
-      "summary": "清华团队提出ATW：先用视觉语言模型从视频恢复可执行的物理世界，再选择操作并用物理工具计算运动，无需额外训练或微调即可「用物理回答问题」。相比Astra等大模型，调用Gemini-3-Flash等轻量VLM成本更低，为视觉仿真与检测场景提供新思路。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "narrow",
-        "scenarios": [
-          "机器视觉",
-          "具身智能",
-          "仿真"
-        ],
-        "maturity": "experimental"
-      },
-      "freshness": {
-        "publish_date": "2026-11-10T13:59:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 38.5,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 44.0,
-        "practicality": 30.0,
-        "freshness": 100
+        "usability": 60.0,
+        "practicality": 50.0,
+        "freshness": 80
       }
     },
     {
@@ -2352,13 +2083,14 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 74.0,
+      "total_score": 70.0,
       "detail_scores": {
         "popularity": 100,
         "usability": 53.0,
         "practicality": 43.0,
-        "freshness": 100
-      }
+        "freshness": 80
+      },
+      "_source": "pending"
     },
     {
       "name": "SLA登顶RoboDojo真机榜：港科广联合欧拉万象让机器人更懂三维空间",
@@ -2395,13 +2127,14 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 71.75,
+      "total_score": 67.75,
       "detail_scores": {
         "popularity": 100,
         "usability": 44.0,
         "practicality": 43.0,
-        "freshness": 100
-      }
+        "freshness": 80
+      },
+      "_source": "pending"
     },
     {
       "name": "英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天",
@@ -2443,6 +2176,140 @@
         "popularity": 100,
         "usability": 44.0,
         "practicality": 43.0,
+        "freshness": 80
+      },
+      "_source": "pending"
+    }
+  ],
+  "pending_items": [
+    {
+      "name": "谷歌上线其最强机器人模型 入驻奔驰生产线 分拣成功率96%",
+      "type": "news",
+      "platform": "财联社",
+      "url": "https://m.163.com/dy/article/LBESKLLT0550B1DU.html",
+      "summary": "11月10日谷歌DeepMind发布Gemini Robotics 2.5，定位迄今最强VLA机器人模型。Apptronik Apollo 2人形机器人在奔驰匈牙利与德国工厂产线自主分拣金属支架，成功率96%；200余项真实任务中成功率最高提升100%、速度提升30%，目前仅对机器人合作伙伴开放，仍处PoC阶段。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "机器视觉",
+          "工业机器人",
+          "智能制造"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-11T08:25:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 38.25,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 44.0,
+        "practicality": 45.0,
+        "freshness": 80
+      }
+    },
+    {
+      "name": "不靠外部裁判，统一多模态模型学会自己「看图改图」：修复成功率提升到3倍，GenEval 0.72→0.84",
+      "type": "news",
+      "platform": "机器之心",
+      "url": "https://www.renzhiwake.com/news/news-c985cda4da97",
+      "summary": "统一多模态模型用自我校验替代外部裁判奖励，自主完成「看图—改图—再核对」闭环，图像修复成功率提升到原来的3倍，GenEval从0.72升至0.84。对缺陷图复现、数据增广与图像编辑流水线有直接参考价值。",
+      "popularity": {
+        "views": 0,
+        "likes": 1,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "机器视觉",
+          "图像生成与编辑"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-11T08:34:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 38.05,
+      "detail_scores": {
+        "popularity": 1.0,
+        "usability": 44.0,
+        "practicality": 43.0,
+        "freshness": 80
+      }
+    },
+    {
+      "name": "看视频、建世界、做实验：清华Asking the World让AI用物理回答问题",
+      "type": "news",
+      "platform": "机器之心",
+      "url": "https://news.qq.com/rain/a/20261110A08A2G00",
+      "summary": "清华团队提出ATW：先用视觉语言模型从视频恢复可执行的物理世界，再选择操作并用物理工具计算运动，无需额外训练或微调即可「用物理回答问题」。相比Astra等大模型，调用Gemini-3-Flash等轻量VLM成本更低，为视觉仿真与检测场景提供新思路。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "narrow",
+        "scenarios": [
+          "机器视觉",
+          "具身智能",
+          "仿真"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-10T13:59:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 34.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 44.0,
+        "practicality": 30.0,
         "freshness": 80
       }
     }
