@@ -1,282 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "scy-v/VLA-Precision",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/scy-v/VLA-Precision",
-      "summary": "VLA-Precision: Asymmetric Co-Bootstrapping for Efficient Real-World Online RL of 视觉-语言-动作 模型s (语言: Python)",
-      "popularity": {
-        "views": 101,
-        "likes": 101,
-        "comments": 10
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉-语言-动作",
-          "视觉语言模型"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-02T08:40:01"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 101,
-        "forks": 10,
-        "open_issues": 1,
-        "language": "Python",
-        "license": "apache-2.0",
-        "topics": [],
-        "created_at": "2026-09-02T08:40:01Z",
-        "pushed_at": "2026-11-06T10:11:47Z"
-      },
-      "filtered": false,
-      "total_score": 62.0,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 60.0,
-        "practicality": 52.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "Arafat-shuvo/Deep-Learning-with-PyTorch",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/Arafat-shuvo/Deep-Learning-with-PyTorch",
-      "summary": "PyTorch: A comprehensive learning 框架 for mastering 深度学习, neural networks, 计算机视觉, and modern AI architectures through hands-on implementations, practical projects, and research-oriented experiments....",
-      "popularity": {
-        "views": 22,
-        "likes": 22,
-        "comments": 9
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "深度学习"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-11-03T19:10:49"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 22,
-        "forks": 9,
-        "open_issues": 12,
-        "language": "Python",
-        "license": "mit",
-        "topics": [],
-        "created_at": "2026-11-03T19:10:49Z",
-        "pushed_at": "2026-11-05T14:48:56Z"
-      },
-      "filtered": false,
-      "total_score": 59.67,
-      "detail_scores": {
-        "popularity": 67.22,
-        "usability": 44.0,
-        "practicality": 50.0,
-        "freshness": 80
-      }
-    },
-    {
-      "name": "RicePasteM/RiO-DETRv2",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/RicePasteM/RiO-DETRv2",
-      "summary": "The official implementation for RiO-DETRv2: Geometry-Aware Uncertainty 模型ing Meets 实时 Oriented 目标检测 Transformer (语言: Python)",
-      "popularity": {
-        "views": 14,
-        "likes": 14,
-        "comments": 1
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "目标检测"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-10-21T02:16:55"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 14,
-        "forks": 1,
-        "open_issues": 1,
-        "language": "Python",
-        "license": "agpl-3.0",
-        "topics": [],
-        "created_at": "2026-10-21T02:16:55Z",
-        "pushed_at": "2026-10-29T05:27:47Z"
-      },
-      "filtered": false,
-      "total_score": 45.24,
-      "detail_scores": {
-        "popularity": 19.14,
-        "usability": 60.0,
-        "practicality": 50.0,
-        "freshness": 60
-      }
-    },
-    {
-      "name": "alibaba-damo-academy/RynnVLA-Latent",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/alibaba-damo-academy/RynnVLA-Latent",
-      "summary": "RynnVLA-Latent: Scaling Robotic Manipulation 基础模型s with 三维-Grounded Latent Actions (语言: Python)",
-      "popularity": {
-        "views": 15,
-        "likes": 15,
-        "comments": 1
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉-语言-动作",
-          "三维视觉"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-10-05T06:27:35"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 15,
-        "forks": 1,
-        "open_issues": 1,
-        "language": "Python",
-        "license": "apache-2.0",
-        "topics": [],
-        "created_at": "2026-10-05T06:27:35Z",
-        "pushed_at": "2026-10-28T06:46:26Z"
-      },
-      "filtered": false,
-      "total_score": 38.05,
-      "detail_scores": {
-        "popularity": 20.15,
-        "usability": 60.0,
-        "practicality": 52.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "988hj7tczd-oss/dsh-computer-use",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/988hj7tczd-oss/dsh-computer-use",
-      "summary": "跨平台 Computer Use plugin for DeepSeek Harness: observable desktop 自动化 with an isolated virtual cursor, AX/UIA observation, screenshot vision, and 12 guarded tools. (语言: JavaScript) [标签: ai-agents, a...",
-      "popularity": {
-        "views": 63,
-        "likes": 63,
-        "comments": 6
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "机器视觉应用"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-08-15T16:22:25"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 63,
-        "forks": 6,
-        "open_issues": 4,
-        "language": "JavaScript",
-        "license": "mit",
-        "topics": [
-          "ai-agents",
-          "ai-computer-use",
-          "computer-use",
-          "cua-driver",
-          "deepseek-harness",
-          "desktop-automation",
-          "dsh-plugin",
-          "linux",
-          "macos",
-          "mcp",
-          "virtual-cursor",
-          "windows"
-        ],
-        "created_at": "2026-08-15T16:22:25Z",
-        "pushed_at": "2026-10-05T07:12:59Z"
-      },
-      "filtered": false,
-      "total_score": 61.84,
-      "detail_scores": {
-        "popularity": 93.63,
-        "usability": 69.0,
-        "practicality": 50.0,
-        "freshness": 20
-      },
-      "_source": "pending"
-    },
-    {
       "name": "ZJU-REAL/GPD",
       "type": "tool",
       "platform": "GitHub",
@@ -2946,9 +2670,129 @@
       "title_zh": "MKLink-AI-Probe：面向 Cortex-M 单片机的 AI 驱动嵌入式调试 CLI",
       "summary_zh": "MKLink AI Probe 是一体化嵌入式调试命令行工具，把 MKLink/MicroLink 硬件调试探针桥接给 Claude、OpenAI 等智能体，用自然语言完成固件烧录、日志读取与故障定位，Python + MIT 许可；属于硬件调试工具，与机器视觉直接关联较弱，仓库 https://github.com/MicroKeen/Mklink-AI-Probe。",
       "selected_on": "2026-11-15"
-    }
-  ],
-  "pending_items": [
+    },
+    {
+      "name": "GehaoZhang6/Grounded-Action-Model",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/GehaoZhang6/Grounded-Action-Model",
+      "summary": "Grounded Action 模型: 三维 Grounding as a Foundation for 机器人 (语言: Python) [标签: 3d-grounding, foundation-models, manipulation, robot-learning, robotics]",
+      "popularity": {
+        "views": 55,
+        "likes": 55,
+        "comments": 2
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉语言模型",
+          "三维视觉",
+          "机器人视觉"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-22T02:56:39"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 55,
+        "forks": 2,
+        "open_issues": 1,
+        "language": "Python",
+        "license": "mit",
+        "topics": [
+          "3d-grounding",
+          "foundation-models",
+          "manipulation",
+          "robot-learning",
+          "robotics",
+          "vision-language-action"
+        ],
+        "created_at": "2026-09-22T02:56:39Z",
+        "pushed_at": "2026-11-05T03:59:38Z"
+      },
+      "filtered": false,
+      "total_score": 54.41,
+      "detail_scores": {
+        "popularity": 65.55,
+        "usability": 69.0,
+        "practicality": 54.0,
+        "freshness": 20
+      },
+      "collected_on": "2026-11-05",
+      "selected_on": "2026-11-16",
+      "title_zh": "Grounded Action Model：以三维 Grounding 为基座的机器人动作模型",
+      "summary_zh": "GitHub 自述为「三维 Grounding as a Foundation for 机器人」，把 3D grounding（物体与部位的空间定位）作为机器人动作模型的中间基座，再衔接操作策略，用于降低纯视觉开环动作预测的空间歧义。标签覆盖 vision-language-action、manipulation、robot-learning、foundation-models；Python 实现、MIT 许可，55 star，2026-09-22 创建、2026-11-05 最近推送。"
+    },
+    {
+      "name": "bingaochen/Astra-on-RoboMME",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/bingaochen/Astra-on-RoboMME",
+      "summary": "A three-tier system for memory-augmented robotic manipulation: Astra plans, a small VLM monitors, and a VLA acts. 79.13% success on RoboMME. (语言: Python)",
+      "popularity": {
+        "views": 32,
+        "likes": 32,
+        "comments": 3
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉语言模型",
+          "视觉-语言-动作"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-21T19:32:30"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 32,
+        "forks": 3,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "apache-2.0",
+        "topics": [],
+        "created_at": "2026-09-21T19:32:30Z",
+        "pushed_at": "2026-11-05T07:44:21Z"
+      },
+      "filtered": false,
+      "total_score": 48.45,
+      "detail_scores": {
+        "popularity": 47.32,
+        "usability": 69.0,
+        "practicality": 52.0,
+        "freshness": 20
+      },
+      "collected_on": "2026-11-05",
+      "selected_on": "2026-11-16",
+      "title_zh": "Astra-on-RoboMME：Astra 规划 + 小 VLM 监控 + VLA 执行的记忆增强操作三层系统",
+      "summary_zh": "官方描述给出一套三层记忆增强机器人操作方案：Astra 负责任务规划，小型 VLM 负责过程监控（视觉核验），VLA 模型负责落地动作，在 RoboMME 基准上报告 79.13% 成功率。Python、Apache-2.0，32 star，2026-09-21 创建、2026-11-05 最近推送，适合关注 VLM 与 VLA 分工协同的部署架构。"
+    },
     {
       "name": "Zhong-Chenchen/DIVE",
       "type": "tool",
@@ -2999,8 +2843,163 @@
         "usability": 60.0,
         "practicality": 50.0,
         "freshness": 20
-      }
+      },
+      "_source": "pending",
+      "collected_on": "2026-10-30",
+      "selected_on": "2026-11-16",
+      "title_zh": "DIVE：面向高效视觉语言模型的动态迭代视觉证据构建",
+      "summary_zh": "论文《DIVE: Dynamic Iterative Visual Evidence Construction for Efficient Vision-Language Models》的官方代码，核心是按推理过程动态、迭代地构建视觉证据，从而在保持精度的同时压缩 VLM 的视觉计算开销。Python、Apache-2.0，34 star，2026-08-01 创建、2026-10-21 最近推送。"
     },
+    {
+      "name": "Xeakaes/computer-use-for-all-agents",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/Xeakaes/computer-use-for-all-agents",
+      "summary": "Give any AI agent general-purpose computer use: live screen perception (OCR, vision frames, MJPEG stream) plus safety-gated mouse, keyboard, window, virtual-desktop and game-mode control over a loc...",
+      "popularity": {
+        "views": 10,
+        "likes": 10,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "文字识别",
+          "姿态估计"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-15T13:58:50"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 10,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "mit",
+        "topics": [
+          "agent-tools",
+          "ai-agents",
+          "automation",
+          "computer-use",
+          "desktop-automation",
+          "gui-automation",
+          "llm-tools",
+          "mcp",
+          "ocr",
+          "python",
+          "remote-control",
+          "screen-capture",
+          "vision",
+          "windows"
+        ],
+        "created_at": "2026-09-15T13:58:50Z",
+        "pushed_at": "2026-10-29T08:14:55Z"
+      },
+      "filtered": false,
+      "total_score": 40.28,
+      "detail_scores": {
+        "popularity": 10.1,
+        "usability": 81.0,
+        "practicality": 52.0,
+        "freshness": 20
+      },
+      "_source": "pending",
+      "collected_on": "2026-11-14",
+      "selected_on": "2026-11-16",
+      "title_zh": "computer-use-for-all-agents：为任意 AI 智能体提供通用电脑操作能力",
+      "summary_zh": "以实时屏幕感知为输入（OCR 文本、视觉帧、MJPEG 屏幕流），向智能体提供带安全门控的鼠标、键盘、窗口、虚拟桌面乃至游戏模式控制，可本地接入并通过 MCP 暴露；标签含 screen-capture、vision、ocr、gui-automation、remote-control、mcp，属于典型「视觉感知驱动 GUI 操作」方案。MIT，10 star，2026-09-15 创建、2026-10-29 最近推送。"
+    },
+    {
+      "name": "OrderG-X/dsh-mac-computer-use",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/OrderG-X/dsh-mac-computer-use",
+      "summary": "Vision-first desktop computer use for DSH on macOS: OCR text targeting, set-of-mark indices, 11 desktop_* tools and a visible cursor. No accessibility tree. · 让 DSH 看着屏幕操作你的 Mac。 (语言: Swift) [标签: a...",
+      "popularity": {
+        "views": 11,
+        "likes": 11,
+        "comments": 1
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "文字识别"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-10T09:36:38"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 11,
+        "forks": 1,
+        "open_issues": 0,
+        "language": "Swift",
+        "license": "mit",
+        "topics": [
+          "accessibility",
+          "agent-tools",
+          "ai-agent",
+          "automation",
+          "computer-use",
+          "computer-use-agent",
+          "cursor",
+          "deepseek",
+          "deepseek-harness",
+          "desktop-automation",
+          "dsh",
+          "dsh-plugin",
+          "mac-automation",
+          "macos",
+          "ocr",
+          "screenshot",
+          "swift"
+        ],
+        "created_at": "2026-10-10T09:36:38Z",
+        "pushed_at": "2026-11-12T14:10:28Z"
+      },
+      "filtered": false,
+      "total_score": 38.58,
+      "detail_scores": {
+        "popularity": 16.11,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 20
+      },
+      "_source": "pending",
+      "collected_on": "2026-11-11",
+      "selected_on": "2026-11-16",
+      "title_zh": "dsh-mac-computer-use：macOS 上视觉优先的桌面 computer use",
+      "summary_zh": "面向 DSH 的「看着屏幕操作 Mac」实现：用 OCR 做文本定位、set-of-mark 索引标注可点元素，提供 11 个 desktop_* 工具并显示可见光标，明确不依赖系统无障碍树（accessibility tree），因此对纯视觉方案更友好。Swift、MIT，11 star，2026-10-10 创建、2026-11-12 最近推送。"
+    }
+  ],
+  "pending_items": [
     {
       "name": "zhangyi-magic/BUTR",
       "type": "tool",
@@ -3160,144 +3159,6 @@
       "total_score": 36.78,
       "detail_scores": {
         "popularity": 10.1,
-        "usability": 69.0,
-        "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "Xeakaes/computer-use-for-all-agents",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/Xeakaes/computer-use-for-all-agents",
-      "summary": "Give any AI agent general-purpose computer use: live screen perception (OCR, vision frames, MJPEG stream) plus safety-gated mouse, keyboard, window, virtual-desktop and game-mode control over a loc...",
-      "popularity": {
-        "views": 10,
-        "likes": 10,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "文字识别",
-          "姿态估计"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-15T13:58:50"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 10,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "mit",
-        "topics": [
-          "agent-tools",
-          "ai-agents",
-          "automation",
-          "computer-use",
-          "desktop-automation",
-          "gui-automation",
-          "llm-tools",
-          "mcp",
-          "ocr",
-          "python",
-          "remote-control",
-          "screen-capture",
-          "vision",
-          "windows"
-        ],
-        "created_at": "2026-09-15T13:58:50Z",
-        "pushed_at": "2026-10-29T08:14:55Z"
-      },
-      "filtered": false,
-      "total_score": 40.28,
-      "detail_scores": {
-        "popularity": 10.1,
-        "usability": 81.0,
-        "practicality": 52.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "OrderG-X/dsh-mac-computer-use",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/OrderG-X/dsh-mac-computer-use",
-      "summary": "Vision-first desktop computer use for DSH on macOS: OCR text targeting, set-of-mark indices, 11 desktop_* tools and a visible cursor. No accessibility tree. · 让 DSH 看着屏幕操作你的 Mac。 (语言: Swift) [标签: a...",
-      "popularity": {
-        "views": 11,
-        "likes": 11,
-        "comments": 1
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "文字识别"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-10-10T09:36:38"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 11,
-        "forks": 1,
-        "open_issues": 0,
-        "language": "Swift",
-        "license": "mit",
-        "topics": [
-          "accessibility",
-          "agent-tools",
-          "ai-agent",
-          "automation",
-          "computer-use",
-          "computer-use-agent",
-          "cursor",
-          "deepseek",
-          "deepseek-harness",
-          "desktop-automation",
-          "dsh",
-          "dsh-plugin",
-          "mac-automation",
-          "macos",
-          "ocr",
-          "screenshot",
-          "swift"
-        ],
-        "created_at": "2026-10-10T09:36:38Z",
-        "pushed_at": "2026-11-12T14:10:28Z"
-      },
-      "filtered": false,
-      "total_score": 38.58,
-      "detail_scores": {
-        "popularity": 16.11,
         "usability": 69.0,
         "practicality": 50.0,
         "freshness": 20
