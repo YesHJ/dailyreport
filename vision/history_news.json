@@ -1,229 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "2026全新TVA视觉智能体详解：工业检测落地应用全拆解",
-      "type": "news",
-      "platform": "CSDN",
-      "url": "https://blog.csdn.net/TVAWJK/article/details/160852884",
-      "summary": "TVA视觉智能体从机器看图像升级到智能自主思考检测，覆盖医药、电子、汽车等行业的缺陷检测落地场景。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "工业检测",
-          "TVA",
-          "智能体"
-        ],
-        "maturity": "emerging"
-      },
-      "freshness": {
-        "publish_date": "2026-10-30T08:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 46.0,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 69.0,
-        "practicality": 51.0,
-        "freshness": 80
-      }
-    },
-    {
-      "name": "别再只训YOLO了！2026智能视频分析大模型实战指南",
-      "type": "news",
-      "platform": "CSDN",
-      "url": "https://blog.csdn.net/chenchuang0128/article/details/169560207",
-      "summary": "2026年视频分析进入认知智能时代，用VLM+专用小模型蒸馏混合架构重构安防监控。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "high",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视频分析",
-          "VLM",
-          "安防监控"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-10-29T08:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 46.0,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 57.0,
-        "practicality": 63.0,
-        "freshness": 80
-      }
-    },
-    {
-      "name": "周末超高热度的物理AI：机器人视觉感知主线梳理",
-      "type": "news",
-      "platform": "东方财富",
-      "url": "https://emcreative.eastmoney.com/app_fortune/article/index.html?artCode=20261026200202205363880",
-      "summary": "梳理机器人感知赛道核心标的：奥比中光2026上半年机器人视觉方案收入翻倍、3D视觉全球份额29%居首；海康机器人机器视觉产品累计出货破1000万台，AMR全球市占率第一。机器视觉商业化正从概念验证转向收入兑现。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "机器视觉",
-          "3D视觉",
-          "机器人感知",
-          "工业检测"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-10-26T20:02:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 48.5,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 65.0,
-        "freshness": 60
-      }
-    },
-    {
-      "name": "2026年开源多模态VLM模型对比：Qwen3-VL、InternVL3、Kimi K2.5谁最能打",
-      "type": "news",
-      "platform": "CSDN",
-      "url": "https://blog.csdn.net/m0_59235245/article/details/162560472",
-      "summary": "全面对比2026年主流开源VLM：Qwen3-VL-235B全能冠军、InternVL3-78B原生多模态最强、DeepSeek-VL2 OCR超越GPT-4o、STEP3-VL-10B端侧惊喜。按旗舰/中坚/端侧三层给出选型指南和避坑建议。",
-      "popularity": {
-        "views": 1200,
-        "likes": 5,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "high",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "high",
-        "scenarios": [
-          "VLM",
-          "OCR",
-          "视觉问答",
-          "GUI自动化"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-07-03T20:59:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 43.6,
-      "detail_scores": {
-        "popularity": 17.0,
-        "usability": 78.0,
-        "practicality": 60.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "多模态与视觉大模型开发实战：从\"看懂\"到\"理解世界\"的范式革命",
-      "type": "news",
-      "platform": "掘金",
-      "url": "https://juejin.cn/entry/7681138712659574799",
-      "summary": "系统梳理视觉大模型从CNN到ViT的架构演进，重点剖析商汤SenseNova-Vision原生统一视觉任务、小鹏TuringViT高效推理、清华AdaptiveNN主动视觉等2026年突破性技术，探讨视觉大模型从\"执行工具\"到\"世界理解模型\"的转型。",
-      "popularity": {
-        "views": 121,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "high",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "high",
-        "scenarios": [
-          "视觉大模型",
-          "VLM",
-          "目标检测",
-          "图像分割"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-09-03T08:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 35.86,
-      "detail_scores": {
-        "popularity": 1.21,
-        "usability": 66.0,
-        "practicality": 60.0,
-        "freshness": 20
-      }
-    },
-    {
       "name": "基于YOLOv8的晶圆缺陷检测系统：从传统视觉到深度学习实战",
       "type": "news",
       "platform": "CSDN",
@@ -2179,6 +1956,246 @@
         "freshness": 80
       },
       "_source": "pending"
+    },
+    {
+      "name": "以智能体视角，清华首发具身智能综述：从端到端策略到自主系统",
+      "type": "news",
+      "platform": "新智元",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tg4a2244",
+      "summary": "新智元报道（发布时间 2026-11-13 19:16，热度值 3902）：清华大学团队发布以「智能体」视角组织的首部具身智能综述，把 VLA（视觉-语言-动作）模型、世界-动作模型等端到端策略与分层自主系统放进统一框架讨论，系统梳理视觉感知、模仿学习与强化学习、记忆与规划，以及端侧-边缘-云端协同部署的技术脉络与开放问题，并给出持续演进的项目主页 agenticei.github.io/AEI-Survey-page/ 供检索论文列表与后续更新。",
+      "popularity": {
+        "views": 3902,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "VLA/世界模型技术路线选型",
+          "视觉感知与操作策略研究参考",
+          "端边云部署方案调研"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-13T19:16:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-15",
+      "filtered": false,
+      "total_score": 67.71,
+      "detail_scores": {
+        "popularity": 39.02,
+        "usability": 81.0,
+        "practicality": 63.0,
+        "freshness": 100
+      },
+      "title_zh": "以智能体视角，清华首发具身智能综述：从端到端策略到自主系统",
+      "summary_zh": "新智元报道：清华大学团队发布以智能体视角组织的具身智能综述，把 VLA、世界-动作模型等端到端策略与分层自主系统纳入统一框架，梳理视觉感知、模仿学习与强化学习、记忆规划以及端侧-边缘-云端部署的技术脉络与开放问题，项目页 https://agenticei.github.io/AEI-Survey-page/。",
+      "selected_on": "2026-11-15"
+    },
+    {
+      "name": "两张B300就能跑！594B多模态Inkling 2 Small开源，仅激活17B",
+      "type": "news",
+      "platform": "新智元",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=1c2d0ecb",
+      "summary": "新智元报道（发布时间 2026-11-13 04:50，热度值 3906）：Thinking Machines 开源多模态模型 Inkling 2 Small，总参数 594B、每次前向仅激活约 17B 的 MoE 架构，支持图像输入，可根据视觉反馈持续修改网站、游戏与 3D 内容并调节推理强度；训练采用 NVFP4 低精度格式，权重以 Apache 2.0 许可上架 HuggingFace，官方给出 SGLang 与 vLLM 部署路径，两张 B300 即可运行，使超大参数量多模态模型的私有化部署门槛明显下降。",
+      "popularity": {
+        "views": 3906,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "图像输入的多模态理解",
+          "视觉反馈驱动的界面与 3D 内容迭代生成",
+          "SGLang/vLLM 私有化推理部署"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-13T04:50:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-15",
+      "filtered": false,
+      "total_score": 59.97,
+      "detail_scores": {
+        "popularity": 39.06,
+        "usability": 60.0,
+        "practicality": 69.0,
+        "freshness": 80
+      },
+      "title_zh": "两张B300就能跑！594B多模态Inkling 2 Small开源，仅激活17B",
+      "summary_zh": "新智元报道：Thinking Machines 开源总参数 594B、激活约 17B 的多模态 MoE 模型 Inkling 2 Small，支持图像输入，可依据视觉反馈持续修改网站、游戏与 3D 内容并调节推理强度；训练采用 NVFP4 格式，权重以 Apache 2.0 许可发布在 HuggingFace，官方给出 SGLang 与 vLLM 部署路径，两张 B300 即可运行。",
+      "selected_on": "2026-11-15"
+    },
+    {
+      "name": "逼近GPT-6 Astra！韩松团队让Qwen3.8-27B在5090上操作机械臂，现已开源",
+      "type": "news",
+      "platform": "机器之心",
+      "url": "https://tech.sina.cn/2026-11-15/detail-iniyuykc2009557.d.html",
+      "summary": "机器之心报道（此链接为新浪科技转载镜像，原文首发于机器之心）：MIT 韩松团队公开机器人后训练项目 PEAR（Post-training Engine for Agentic Robotics），把开源 Qwen3.8-27B 接到真实双臂机器人上。模型每回合接收三路摄像头画面与机械臂关节状态，在思维链中推理后输出包含 x/y/z/roll/pitch/yaw 的 JSON 目标位姿，由逆运动学与底层控制器执行，全程无独立感知模块、抓取规划器或技能库。训练只在仿真环境做强化学习（Robot-Use RL），未使用真机数据与人类遥操演示；迁移到从未见过的双臂 YAM 真机后 30 次测试成功 18 次（训练前为 0），LIBERO 成功率从 1.6% 提升到 74.4%，任务替换/布局替换扰动下仅下降 17/16.9 分（π0.5 下降 96.2/76.1 分）。推理栈采用 NVFP4 权重量化（NVIDIA ModelOpt）+ Inco AI DFlash2 drafter，单张 RTX 5090 达 221 tok/s，可实时驱动机械臂；论文、代码、权重与博客均已开源。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "多路摄像头输入的机械臂视觉操控",
+          "通用大模型向 VLA 能力的后训练",
+          "消费级 GPU 上的实时推理部署"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-15T14:34:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-15",
+      "filtered": false,
+      "total_score": 48.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 69.0,
+        "practicality": 45.0,
+        "freshness": 100
+      },
+      "title_zh": "逼近GPT-6 Astra！韩松团队让Qwen3.8-27B在5090上操作机械臂，现已开源",
+      "summary_zh": "机器之心报道：MIT 韩松团队开源机器人后训练项目 PEAR，Qwen3.8-27B 每回合接收三路摄像头画面与关节状态，经思维链输出末端执行器位姿 JSON 直接驱动双臂机械臂，无独立感知模块与技能库；仅用仿真强化学习即在未训练过的 YAM 真机上 30 次成功 18 次，LIBERO 从 1.6% 提升到 74.4%，视觉基准与底座分差不超过 2 分；推理栈采用 NVFP4 量化加 DFlash2 drafter，单张 RTX 5090 达 221 tok/s。代码 https://github.com/mit-han-lab/pear，权重 https://huggingface.co/collections/mit-han-lab/pear。",
+      "selected_on": "2026-11-15"
+    },
+    {
+      "name": "大模型都能控机器人，Human Data还得怎么卷？",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026-11-509468.html",
+      "summary": "量子位 2026-11-13 11:31 报道：简智机器人在 2026 CoRL 发布 DAS 2.0 两款新品——第一视角头戴式多模态采集设备 DAS Ego 2.0（6 颗全局快门相机、30fps 同步成像、水平视野 340°，2 颗主相机升级至 500 万像素、另 4 颗 200 万像素，指尖追踪标称精度 4mm，磁吸电池不停机更换）与灵巧手数据采集手套 DAS Dex 2.0（自研半柔性压阻式电子皮肤，单手 16 块触觉传感器/980 个感知单元，触觉空间分辨率 1mm、最小检测力 0.1N、采样 100Hz，21 个关节编码器支持 21DoF，指尖位置精度小于 1mm）。二者通过统一时钟与硬件触发实现约 1ms 头手时间对齐；团队正探索 Ego+Wrist Camera+Dex 同步配对采集，用配对监督与知识蒸馏把实测触觉迁移到更轻量的视觉方案，目标是不戴手套也能仅凭相机估计接触状态并获得像素级手部追踪。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "具身智能第一视角/腕部多相机数据采集",
+          "手部关键点与轨迹标注质量提升",
+          "触觉监督视觉模型的蒸馏训练"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-13T11:31:25"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-15",
+      "filtered": false,
+      "total_score": 44.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 60.0,
+        "practicality": 54.0,
+        "freshness": 80
+      },
+      "title_zh": "大模型都能控机器人，Human Data还得怎么卷？",
+      "summary_zh": "量子位报道：简智机器人在 CoRL 2026 发布 DAS 2.0 两款采集设备——DAS Ego 2.0 头戴第一视角设备（6 颗全局快门相机、30fps 同步成像、水平视野 340°、主相机升至 500 万像素）与 DAS Dex 2.0 灵巧手数据手套（单手 16 块触觉传感器/980 个感知单元、1mm 空间分辨率、0.1N 最小检测力、21DoF），头手时间对齐约 1ms；团队正探索 Ego+Wrist+Dex 配对采集，用配对监督与知识蒸馏把实测触觉迁移到更轻量的视觉方案，实现像素级手部追踪与接触状态估计。",
+      "selected_on": "2026-11-15"
+    },
+    {
+      "name": "中国机器人学会隔墙“递眼色”！成功率从0飙到100%，组队干活不烧心",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026-11-509614.html",
+      "summary": "量子位 2026-11-13 14:29 报道：深圳星尘智能发布面向多机器人协同操作的框架 CoMind（Be My Eye），核心是「去中心化的主动共享」与「任务关键信息的精选压缩」——不再整帧转发摄像头画面，而是由上下文编码器从多路相机观测中筛选压缩与当前任务和后续动作相关的视觉特征，接收方把共享信息与自身视觉观测、任务指令、本体状态一起输入视觉-语言-动作（VLA）模型生成连续动作；框架还引入「动作级反向传播」，让队友的动作误差回传优化信息提供方的特征提取。六项真机实验（隔墙拿笔、盲盒置物、纸箱组装、叠被收纳、冰箱补货、哑铃组装）中，隔墙拿笔成功率从 0% 提升到 100%，盲盒置物准确率从 38.9% 提升到 88.9%，通信信息量减少约 80%。技术报告见 www.astribot.com/AI/CoMind。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "多机器人协同装配与搬运",
+          "视觉遮挡下的关键特征压缩传输",
+          "VLA 模型的动作决策优化"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-13T14:29:23"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-15",
+      "filtered": false,
+      "total_score": 38.25,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 44.0,
+        "practicality": 45.0,
+        "freshness": 80
+      },
+      "title_zh": "中国机器人学会隔墙“递眼色”！成功率从0飙到100%，组队干活不烧心",
+      "summary_zh": "量子位报道：星尘智能发布多机器人协同框架 CoMind（Be My Eye），由上下文编码器从多路摄像头观测中筛选压缩任务关键视觉特征，双向共享后与自身视觉观测、任务指令、本体状态一起输入 VLA 模型生成连续动作，并用“动作级反向传播”优化信息提取；真机测试中隔墙拿笔成功率从 0% 提升到 100%，盲盒置物准确率从 38.9% 提升到 88.9%，通信信息量减少约 80%，技术报告 www.astribot.com/AI/CoMind。",
+      "selected_on": "2026-11-15"
     }
   ],
   "pending_items": [
