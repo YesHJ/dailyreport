@@ -1,220 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "AI与大模型新闻日报 | 2026-11-06",
-      "type": "news",
-      "platform": "CSDN",
-      "url": "https://blog.csdn.net/dozenyaoyida/article/details/170183921",
-      "summary": "11月6日AI要闻汇总：OpenAI发布安全专用模型GPT-6 Cyber，京东物流在CeMAT ASIA升级仓储机器人，英伟达发布推理技术解读。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "行业动态",
-          "大模型"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-06T08:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 55.5,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 61.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "荣耀CEO李健：AI入口无需争夺 信任自会汇聚",
-      "type": "news",
-      "platform": "东方财富",
-      "url": "https://wap.eastmoney.com/a/202611063924705123.html",
-      "summary": "11月6日2026移动网络大会上，荣耀CEO李健称算力与大模型并非终局，AI入口之争不是零和博弈，端侧Agent应以用户信任为核心。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "端侧AI",
-          "行业动态"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-06T14:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 55.5,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 61.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "OpenAI、Anthropic接连更新产品，海外大模型商业化应用加速落地",
-      "type": "news",
-      "platform": "今日头条",
-      "url": "https://m.toutiao.com/w/1881065442689098/",
-      "summary": "11月6日消息，海外头部厂商密集迭代，OpenAI推出GPT-6 Cyber强化网络安全，安全AI与金融AI路径为国内厂商商业化提供参考。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "大模型",
-          "AI安全"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-06T10:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 55.5,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 61.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "澎湃AI早新闻丨2026年11月5日：进博会开幕，AI与机器人成最大看点",
-      "type": "news",
-      "platform": "澎湃新闻",
-      "url": "https://m.thepaper.cn/newsDetail_forward_34410019",
-      "summary": "澎湃AI早新闻11月5日：第九届进博会开幕，4142家境外企业参展、展览面积首破44万平方米，AI与机器人成为本届最大看点。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "行业动态",
-          "具身智能"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-05T07:30:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 55.5,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 61.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "张朝阳乌镇发声：搜狐做不起大模型，是清醒而非冷静选择",
-      "type": "news",
-      "platform": "新浪财经",
-      "url": "https://finance.sina.cn/stock/jdts/2026-11-06/detail-inixuqia5509972.d.html",
-      "summary": "在2026世界互联网大会乌镇峰会期间，张朝阳谈大模型热潮，称搜狐不做基础大模型是资源约束下的清醒选择，应用层优先。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "行业动态"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-06T11:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 55.0,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 59.0,
-        "freshness": 100
-      }
-    },
-    {
       "name": "腾讯 Hy4 调用激增已十倍扩容，Agent 能力开源模型第一",
       "type": "news",
       "platform": "量子位",
@@ -2158,6 +1944,246 @@
         "practicality": 54.0,
         "freshness": 100
       }
+    },
+    {
+      "name": "AI 自动写 PR，模型反而最简单：Inkitt 如何应对 Webhook 重复、CI 失败与合并冲突",
+      "type": "news",
+      "platform": "InfoQ",
+      "url": "https://www.infoq.cn/article/YRXscVHsTh0g6CVCJJ0D",
+      "summary": "Inkitt 披露已投入日常交付的一次性 PR 自动生成系统：事件驱动编排器协调短生命周期智能体容器，覆盖需求实现、验证、CI 失败修复与合并冲突解决，运行状态持久化到数据库以支持断点恢复。",
+      "popularity": {
+        "views": 14264,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "自动化 PR",
+          "事件驱动编排",
+          "CI 修复"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-14"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-15",
+      "filtered": false,
+      "total_score": 88.25,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 90.0,
+        "practicality": 63.0,
+        "freshness": 100
+      },
+      "title_zh": "AI 自动写 PR：Inkitt 如何应对 Webhook 重复、CI 失败与合并冲突",
+      "summary_zh": "InfoQ 介绍 Inkitt 已投入日常交付的一次性 PR 自动生成系统：事件驱动编排器调度短生命周期智能体容器，覆盖需求说明、实现、验证、CI 失败修复与合并冲突解决，并把运行状态持久化到数据库以支持断点恢复。",
+      "selected_on": "2026-11-15T23:25:00+08:00"
+    },
+    {
+      "name": "GitLab 19.5 发布，将智能体开发纳入可治理的 DevOps 平台能力",
+      "type": "news",
+      "platform": "InfoQ",
+      "url": "https://www.infoq.cn/article/0IpE2EOypcqMFtL7z4z1",
+      "summary": "GitLab 19.5 聚焦智能体软件开发与治理，GitLab MCP 服务端正式 GA，并拓展外部 AI 智能体与 GitLab 的交互能力，把 Agent 编码流程纳入可治理、可审计的 DevOps 平台。",
+      "popularity": {
+        "views": 6911,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "智能体 DevOps",
+          "MCP",
+          "平台治理"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-15"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-15",
+      "filtered": false,
+      "total_score": 82.73,
+      "detail_scores": {
+        "popularity": 69.11,
+        "usability": 90.0,
+        "practicality": 78.0,
+        "freshness": 100
+      },
+      "title_zh": "GitLab 19.5 发布：把智能体开发纳入可治理的 DevOps 平台能力",
+      "summary_zh": "GitLab 19.5 聚焦智能体软件开发与治理，GitLab MCP 服务端正式 GA，并拓展外部 AI 智能体与 GitLab 的交互能力，使 Agent 编码流程进入可审计、可治理的平台底座。",
+      "selected_on": "2026-11-15T23:25:00+08:00"
+    },
+    {
+      "name": "闭环 AI 自我进化：从 Skill、Harness 到模型训练与评估｜AICon北京",
+      "type": "news",
+      "platform": "InfoQ",
+      "url": "https://www.infoq.cn/article/fZSEkDatL9xajG8PVi7G",
+      "summary": "AICon 北京议题，介绍 RetriEvolver 在异构检索系统中的自我演进实践，串起从 Skill、Harness 到模型训练与评估的闭环路径。",
+      "popularity": {
+        "views": 6008,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "narrow",
+        "scenarios": [
+          "检索系统",
+          "Agent 自进化",
+          "模型评估"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-15"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-15",
+      "filtered": false,
+      "total_score": 68.02,
+      "detail_scores": {
+        "popularity": 60.08,
+        "usability": 90.0,
+        "practicality": 30.0,
+        "freshness": 100
+      },
+      "title_zh": "闭环 AI 自我进化：从 Skill、Harness 到模型训练与评估（AICon 北京）",
+      "summary_zh": "AICon 北京议题，以 RetriEvolver 为例展示自我演进在异构检索系统中的应用成效，串起 Skill、Harness、模型训练与评估的闭环路径。",
+      "selected_on": "2026-11-15T23:25:00+08:00"
+    },
+    {
+      "name": "为什么 agent 的 demo 都很惊艳，上了生产就不靠谱",
+      "type": "news",
+      "platform": "掘金",
+      "url": "https://juejin.cn/post/7707938781526245391",
+      "summary": "对比 LiveBench 2.0 通用任务榜与 EON 模拟企业环境的成绩差，指出 demo 测能力上限、生产考可靠性下限，梳理策略漂移、多源信息纠缠、长上下文三类翻车模式，并给出自建数字孪生与带置信区间评测的最小动作。",
+      "popularity": {
+        "views": 12,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "Agent 评测",
+          "可靠性工程",
+          "生产上线"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-15"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-15",
+      "filtered": false,
+      "total_score": 59.79,
+      "detail_scores": {
+        "popularity": 0.12,
+        "usability": 90.0,
+        "practicality": 69.0,
+        "freshness": 100
+      },
+      "title_zh": "为什么 Agent 的 demo 都很惊艳，上了生产就不靠谱",
+      "summary_zh": "对照 LiveBench 2.0 通用任务榜与 EON 模拟企业环境的成绩差，指出 demo 测能力上限、生产考可靠性下限，归纳策略漂移、多源信息纠缠、长上下文三类翻车模式，并给出数字孪生评测与带置信区间报告的最小实践步骤。",
+      "selected_on": "2026-11-15T23:25:00+08:00"
+    },
+    {
+      "name": "热点速递 | Chrome、Edge、Firefox、MDN 把 Web 最佳实践做成 Skill",
+      "type": "news",
+      "platform": "掘金",
+      "url": "https://juejin.cn/post/7708108251456356387",
+      "summary": "Chrome、Edge、Firefox、MDN 四家把现代 Web 最佳实践做成编码 Agent 可直接读取的 skill，以 CLI 加 skill 包自动识别并替换过时写法，仓库 GoogleChrome/modern-web-guidance 2026-11-15 单日新增 3635 star。",
+      "popularity": {
+        "views": 36,
+        "likes": 0,
+        "comments": 1
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "编码 Agent",
+          "前端规范",
+          "Web API 迁移"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-15"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-15",
+      "filtered": false,
+      "total_score": 57.61,
+      "detail_scores": {
+        "popularity": 5.36,
+        "usability": 90.0,
+        "practicality": 54.0,
+        "freshness": 100
+      },
+      "title_zh": "Chrome、Edge、Firefox、MDN 把 Web 最佳实践做成 Agent Skill",
+      "summary_zh": "四家标准与浏览器厂商联合推出 GoogleChrome/modern-web-guidance，用 CLI 加 skill 包让编码 Agent 直接读取现代 Web 最佳实践并识别、替换过时写法，2026-11-15 单日新增 3635 star，居当日 GitHub star 增速第一。",
+      "selected_on": "2026-11-15T23:25:00+08:00"
     }
   ],
   "pending_items": [
@@ -3685,6 +3711,187 @@
         "usability": 44.0,
         "practicality": 30.0,
         "freshness": 80
+      }
+    },
+    {
+      "name": "AI 日报（2026年11月15日）",
+      "type": "news",
+      "platform": "CSDN",
+      "url": "https://damodev.csdn.net/6af915f8e5f4ca4eff9187c7.html",
+      "summary": "DAMO 开发者矩阵聚合 26 条当日 AI 动态：Anthropic IPO 认购约 6 倍、拟最高募资 904 亿美元，Runway 以 Apache 2.0 开源机器人模型 Praxis-1，OpenAI 再次解散机器人团队，arXiv 披露大模型隐写泄露风险与 RLVR 新方法。",
+      "popularity": {
+        "views": 252,
+        "likes": 3,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "行业动态",
+          "模型发布",
+          "研究论文",
+          "产品应用"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-15T10:15:54+08:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-15",
+      "filtered": false,
+      "total_score": 54.16,
+      "detail_scores": {
+        "popularity": 5.5200000000000005,
+        "usability": 90.0,
+        "practicality": 80.0,
+        "freshness": 50
+      }
+    },
+    {
+      "name": "AI Agent 工具设计：接了上百个工具，为什么反而更难干活？",
+      "type": "news",
+      "platform": "掘金",
+      "url": "https://juejin.cn/post/7708258923018584102",
+      "summary": "区分能力形态与展示策略，指出 MCP 只解决接入问题、应用仍需决定本轮让 Agent 看见多少工具；Qwen3-4B 三题小样本实验中按需查找未提升准确率，并提示第三方工具说明与 Skill 脚本的注入风险。",
+      "popularity": {
+        "views": 13,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "工具设计",
+          "MCP",
+          "上下文管理"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-15"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-15",
+      "filtered": false,
+      "total_score": 53.79,
+      "detail_scores": {
+        "popularity": 0.13,
+        "usability": 90.0,
+        "practicality": 45.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "Gemini 4 Hydrogen 正式发布：API 价格、Token 成本与多模型 Agent 路由架构解析",
+      "type": "news",
+      "platform": "CSDN",
+      "url": "https://blog.csdn.net/Dustin_CR/article/details/170727083",
+      "summary": "围绕 11 月 12 日发布的 Gemini 4 Hydrogen，梳理其最高 100 万 token 上下文、low/medium/high/xhigh 四档思考级别与输入 1.5 美元、输出 7.5 美元每百万 token 的定价，并讨论企业 Agent 多模型路由、限流回退与成本验证方法。",
+      "popularity": {
+        "views": 420,
+        "likes": 3,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "多模型路由",
+          "API 成本",
+          "企业 Agent"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-13T14:43:36+08:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-15",
+      "filtered": false,
+      "total_score": 48.16,
+      "detail_scores": {
+        "popularity": 7.199999999999999,
+        "usability": 90.0,
+        "practicality": 54.0,
+        "freshness": 50
+      }
+    },
+    {
+      "name": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/11/510232.html",
+      "summary": "UniPat AI 牵头发布湿实验预测基准 SPU，含 116 个任务、4207 个真实湿实验，覆盖化学、材料、生物与医学；最高平均分仅 0.486，仅 34%~52% 任务超过随机水平，提高推理强度与算力收益有限，数据与代码已开源。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI for Science",
+          "科研评测",
+          "湿实验预测"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-14T17:58:22+08:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-15",
+      "filtered": false,
+      "total_score": 46.0,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 90.0,
+        "practicality": 54.0,
+        "freshness": 50
       }
     }
   ]
