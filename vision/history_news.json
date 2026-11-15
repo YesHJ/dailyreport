@@ -1,227 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "基于YOLOv8的晶圆缺陷检测系统：从传统视觉到深度学习实战",
-      "type": "news",
-      "platform": "CSDN",
-      "url": "https://m.blog.csdn.net/weixin_29063979/",
-      "summary": "从数据集标注、YOLOv8模型训练调参到PySide6界面封装，系统讲解可落地的晶圆缺陷检测系统构建方法。",
-      "popularity": {
-        "views": 55,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "high",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "半导体检测",
-          "YOLOv8",
-          "缺陷检测"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-10-17T14:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 44.41,
-      "detail_scores": {
-        "popularity": 0.55,
-        "usability": 66.0,
-        "practicality": 63.0,
-        "freshness": 60
-      },
-      "_source": "pending"
-    },
-    {
-      "name": "Halcon vs OpenCV：机器视觉入门到底该学哪个？2026最新对比",
-      "type": "news",
-      "platform": "搜狐",
-      "url": "https://www.sohu.com/a/1055235413_122842430",
-      "summary": "2026年AI深度学习全面渗透机器视觉，一站式平台崛起。阿丘科技Advision、康耐视VisionPro、海康VisionMaster等降低开发门槛。文章对比Halcon与OpenCV在工业视觉中的定位与趋势。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "Halcon",
-          "OpenCV",
-          "机器视觉学习"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-10-20T08:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 48.0,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 63.0,
-        "freshness": 60
-      }
-    },
-    {
-      "name": "具身智能：从未来产业到新增长点，如何跨越万亿赛道的死亡谷",
-      "type": "news",
-      "platform": "36氪",
-      "url": "http://36kr.com/p/3956413323335302",
-      "summary": "2026年全球人形机器人出货量预计达6.25万台，同比增长247%。广义具身智能市场规模预计突破1万亿元，上半年国内融资总额935亿元。机器视觉在半导体、新能源、3C行业的商业化兑现加速。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "large",
-        "scenarios": [
-          "具身智能",
-          "人形机器人",
-          "机器视觉市场"
-        ],
-        "maturity": "emerging"
-      },
-      "freshness": {
-        "publish_date": "2026-10-28T08:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 47.75,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 46.0,
-        "freshness": 80
-      }
-    },
-    {
-      "name": "机器视觉在线瑕疵检测：优势、局限与落地实战指南",
-      "type": "news",
-      "platform": "CSDN",
-      "url": "https://blog.csdn.net/weixin_29056101/article/details/165689679",
-      "summary": "系统阐述机器视觉在线瑕疵检测完整技术链路，涵盖成像触发、硬件选型、打光设计、传统算法与深度学习协同策略。强调落地需以光学稳定为前提、以节拍预算为约束、以过杀漏杀权衡为关键决策点。",
-      "popularity": {
-        "views": 247,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "high",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "缺陷检测",
-          "工业视觉",
-          "深度学习"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-10-13T08:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 44.99,
-      "detail_scores": {
-        "popularity": 2.4699999999999998,
-        "usability": 66.0,
-        "practicality": 63.0,
-        "freshness": 60
-      }
-    },
-    {
-      "name": "物理AI+具身智能强关联10家公司：感知、决策、执行全链条",
-      "type": "news",
-      "platform": "今日头条",
-      "url": "https://m.toutiao.com/article/7703861631272485410/",
-      "summary": "文章梳理物理AI与具身智能产业链10家核心公司，涵盖能科科技的灵智训推平台、奥比中光3D视觉感知龙头、汇川技术工业自动化等。行业正从视觉中心主义迈向视觉+触觉双中心新阶段。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "具身智能",
-          "3D视觉",
-          "物理AI"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-04T08:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 56.0,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 63.0,
-        "freshness": 100
-      }
-    },
-    {
       "name": "2026具身智能企业场景布局全景：单岗位深耕还是多岗位覆盖？",
       "type": "news",
       "platform": "证券之星",
@@ -2196,9 +1975,198 @@
       "title_zh": "中国机器人学会隔墙“递眼色”！成功率从0飙到100%，组队干活不烧心",
       "summary_zh": "量子位报道：星尘智能发布多机器人协同框架 CoMind（Be My Eye），由上下文编码器从多路摄像头观测中筛选压缩任务关键视觉特征，双向共享后与自身视觉观测、任务指令、本体状态一起输入 VLA 模型生成连续动作，并用“动作级反向传播”优化信息提取；真机测试中隔墙拿笔成功率从 0% 提升到 100%，盲盒置物准确率从 38.9% 提升到 88.9%，通信信息量减少约 80%，技术报告 www.astribot.com/AI/CoMind。",
       "selected_on": "2026-11-15"
-    }
-  ],
-  "pending_items": [
+    },
+    {
+      "name": "中专生拍出《哈利·波特》爆款！欧美明星、好莱坞制片人集体点赞",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/11/510013.html",
+      "summary": "量子位 2026-11-14 10:59 报道（作者一水）：中专出身、LibTV 签约导演 foyege 用该平台的「无限画布」组织 AI 短片生产——先在画布上生成角色三视图等资产，再做二维构图与分镜，并一站式调度 Seedance、万相、可灵等多个视频生成模型逐段出片、串联成片，以绕开单模型在镜头一致性上的短板。该短片在欧美社交平台累计约 3000 万播放，获多位好莱坞从业者与明星转发。展示的是以视觉生成模型为核心的分镜-资产-调度工作流，而非某个模型的单点能力；平台为商业化产品。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI 短片分镜与镜头一致性生产",
+          "多视频生成模型统一调度",
+          "角色三视图等视觉资产构建"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-14T10:59:35"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 56.0,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 63.0,
+        "freshness": 100
+      },
+      "selected_on": "2026-11-16",
+      "title_zh": "中专生拍出《哈利·波特》爆款！欧美明星、好莱坞制片人集体点赞",
+      "summary_zh": "量子位 2026-11-14 10:59 报道（作者一水）：中专出身、LibTV 签约导演 foyege 用该平台的「无限画布」组织 AI 短片生产——先在画布上生成角色三视图等资产，再做二维构图与分镜，并一站式调度 Seedance、万相、可灵等多个视频生成模型逐段出片、串联成片，以绕开单模型在镜头一致性上的短板。该短片在欧美社交平台累计约 3000 万播放，获多位好莱坞从业者与明星转发。展示的是以视觉生成模型为核心的分镜-资产-调度工作流，而非某个模型的单点能力；平台为商业化产品。",
+      "collected_on": "2026-11-16"
+    },
+    {
+      "name": "触觉战争又一勇士，纬钛机器人完成数亿元A轮融资",
+      "type": "news",
+      "platform": "维科网",
+      "url": "https://robot.ofweek.com/2026-11/ART-8321201-12005-30711600.html",
+      "summary": "维科网机器人频道 2026-11-13 10:13 报道（融资事件发生于 11 月 12 日）：纬钛机器人完成数亿元 A 轮融资，中车资本、永鑫方舟领投，鲁信创投、木棉花基金、银杏谷资本、华仓资本跟投。公司走 MIT CSAIL Edward Adelson 的 GelSight 视触觉技术路线，GF515 传感器尺寸 15×27mm、重量不足 15g，触点密度超万点/cm²，可分辨 10 微米级纹理、力灵敏度 0.01N、采样率 120Hz；同时发布白虎-VTouch 视触觉数据集（累计超 6 万分钟，首批开源），并与小米智能制造合作视触觉手眼协同方案，面向精密装配与工业检测场景。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "精密装配与柔顺抓取",
+          "工业质检与表面缺陷判别",
+          "视触觉数据采集与多模态模型训练"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-13T10:13:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 44.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 60.0,
+        "practicality": 54.0,
+        "freshness": 80
+      },
+      "selected_on": "2026-11-16",
+      "title_zh": "触觉战争又一勇士，纬钛机器人完成数亿元A轮融资",
+      "summary_zh": "维科网机器人频道 2026-11-13 10:13 报道（融资事件发生于 11 月 12 日）：纬钛机器人完成数亿元 A 轮融资，中车资本、永鑫方舟领投，鲁信创投、木棉花基金、银杏谷资本、华仓资本跟投。公司走 MIT CSAIL Edward Adelson 的 GelSight 视触觉技术路线，GF515 传感器尺寸 15×27mm、重量不足 15g，触点密度超万点/cm²，可分辨 10 微米级纹理、力灵敏度 0.01N、采样率 120Hz；同时发布白虎-VTouch 视触觉数据集（累计超 6 万分钟，首批开源），并与小米智能制造合作视触觉手眼协同方案，面向精密装配与工业检测场景。",
+      "collected_on": "2026-11-16"
+    },
+    {
+      "name": "NeurIPS 2026｜AI搜索时搜到的图，为什么用不了？港科大给每张图编了号",
+      "type": "news",
+      "platform": "机器之心",
+      "url": "https://finance.sina.cn/stock/jdts/2026-11-15/detail-iniyvery6396048.d.html",
+      "summary": "机器之心（机器之心Pro 转载页时间戳 11.15 17:15，原文发布于 11 月 14 日）报道：香港科技大学 MMSense Lab 提出视觉原生智能体框架 Visual-Native Agent Harness，把题目原图与工具返回的新图统一存入 image bank 并逐张编号，使检索、打开网页、放大、旋转、以图搜图、Python 计算等九种工具能跨步骤接力使用同一张图；同时提出 On-policy Data Evolution（ODE），用即将受训的目标模型自身做 rollout，反向修订出题规则。Qwen3-VL-30B 在八项评测的平均准确率由标准搜索流程 24.8% 提升到框架 30.6%、SFT 39.5%、RL 41.5%，8B 由 24.9% 升至 39.0%；MMBC 记录到 306 次图片复用（191 次放大、113 次以图搜图），关闭复用准确率 7.59%、保留全部图片 12.50%。工作已被 NeurIPS 2026 接收，第一作者黄仕爵，通讯作者冯一人。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "多模态搜索与图文证据交叉核验",
+          "VLM/视觉智能体的训练数据合成与 RL 出题",
+          "图搜、放大、裁剪等视觉工具链编排"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-15T17:15:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 42.25,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 44.0,
+        "practicality": 45.0,
+        "freshness": 100
+      },
+      "selected_on": "2026-11-16",
+      "title_zh": "NeurIPS 2026｜AI搜索时搜到的图，为什么用不了？港科大给每张图编了号",
+      "summary_zh": "机器之心（机器之心Pro 转载页时间戳 11.15 17:15，原文发布于 11 月 14 日）报道：香港科技大学 MMSense Lab 提出视觉原生智能体框架 Visual-Native Agent Harness，把题目原图与工具返回的新图统一存入 image bank 并逐张编号，使检索、打开网页、放大、旋转、以图搜图、Python 计算等九种工具能跨步骤接力使用同一张图；同时提出 On-policy Data Evolution（ODE），用即将受训的目标模型自身做 rollout，反向修订出题规则。Qwen3-VL-30B 在八项评测的平均准确率由标准搜索流程 24.8% 提升到框架 30.6%、SFT 39.5%、RL 41.5%，8B 由 24.9% 升至 39.0%；MMBC 记录到 306 次图片复用（191 次放大、113 次以图搜图），关闭复用准确率 7.59%、保留全部图片 12.50%。工作已被 NeurIPS 2026 接收，第一作者黄仕爵，通讯作者冯一人。",
+      "collected_on": "2026-11-16"
+    },
+    {
+      "name": "突发，马斯克裁掉了整个多模态团队",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/11/509545.html",
+      "summary": "量子位 2026-11-13 12:13 报道（作者梦晨）：xAI 近期裁撤整个 multimodal 团队，约 70 人无一幸免；几乎同时官方上新 Palo Alto 的「Model Engineer, Multimodal Understanding」岗位，JD 覆盖图像、视频、音频、文本的理解与生成全栈，包含数据、tokenizer、预训练、后训练对齐与基础设施，年薪 16 万—25 万美元。报道梳理 2026 年 xAI 的组织震荡：2 月中旬 12 名联合创始人已过半离开，5 月中旬除马斯克外全部离职，SpaceX 收购 xAI 后超 50 名研究员出走，业务被切分为 Grok 基础模型与语音、Coding 与 ML 基础设施、Imagine 多模态生成、Macrohard 企业流程自动化四条线，多模态（含视觉理解）训练团队进入推倒重建状态。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "poor",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "narrow",
+        "scenarios": [
+          "多模态/视觉理解方向人才与训练路线动向",
+          "视觉模型预训练与后训练团队结构调整"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-13T12:13:41"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 31.0,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 32.0,
+        "practicality": 28.0,
+        "freshness": 80
+      },
+      "selected_on": "2026-11-16",
+      "title_zh": "突发，马斯克裁掉了整个多模态团队",
+      "summary_zh": "量子位 2026-11-13 12:13 报道（作者梦晨）：xAI 近期裁撤整个 multimodal 团队，约 70 人无一幸免；几乎同时官方上新 Palo Alto 的「Model Engineer, Multimodal Understanding」岗位，JD 覆盖图像、视频、音频、文本的理解与生成全栈，包含数据、tokenizer、预训练、后训练对齐与基础设施，年薪 16 万—25 万美元。报道梳理 2026 年 xAI 的组织震荡：2 月中旬 12 名联合创始人已过半离开，5 月中旬除马斯克外全部离职，SpaceX 收购 xAI 后超 50 名研究员出走，业务被切分为 Grok 基础模型与语音、Coding 与 ML 基础设施、Imagine 多模态生成、Macrohard 企业流程自动化四条线，多模态（含视觉理解）训练团队进入推倒重建状态。",
+      "collected_on": "2026-11-16"
+    },
     {
       "name": "谷歌上线其最强机器人模型 入驻奔驰生产线 分拣成功率96%",
       "type": "news",
@@ -2241,8 +2209,15 @@
         "usability": 44.0,
         "practicality": 45.0,
         "freshness": 80
-      }
-    },
+      },
+      "_source": "pending",
+      "collected_on": "2026-11-11",
+      "selected_on": "2026-11-16",
+      "title_zh": "谷歌上线其最强机器人模型 入驻奔驰生产线 分拣成功率96%",
+      "summary_zh": "11月10日谷歌DeepMind发布Gemini Robotics 2.5，定位迄今最强VLA机器人模型。Apptronik Apollo 2人形机器人在奔驰匈牙利与德国工厂产线自主分拣金属支架，成功率96%；200余项真实任务中成功率最高提升100%、速度提升30%，目前仅对机器人合作伙伴开放，仍处PoC阶段。"
+    }
+  ],
+  "pending_items": [
     {
       "name": "不靠外部裁判，统一多模态模型学会自己「看图改图」：修复成功率提升到3倍，GenEval 0.72→0.84",
       "type": "news",
