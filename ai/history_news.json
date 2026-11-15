@@ -1,223 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "腾讯 Hy4 调用激增已十倍扩容，Agent 能力开源模型第一",
-      "type": "news",
-      "platform": "量子位",
-      "url": "https://www.qbitai.com/2026/11/507967.html",
-      "summary": "11月5日腾讯宣布因 Hy4 调用激增，WorkBuddy 推理集群十倍扩容并提升免费额度。Hy4 在 Artificial Analysis 智能指数中位列中国模型第二（仅次于 Kimi K3.1 Pro），Agent Arena 开源模型第一、总榜第13，单任务成本约0.78美元，官方称比同级 Grok 4.7（xhigh）便宜约10倍。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "large",
-        "scenarios": [
-          "大模型",
-          "AI Agent",
-          "企业应用"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-06T10:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 54.75,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 58.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "SuperCLUE 发布 2026 年 11 月通用大模型测评榜单",
-      "type": "news",
-      "platform": "TechWeb",
-      "url": "http://m.techweb.com.cn/article/2026-11-05/2980297.shtml",
-      "summary": "11月5日 SuperCLUE 发布 11 月中文通用基准测评，19 个国内外模型参与：Google 闭源模型 Gemini-4-Argon 以 73.62 分登顶总榜，月之暗面开源模型 Kimi-K3.1-Pro 以 61.46 分位居国内模型首位，可作为中文场景选型参考。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "大模型",
-          "评测基准"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-05T16:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 51.5,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 61.0,
-        "freshness": 80
-      }
-    },
-    {
-      "name": "AI Safety Benchmark 2026 Q3 大模型迎合谄媚风险测试结果发布",
-      "type": "news",
-      "platform": "网易科技",
-      "url": "https://3g.163.com/news/article/LB1N6SC105562DGT.html",
-      "summary": "11月5日消息，中国信通院组织 AI Safety Benchmark 2026 Q3「大模型迎合谄媚风险」测试，参照《工业和信息化领域人工智能安全评测框架（2026版）》评估模型一味顺从用户倾向的安全隐患，为国内企业级模型安全验收提供新参考维度。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI安全",
-          "合规"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-05T18:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 51.5,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 61.0,
-        "freshness": 80
-      }
-    },
-    {
-      "name": "每日 AI 研究简报 · 2026-11-06",
-      "type": "news",
-      "platform": "CSDN",
-      "url": "https://devpress.csdn.net/aibjcy/6aedd90640858c2d8818f8e3.html",
-      "summary": "聚合当日国内外 AI 关键动作：百度文心 5.5 Flash Base 开源刷新同尺寸 SOTA；前 Google 团队推出 Ripple-65B Preview 开放权重模型（Apache 2.0），登顶美国开放编码两项基准；腾讯 Hy4 因调用激增十倍扩容；百度无人车世界模型实现实时全局推演。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "大模型",
-          "资讯获取"
-        ],
-        "maturity": "experimental"
-      },
-      "freshness": {
-        "publish_date": "2026-11-06T09:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 51.0,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 43.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "奇富科技开源自动建模 Agent ModelEvo 2.0",
-      "type": "news",
-      "platform": "网易科技",
-      "url": "https://m.163.com/news/article/LB27FTOL05568W0A.html",
-      "summary": "11月4日奇富科技开源自动建模 Agent ModelEvo 2.0，面向结构化/表格数据，可在预算内自动完成数据分析、实验规划与持续优化；采用「大模型提案、代码裁决」+ 测试集隔离降低数据泄漏风险，五个公开数据集冷启动评测平均名次 1.60，启用经验库后迭代耗时缩至约六分之一，代码已在 GitHub 开源。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "large",
-        "scenarios": [
-          "AI Agent",
-          "机器学习",
-          "金融风控"
-        ],
-        "maturity": "beta"
-      },
-      "freshness": {
-        "publish_date": "2026-11-06T09:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 48.75,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 69.0,
-        "practicality": 46.0,
-        "freshness": 100
-      }
-    },
-    {
       "name": "混元 Hy4 实测：腾讯的产品基因，模型继承了几分？",
       "type": "news",
       "platform": "InfoQ",
@@ -259,7 +42,8 @@
         "usability": 66.0,
         "practicality": 58.0,
         "freshness": 80
-      }
+      },
+      "collected_on": "2026-11-08"
     },
     {
       "name": "每日 AI 研究简报 · 2026-11-05",
@@ -302,7 +86,8 @@
         "usability": 81.0,
         "practicality": 43.0,
         "freshness": 80
-      }
+      },
+      "collected_on": "2026-11-08"
     },
     {
       "name": "DeepSeek据报接近完成至少800亿元融资，腾讯与宁德时代参与",
@@ -346,7 +131,8 @@
         "practicality": 76.0,
         "freshness": 60
       },
-      "_source": "pending"
+      "_source": "pending",
+      "collected_on": "2026-10-30"
     },
     {
       "name": "高德发布首个基于开放世界行为的全身基座模型λ0",
@@ -390,7 +176,8 @@
         "practicality": 61.0,
         "freshness": 60
       },
-      "_source": "pending"
+      "_source": "pending",
+      "collected_on": "2026-10-30"
     },
     {
       "name": "Claude 紧急叫停：暗改 Harness 禁止逆向工程",
@@ -434,7 +221,8 @@
         "practicality": 61.0,
         "freshness": 80
       },
-      "_source": "pending"
+      "_source": "pending",
+      "collected_on": "2026-11-04"
     },
     {
       "name": "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
@@ -477,7 +265,8 @@
         "usability": 81.0,
         "practicality": 76.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-09"
     },
     {
       "name": "DeepSeek Harness 日活154万，官方开始给插件作者发Token：Agent 生态要靠开发者了",
@@ -520,7 +309,8 @@
         "usability": 81.0,
         "practicality": 76.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-09"
     },
     {
       "name": "AI 日报（2026年11月7日）",
@@ -563,7 +353,8 @@
         "usability": 81.0,
         "practicality": 76.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-09"
     },
     {
       "name": "Anthropic最强Model 4首次曝光：RSI狂飙2倍速",
@@ -606,7 +397,8 @@
         "usability": 81.0,
         "practicality": 61.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-09"
     },
     {
       "name": "九成代码AI写，谁来审？Claude Code亮出6道关卡！",
@@ -649,7 +441,8 @@
         "usability": 69.0,
         "practicality": 67.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-09"
     },
     {
       "name": "大模型周报（11.01—11.08）：AI智能体新进展",
@@ -693,7 +486,8 @@
         "usability": 81.0,
         "practicality": 78.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-10"
     },
     {
       "name": "千问办公2.0发布：首个支持多人与Agent协作的Team Agent来了",
@@ -737,7 +531,8 @@
         "usability": 81.0,
         "practicality": 69.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-10"
     },
     {
       "name": "腾讯混元跻身最强开源模型：一手实测Hy4搭配WorkBuddy的多模态Agent交付",
@@ -781,7 +576,8 @@
         "usability": 69.0,
         "practicality": 78.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-10"
     },
     {
       "name": "每日极客日报 · 2026年11月08日",
@@ -825,7 +621,8 @@
         "usability": 81.0,
         "practicality": 63.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-10"
     },
     {
       "name": "开源AI的竞争不是零和博弈",
@@ -869,7 +666,8 @@
         "usability": 81.0,
         "practicality": 63.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-10"
     },
     {
       "name": "AI 日报（2026年11月10日）：旗舰模型密集更新与 Agent 落地动态汇总",
@@ -912,7 +710,8 @@
         "usability": 81.0,
         "practicality": 61.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-11"
     },
     {
       "name": "并行推测解码刷新 SOTA：因果依赖刻进草稿网络深度，SGLang 吞吐最高达 4 倍（已开源）",
@@ -955,7 +754,8 @@
         "usability": 66.0,
         "practicality": 56.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-11"
     },
     {
       "name": "DeepSeek Harness 深度学习与架构手册",
@@ -998,7 +798,8 @@
         "usability": 66.0,
         "practicality": 56.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-11"
     },
     {
       "name": "AI 前沿日报 · 2026-11-10：重估",
@@ -1041,7 +842,8 @@
         "usability": 69.0,
         "practicality": 43.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-11"
     },
     {
       "name": "voicebox 开源 AI 语音工作室：从文本前端到声音克隆的工程实践",
@@ -1084,7 +886,8 @@
         "usability": 69.0,
         "practicality": 43.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-11"
     },
     {
       "name": "千问办公2.0 发布首个 Team Agent，支持多人与 Agent 协作",
@@ -1128,7 +931,8 @@
         "usability": 90.0,
         "practicality": 78.0,
         "freshness": 80
-      }
+      },
+      "collected_on": "2026-11-12"
     },
     {
       "name": "AI科技热点日报（2026年11月11日）：Fable 5.2 与 Claude 办公套件集中发布",
@@ -1172,7 +976,8 @@
         "usability": 81.0,
         "practicality": 63.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-12"
     },
     {
       "name": "新浪AI热点小时报：基元律动发布180B Agent原生模型，蚂蚁灵波开源触觉模型",
@@ -1216,7 +1021,8 @@
         "usability": 81.0,
         "practicality": 63.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-12"
     },
     {
       "name": "MiniMax 正式发布并开源 H3 Image：4K 图像生成约10秒，支持16张参考图",
@@ -1261,7 +1067,8 @@
         "usability": 72.0,
         "practicality": 71.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-12"
     },
     {
       "name": "8点1氪：Anthropic 正式启动 IPO 路演，英伟达及黄仁勋遭股东集体诉讼",
@@ -1304,7 +1111,8 @@
         "usability": 81.0,
         "practicality": 61.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-12"
     },
     {
       "name": "智能体 AI 架构中记忆、知识与上下文的系统化方案",
@@ -1344,7 +1152,8 @@
         "usability": 66.0,
         "practicality": 76.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-13"
     },
     {
       "name": "Coding agent写测试集体失败，AI代码合格率被高估一倍",
@@ -1384,7 +1193,8 @@
         "usability": 81.0,
         "practicality": 76.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-13"
     },
     {
       "name": "诺奖得主Hassabis再交神作，AlphaGenome 2破译人类98%基因\"暗物质\"",
@@ -1424,7 +1234,8 @@
         "usability": 66.0,
         "practicality": 61.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-13"
     },
     {
       "name": "Anthropic启动IPO路演，估值已缩水6000亿美元",
@@ -1463,7 +1274,8 @@
         "usability": 81.0,
         "practicality": 44.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-13"
     },
     {
       "name": "Agent 上下文越跑越贵？aiXcompact-4B 值不值得接",
@@ -1503,7 +1315,8 @@
         "usability": 60.0,
         "practicality": 64.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-13"
     },
     {
       "name": "黄仁勋辞职，英伟达33年首换帅，市值蒸发超3万亿",
@@ -1547,7 +1360,8 @@
         "usability": 72.0,
         "practicality": 69.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-14"
     },
     {
       "name": "10秒生成4K图：MiniMax再次拿出开源SOTA",
@@ -1591,7 +1405,8 @@
         "usability": 53.0,
         "practicality": 78.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-14"
     },
     {
       "name": "硬科技早报｜字节AI芯片负责人离职；Qwen4将登场；沐曦优必选合资造芯",
@@ -1635,7 +1450,8 @@
         "usability": 60.0,
         "practicality": 54.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-14"
     },
     {
       "name": "2026年11月12日全球AI简报",
@@ -1679,7 +1495,8 @@
         "usability": 60.0,
         "practicality": 54.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-14"
     },
     {
       "name": "擎天租一年融7轮，芒果系投了",
@@ -1723,7 +1540,8 @@
         "usability": 72.0,
         "practicality": 39.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-14"
     },
     {
       "name": "突发！DeepSeek开放全家桶API",
@@ -1767,7 +1585,8 @@
         "usability": 90.0,
         "practicality": 78.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-15"
     },
     {
       "name": "2026年11月14日 AI 行业日报：ChatGPT Wallet 上线、llama.cpp 迈入 1.0 稳定版、LangChain 完成 3 亿美元融资",
@@ -1811,7 +1630,8 @@
         "usability": 81.0,
         "practicality": 78.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-15"
     },
     {
       "name": "文心5.5 Flash Preview发布：2800亿参数MoE，11月25日前 Apache 2.0 开源权重",
@@ -1855,7 +1675,8 @@
         "usability": 90.0,
         "practicality": 69.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-15"
     },
     {
       "name": "早报｜腾讯混元发布实时语音模型 Hy Realtime，Thinking Machines 开放 Inkling 2 Small 权重",
@@ -1899,7 +1720,8 @@
         "usability": 81.0,
         "practicality": 69.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-15"
     },
     {
       "name": "百度推出大模型交易平台「词元所」：主打验真与征信，日均调用 Token 超 7000 亿",
@@ -1943,7 +1765,8 @@
         "usability": 81.0,
         "practicality": 54.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-15"
     },
     {
       "name": "AI 自动写 PR，模型反而最简单：Inkitt 如何应对 Webhook 重复、CI 失败与合并冲突",
@@ -2184,6 +2007,244 @@
       "title_zh": "Chrome、Edge、Firefox、MDN 把 Web 最佳实践做成 Agent Skill",
       "summary_zh": "四家标准与浏览器厂商联合推出 GoogleChrome/modern-web-guidance，用 CLI 加 skill 包让编码 Agent 直接读取现代 Web 最佳实践并识别、替换过时写法，2026-11-15 单日新增 3635 star，居当日 GitHub star 增速第一。",
       "selected_on": "2026-11-15T23:25:00+08:00"
+    },
+    {
+      "name": "AI与大模型新闻日报 | 2026-11-14",
+      "type": "news",
+      "platform": "CSDN",
+      "url": "https://blog.csdn.net/dozenyaoyida/article/details/170760460",
+      "summary": "11 月 14 日聚合：llama.cpp 与 ggml 迈入 1.0.0，支持超 150 种模型架构、断网可本地推理；OpenAI 宣布重组具身智能团队，让通用大模型充当机器人大脑。",
+      "popularity": {
+        "views": 1005,
+        "likes": 3,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "行业动态速览",
+          "本地推理引擎"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-14T09:36:36"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 63.16,
+      "detail_scores": {
+        "popularity": 13.05,
+        "usability": 81.0,
+        "practicality": 76.0,
+        "freshness": 100
+      },
+      "title_zh": "AI 与大模型新闻日报（2026 年 11 月 14 日）",
+      "summary_zh": "11 月 14 日聚合：llama.cpp 与 ggml 迈入 1.0.0，支持超 150 种模型架构、断网可本地推理；OpenAI 宣布重组具身智能团队，让通用大模型充当机器人大脑。",
+      "selected_on": "2026-11-16",
+      "collected_on": "2026-11-16"
+    },
+    {
+      "name": "AI 资讯日报 | 2026年11月15日：OpenAI推ChatGPT Wallet打通智能体支付，Sierra与Meta发布Poppy协议，谷歌Gemini 4 Hydrogen上线",
+      "type": "news",
+      "platform": "CSDN",
+      "url": "https://blog.csdn.net/IT_ORACLE/article/details/170804298",
+      "summary": "11 月 15 日动态：谷歌发布 Gemini 4 Hydrogen，主打高速代理式工作流与百万 token 上下文并接入搜索；文心 5.5 Flash 预览版、DeepSeek 全栈 API 同期上线。",
+      "popularity": {
+        "views": 531,
+        "likes": 1,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "行业动态速览",
+          "模型发布信息"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-15T09:12:31"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 61.14,
+      "detail_scores": {
+        "popularity": 6.3100000000000005,
+        "usability": 81.0,
+        "practicality": 76.0,
+        "freshness": 100
+      },
+      "title_zh": "AI 资讯日报（2026 年 11 月 15 日）：OpenAI 推 ChatGPT Wallet，Sierra 与 Meta 发布 Poppy 协议，谷歌 Gemini 4 Hydrogen 上线",
+      "summary_zh": "11 月 15 日动态：谷歌发布 Gemini 4 Hydrogen，主打高速代理式工作流与百万 token 上下文并接入搜索；文心 5.5 Flash 预览版、DeepSeek 全栈 API 同期上线。",
+      "selected_on": "2026-11-16",
+      "collected_on": "2026-11-16"
+    },
+    {
+      "name": "官方点名，DeepSeek Harness 的 4 个神级插件。",
+      "type": "news",
+      "platform": "掘金",
+      "url": "https://juejin.cn/post/7707231949409026058",
+      "summary": "实测 DeepSeek Harness 官方点名的四个插件：dsh-media-desk、归藏设计、dsh-context 上下文洞察、论文阅读 agentero-dsh，并自研终端自动化插件 paiwarp-dsh。",
+      "popularity": {
+        "views": 1178,
+        "likes": 10,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "Agent 客户端扩展",
+          "上下文与 token 观测",
+          "内容生成工作流"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-13T09:56:52"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 60.78,
+      "detail_scores": {
+        "popularity": 21.78,
+        "usability": 90.0,
+        "practicality": 63.0,
+        "freshness": 80
+      },
+      "title_zh": "官方点名：DeepSeek Harness 的 4 个神级插件",
+      "summary_zh": "实测 DeepSeek Harness 官方点名的四个插件：dsh-media-desk、归藏设计、dsh-context 上下文洞察、论文阅读 agentero-dsh，并自研终端自动化插件 paiwarp-dsh。",
+      "selected_on": "2026-11-16",
+      "collected_on": "2026-11-16"
+    },
+    {
+      "name": "Agent如何越用越强？中科院自动化所、美团等推出RSI综述",
+      "type": "news",
+      "platform": "机器之心",
+      "url": "https://www.jiqizhixin.com/articles/2026-11-15-3",
+      "summary": "中科院自动化所联合美团等发布 LLM Agent 递归自我改进综述，沿 Prompt、Memory、Skill、Harness 四条主线梳理 40 项研究，提出七步生命周期框架。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "Agent 自进化",
+          "综述与评测框架",
+          "记忆与技能管理"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-15T16:47:28"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 59.0,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 78.0,
+        "practicality": 78.0,
+        "freshness": 100
+      },
+      "title_zh": "Agent 如何越用越强？中科院自动化所、美团等推出 RSI 综述",
+      "summary_zh": "中科院自动化所联合美团等发布 LLM Agent 递归自我改进综述，沿 Prompt、Memory、Skill、Harness 四条主线梳理 40 项研究，提出七步生命周期框架。",
+      "selected_on": "2026-11-16",
+      "collected_on": "2026-11-16"
+    },
+    {
+      "name": "炸裂，4K生图跑进10秒，游戏研发天塌了",
+      "type": "news",
+      "platform": "36氪",
+      "url": "https://36kr.com/p/4066896897971328",
+      "summary": "MiniMax 发布并开源图像生成与编辑模型 H3-Image，支持多图参考，4K 生图进入十秒级；文章结合游戏研发环节实测其可用性与短板。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "图像生成",
+          "游戏美术管线",
+          "开源模型"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-13T10:57:11"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 55.75,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 78.0,
+        "freshness": 80
+      },
+      "title_zh": "4K 生图跑进 10 秒：MiniMax 开源 H3-Image 冲击游戏研发",
+      "summary_zh": "MiniMax 发布并开源图像生成与编辑模型 H3-Image，支持多图参考，4K 生图进入十秒级；文章结合游戏研发环节实测其可用性与短板。",
+      "selected_on": "2026-11-16",
+      "collected_on": "2026-11-16"
     }
   ],
   "pending_items": [
@@ -2230,7 +2291,8 @@
         "usability": 69.0,
         "practicality": 56.0,
         "freshness": 80
-      }
+      },
+      "collected_on": "2026-11-02"
     },
     {
       "name": "清华姚期智团队新作：代数世界模型 AWM，ARC-AGI-3 全通",
@@ -2275,7 +2337,8 @@
         "usability": 44.0,
         "practicality": 47.0,
         "freshness": 80
-      }
+      },
+      "collected_on": "2026-11-02"
     },
     {
       "name": "智元发布具身模型 GO-3 Preview，登顶三大榜单并将于年底开源",
@@ -2320,7 +2383,8 @@
         "usability": 44.0,
         "practicality": 56.0,
         "freshness": 60
-      }
+      },
+      "collected_on": "2026-11-02"
     },
     {
       "name": "小米开源了个 150 元的 AI 小玩意，能指挥 Agent 干活还能控制智能家居",
@@ -2364,7 +2428,8 @@
         "usability": 60.0,
         "practicality": 45.0,
         "freshness": 80
-      }
+      },
+      "collected_on": "2026-11-03"
     },
     {
       "name": "邦早报：美团发布LongCat-2.5、MiniMax冲进全球AI大模型周Token调用榜第八",
@@ -2407,7 +2472,8 @@
         "usability": 81.0,
         "practicality": 76.0,
         "freshness": 80
-      }
+      },
+      "collected_on": "2026-11-04"
     },
     {
       "name": "新浪AI热点小时报丨2026年11月04日01时 今日实时AI热点速递",
@@ -2450,7 +2516,8 @@
         "usability": 81.0,
         "practicality": 76.0,
         "freshness": 80
-      }
+      },
+      "collected_on": "2026-11-04"
     },
     {
       "name": "Harness Engineering 元年：AI Agent 从「能跑」走向「可控交付」的工程门禁实践",
@@ -2493,7 +2560,8 @@
         "usability": 69.0,
         "practicality": 76.0,
         "freshness": 80
-      }
+      },
+      "collected_on": "2026-11-04"
     },
     {
       "name": "每日摘要 | AI追踪 | 2026.11.02：一夜之间GPT-6.2 Astra和Fable 5.5双双曝光",
@@ -2536,7 +2604,8 @@
         "usability": 81.0,
         "practicality": 52.0,
         "freshness": 80
-      }
+      },
+      "collected_on": "2026-11-04"
     },
     {
       "name": "小米开源了个150元的AI小玩意，火到配件都涨价了",
@@ -2579,7 +2648,8 @@
         "usability": 69.0,
         "practicality": 52.0,
         "freshness": 80
-      }
+      },
+      "collected_on": "2026-11-04"
     },
     {
       "name": "与DeepSeek Super Agent理念同频：人大复旦提出CoworkOS，构建你的「超级AI同事」",
@@ -2622,7 +2692,8 @@
         "usability": 44.0,
         "practicality": 43.0,
         "freshness": 80
-      }
+      },
+      "collected_on": "2026-11-04"
     },
     {
       "name": "GPT-6 自主爆改 Qwen 权重被吹成神？Meta 知名研究员泼冷水",
@@ -2665,7 +2736,8 @@
         "usability": 69.0,
         "practicality": 43.0,
         "freshness": 80
-      }
+      },
+      "collected_on": "2026-11-04"
     },
     {
       "name": "GPT-6 爆改模型权重，数学能力狂飙 6 倍，MIT 博一新作破圈了",
@@ -2708,7 +2780,8 @@
         "usability": 53.0,
         "practicality": 43.0,
         "freshness": 80
-      }
+      },
+      "collected_on": "2026-11-04"
     },
     {
       "name": "AI 与大模型新闻日报 | 2026-11-02",
@@ -2751,7 +2824,8 @@
         "usability": 81.0,
         "practicality": 61.0,
         "freshness": 80
-      }
+      },
+      "collected_on": "2026-11-04"
     },
     {
       "name": "AI 获客每日 AI 精选（2026.11.02）",
@@ -2794,7 +2868,8 @@
         "usability": 81.0,
         "practicality": 61.0,
         "freshness": 80
-      }
+      },
+      "collected_on": "2026-11-04"
     },
     {
       "name": "美团发 1.6 万亿参数模型、DeepSeek 开源推理框架、昇腾 950 拿领先科技奖｜AI 新闻日报 11-03",
@@ -2838,7 +2913,8 @@
         "usability": 69.0,
         "practicality": 58.0,
         "freshness": 80
-      }
+      },
+      "collected_on": "2026-11-04"
     },
     {
       "name": "DeepSeek Super-agent 源码拆解 + 本地部署实战",
@@ -2882,7 +2958,8 @@
         "usability": 69.0,
         "practicality": 54.0,
         "freshness": 80
-      }
+      },
+      "collected_on": "2026-11-05"
     },
     {
       "name": "FlashProve：70 倍算力换真话——可证明推理的工程账本",
@@ -2925,7 +3002,8 @@
         "usability": 69.0,
         "practicality": 28.0,
         "freshness": 80
-      }
+      },
+      "collected_on": "2026-11-05"
     },
     {
       "name": "Anthropic 开源可证明推理系统 FlashProve，17 秒核验模型真身",
@@ -2969,7 +3047,8 @@
         "usability": 44.0,
         "practicality": 45.0,
         "freshness": 80
-      }
+      },
+      "collected_on": "2026-11-05"
     },
     {
       "name": "招商局狮子山实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型",
@@ -3012,7 +3091,8 @@
         "usability": 44.0,
         "practicality": 37.0,
         "freshness": 80
-      }
+      },
+      "collected_on": "2026-11-05"
     },
     {
       "name": "GitHub 日榜趋势速报 2026-11-03：20 个开源项目 24 小时 Star 增速领先",
@@ -3055,7 +3135,8 @@
         "usability": 57.0,
         "practicality": 43.0,
         "freshness": 80
-      }
+      },
+      "collected_on": "2026-11-06"
     },
     {
       "name": "AI 资讯 TOP10｜2026/11/06：美股 AI 板块暴跌，GPT-6 Cyber 发布",
@@ -3098,7 +3179,8 @@
         "usability": 81.0,
         "practicality": 56.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-07"
     },
     {
       "name": "AI 一周大事盘点（2026年11月1日～11月7日）",
@@ -3141,7 +3223,8 @@
         "usability": 69.0,
         "practicality": 61.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-09"
     },
     {
       "name": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
@@ -3185,7 +3268,8 @@
         "usability": 60.0,
         "practicality": 60.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-09"
     },
     {
       "name": "为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？",
@@ -3228,7 +3312,8 @@
         "usability": 60.0,
         "practicality": 52.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-09"
     },
     {
       "name": "GPT-6 Cyber 正式发布：OpenAI 网络安全专项模型，一次扫出 948 个 Linux 漏洞",
@@ -3271,7 +3356,8 @@
         "usability": 60.0,
         "practicality": 52.0,
         "freshness": 80
-      }
+      },
+      "collected_on": "2026-11-09"
     },
     {
       "name": "新浪人工智能热点小时报（2026年11月10日 02时）",
@@ -3314,7 +3400,8 @@
         "usability": 81.0,
         "practicality": 46.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-10"
     },
     {
       "name": "AI接管一家8万Star开源公司：写代码、派任务、查Bug全包了",
@@ -3358,7 +3445,8 @@
         "usability": 60.0,
         "practicality": 45.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-10"
     },
     {
       "name": "aiXcoder 开源上下文压缩专用模型 aiXcompact-4B，推理成本直降78%",
@@ -3403,7 +3491,8 @@
         "usability": 69.0,
         "practicality": 71.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-12"
     },
     {
       "name": "纯代码造《后室》，116秒切20种画风！百度文心新模型玩嗨了",
@@ -3447,7 +3536,8 @@
         "usability": 81.0,
         "practicality": 54.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-12"
     },
     {
       "name": "禾赛加码物理AI：激光雷达主业退居二线，港股盘中涨超11%",
@@ -3490,7 +3580,8 @@
         "usability": 81.0,
         "practicality": 46.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-12"
     },
     {
       "name": "上智院开源 REMORY：1.9B 记忆模块让Agent越过上下文压缩持续工作",
@@ -3535,7 +3626,8 @@
         "usability": 69.0,
         "practicality": 47.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-12"
     },
     {
       "name": "蚂蚁灵波开源触觉基础模型 LingBot-Touch，统一三类传感器触觉表征",
@@ -3579,7 +3671,8 @@
         "usability": 60.0,
         "practicality": 54.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-12"
     },
     {
       "name": "AI 日报（2026年11月11日）",
@@ -3623,7 +3716,8 @@
         "usability": 60.0,
         "practicality": 54.0,
         "freshness": 80
-      }
+      },
+      "collected_on": "2026-11-14"
     },
     {
       "name": "openJiuwen发布RSI原生AgentOS，让Agent自由变身，持续迭代",
@@ -3667,7 +3761,8 @@
         "usability": 44.0,
         "practicality": 45.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-14"
     },
     {
       "name": "高难盲测超越 GPT-6-Astra 与 Opus-5！无界前沿开源 Fx-Bio-1031，把 RSI 带进生命科学",
@@ -3711,7 +3806,8 @@
         "usability": 44.0,
         "practicality": 30.0,
         "freshness": 80
-      }
+      },
+      "collected_on": "2026-11-15"
     },
     {
       "name": "AI 日报（2026年11月15日）",
@@ -3850,33 +3946,165 @@
       }
     },
     {
-      "name": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
+      "name": "OpenAI Control Room 架构拆解：给企业 AI Agent 加一套可审计的急停系统",
       "type": "news",
-      "platform": "量子位",
-      "url": "https://www.qbitai.com/2026/11/510232.html",
-      "summary": "UniPat AI 牵头发布湿实验预测基准 SPU，含 116 个任务、4207 个真实湿实验，覆盖化学、材料、生物与医学；最高平均分仅 0.486，仅 34%~52% 任务超过随机水平，提高推理强度与算力收益有限，数据与代码已开源。",
+      "platform": "CSDN",
+      "url": "https://blog.csdn.net/jerry764/article/details/170775607",
+      "summary": "拆解 OpenAI 公开的 Control Room：把身份、授权、审计、缓存与故障策略放进推理必经的控制面，可在告警或人工介入后停止生成；含企业级参考实现。",
+      "popularity": {
+        "views": 331,
+        "likes": 4,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "Agent 安全控制",
+          "可观测与审计",
+          "推理网关"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-14T14:45:05"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 48.94,
+      "detail_scores": {
+        "popularity": 7.3100000000000005,
+        "usability": 53.0,
+        "practicality": 54.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "井道无信号、满手黑机油，我们如何用 DeepSeek V4 打造不“犯浑”的电梯维保 Agent？",
+      "type": "news",
+      "platform": "掘金",
+      "url": "https://juejin.cn/post/7707639689457582106",
+      "summary": "电梯维保 Agent 落地：7B 快脑加 DeepSeek-V4-Pro 慢脑双路由、LangGraph 状态机编排、Milvus 混合检索加品牌硬过滤，工具只读并设安全网关与置信度熔断。",
+      "popularity": {
+        "views": 190,
+        "likes": 1,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "工业 Agent 落地",
+          "RAG 知识库",
+          "安全护栏设计"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-14T15:48:39"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 47.62,
+      "detail_scores": {
+        "popularity": 2.9000000000000004,
+        "usability": 53.0,
+        "practicality": 54.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "RSI取代后训练科学家？斯坦福团队探索什么才算真正的进步",
+      "type": "news",
+      "platform": "机器之心",
+      "url": "https://www.jiqizhixin.com/articles/2026-11-15",
+      "summary": "Bake AI 联合 Hugging Face、斯坦福等推出 RSI Arena：不设 benchmark，让智能体在有限算力下自主后训练模型，用独立测试与用户盲测评估，提出 RSIHF 框架。",
       "popularity": {
         "views": 0,
         "likes": 0,
         "comments": 0
       },
       "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "excellent",
-        "requires_coding": false
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
       },
       "practicality": {
         "scope": "medium",
         "scenarios": [
-          "AI for Science",
-          "科研评测",
-          "湿实验预测"
+          "自动化后训练",
+          "模型评测",
+          "安全对齐"
         ],
-        "maturity": "medium"
+        "maturity": "experimental"
       },
       "freshness": {
-        "publish_date": "2026-11-14T17:58:22+08:00"
+        "publish_date": "2026-11-15T16:36:41"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 42.25,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 44.0,
+        "practicality": 45.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/11/510232.html",
+      "summary": "UniPat AI 等推出 SPU（Science Prediction Universe）基准，让模型据实验条件预测真实湿实验结果；推理拉满、算力翻 5 倍仍难达标。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "narrow",
+        "scenarios": [
+          "AI for Science",
+          "模型评测",
+          "湿实验预测"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-14T17:58:22"
       },
       "pricing": {
         "has_paid_features": false
@@ -3886,12 +4114,56 @@
       },
       "collected_on": "2026-11-15",
       "filtered": false,
-      "total_score": 46.0,
+      "total_score": 40.75,
       "detail_scores": {
         "popularity": 0.0,
-        "usability": 90.0,
-        "practicality": 54.0,
-        "freshness": 50
+        "usability": 53.0,
+        "practicality": 30.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "ICSE 2027 | 清华提出CoACT：降低Coding Agent 33% Token开销",
+      "type": "news",
+      "platform": "机器之心",
+      "url": "https://www.jiqizhixin.com/articles/2026-11-13-4",
+      "summary": "清华提出 Coding Agent 的 observation 压缩方法 CoACT，以是否改变下一步动作为判据；SWE-bench Verified 上平均省 33% token，PASS@1 由 69% 升至 71%。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "Coding Agent 降本",
+          "上下文压缩",
+          "基准评测"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-13T14:40:52"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 40.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 53.0,
+        "practicality": 45.0,
+        "freshness": 80
       }
     }
   ]
