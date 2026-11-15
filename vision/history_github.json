@@ -1,285 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "patrasc237/EEG-DL",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/patrasc237/EEG-DL",
-      "summary": "A 深度学习 库 for EEG signal 分类, with 26 network architectures. (语言: Python) [标签: classification, deep-learning, eeg, neuroscience, python]",
-      "popularity": {
-        "views": 50,
-        "likes": 50,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "图像分类",
-          "深度学习"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-11-05T14:19:24"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 50,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "mit",
-        "topics": [
-          "classification",
-          "deep-learning",
-          "eeg",
-          "neuroscience",
-          "python",
-          "tensorflow"
-        ],
-        "created_at": "2026-11-05T14:19:24Z",
-        "pushed_at": "2026-11-05T14:19:48Z"
-      },
-      "filtered": false,
-      "total_score": 65.4,
-      "detail_scores": {
-        "popularity": 50.5,
-        "usability": 69.0,
-        "practicality": 52.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "GehaoZhang6/Grounded-Action-Model",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/GehaoZhang6/Grounded-Action-Model",
-      "summary": "Grounded Action 模型: 三维 Grounding as a Foundation for 机器人 (语言: Python) [标签: 3d-grounding, foundation-models, manipulation, robot-learning, robotics]",
-      "popularity": {
-        "views": 55,
-        "likes": 55,
-        "comments": 2
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉语言模型",
-          "三维视觉",
-          "机器人视觉"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-22T02:56:39"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 55,
-        "forks": 2,
-        "open_issues": 1,
-        "language": "Python",
-        "license": "mit",
-        "topics": [
-          "3d-grounding",
-          "foundation-models",
-          "manipulation",
-          "robot-learning",
-          "robotics",
-          "vision-language-action"
-        ],
-        "created_at": "2026-09-22T02:56:39Z",
-        "pushed_at": "2026-11-05T03:59:38Z"
-      },
-      "filtered": false,
-      "total_score": 54.41,
-      "detail_scores": {
-        "popularity": 65.55,
-        "usability": 69.0,
-        "practicality": 54.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "keyu-wang-2002/ScalingDepth",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/keyu-wang-2002/ScalingDepth",
-      "summary": "Discover, compare, and contribute to cutting-edge residual connections designed for large-scale 深度学习 and depth scaling. (语言: JavaScript)",
-      "popularity": {
-        "views": 24,
-        "likes": 24,
-        "comments": 2
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "深度估计",
-          "深度学习"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-10-11T12:25:46"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 24,
-        "forks": 2,
-        "open_issues": 0,
-        "language": "JavaScript",
-        "license": "mit",
-        "topics": [],
-        "created_at": "2026-10-11T12:25:46Z",
-        "pushed_at": "2026-11-04T15:44:53Z"
-      },
-      "filtered": false,
-      "total_score": 52.52,
-      "detail_scores": {
-        "popularity": 34.24,
-        "usability": 69.0,
-        "practicality": 52.0,
-        "freshness": 60
-      }
-    },
-    {
-      "name": "tacclaw-infinity/TacClaw-Infinity",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/tacclaw-infinity/TacClaw-Infinity",
-      "summary": "TacClaw-Infinity: research code and 数据集 resources for a large-scale Vision-Tactile-Language-Action 数据集. (语言: Python)",
-      "popularity": {
-        "views": 19,
-        "likes": 19,
-        "comments": 2
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "数据集"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-10-30T03:17:23"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 19,
-        "forks": 2,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "",
-        "topics": [],
-        "created_at": "2026-10-30T03:17:23Z",
-        "pushed_at": "2026-10-30T05:48:31Z"
-      },
-      "filtered": false,
-      "total_score": 52.26,
-      "detail_scores": {
-        "popularity": 29.19,
-        "usability": 60.0,
-        "practicality": 50.0,
-        "freshness": 80
-      }
-    },
-    {
-      "name": "bingaochen/Astra-on-RoboMME",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/bingaochen/Astra-on-RoboMME",
-      "summary": "A three-tier system for memory-augmented robotic manipulation: Astra plans, a small VLM monitors, and a VLA acts. 79.13% success on RoboMME. (语言: Python)",
-      "popularity": {
-        "views": 31,
-        "likes": 31,
-        "comments": 3
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉语言模型",
-          "视觉-语言-动作"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-21T19:32:30"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 31,
-        "forks": 3,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "apache-2.0",
-        "topics": [],
-        "created_at": "2026-09-21T19:32:30Z",
-        "pushed_at": "2026-11-05T07:44:21Z"
-      },
-      "filtered": false,
-      "total_score": 48.14,
-      "detail_scores": {
-        "popularity": 46.31,
-        "usability": 69.0,
-        "practicality": 52.0,
-        "freshness": 20
-      }
-    },
-    {
       "name": "scy-v/VLA-Precision",
       "type": "tool",
       "platform": "GitHub",
@@ -2926,9 +2647,246 @@
         "practicality": 52.0,
         "freshness": 80
       }
-    }
-  ],
-  "pending_items": [
+    },
+    {
+      "name": "StarTrail-org/DRPixel",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/StarTrail-org/DRPixel",
+      "summary": "DR Pixel: Page-Native Deep Research with 视觉语言模型s — 基准测试, 评估 harness and 训练 code (语言: Python) [标签: agentic-retrieval, benchmark, credit-assignment, deep-research, multimodal]",
+      "popularity": {
+        "views": 43,
+        "likes": 43,
+        "comments": 6
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉语言模型",
+          "多模态"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-01T16:46:21"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 43,
+        "forks": 6,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "apache-2.0",
+        "topics": [
+          "agentic-retrieval",
+          "benchmark",
+          "credit-assignment",
+          "deep-research",
+          "multimodal",
+          "rag",
+          "scientific-papers",
+          "visual-document-retrieval",
+          "vlm"
+        ],
+        "created_at": "2026-11-01T16:46:21Z",
+        "pushed_at": "2026-11-02T07:48:12Z"
+      },
+      "collected_on": "2026-11-15",
+      "filtered": false,
+      "total_score": 64.28,
+      "detail_scores": {
+        "popularity": 73.43,
+        "usability": 69.0,
+        "practicality": 52.0,
+        "freshness": 60
+      },
+      "title_zh": "StarTrail-org/DRPixel：面向视觉语言模型的页面原生深度研究基准与训练代码",
+      "summary_zh": "DR Pixel 提供 page-native（页面原生）深度研究的基准、评测 harness 与训练代码，围绕视觉语言模型/多模态检索做证据定位与 credit assignment，涵盖 agentic-retrieval、visual-document-retrieval、RAG、科学论文问答等主题，Python 实现、Apache-2.0 许可，仓库 https://github.com/StarTrail-org/DRPixel。",
+      "selected_on": "2026-11-15"
+    },
+    {
+      "name": "shabreenyasmin446-a11y/uzhavan",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/shabreenyasmin446-a11y/uzhavan",
+      "summary": "Use this GitHub rUzhavan is a web-based crop assistance project with an image-based 目标检测 API built using FastAPI and YOLOv8 (语言: JavaScript)",
+      "popularity": {
+        "views": 25,
+        "likes": 25,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "目标检测"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-07T10:52:40"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 25,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "JavaScript",
+        "license": "",
+        "topics": [],
+        "created_at": "2026-11-07T10:52:40Z",
+        "pushed_at": "2026-11-14T14:28:41Z"
+      },
+      "collected_on": "2026-11-15",
+      "filtered": false,
+      "total_score": 51.58,
+      "detail_scores": {
+        "popularity": 25.25,
+        "usability": 78.0,
+        "practicality": 50.0,
+        "freshness": 60
+      },
+      "title_zh": "uzhavan：基于 YOLOv8 + FastAPI 的农作物目标检测 Web 服务",
+      "summary_zh": "uzhavan 是网页版农作物辅助诊断项目，核心是基于图像的目标检测 API，用 YOLOv8 做推理、FastAPI 提供服务、JavaScript 实现前端，适合快速搭建检测类视觉原型，仓库 https://github.com/shabreenyasmin446-a11y/uzhavan。",
+      "selected_on": "2026-11-15"
+    },
+    {
+      "name": "nicklucenasantanalucenasant-maker/yapt-core",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/nicklucenasantanalucenasant-maker/yapt-core",
+      "summary": "YAPT 2026: Modern PyTorch 训练 框架 for Faster 深度学习 Workflows (语言: HTML) [标签: deep-learning, neptune-ai, pytorch, trainer]",
+      "popularity": {
+        "views": 53,
+        "likes": 53,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "深度学习"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-21T22:54:48"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 53,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "HTML",
+        "license": "",
+        "topics": [
+          "deep-learning",
+          "neptune-ai",
+          "pytorch",
+          "trainer"
+        ],
+        "created_at": "2026-09-21T22:54:48Z",
+        "pushed_at": "2026-11-15T13:32:26Z"
+      },
+      "filtered": false,
+      "total_score": 45.81,
+      "detail_scores": {
+        "popularity": 53.53000000000001,
+        "usability": 53.0,
+        "practicality": 50.0,
+        "freshness": 20
+      },
+      "title_zh": "YAPT 2026：让深度学习流程更快的现代化 PyTorch 训练框架",
+      "summary_zh": "YAPT 2026 是轻量化的 PyTorch trainer 框架，集成 neptune-ai 实验跟踪，目标是压缩训练脚本样板、加快深度学习实验迭代节奏，最近一次推送 2026-11-15，仓库 https://github.com/nicklucenasantanalucenasant-maker/yapt-core。",
+      "selected_on": "2026-11-15"
+    },
+    {
+      "name": "llada60/3DHarnessBench",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/llada60/3DHarnessBench",
+      "summary": "三维HarnessBench: Probing Agentic 三维-to-Code Capabilities of Frontier 视觉语言模型s (语言: Python)",
+      "popularity": {
+        "views": 25,
+        "likes": 25,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉语言模型",
+          "三维视觉"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-03T09:26:46"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 25,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "apache-2.0",
+        "topics": [],
+        "created_at": "2026-09-03T09:26:46Z",
+        "pushed_at": "2026-10-28T16:17:09Z"
+      },
+      "filtered": false,
+      "total_score": 39.58,
+      "detail_scores": {
+        "popularity": 25.25,
+        "usability": 60.0,
+        "practicality": 52.0,
+        "freshness": 20
+      },
+      "title_zh": "3DHarnessBench：评测前沿视觉语言模型的三维到代码能力",
+      "summary_zh": "3DHarnessBench（三维 HarnessBench）用于探测前沿视觉语言模型的 3D-to-Code 智能体能力，提供评测 harness 与基准数据，Python 实现、Apache-2.0 许可，仓库 https://github.com/llada60/3DHarnessBench。",
+      "selected_on": "2026-11-15"
+    },
     {
       "name": "MicroKeen/Mklink-AI-Probe",
       "type": "tool",
@@ -2980,8 +2938,14 @@
         "usability": 69.0,
         "practicality": 52.0,
         "freshness": 20
-      }
-    },
+      },
+      "_source": "pending",
+      "title_zh": "MKLink-AI-Probe：面向 Cortex-M 单片机的 AI 驱动嵌入式调试 CLI",
+      "summary_zh": "MKLink AI Probe 是一体化嵌入式调试命令行工具，把 MKLink/MicroLink 硬件调试探针桥接给 Claude、OpenAI 等智能体，用自然语言完成固件烧录、日志读取与故障定位，Python + MIT 许可；属于硬件调试工具，与机器视觉直接关联较弱，仓库 https://github.com/MicroKeen/Mklink-AI-Probe。",
+      "selected_on": "2026-11-15"
+    }
+  ],
+  "pending_items": [
     {
       "name": "Zhong-Chenchen/DIVE",
       "type": "tool",
@@ -3082,63 +3046,6 @@
       "detail_scores": {
         "popularity": 17.12,
         "usability": 60.0,
-        "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "nicklucenasantanalucenasant-maker/yapt-core",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/nicklucenasantanalucenasant-maker/yapt-core",
-      "summary": "YAPT 2026: Modern PyTorch 训练 框架 for Faster 深度学习 Workflows (语言: HTML) [标签: deep-learning, neptune-ai, pytorch, trainer]",
-      "popularity": {
-        "views": 53,
-        "likes": 53,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "深度学习"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-21T22:54:48"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 53,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "HTML",
-        "license": "",
-        "topics": [
-          "deep-learning",
-          "neptune-ai",
-          "pytorch",
-          "trainer"
-        ],
-        "created_at": "2026-09-21T22:54:48Z",
-        "pushed_at": "2026-11-13T19:17:20Z"
-      },
-      "filtered": false,
-      "total_score": 45.81,
-      "detail_scores": {
-        "popularity": 53.53000000000001,
-        "usability": 53.0,
         "practicality": 50.0,
         "freshness": 20
       }
@@ -3319,59 +3226,6 @@
       "detail_scores": {
         "popularity": 10.1,
         "usability": 81.0,
-        "practicality": 52.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "llada60/3DHarnessBench",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/llada60/3DHarnessBench",
-      "summary": "三维HarnessBench: Probing Agentic 三维-to-Code Capabilities of Frontier 视觉语言模型s (语言: Python)",
-      "popularity": {
-        "views": 25,
-        "likes": 25,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉语言模型",
-          "三维视觉"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-03T09:26:46"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 25,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "apache-2.0",
-        "topics": [],
-        "created_at": "2026-09-03T09:26:46Z",
-        "pushed_at": "2026-10-28T16:17:09Z"
-      },
-      "filtered": false,
-      "total_score": 39.58,
-      "detail_scores": {
-        "popularity": 25.25,
-        "usability": 60.0,
         "practicality": 52.0,
         "freshness": 20
       }
