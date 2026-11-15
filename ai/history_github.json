@@ -1,323 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "OpenMOSS/MOSS-Image",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/OpenMOSS/MOSS-Image",
-      "summary": "Official repository for MOSS-Image, a 5B-parameter base DiT 模型 with high-quality text rendering, layout 生成, and efficient 微调. (语言: Python) [标签: controllable-generation, foundation-models, image-gen...",
-      "popularity": {
-        "views": 2716,
-        "likes": 2716,
-        "comments": 158
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "图像生成",
-          "模型微调"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-10-16T01:18:13"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 2716,
-        "forks": 158,
-        "open_issues": 27,
-        "language": "Python",
-        "license": "apache-2.0",
-        "topics": [
-          "controllable-generation",
-          "foundation-models",
-          "image-generation",
-          "text-rendering",
-          "text-to-image"
-        ],
-        "created_at": "2026-10-16T01:18:13Z",
-        "pushed_at": "2026-11-07T17:25:01Z"
-      },
-      "filtered": false,
-      "total_score": 74.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 61.0,
-        "freshness": 60
-      }
-    },
-    {
-      "name": "onehumanbeing/esp32-iphone-agent",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-      "summary": "Let an AI 模型 use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision 模型. No Mac, no developer account, no jailbreak. (语言: Swift) [标签: ai-agent, airplay, automat...",
-      "popularity": {
-        "views": 4630,
-        "likes": 4630,
-        "comments": 631
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent",
-          "图像理解",
-          "自动化"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-10-11T19:10:25"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 4630,
-        "forks": 631,
-        "open_issues": 16,
-        "language": "Swift",
-        "license": "mit",
-        "topics": [
-          "ai-agent",
-          "airplay",
-          "automation",
-          "computer-use",
-          "dsh-plugin",
-          "esp32",
-          "esp32-s3",
-          "iphone",
-          "llm",
-          "usb-hid"
-        ],
-        "created_at": "2026-10-11T19:10:25Z",
-        "pushed_at": "2026-11-07T17:40:48Z"
-      },
-      "filtered": false,
-      "total_score": 72.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 60.0,
-        "practicality": 63.0,
-        "freshness": 60
-      }
-    },
-    {
-      "name": "QingYunA/answer-me-with-html",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/QingYunA/answer-me-with-html",
-      "summary": "Answer me with HTML — an 智能体 skill that answers hard questions with a one-page HTML you can actually read. 让 AI 智能体 用一页 HTML 回答复杂问题。 (语言: JavaScript) [标签: agent-skill, ai-agent, claude-code, claude...",
-      "popularity": {
-        "views": 5996,
-        "likes": 5996,
-        "comments": 398
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent",
-          "代码生成"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-10-02T09:57:40"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 5996,
-        "forks": 398,
-        "open_issues": 12,
-        "language": "JavaScript",
-        "license": "mit",
-        "topics": [
-          "agent-skill",
-          "ai-agent",
-          "claude-code",
-          "claude-code-skill",
-          "claude-skill",
-          "claude-skills",
-          "cli",
-          "diagram",
-          "dsh-plugin",
-          "explainer",
-          "html",
-          "llm",
-          "ste100"
-        ],
-        "created_at": "2026-10-02T09:57:40Z",
-        "pushed_at": "2026-11-05T07:38:21Z"
-      },
-      "filtered": false,
-      "total_score": 68.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 78.0,
-        "practicality": 61.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "Deeyu/ai-costume-gallery-zh",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/Deeyu/ai-costume-gallery-zh",
-      "summary": "AI 参考图库中文版｜服装（写实 1,407 套／动画 1,320 套）、脸型 1,499 张、姿势线稿与深度图各 1,439 张、二次元 843 条目。面向 AI 绘画、角色设计与漫剧分镜，支持中文检索、多视角浏览、图片复制与下载。开源静态站点，保留原始来源及使用条件。 (语言: HTML) [标签: ai-art, ai-comics, anime, anime-costume, art...",
-      "popularity": {
-        "views": 139,
-        "likes": 139,
-        "comments": 52
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "图像生成"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-10-29T08:20:20"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 139,
-        "forks": 52,
-        "open_issues": 0,
-        "language": "HTML",
-        "license": "other",
-        "topics": [
-          "ai-art",
-          "ai-comics",
-          "anime",
-          "anime-costume",
-          "art-reference",
-          "character-design",
-          "character-reference",
-          "chinese",
-          "costume",
-          "depth-map",
-          "github-pages",
-          "open-source",
-          "portrait",
-          "pose-reference",
-          "prompt-engineering",
-          "python",
-          "reference-images",
-          "static-site",
-          "text-to-image",
-          "vanilla-javascript"
-        ],
-        "created_at": "2026-10-29T08:20:20Z",
-        "pushed_at": "2026-11-05T10:00:10Z"
-      },
-      "filtered": false,
-      "total_score": 67.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 53.0,
-        "practicality": 50.0,
-        "freshness": 60
-      }
-    },
-    {
-      "name": "deepseek-ai/DeepEP-Ascend",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/deepseek-ai/DeepEP-Ascend",
-      "summary": "A 高性能 communication 库 for 机器学习 训练 and 推理 on Huawei Ascend NPUs. (语言: C++)",
-      "popularity": {
-        "views": 287,
-        "likes": 287,
-        "comments": 61
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "模型训练",
-          "推理部署"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-30T00:44:59"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 287,
-        "forks": 61,
-        "open_issues": 21,
-        "language": "C++",
-        "license": "",
-        "topics": [],
-        "created_at": "2026-09-30T00:44:59Z",
-        "pushed_at": "2026-11-03T01:45:19Z"
-      },
-      "filtered": false,
-      "total_score": 64.25,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 52.0,
-        "freshness": 20
-      }
-    },
-    {
       "name": "beckettharriman/openfill",
       "type": "tool",
       "platform": "GitHub",
@@ -387,7 +70,8 @@
         "usability": 60.0,
         "practicality": 50.0,
         "freshness": 60
-      }
+      },
+      "collected_on": "2026-10-30"
     },
     {
       "name": "kaankiziltug/logo-design-skill",
@@ -449,7 +133,8 @@
         "usability": 78.0,
         "practicality": 61.0,
         "freshness": 20
-      }
+      },
+      "collected_on": "2026-10-30"
     },
     {
       "name": "yetone/cumora",
@@ -503,7 +188,8 @@
         "practicality": 61.0,
         "freshness": 20
       },
-      "_source": "pending"
+      "_source": "pending",
+      "collected_on": "2026-10-30"
     },
     {
       "name": "i-am-manware/Manware-s-AI-Learning-Toolkit",
@@ -557,7 +243,8 @@
         "practicality": 61.0,
         "freshness": 20
       },
-      "_source": "pending"
+      "_source": "pending",
+      "collected_on": "2026-10-30"
     },
     {
       "name": "VaderChen/YourDesk",
@@ -618,7 +305,8 @@
         "practicality": 52.0,
         "freshness": 20
       },
-      "_source": "pending"
+      "_source": "pending",
+      "collected_on": "2026-10-30"
     },
     {
       "name": "qybaihe/bla",
@@ -682,7 +370,8 @@
         "usability": 53.0,
         "practicality": 61.0,
         "freshness": 60
-      }
+      },
+      "collected_on": "2026-11-09"
     },
     {
       "name": "conglu1997/local-autoresearch",
@@ -734,7 +423,8 @@
         "usability": 60.0,
         "practicality": 50.0,
         "freshness": 60
-      }
+      },
+      "collected_on": "2026-10-31"
     },
     {
       "name": "Louis-CFM/coucou",
@@ -808,7 +498,8 @@
         "usability": 78.0,
         "practicality": 61.0,
         "freshness": 20
-      }
+      },
+      "collected_on": "2026-10-30"
     },
     {
       "name": "solongate/agent-security",
@@ -864,7 +555,8 @@
         "usability": 60.0,
         "practicality": 59.0,
         "freshness": 20
-      }
+      },
+      "collected_on": "2026-11-09"
     },
     {
       "name": "ChidiebereNjoku/ModelBrief",
@@ -917,7 +609,8 @@
         "practicality": 50.0,
         "freshness": 20
       },
-      "_source": "pending"
+      "_source": "pending",
+      "collected_on": "2026-10-30"
     },
     {
       "name": "Akshayykadam/PixelBoard",
@@ -987,7 +680,8 @@
         "usability": 69.0,
         "practicality": 59.0,
         "freshness": 20
-      }
+      },
+      "collected_on": "2026-10-30"
     },
     {
       "name": "eternityspring/reelbench-skills",
@@ -1045,7 +739,8 @@
         "usability": 69.0,
         "practicality": 59.0,
         "freshness": 20
-      }
+      },
+      "collected_on": "2026-10-30"
     },
     {
       "name": "vanzll/DiffusionART",
@@ -1109,7 +804,8 @@
         "usability": 69.0,
         "practicality": 54.0,
         "freshness": 20
-      }
+      },
+      "collected_on": "2026-10-30"
     },
     {
       "name": "tigerless-labs/agent-memory",
@@ -1176,7 +872,8 @@
         "practicality": 61.0,
         "freshness": 20
       },
-      "_source": "pending"
+      "_source": "pending",
+      "collected_on": "2026-10-30"
     },
     {
       "name": "2akouwu/reverify",
@@ -1250,7 +947,8 @@
         "practicality": 59.0,
         "freshness": 20
       },
-      "_source": "pending"
+      "_source": "pending",
+      "collected_on": "2026-10-30"
     },
     {
       "name": "wangzan101/Mika",
@@ -1312,7 +1010,8 @@
         "usability": 69.0,
         "practicality": 61.0,
         "freshness": 60
-      }
+      },
+      "collected_on": "2026-11-02"
     },
     {
       "name": "somastllc/nlp-for-machine-learning-bootcamp",
@@ -1369,7 +1068,8 @@
         "usability": 60.0,
         "practicality": 50.0,
         "freshness": 60
-      }
+      },
+      "collected_on": "2026-11-02"
     },
     {
       "name": "kuafuai/andee",
@@ -1431,7 +1131,8 @@
         "usability": 69.0,
         "practicality": 61.0,
         "freshness": 20
-      }
+      },
+      "collected_on": "2026-11-02"
     },
     {
       "name": "openfilm/openfilm",
@@ -1494,7 +1195,8 @@
         "usability": 60.0,
         "practicality": 63.0,
         "freshness": 20
-      }
+      },
+      "collected_on": "2026-11-02"
     },
     {
       "name": "e2sy/jailbreak-archives",
@@ -1567,7 +1269,8 @@
         "usability": 53.0,
         "practicality": 50.0,
         "freshness": 20
-      }
+      },
+      "collected_on": "2026-10-31"
     },
     {
       "name": "MiniMax-AI/MiniMax-H3-Image",
@@ -1627,7 +1330,8 @@
         "usability": 78.0,
         "practicality": 52.0,
         "freshness": 80
-      }
+      },
+      "collected_on": "2026-11-12"
     },
     {
       "name": "islandmed/SculptForge",
@@ -1698,7 +1402,8 @@
         "usability": 81.0,
         "practicality": 59.0,
         "freshness": 60
-      }
+      },
+      "collected_on": "2026-11-03"
     },
     {
       "name": "Arda313131882/aion-2-trainer-tool",
@@ -1769,7 +1474,8 @@
         "usability": 53.0,
         "practicality": 59.0,
         "freshness": 80
-      }
+      },
+      "collected_on": "2026-11-12"
     },
     {
       "name": "wideeyededi/uncensored-nsfw-ai-video-api",
@@ -1843,7 +1549,8 @@
         "usability": 69.0,
         "practicality": 52.0,
         "freshness": 60
-      }
+      },
+      "collected_on": "2026-11-03"
     },
     {
       "name": "thesysdev/open-intelligent-ui",
@@ -1911,7 +1618,8 @@
         "usability": 69.0,
         "practicality": 59.0,
         "freshness": 20
-      }
+      },
+      "collected_on": "2026-11-03"
     },
     {
       "name": "N1nEmAn/sapper-v2",
@@ -1977,7 +1685,8 @@
         "usability": 60.0,
         "practicality": 61.0,
         "freshness": 60
-      }
+      },
+      "collected_on": "2026-11-13"
     },
     {
       "name": "salikhussain71-code/PAKGOV-RAG-project",
@@ -2041,7 +1750,8 @@
         "usability": 69.0,
         "practicality": 52.0,
         "freshness": 20
-      }
+      },
+      "collected_on": "2026-10-30"
     },
     {
       "name": "amitshekhariitbhu/ai-engineering-course",
@@ -2101,7 +1811,8 @@
         "usability": 53.0,
         "practicality": 63.0,
         "freshness": 20
-      }
+      },
+      "collected_on": "2026-10-30"
     },
     {
       "name": "flohoeller/affectui",
@@ -2175,7 +1886,8 @@
         "practicality": 59.0,
         "freshness": 20
       },
-      "_source": "pending"
+      "_source": "pending",
+      "collected_on": "2026-11-03"
     },
     {
       "name": "baojian/llm-26-fall",
@@ -2228,7 +1940,8 @@
         "practicality": 50.0,
         "freshness": 20
       },
-      "_source": "pending"
+      "_source": "pending",
+      "collected_on": "2026-10-31"
     },
     {
       "name": "ThinkWatchProject/ThinkWatch-Lite",
@@ -2301,7 +2014,8 @@
         "usability": 69.0,
         "practicality": 59.0,
         "freshness": 20
-      }
+      },
+      "collected_on": "2026-11-03"
     },
     {
       "name": "apimart-66/ai-api-aggregator",
@@ -2365,7 +2079,8 @@
         "usability": 78.0,
         "practicality": 50.0,
         "freshness": 20
-      }
+      },
+      "collected_on": "2026-10-30"
     },
     {
       "name": "apimart-API-Gateway/grok-image-api",
@@ -2428,7 +2143,8 @@
         "usability": 78.0,
         "practicality": 50.0,
         "freshness": 20
-      }
+      },
+      "collected_on": "2026-11-03"
     },
     {
       "name": "whitecircle/halo",
@@ -2504,7 +2220,8 @@
         "practicality": 63.0,
         "freshness": 20
       },
-      "_source": "pending"
+      "_source": "pending",
+      "collected_on": "2026-10-30"
     },
     {
       "name": "stubbb/c-shop",
@@ -2557,7 +2274,8 @@
         "practicality": 50.0,
         "freshness": 20
       },
-      "_source": "pending"
+      "_source": "pending",
+      "collected_on": "2026-10-31"
     },
     {
       "name": "brave-plum-co/leonardo-ai-desktop",
@@ -2630,7 +2348,8 @@
         "usability": 78.0,
         "practicality": 52.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-15"
     },
     {
       "name": "briskember13/adobe-acrobat-pdf-desktop",
@@ -2702,7 +2421,8 @@
         "usability": 53.0,
         "practicality": 52.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-15"
     },
     {
       "name": "BlueRingsLabs/no-shortcuts",
@@ -2769,7 +2489,8 @@
         "usability": 44.0,
         "practicality": 54.0,
         "freshness": 20
-      }
+      },
+      "collected_on": "2026-10-30"
     },
     {
       "name": "Erutaner/CLADE",
@@ -2822,7 +2543,8 @@
         "practicality": 50.0,
         "freshness": 20
       },
-      "_source": "pending"
+      "_source": "pending",
+      "collected_on": "2026-10-31"
     },
     {
       "name": "dolev31/lasagna",
@@ -2898,7 +2620,8 @@
         "practicality": 54.0,
         "freshness": 60
       },
-      "_source": "pending"
+      "_source": "pending",
+      "collected_on": "2026-11-01"
     },
     {
       "name": "alicebrown323/pro-tools-desktop",
@@ -3020,7 +2743,7 @@
         "created_at": "2026-10-24T14:00:16Z",
         "pushed_at": "2026-10-29T11:02:21Z"
       },
-      "collected_on": "2026-11-05",
+      "collected_on": "2026-11-06",
       "filtered": false,
       "total_score": 69.5,
       "detail_scores": {
@@ -3095,7 +2818,7 @@
         "created_at": "2026-09-16T11:48:01Z",
         "pushed_at": "2026-11-07T11:51:44Z"
       },
-      "collected_on": "2026-10-30",
+      "collected_on": "2026-10-31",
       "filtered": false,
       "total_score": 59.75,
       "detail_scores": {
@@ -3159,7 +2882,7 @@
         "created_at": "2026-09-22T21:09:40Z",
         "pushed_at": "2026-11-15T08:30:17Z"
       },
-      "collected_on": "2026-11-01",
+      "collected_on": "2026-11-02",
       "filtered": false,
       "total_score": 54.96,
       "detail_scores": {
@@ -3232,7 +2955,7 @@
         "created_at": "2026-08-25T10:05:47Z",
         "pushed_at": "2026-10-30T21:30:49Z"
       },
-      "collected_on": "2026-10-30",
+      "collected_on": "2026-10-31",
       "filtered": false,
       "total_score": 50.91,
       "detail_scores": {
@@ -3245,9 +2968,451 @@
       "title_zh": "alrisqi/MrD-Optimizer-Lab：MrD 深度学习训练与模型优化工具箱",
       "summary_zh": "面向分类、目标检测与分割的训练与标注实验台，标签包含 tensorflow2、torch、opencv4、labeling-tool、training-dataset，HTML 实现，55 star，2026-08-25 创建。本轮由后备池补位入选，并非当日新采集条目。",
       "selected_on": "2026-11-15T23:25:00+08:00"
+    },
+    {
+      "name": "Leonxlnx/earshot",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/Leonxlnx/earshot",
+      "summary": "Ears for coding 智能体s: let AI hear, review and make sound. CPU-only, 开源. (语言: Python) [标签: ai-agents, audio, claude-code, mcp, sound-design]",
+      "popularity": {
+        "views": 4918,
+        "likes": 4918,
+        "comments": 324
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "音频处理",
+          "代码生成"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-15T06:52:46"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 4918,
+        "forks": 324,
+        "open_issues": 5,
+        "language": "Python",
+        "license": "mit",
+        "topics": [
+          "ai-agents",
+          "audio",
+          "claude-code",
+          "mcp",
+          "sound-design"
+        ],
+        "created_at": "2026-10-15T06:52:46Z",
+        "pushed_at": "2026-11-15T22:00:13Z"
+      },
+      "collected_on": "2026-11-07",
+      "filtered": false,
+      "total_score": 67.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 63.0,
+        "freshness": 20
+      },
+      "title_zh": "Leonxlnx/earshot：给编程智能体装上耳朵的开源音频工具",
+      "summary_zh": "Ears for coding agents：把声音能力接进编程智能体，让 AI 能听、能评审、能出音效，纯 CPU 运行、MIT 开源，适配 Claude Code 与 MCP 客户端。",
+      "selected_on": "2026-11-16"
+    },
+    {
+      "name": "Valen-Team/Valen",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/Valen-Team/Valen",
+      "summary": "Open multimodal decision 模型s, 0.8B to 27B, for text, images and video. Decide with probabilities over your own candidates and locate with bounding boxes, in place of generated text. Free API, ONNX,...",
+      "popularity": {
+        "views": 915,
+        "likes": 915,
+        "comments": 88
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "图像理解",
+          "图像生成",
+          "视频生成"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-09-23T02:48:02"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 915,
+        "forks": 88,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "apache-2.0",
+        "topics": [
+          "decision-model",
+          "fine-tuning",
+          "gguf",
+          "jev",
+          "multimodal",
+          "onnx",
+          "structured-output",
+          "system-one",
+          "typed-decisions",
+          "video-understanding",
+          "vision-language-model",
+          "visual-grounding",
+          "vllm",
+          "vlm",
+          "zero-shot-classification"
+        ],
+        "created_at": "2026-09-23T02:48:02Z",
+        "pushed_at": "2026-11-15T17:45:29Z"
+      },
+      "filtered": false,
+      "total_score": 67.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 63.0,
+        "freshness": 20
+      },
+      "title_zh": "Valen-Team/Valen：0.8B 到 27B 的开源多模态决策模型",
+      "summary_zh": "开源多模态决策模型族，覆盖文本、图像与视频：直接在自有候选集上输出概率并用边界框定位，替代自由文本生成；提供免费 API 与 ONNX、GGUF、vLLM、SGLang 部署及微调代码。",
+      "selected_on": "2026-11-16",
+      "collected_on": "2026-11-16"
+    },
+    {
+      "name": "nihui/qwenimage-ncnn-vulkan",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/nihui/qwenimage-ncnn-vulkan",
+      "summary": "ncnn implementation of Qwen-Image-2.1, with 文生图, image editing, multi-reference image input and transparent RGBA output (语言: C++) [标签: amd, apple, intel, linux, macos]",
+      "popularity": {
+        "views": 359,
+        "likes": 359,
+        "comments": 21
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "图像生成"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-21T11:11:37"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 359,
+        "forks": 21,
+        "open_issues": 9,
+        "language": "C++",
+        "license": "apache-2.0",
+        "topics": [
+          "amd",
+          "apple",
+          "intel",
+          "linux",
+          "macos",
+          "ncnn",
+          "nvidia",
+          "qwen-image",
+          "qwen-image-2-1",
+          "vulkan",
+          "windows"
+        ],
+        "created_at": "2026-09-21T11:11:37Z",
+        "pushed_at": "2026-11-02T06:29:35Z"
+      },
+      "collected_on": "2026-10-30",
+      "filtered": false,
+      "total_score": 63.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 20
+      },
+      "title_zh": "nihui/qwenimage-ncnn-vulkan：Qwen-Image-2.1 的 ncnn 端侧实现",
+      "summary_zh": "用 ncnn 实现的 Qwen-Image-2.1，支持文生图、图像编辑、多图参考输入与透明 RGBA 输出，基于 Vulkan 在 Linux、macOS、Windows 与 AMD、Apple、Intel、NVIDIA 显卡上运行。",
+      "selected_on": "2026-11-16"
+    },
+    {
+      "name": "terryds/bestvaluemodel",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/terryds/bestvaluemodel",
+      "summary": "Which LLM is worth it: Artificial 分析 Intelligence Index vs API price, refreshed daily (语言: HTML)",
+      "popularity": {
+        "views": 26,
+        "likes": 26,
+        "comments": 4
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "通用AI应用"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-24T13:41:25"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 26,
+        "forks": 4,
+        "open_issues": 0,
+        "language": "HTML",
+        "license": "",
+        "topics": [],
+        "created_at": "2026-09-24T13:41:25Z",
+        "pushed_at": "2026-10-31T21:31:45Z"
+      },
+      "filtered": false,
+      "total_score": 47.63,
+      "detail_scores": {
+        "popularity": 46.25999999999999,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 20
+      },
+      "_source": "pending",
+      "collected_on": "2026-11-01",
+      "title_zh": "terryds/bestvaluemodel：大模型智能指数与 API 价格性价比对照",
+      "summary_zh": "一个静态页面，把 Artificial Analysis 智能指数与 API 混合价格放进同一张图逐模型比对，按日刷新，帮助按性价比选 LLM；数据以 JSON 随仓库发布，站点跑在 Cloudflare Workers。",
+      "selected_on": "2026-11-16"
+    },
+    {
+      "name": "ecklein/modeldiff-ml",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/ecklein/modeldiff-ml",
+      "summary": "模型Diff-ML is a behavioral regression testing 框架 for 机器学习 模型s. (语言: Python)",
+      "popularity": {
+        "views": 61,
+        "likes": 61,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "通用AI应用"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-04T21:28:36"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 61,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "mit",
+        "topics": [],
+        "created_at": "2026-10-04T21:28:36Z",
+        "pushed_at": "2026-10-24T18:01:48Z"
+      },
+      "filtered": false,
+      "total_score": 45.98,
+      "detail_scores": {
+        "popularity": 61.61000000000001,
+        "usability": 44.0,
+        "practicality": 50.0,
+        "freshness": 20
+      },
+      "_source": "pending",
+      "collected_on": "2026-11-02",
+      "title_zh": "ecklein/modeldiff-ml：机器学习模型行为回归对比库",
+      "summary_zh": "模型行为回归测试框架：逐样本比较候选模型与基线模型，找出可读的差异区域并在独立数据上验证，用于发现整体指标提升下被掩盖的局部退化，可接已训练模型或预测结果，MIT 许可。",
+      "selected_on": "2026-11-16"
     }
   ],
   "pending_items": [
+    {
+      "name": "martinguirado95-ux/untangling-ml-complexity",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/martinguirado95-ux/untangling-ml-complexity",
+      "summary": "Clean ML 框架 2026: Simplify 机器学习 Code Structure and Hyperparameters (语言: HTML) [标签: keras, load-data, machine-learning, ml, model]",
+      "popularity": {
+        "views": 56,
+        "likes": 56,
+        "comments": 1
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "代码生成",
+          "数据处理"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-21T21:46:02"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 56,
+        "forks": 1,
+        "open_issues": 0,
+        "language": "HTML",
+        "license": "",
+        "topics": [
+          "keras",
+          "load-data",
+          "machine-learning",
+          "ml",
+          "model",
+          "postprocessing",
+          "preprocessing",
+          "python",
+          "trainer"
+        ],
+        "created_at": "2026-09-21T21:46:02Z",
+        "pushed_at": "2026-11-10T18:26:05Z"
+      },
+      "filtered": false,
+      "total_score": 48.72,
+      "detail_scores": {
+        "popularity": 61.56,
+        "usability": 53.0,
+        "practicality": 52.0,
+        "freshness": 20
+      },
+      "collected_on": "2026-11-02"
+    },
+    {
+      "name": "nicklucenasantanalucenasant-maker/yapt-core",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/nicklucenasantanalucenasant-maker/yapt-core",
+      "summary": "YAPT 2026: Modern PyTorch 训练 框架 for Faster 深度学习 Workflows (语言: HTML) [标签: deep-learning, neptune-ai, pytorch, trainer]",
+      "popularity": {
+        "views": 53,
+        "likes": 53,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "模型训练"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-21T22:54:48"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 53,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "HTML",
+        "license": "",
+        "topics": [
+          "deep-learning",
+          "neptune-ai",
+          "pytorch",
+          "trainer"
+        ],
+        "created_at": "2026-09-21T22:54:48Z",
+        "pushed_at": "2026-11-10T20:17:47Z"
+      },
+      "filtered": false,
+      "total_score": 45.81,
+      "detail_scores": {
+        "popularity": 53.53000000000001,
+        "usability": 53.0,
+        "practicality": 50.0,
+        "freshness": 20
+      },
+      "collected_on": "2026-10-31"
+    },
     {
       "name": "Sanane001/torch-hydra-starter",
       "type": "tool",
@@ -3307,59 +3472,8 @@
         "usability": 69.0,
         "practicality": 50.0,
         "freshness": 20
-      }
-    },
-    {
-      "name": "terryds/bestvaluemodel",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/terryds/bestvaluemodel",
-      "summary": "Which LLM is worth it: Artificial 分析 Intelligence Index vs API price, refreshed daily (语言: HTML)",
-      "popularity": {
-        "views": 26,
-        "likes": 26,
-        "comments": 4
       },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "通用AI应用"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-24T13:41:25"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 26,
-        "forks": 4,
-        "open_issues": 0,
-        "language": "HTML",
-        "license": "",
-        "topics": [],
-        "created_at": "2026-09-24T13:41:25Z",
-        "pushed_at": "2026-10-31T21:31:45Z"
-      },
-      "filtered": false,
-      "total_score": 47.63,
-      "detail_scores": {
-        "popularity": 46.25999999999999,
-        "usability": 69.0,
-        "practicality": 50.0,
-        "freshness": 20
-      }
+      "collected_on": "2026-10-31"
     },
     {
       "name": "avri22222/TS-Forge",
@@ -3423,179 +3537,8 @@
         "usability": 69.0,
         "practicality": 50.0,
         "freshness": 20
-      }
-    },
-    {
-      "name": "martinguirado95-ux/untangling-ml-complexity",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/martinguirado95-ux/untangling-ml-complexity",
-      "summary": "Clean ML 框架 2026: Simplify 机器学习 Code Structure and Hyperparameters (语言: HTML) [标签: keras, load-data, machine-learning, ml, model]",
-      "popularity": {
-        "views": 56,
-        "likes": 56,
-        "comments": 1
       },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "代码生成",
-          "数据处理"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-21T21:46:02"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 56,
-        "forks": 1,
-        "open_issues": 0,
-        "language": "HTML",
-        "license": "",
-        "topics": [
-          "keras",
-          "load-data",
-          "machine-learning",
-          "ml",
-          "model",
-          "postprocessing",
-          "preprocessing",
-          "python",
-          "trainer"
-        ],
-        "created_at": "2026-09-21T21:46:02Z",
-        "pushed_at": "2026-11-10T18:26:05Z"
-      },
-      "filtered": false,
-      "total_score": 48.72,
-      "detail_scores": {
-        "popularity": 61.56,
-        "usability": 53.0,
-        "practicality": 52.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "ecklein/modeldiff-ml",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/ecklein/modeldiff-ml",
-      "summary": "模型Diff-ML is a behavioral regression testing 框架 for 机器学习 模型s. (语言: Python)",
-      "popularity": {
-        "views": 61,
-        "likes": 61,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "通用AI应用"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-10-04T21:28:36"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 61,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "mit",
-        "topics": [],
-        "created_at": "2026-10-04T21:28:36Z",
-        "pushed_at": "2026-10-24T18:01:48Z"
-      },
-      "filtered": false,
-      "total_score": 45.98,
-      "detail_scores": {
-        "popularity": 61.61000000000001,
-        "usability": 44.0,
-        "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "nicklucenasantanalucenasant-maker/yapt-core",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/nicklucenasantanalucenasant-maker/yapt-core",
-      "summary": "YAPT 2026: Modern PyTorch 训练 框架 for Faster 深度学习 Workflows (语言: HTML) [标签: deep-learning, neptune-ai, pytorch, trainer]",
-      "popularity": {
-        "views": 53,
-        "likes": 53,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "模型训练"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-21T22:54:48"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 53,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "HTML",
-        "license": "",
-        "topics": [
-          "deep-learning",
-          "neptune-ai",
-          "pytorch",
-          "trainer"
-        ],
-        "created_at": "2026-09-21T22:54:48Z",
-        "pushed_at": "2026-11-10T20:17:47Z"
-      },
-      "filtered": false,
-      "total_score": 45.81,
-      "detail_scores": {
-        "popularity": 53.53000000000001,
-        "usability": 53.0,
-        "practicality": 50.0,
-        "freshness": 20
-      }
+      "collected_on": "2026-11-02"
     }
   ]
 }
