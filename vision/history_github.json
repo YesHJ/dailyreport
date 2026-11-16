@@ -1,288 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "ZJU-REAL/GPD",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/ZJU-REAL/GPD",
-      "summary": "GPD: Distilling Routed 三维 Privilege for Spatial Reasoning in 视觉语言模型s (语言: Python)",
-      "popularity": {
-        "views": 23,
-        "likes": 23,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉语言模型",
-          "三维视觉"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-29T10:52:08"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 23,
-        "forks": 0,
-        "open_issues": 2,
-        "language": "Python",
-        "license": "",
-        "topics": [],
-        "created_at": "2026-09-29T10:52:08Z",
-        "pushed_at": "2026-11-05T09:47:43Z"
-      },
-      "filtered": false,
-      "total_score": 38.97,
-      "detail_scores": {
-        "popularity": 23.230000000000004,
-        "usability": 60.0,
-        "practicality": 52.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "OpenMOSS/EasyWAM",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/OpenMOSS/EasyWAM",
-      "summary": "A unified 框架 for 训练, 微调, and evaluating World Action 模型s (语言: Python) [标签: benchmark, codebase, embodied-ai, foundation-models, lora]",
-      "popularity": {
-        "views": 404,
-        "likes": 404,
-        "comments": 13
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉语言模型",
-          "机器人视觉"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-08-26T15:08:36"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 404,
-        "forks": 13,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "other",
-        "topics": [
-          "benchmark",
-          "codebase",
-          "embodied-ai",
-          "foundation-models",
-          "lora",
-          "robotics",
-          "vision-language-action",
-          "world-action-model",
-          "world-models"
-        ],
-        "created_at": "2026-08-26T15:08:36Z",
-        "pushed_at": "2026-10-28T10:52:39Z"
-      },
-      "filtered": false,
-      "total_score": 60.25,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 53.0,
-        "practicality": 52.0,
-        "freshness": 20
-      },
-      "_source": "pending"
-    },
-    {
-      "name": "OpenBMB/SimpleNav",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/OpenBMB/SimpleNav",
-      "summary": "SimpleNav: A simple, unified, reproducible, and extensible 框架 for navigation VLA research. (语言: Python) [标签: embodied, navigation, vision-language-action]",
-      "popularity": {
-        "views": 139,
-        "likes": 139,
-        "comments": 5
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉-语言-动作",
-          "视觉语言模型"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-08-27T02:52:20"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 139,
-        "forks": 5,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "mit",
-        "topics": [
-          "embodied",
-          "navigation",
-          "vision-language-action"
-        ],
-        "created_at": "2026-08-27T02:52:20Z",
-        "pushed_at": "2026-10-09T05:20:24Z"
-      },
-      "filtered": false,
-      "total_score": 60.25,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 53.0,
-        "practicality": 52.0,
-        "freshness": 20
-      },
-      "_source": "pending"
-    },
-    {
-      "name": "RadixRootMind/RadixQuantVLA",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/RadixRootMind/RadixQuantVLA",
-      "summary": "RadixQuantVLA is a unified, Lego-like 框架 for post-训练 quantization, 基准测试ing, and 部署   preparation of 视觉-语言-动作 模型s, integrating QuantVLA, Omega-QVLA, OpenVLA, UniVLA, StarVLA, GR00T, and   Pi0.5 rout...",
-      "popularity": {
-        "views": 90,
-        "likes": 90,
-        "comments": 10
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉-语言-动作",
-          "视觉语言模型"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-08-19T07:20:37"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 90,
-        "forks": 10,
-        "open_issues": 0,
-        "language": "Jupyter Notebook",
-        "license": "gpl-3.0",
-        "topics": [],
-        "created_at": "2026-08-19T07:20:37Z",
-        "pushed_at": "2026-10-29T10:14:12Z"
-      },
-      "filtered": false,
-      "total_score": 58.0,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 44.0,
-        "practicality": 52.0,
-        "freshness": 20
-      },
-      "_source": "pending"
-    },
-    {
-      "name": "stubbb/c-shop",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/stubbb/c-shop",
-      "summary": "Graphic editor supporting agentic workflows with 深度学习 modules. (语言: Rust)",
-      "popularity": {
-        "views": 57,
-        "likes": 57,
-        "comments": 6
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "深度学习"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-08-28T19:28:45"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 57,
-        "forks": 6,
-        "open_issues": 1,
-        "language": "Rust",
-        "license": "apache-2.0",
-        "topics": [],
-        "created_at": "2026-08-28T19:28:45Z",
-        "pushed_at": "2026-10-15T20:45:34Z"
-      },
-      "filtered": false,
-      "total_score": 57.77,
-      "detail_scores": {
-        "popularity": 87.57000000000002,
-        "usability": 60.0,
-        "practicality": 50.0,
-        "freshness": 20
-      },
-      "_source": "pending"
-    },
-    {
       "name": "maaazhuang/mvkit",
       "type": "tool",
       "platform": "GitHub",
@@ -2997,19 +2715,17 @@
       "selected_on": "2026-11-16",
       "title_zh": "dsh-mac-computer-use：macOS 上视觉优先的桌面 computer use",
       "summary_zh": "面向 DSH 的「看着屏幕操作 Mac」实现：用 OCR 做文本定位、set-of-mark 索引标注可点元素，提供 11 个 desktop_* 工具并显示可见光标，明确不依赖系统无障碍树（accessibility tree），因此对纯视觉方案更友好。Swift、MIT，11 star，2026-10-10 创建、2026-11-12 最近推送。"
-    }
-  ],
-  "pending_items": [
+    },
     {
-      "name": "zhangyi-magic/BUTR",
+      "name": "scy-v/VLA-Precision",
       "type": "tool",
       "platform": "GitHub",
-      "url": "https://github.com/zhangyi-magic/BUTR",
-      "summary": "[NeurIPS 2026] The official implementation for BUTR: Dynamic Query as Budgeting for Tiny 目标检测 (语言: Python)",
+      "url": "https://github.com/scy-v/VLA-Precision",
+      "summary": "VLA-Precision: Asymmetric Co-Bootstrapping for Efficient Real-World Online RL of 视觉-语言-动作 模型s (语言: Python)",
       "popularity": {
-        "views": 12,
-        "likes": 12,
-        "comments": 1
+        "views": 102,
+        "likes": 102,
+        "comments": 10
       },
       "usability": {
         "difficulty": "medium",
@@ -3020,12 +2736,13 @@
       "practicality": {
         "scope": "medium",
         "scenarios": [
-          "目标检测"
+          "视觉-语言-动作",
+          "视觉语言模型"
         ],
         "maturity": "medium"
       },
       "freshness": {
-        "publish_date": "2026-09-14T08:51:24"
+        "publish_date": "2026-09-02T08:40:01"
       },
       "pricing": {
         "has_paid_features": false
@@ -3034,23 +2751,27 @@
         "blocked_in_china": false
       },
       "metadata": {
-        "stars": 12,
-        "forks": 1,
-        "open_issues": 2,
+        "stars": 102,
+        "forks": 10,
+        "open_issues": 1,
         "language": "Python",
         "license": "apache-2.0",
         "topics": [],
-        "created_at": "2026-09-14T08:51:24Z",
-        "pushed_at": "2026-11-11T02:42:03Z"
+        "created_at": "2026-09-02T08:40:01Z",
+        "pushed_at": "2026-11-06T10:11:47Z"
       },
+      "collected_on": "2026-11-06",
       "filtered": false,
-      "total_score": 36.64,
+      "total_score": 62.0,
       "detail_scores": {
-        "popularity": 17.12,
+        "popularity": 100,
         "usability": 60.0,
-        "practicality": 50.0,
+        "practicality": 52.0,
         "freshness": 20
-      }
+      },
+      "title_zh": "VLA-Precision：视觉-语言-动作模型真机在线强化学习的不对称协同自举框架",
+      "summary_zh": "论文《VLA-Precision: Asymmetric Co-Bootstrapping for Efficient Real-World Online RL of Vision-Language-Action Models》（arXiv:2609.04355）官方实现，Python / Apache-2.0，102 star，最近推送 2026-11-06；README 给出 UR5e/UR7e 等机械臂键盘遥操作与 LeRobot 格式示教数据采集脚本，配套项目主页 https://vla-precision.github.io/ ，把 VLA 策略从离线模仿学习推进到真机在线强化学习。",
+      "selected_on": "2026-11-17"
     },
     {
       "name": "monurcan/simit_paper",
@@ -3110,59 +2831,12 @@
         "usability": 69.0,
         "practicality": 52.0,
         "freshness": 20
-      }
-    },
-    {
-      "name": "gexinh/vlm-probe",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/gexinh/vlm-probe",
-      "summary": "模型-bound lens, attention, and causal probes for 视觉语言模型s (语言: Python)",
-      "popularity": {
-        "views": 10,
-        "likes": 10,
-        "comments": 0
       },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉语言模型"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-19T05:40:57"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 10,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "other",
-        "topics": [],
-        "created_at": "2026-09-19T05:40:57Z",
-        "pushed_at": "2026-11-05T00:15:30Z"
-      },
-      "filtered": false,
-      "total_score": 36.78,
-      "detail_scores": {
-        "popularity": 10.1,
-        "usability": 69.0,
-        "practicality": 50.0,
-        "freshness": 20
-      }
+      "_source": "pending",
+      "collected_on": "2026-11-13",
+      "title_zh": "SIMIT：让视觉语言模型在测试时用「想象」自我改进（论文官方实现）",
+      "summary_zh": "论文《SIMIT: Self-Improving Vision-Language Models via Imagination at Test-Time》官方代码，Python / Apache-2.0，10 star，项目主页 https://monurcan.github.io/simit ；仓库标签聚焦 multimodal-llm、self-improvement、test-time-training、vision-language-model，属测试时训练方向的 VLM 自我改进方法。",
+      "selected_on": "2026-11-17"
     },
     {
       "name": "cmir79/CvInspect",
@@ -3237,7 +2911,127 @@
         "usability": 60.0,
         "practicality": 54.0,
         "freshness": 20
-      }
+      },
+      "_source": "pending",
+      "collected_on": "2026-11-14",
+      "title_zh": "CvInspect：基于 OpenCvSharp 的 .NET 工业视觉检测工具包",
+      "summary_zh": "面向 .NET / netstandard 的机器视觉检测工具包，构建在 OpenCvSharp 之上：支持旋转+缩放模板匹配、卡尺找线与找圆、Blob 分析、WPF 示教控件以及不绑定相机厂商的 GigE 采集，覆盖 industrial-inspection、metrology、pattern-matching 等场景；C# 实现，Apache-2.0，10 star。",
+      "selected_on": "2026-11-17"
+    },
+    {
+      "name": "gexinh/vlm-probe",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/gexinh/vlm-probe",
+      "summary": "模型-bound lens, attention, and causal probes for 视觉语言模型s (语言: Python)",
+      "popularity": {
+        "views": 10,
+        "likes": 10,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉语言模型"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-19T05:40:57"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 10,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "other",
+        "topics": [],
+        "created_at": "2026-09-19T05:40:57Z",
+        "pushed_at": "2026-11-05T00:15:30Z"
+      },
+      "filtered": false,
+      "total_score": 36.78,
+      "detail_scores": {
+        "popularity": 10.1,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 20
+      },
+      "_source": "pending",
+      "collected_on": "2026-11-13",
+      "title_zh": "VLMProbe：视觉语言模型的模型绑定透镜、注意力与因果探针工具",
+      "summary_zh": "VLMProbe 为 VLM 提供 model-bound lens、注意力与因果探针等可解释性分析能力，支持 Python 3.10–3.12，已发布 PyPI 包 vlmprobe 与 Hugging Face Space（https://huggingface.co/spaces/gexinh/vlm-probe），对应 arXiv:2610.33072；采用 PolyForm Noncommercial 1.0.0 非商用许可，稳定版在实验室仓库 ubc-tea/vlm-probe。",
+      "selected_on": "2026-11-17"
+    },
+    {
+      "name": "zhangyi-magic/BUTR",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/zhangyi-magic/BUTR",
+      "summary": "[NeurIPS 2026] The official implementation for BUTR: Dynamic Query as Budgeting for Tiny 目标检测 (语言: Python)",
+      "popularity": {
+        "views": 12,
+        "likes": 12,
+        "comments": 1
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "目标检测"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-14T08:51:24"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 12,
+        "forks": 1,
+        "open_issues": 2,
+        "language": "Python",
+        "license": "apache-2.0",
+        "topics": [],
+        "created_at": "2026-09-14T08:51:24Z",
+        "pushed_at": "2026-11-11T02:42:03Z"
+      },
+      "filtered": false,
+      "total_score": 36.64,
+      "detail_scores": {
+        "popularity": 17.12,
+        "usability": 60.0,
+        "practicality": 50.0,
+        "freshness": 20
+      },
+      "_source": "pending",
+      "collected_on": "2026-11-11",
+      "title_zh": "BUTR：把动态查询当作预算的小目标检测（NeurIPS 2026 官方实现）",
+      "summary_zh": "NeurIPS 2026 论文《BUTR: Dynamic Query as Budgeting for Tiny Object Detection》官方实现，Python / Apache-2.0，12 star，面向小目标检测的「动态查询即预算」建模思路。",
+      "selected_on": "2026-11-17"
     }
-  ]
+  ],
+  "pending_items": []
 }
