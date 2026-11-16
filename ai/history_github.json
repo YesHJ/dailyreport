@@ -1,314 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "beckettharriman/openfill",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/beckettharriman/openfill",
-      "summary": "Generative Fill, Remove object, Generative Expand and Text to Image for PhotoCraft and GIMP 3. Free, local, on your own GPU through ComfyUI. (语言: Python) [标签: comfyui, flux, generative-ai, generati...",
-      "popularity": {
-        "views": 226,
-        "likes": 226,
-        "comments": 14
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "图像生成"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-10-14T20:51:20"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 226,
-        "forks": 14,
-        "open_issues": 5,
-        "language": "Python",
-        "license": "apache-2.0",
-        "topics": [
-          "comfyui",
-          "flux",
-          "generative-ai",
-          "generative-fill",
-          "gimp",
-          "gimp-3",
-          "gimp-plugin",
-          "gimp3",
-          "image-editing",
-          "inpainting",
-          "lama",
-          "local-ai",
-          "object-removal",
-          "outpainting",
-          "photo-editing",
-          "photoshop-alternative",
-          "python",
-          "sdxl",
-          "stable-diffusion"
-        ],
-        "created_at": "2026-10-14T20:51:20Z",
-        "pushed_at": "2026-11-06T18:48:04Z"
-      },
-      "filtered": false,
-      "total_score": 69.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 60.0,
-        "practicality": 50.0,
-        "freshness": 60
-      },
-      "collected_on": "2026-10-30"
-    },
-    {
-      "name": "kaankiziltug/logo-design-skill",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/kaankiziltug/logo-design-skill",
-      "summary": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI 智能体s: principles, process, SVG craft, testing tools and a 1,400+ logo reference 库. (语言: HTML) [标签: agent-skills, brandin...",
-      "popularity": {
-        "views": 6270,
-        "likes": 6270,
-        "comments": 502
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent",
-          "代码生成"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-09-26T08:23:34"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 6270,
-        "forks": 502,
-        "open_issues": 6,
-        "language": "HTML",
-        "license": "mit",
-        "topics": [
-          "agent-skills",
-          "branding",
-          "claude",
-          "claude-skills",
-          "codex",
-          "gemini-cli",
-          "logo-design",
-          "svg"
-        ],
-        "created_at": "2026-09-26T08:23:34Z",
-        "pushed_at": "2026-11-06T07:40:27Z"
-      },
-      "filtered": false,
-      "total_score": 68.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 78.0,
-        "practicality": 61.0,
-        "freshness": 20
-      },
-      "collected_on": "2026-10-30"
-    },
-    {
-      "name": "yetone/cumora",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/yetone/cumora",
-      "summary": "Where 智能体 teams gather. 跨平台 team chat where AI 智能体s are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains. (语言: TypeScript)",
-      "popularity": {
-        "views": 4050,
-        "likes": 4050,
-        "comments": 538
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent",
-          "代码生成"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-08-17T09:13:52"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 4050,
-        "forks": 538,
-        "open_issues": 29,
-        "language": "TypeScript",
-        "license": "mit",
-        "topics": [],
-        "created_at": "2026-08-17T09:13:52Z",
-        "pushed_at": "2026-10-29T13:54:27Z"
-      },
-      "filtered": false,
-      "total_score": 64.25,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 60.0,
-        "practicality": 61.0,
-        "freshness": 20
-      },
-      "_source": "pending",
-      "collected_on": "2026-10-30"
-    },
-    {
-      "name": "i-am-manware/Manware-s-AI-Learning-Toolkit",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/i-am-manware/Manware-s-AI-Learning-Toolkit",
-      "summary": "An AI 工具包 that turns 智能体s into teachers rather than code yapping machines",
-      "popularity": {
-        "views": 847,
-        "likes": 847,
-        "comments": 113
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent",
-          "代码生成"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-09-05T16:46:07"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 847,
-        "forks": 113,
-        "open_issues": 1,
-        "language": "",
-        "license": "",
-        "topics": [],
-        "created_at": "2026-09-05T16:46:07Z",
-        "pushed_at": "2026-10-11T12:11:59Z"
-      },
-      "filtered": false,
-      "total_score": 64.25,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 60.0,
-        "practicality": 61.0,
-        "freshness": 20
-      },
-      "_source": "pending",
-      "collected_on": "2026-10-30"
-    },
-    {
-      "name": "VaderChen/YourDesk",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/VaderChen/YourDesk",
-      "summary": "跨平台 remote desktop for macOS and Windows with hardware acceleration, multi-monitor support, clipboard transfer for text, images, files and folders, and MCP integration for AI 智能体s to connect to and...",
-      "popularity": {
-        "views": 265,
-        "likes": 265,
-        "comments": 36
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent",
-          "图像生成"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-08T03:53:34"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 265,
-        "forks": 36,
-        "open_issues": 6,
-        "language": "Go",
-        "license": "other",
-        "topics": [
-          "clipboard",
-          "golang",
-          "macos",
-          "remote-desktop",
-          "webrtc",
-          "windows"
-        ],
-        "created_at": "2026-09-08T03:53:34Z",
-        "pushed_at": "2026-10-23T03:38:27Z"
-      },
-      "filtered": false,
-      "total_score": 64.25,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 52.0,
-        "freshness": 20
-      },
-      "_source": "pending",
-      "collected_on": "2026-10-30"
-    },
-    {
       "name": "qybaihe/bla",
       "type": "tool",
       "platform": "GitHub",
@@ -3288,6 +2980,358 @@
       "title_zh": "ecklein/modeldiff-ml：机器学习模型行为回归对比库",
       "summary_zh": "模型行为回归测试框架：逐样本比较候选模型与基线模型，找出可读的差异区域并在独立数据上验证，用于发现整体指标提升下被掩盖的局部退化，可接已训练模型或预测结果，MIT 许可。",
       "selected_on": "2026-11-16"
+    },
+    {
+      "name": "vercel-labs/ui",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/vercel-labs/ui",
+      "summary": "A 库 of behaviors for 智能体s to build the next 生成 of user interfaces. (语言: TypeScript) [标签: accessibility, agent, agents, ai, aria]",
+      "popularity": {
+        "views": 5283,
+        "likes": 5283,
+        "comments": 172
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-26T17:39:27"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 5283,
+        "forks": 172,
+        "open_issues": 109,
+        "language": "TypeScript",
+        "license": "apache-2.0",
+        "topics": [
+          "accessibility",
+          "agent",
+          "agents",
+          "ai",
+          "aria",
+          "behaviors",
+          "component",
+          "component-library",
+          "headless",
+          "mcp",
+          "react",
+          "solid",
+          "svelte",
+          "vue",
+          "web-components",
+          "webmcp"
+        ],
+        "created_at": "2026-10-26T17:39:27Z",
+        "pushed_at": "2026-11-16T23:01:30Z"
+      },
+      "filtered": false,
+      "total_score": 74.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 59.0,
+        "freshness": 60
+      },
+      "selected_on": "2026-11-17",
+      "title_zh": "vercel-labs/ui：给智能体拼装新一代界面的行为组件库",
+      "summary_zh": "Vercel Labs 开源的 headless 行为（behaviors）组件库，把无障碍交互与常用 UI 逻辑封装成可复用单元，供 AI 智能体直接组装新一代界面，支持 React/Solid 并可经 MCP 接入。（TypeScript，5283 stars）",
+      "collected_on": "2026-11-17"
+    },
+    {
+      "name": "QingYunA/answer-me-with-html",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/QingYunA/answer-me-with-html",
+      "summary": "Answer me with HTML — an 智能体 skill that answers hard questions with a one-page HTML you can actually read. 让 AI 智能体 用一页 HTML 回答复杂问题。 (语言: JavaScript) [标签: agent-skill, ai-agent, claude-code, claude...",
+      "popularity": {
+        "views": 6365,
+        "likes": 6365,
+        "comments": 429
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "代码生成"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-02T09:57:40"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 6365,
+        "forks": 429,
+        "open_issues": 4,
+        "language": "JavaScript",
+        "license": "mit",
+        "topics": [
+          "agent-skill",
+          "ai-agent",
+          "claude-code",
+          "claude-code-skill",
+          "claude-skill",
+          "claude-skills",
+          "cli",
+          "diagram",
+          "dsh-plugin",
+          "explainer",
+          "html",
+          "llm",
+          "ste100"
+        ],
+        "created_at": "2026-10-02T09:57:40Z",
+        "pushed_at": "2026-11-16T05:37:19Z"
+      },
+      "collected_on": "2026-10-29",
+      "filtered": false,
+      "total_score": 68.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 78.0,
+        "practicality": 61.0,
+        "freshness": 20
+      },
+      "selected_on": "2026-11-17",
+      "title_zh": "answer-me-with-html：让 AI 智能体用一页 HTML 讲清复杂问题",
+      "summary_zh": "面向 Claude Code 的智能体技能（agent skill），把难题的答案渲染成一页可直接阅读的 HTML，自带图表与排版，适合在 CLI 与 Agent 工作流里做可视化讲解。（JavaScript，6365 stars）"
+    },
+    {
+      "name": "OpenMOSS/MOSS-Image",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/OpenMOSS/MOSS-Image",
+      "summary": "Official repository for MOSS-Image, a 5B-parameter base DiT 模型 with high-quality text rendering, layout 生成, and efficient 微调. (语言: Python) [标签: controllable-generation, foundation-models, image-gen...",
+      "popularity": {
+        "views": 2919,
+        "likes": 2919,
+        "comments": 174
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "图像生成",
+          "模型微调"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-16T01:18:13"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 2919,
+        "forks": 174,
+        "open_issues": 34,
+        "language": "Python",
+        "license": "apache-2.0",
+        "topics": [
+          "controllable-generation",
+          "foundation-models",
+          "image-generation",
+          "text-rendering",
+          "text-to-image"
+        ],
+        "created_at": "2026-10-16T01:18:13Z",
+        "pushed_at": "2026-11-08T13:04:50Z"
+      },
+      "collected_on": "2026-10-29",
+      "filtered": false,
+      "total_score": 66.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 61.0,
+        "freshness": 20
+      },
+      "selected_on": "2026-11-17",
+      "title_zh": "MOSS-Image：5B 参数 DiT 图像基座模型，主打文字渲染与版面控制",
+      "summary_zh": "OpenMOSS 团队公开的图像生成基座仓库，50 亿参数 DiT 模型强调高质量文字渲染、版面布局控制与高效微调，提供文生图与可控生成示例。（Python，2919 stars）"
+    },
+    {
+      "name": "onehumanbeing/esp32-iphone-agent",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+      "summary": "Let an AI 模型 use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision 模型. No Mac, no developer account, no jailbreak. (语言: Swift) [标签: ai-agent, airplay, automat...",
+      "popularity": {
+        "views": 5027,
+        "likes": 5027,
+        "comments": 687
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "图像理解",
+          "代码生成"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-11T19:10:25"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 5027,
+        "forks": 687,
+        "open_issues": 18,
+        "language": "Swift",
+        "license": "mit",
+        "topics": [
+          "ai-agent",
+          "airplay",
+          "automation",
+          "claude-code",
+          "computer-use",
+          "dsh-plugin",
+          "esp32",
+          "esp32-s3",
+          "ios",
+          "ios-automation",
+          "iphone",
+          "llm",
+          "mcp",
+          "mcp-server",
+          "mobile-agent",
+          "phone-agent",
+          "screen-mirroring",
+          "seeed-xiao",
+          "usb-hid",
+          "xiao-esp32s3"
+        ],
+        "created_at": "2026-10-11T19:10:25Z",
+        "pushed_at": "2026-11-16T08:03:16Z"
+      },
+      "collected_on": "2026-10-29",
+      "filtered": false,
+      "total_score": 64.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 60.0,
+        "practicality": 63.0,
+        "freshness": 20
+      },
+      "selected_on": "2026-11-17",
+      "title_zh": "esp32-iphone-agent：用 7 美元 ESP32 让大模型操作真实 iPhone",
+      "summary_zh": "通过 AirPlay 取画面、USB HID 做按键，把任意 OpenAI 兼容视觉模型接到真实 iPhone 上执行自动化任务，无需 Mac、开发者账号或越狱。（Swift，5027 stars）"
+    },
+    {
+      "name": "l-wn/ClusterChat",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/l-wn/ClusterChat",
+      "summary": "A 聊天机器人, with a 大语言模型 split across its users, entirely in the browser. (语言: JavaScript) [标签: chatbot, distributed-inference, llm, open-models, open-source]",
+      "popularity": {
+        "views": 56,
+        "likes": 56,
+        "comments": 4
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "对话交互",
+          "推理部署"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-09T14:22:32"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 56,
+        "forks": 4,
+        "open_issues": 2,
+        "language": "JavaScript",
+        "license": "agpl-3.0",
+        "topics": [
+          "chatbot",
+          "distributed-inference",
+          "llm",
+          "open-models",
+          "open-source",
+          "p2p",
+          "webgpu",
+          "webrtc"
+        ],
+        "created_at": "2026-10-09T14:22:32Z",
+        "pushed_at": "2026-11-10T01:07:13Z"
+      },
+      "collected_on": "2026-10-30",
+      "filtered": false,
+      "total_score": 57.22,
+      "detail_scores": {
+        "popularity": 76.56,
+        "usability": 69.0,
+        "practicality": 52.0,
+        "freshness": 20
+      },
+      "selected_on": "2026-11-17",
+      "title_zh": "ClusterChat：把一个大模型拆开分摊到浏览器用户之间协同推理",
+      "summary_zh": "纯浏览器实现的聊天机器人，用 WebGPU 加 WebRTC/P2P 把一个开源大模型的推理负载拆分到多个访问者设备上协同完成，探索去中心化推理形态。（JavaScript，56 stars）"
     }
   ],
   "pending_items": [
@@ -3539,6 +3583,111 @@
         "freshness": 20
       },
       "collected_on": "2026-11-02"
+    },
+    {
+      "name": "andrew-morris/neuronaut",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/andrew-morris/neuronaut",
+      "summary": "An explorer and 调试器 of sorts for 大语言模型 (LLM) weights (语言: C++)",
+      "popularity": {
+        "views": 38,
+        "likes": 38,
+        "comments": 4
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "通用AI应用"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-05T21:19:01"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 38,
+        "forks": 4,
+        "open_issues": 0,
+        "language": "C++",
+        "license": "mit",
+        "topics": [],
+        "created_at": "2026-11-05T21:19:01Z",
+        "pushed_at": "2026-11-08T21:35:42Z"
+      },
+      "filtered": false,
+      "total_score": 57.01,
+      "detail_scores": {
+        "popularity": 58.38,
+        "usability": 60.0,
+        "practicality": 50.0,
+        "freshness": 60
+      }
+    },
+    {
+      "name": "niharika2309/16-week-ai-ml-series",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/niharika2309/16-week-ai-ml-series",
+      "summary": "AI, One Concept at a Time A beginner-friendly journey into 人工智能 and 机器学习  By Niharika Batra  No complicated jargon. No assumption that you already know AI. Just one concept at a time. (语言: JavaScript)",
+      "popularity": {
+        "views": 54,
+        "likes": 54,
+        "comments": 3
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "通用AI应用"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-14T02:26:27"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 54,
+        "forks": 3,
+        "open_issues": 0,
+        "language": "JavaScript",
+        "license": "",
+        "topics": [],
+        "created_at": "2026-09-14T02:26:27Z",
+        "pushed_at": "2026-11-11T00:47:45Z"
+      },
+      "collected_on": "2026-10-30",
+      "filtered": false,
+      "total_score": 54.61,
+      "detail_scores": {
+        "popularity": 69.54,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
     }
   ]
 }
