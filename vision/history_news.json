@@ -1,224 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "2026具身智能企业场景布局全景：单岗位深耕还是多岗位覆盖？",
-      "type": "news",
-      "platform": "证券之星",
-      "url": "https://stock.stockstar.com/IG2026110500017951.shtml",
-      "summary": "2026年中国具身智能产业突破万亿市场规模，智平方发布全球首个类脑架构VLA大模型NeuroVLA，构建皮层-小脑-脊髓三层体系。行业从技术验证迈入生产力兑现阶段，头部企业按在岗时间分为四层梯队。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "high",
-        "scenarios": [
-          "具身智能",
-          "VLA",
-          "人形机器人"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-05T12:38:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 54.75,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 58.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "宇树科技陈立：2030年具身智能机器人有望走进千家万户",
-      "type": "news",
-      "platform": "光明网/腾讯新闻",
-      "url": "https://view.inews.qq.com/a/20261104A0E9CG00",
-      "summary": "宇树科技联合创始人在2026世界互联网大会乌镇峰会表示，具身智能是机器人最大挑战也是最具潜力方向。他认为具身智能可跨越大语言模型曾面临的三大核心挑战，2030年机器人有望真正进入家庭。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "high",
-        "scenarios": [
-          "具身智能",
-          "人形机器人",
-          "VLA"
-        ],
-        "maturity": "growing"
-      },
-      "freshness": {
-        "publish_date": "2026-11-04T10:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 51.75,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 46.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "具身数据成风口中的风口：简智机器人再融1亿美元",
-      "type": "news",
-      "platform": "东方财富网",
-      "url": "https://wap.eastmoney.com/a/202611033920103544.html",
-      "summary": "简智机器人完成1亿美元A+轮融资，上汽、百度、银河通用等参投。公司已与超30家AI企业合作，单季度有效数据交付达百万小时级，与蚂蚁灵波围绕具身模型开展数据协同，计划2027年实现千万小时交付。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "具身智能",
-          "训练数据",
-          "机器人"
-        ],
-        "maturity": "growing"
-      },
-      "freshness": {
-        "publish_date": "2026-11-03T09:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 46.0,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 69.0,
-        "practicality": 51.0,
-        "freshness": 80
-      }
-    },
-    {
-      "name": "工业AI应用场景加快落地，机器视觉产业链迎来业绩验证窗口",
-      "type": "news",
-      "platform": "财联社",
-      "url": "https://www.cls.cn/subject/1321",
-      "summary": "从视觉系统集成到下游需求变化，海外龙头Basler、基恩士、康耐视近期动向为观察机器视觉行业提供新线索。国内企业三季报已披露，工业AI应用能否转化为经营增量有了更具体的观察样本。",
-      "popularity": {
-        "views": 11200,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "high",
-        "scenarios": [
-          "机器视觉",
-          "工业AI"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-05T07:43:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 84.25,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 81.0,
-        "practicality": 56.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "摄像头拍下的画面机器怎么看懂的？一文读懂机器视觉产业链",
-      "type": "news",
-      "platform": "东方财富",
-      "url": "https://emcreative.eastmoney.com/app_fortune/article/index.html?artCode=20261101120244099348380",
-      "summary": "机器视觉链路为感光CIS、处理ISP与视觉SoC、识别NPU与算法。全球CIS市场2026年预计突破300亿美元，前三家合计份额超七成。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "机器视觉",
-          "产业链"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-01T12:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 51.5,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 61.0,
-        "freshness": 80
-      }
-    },
-    {
       "name": "第一届中国工业视觉人工智能大会在沪举办",
       "type": "news",
       "platform": "新浪",
@@ -2215,6 +1997,246 @@
       "selected_on": "2026-11-16",
       "title_zh": "谷歌上线其最强机器人模型 入驻奔驰生产线 分拣成功率96%",
       "summary_zh": "11月10日谷歌DeepMind发布Gemini Robotics 2.5，定位迄今最强VLA机器人模型。Apptronik Apollo 2人形机器人在奔驰匈牙利与德国工厂产线自主分拣金属支架，成功率96%；200余项真实任务中成功率最高提升100%、速度提升30%，目前仅对机器人合作伙伴开放，仍处PoC阶段。"
+    },
+    {
+      "name": "VLM记忆机制最新综述，从When、Where、What、How四个维度看懂记忆",
+      "type": "news",
+      "platform": "机器之心",
+      "url": "https://m.163.com/dy/article/LBS3RIBP0511AQHO.html",
+      "summary": "来自Duke、Google、USC、宾大、UNC等八家机构的综述《Memory in Vision-Language Models: Taxonomy, Mechanisms, and Applications》按When/Where/What/How四个维度系统梳理视觉语言模型的记忆机制，覆盖300余篇论文、近70个基准、8种记忆形态与8类应用场景，并给出统一评估视角；论文发布于Preprints，配套项目仓库Awesome-Memory-in-VLM已开源。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "VLM",
+          "模型记忆机制",
+          "综述与基准"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-16T14:07:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-17",
+      "filtered": false,
+      "total_score": 56.0,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 63.0,
+        "freshness": 100
+      },
+      "title_zh": "VLM记忆机制最新综述：从 When、Where、What、How 四个维度看懂记忆",
+      "summary_zh": "Duke、Google、USC、宾大、UNC 等八家机构联合发布综述《Memory in Vision-Language Models: Taxonomy, Mechanisms, and Applications》，按 When/Where/What/How 四维梳理视觉语言模型的记忆机制，汇总 300 余篇论文、近 70 个基准、8 种记忆形态与 8 类应用场景；论文见 https://www.preprints.org/manuscript/202607.1539 ，清单仓库 https://github.com/Xzcv-hub/Awesome-Memory-in-VLM 。",
+      "selected_on": "2026-11-17"
+    },
+    {
+      "name": "提速2.48倍且画质不掉线，AI视频“降本增效”有了新解法",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/11/510369.html",
+      "summary": "是石科技介绍多模态模型服务的工程化降本路径：history-cache-residual自适应加速在不损画质的前提下端到端平均提速2.48倍（对比Dense基线）；结合SGLang的缓存与显存管理，以及免训练的模态自适应token压缩（基于AudioCLIP），在WorldSense上提速1.33倍，VideoMME、DailyOmni等基准同步验证；并配套全模态Context Engine与API、任务编排、模型路由的服务架构。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "多模态推理加速",
+          "模型部署",
+          "视频生成"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-16T11:07:39"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-17",
+      "filtered": false,
+      "total_score": 53.0,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 69.0,
+        "practicality": 63.0,
+        "freshness": 100
+      },
+      "title_zh": "提速2.48倍且画质不掉线：AI视频「降本增效」的多模态推理新解法",
+      "summary_zh": "是石科技分享多模态模型服务的工程化降本方案：history-cache-residual 自适应加速在画质不掉线的前提下端到端平均提速 2.48 倍（对比 Dense 基线）；结合 SGLang 缓存与显存管理、免训练的模态自适应 token 压缩（基于 AudioCLIP），在 WorldSense 上提速 1.33 倍，VideoMME、DailyOmni 同步验证；并配套全模态 Context Engine 与 API/任务编排/模型路由的服务架构。",
+      "selected_on": "2026-11-17"
+    },
+    {
+      "name": "车没拍到的死角也能看，英伟达祭出首个能模拟不同激光雷达传感器扫描的模型",
+      "type": "news",
+      "platform": "新智元",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=ae5ef3ed",
+      "summary": "NVIDIA Research推出LidarVerse，称首个能够模拟不同激光雷达传感器扫描模式的模型：面向新视角的场景重建与生成，可把自动驾驶已记录的点云数据「重放」成不同传感器型号、不同安装位姿与扫描线配置下的观测，从而复用既有采集数据、补齐车辆未拍到的死角，降低跨硬件采集成本。",
+      "popularity": {
+        "views": 2880,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "3D视觉",
+          "自动驾驶",
+          "点云传感器仿真"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-17T01:40:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-17",
+      "filtered": false,
+      "total_score": 50.89,
+      "detail_scores": {
+        "popularity": 28.799999999999997,
+        "usability": 44.0,
+        "practicality": 45.0,
+        "freshness": 100
+      },
+      "title_zh": "英伟达首个可模拟不同激光雷达扫描的模型 LidarVerse：车没拍到的死角也能看",
+      "summary_zh": "NVIDIA Research 推出 LidarVerse，称为首个能模拟不同激光雷达传感器扫描模式的模型：面向新视角的场景重建与生成，可把自动驾驶已记录的数据「重放」成不同传感器型号、安装位姿与扫描线配置下的观测，用于补齐车辆未拍到的死角、复用存量采集数据并降低跨硬件实采成本。",
+      "selected_on": "2026-11-17"
+    },
+    {
+      "name": "00后爆改机械臂，狂揽全国总冠军！15战队上海鏖战48h结果出炉",
+      "type": "news",
+      "platform": "新智元",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tge67720",
+      "summary": "首届蚂蚁灵波具身大模型挑战赛落幕：吸引13个国家、648家高校与企业的1855支战队报名，15支队伍在上海48小时真机黑客松中基于开源LingBot-VLA 2.0与松灵双臂机器人，同时挑战果蔬分拣、透明亚克力盒收纳、双臂协同清扫三个任务，完整走通现场数采、微调与部署。冠军TARS以82.50分压线夺冠（自采100条真机数据拟合重力下坠补偿表）；亚军EVA靠RSI数据回流飞轮迭代7轮、补采705条数据把真机得分从10%拉到74.77分；季军SST仅额外采13条数据，用视频倒放+DeepSeek指令解析+SAM3掩码屏蔽背景进入前三。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "VLA",
+          "真机部署",
+          "数据回流"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-16T20:16:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-17",
+      "filtered": false,
+      "total_score": 48.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 60.0,
+        "practicality": 54.0,
+        "freshness": 100
+      },
+      "title_zh": "00后爆改机械臂夺全国总冠军：15战队上海48小时真机鏖战 LingBot-VLA 2.0",
+      "summary_zh": "首届蚂蚁灵波具身大模型挑战赛收官：13 个国家、648 家高校与企业的 1855 支战队报名，15 支队伍在上海用 48 小时基于开源 LingBot-VLA 2.0 与松灵双臂真机完成数采—微调—部署全流程，同一大脑挑战果蔬分拣、透明盒收纳、双臂清扫三个任务。冠军 TARS 82.50 分（自采 100 条真机数据拟合重力下坠补偿表）；亚军 EVA 用 RSI 数据回流迭代 7 轮、补采 705 条把得分从 10% 拉到 74.77 分；季军 SST 仅补采 13 条数据，用视频倒放+DeepSeek 指令解析+SAM3 掩码抑制背景进入前三。",
+      "selected_on": "2026-11-17"
+    },
+    {
+      "name": "产业观察：星尘智能发布CoMind，机器人实现共享视野！",
+      "type": "news",
+      "platform": "维科网",
+      "url": "https://robot.ofweek.com/2026-11/ART-8321205-12003-30711974.html",
+      "summary": "星尘智能11月13日发布CoMind（Be My Eye），被称为首个主动式共享视野、任务策展的多机器人VLA框架：去中心化但每台机器人从自身多路相机画面中挑出真正影响队友决策的信息压缩后传输，并引入动作级反向传播，让接收方的执行误差回传优化发送方编码器。实测完全遮挡的隔墙跟随成功率从0%提升到100%，盲盒置物从38.9%提升到88.9%，传输token量约为朴素方案的1/5（带宽下降80%），基于Lumo-1/Lumo-2具身OS与绳驱本体。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "VLA",
+          "多机协同",
+          "视觉共享"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-16T16:19:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-17",
+      "filtered": false,
+      "total_score": 46.25,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 60.0,
+        "practicality": 45.0,
+        "freshness": 100
+      },
+      "title_zh": "产业观察：星尘智能发布 CoMind，机器人实现「共享视野」",
+      "summary_zh": "星尘智能 11 月 13 日发布 CoMind（Be My Eye），被称为首个主动共享视野、任务策展的多机器人 VLA 框架：不设总指挥，每台机器人从自身多路相机画面中挑出真正影响队友决策的信息压缩后传输，并用动作级反向传播让接收方的执行误差回传优化发送方编码器。隔墙跟随成功率 0%→100%，盲盒置物 38.9%→88.9%，传输 token 约为朴素方案的 1/5（带宽下降 80%），基于 Lumo-1/Lumo-2 具身 OS 与绳驱本体。",
+      "selected_on": "2026-11-17"
     }
   ],
   "pending_items": [
@@ -2303,6 +2325,96 @@
         "usability": 44.0,
         "practicality": 30.0,
         "freshness": 80
+      }
+    },
+    {
+      "name": "特斯拉公开Optimus机器人训练秘籍：世界模型实现“策略在环”闭环",
+      "type": "news",
+      "platform": "维科网",
+      "url": "https://robot.ofweek.com/2026-11/ART-8321205-8140-30711861.html",
+      "summary": "特斯拉在CoRL 2026披露Optimus的世界模型已实现「策略在环实时控制」：策略网络直接输出各关节动作，世界模型实时推演下一帧观测画面形成闭环，强调「追求物理准确而非画面好看」，目标是把FSD与Optimus长尾场景的成功与失败忠实复现，用作离线评估与训练场，缓解真机数据不足与策略评估慢的瓶颈。文中同时提醒：展台上的Optimus V2.5仍依赖遥操作，特斯拉尚未发布完整技术报告，闭环时长与动作精度未披露。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "世界模型",
+          "机器人训练",
+          "视觉仿真"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-16T11:55:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-17",
+      "filtered": false,
+      "total_score": 46.25,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 60.0,
+        "practicality": 45.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "MMLab@NTU提出原生具身模型NEO-VLA：从像素直出动作",
+      "type": "news",
+      "platform": "机器之心",
+      "url": "https://www.163.com/dy/article/LBRRFTM90511AQHO.html",
+      "summary": "MMLab@NTU提出原生具身模型NEO-VLA：用40层单一VLM主干替代「视觉编码器+LLM」两段式结构，动作专家从主干多个深度读取KV缓存，以flow matching 30步直接输出动作块。模型在9个公开数据集共2231583条轨迹、2704个场景、7444个相机视角、约1万小时数据上训练，LIBERO平均成功率97.4%，冻结主干设置下90.9%优于Qwen3-VL的79.5%；单张RTX 3090（24GB，BF16）推理一个动作块约0.26秒。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "VLA",
+          "具身智能",
+          "端到端视觉-动作"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-16T11:41:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-17",
+      "filtered": false,
+      "total_score": 42.25,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 44.0,
+        "practicality": 45.0,
+        "freshness": 100
       }
     }
   ]
