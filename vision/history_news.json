@@ -1,222 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "第一届中国工业视觉人工智能大会在沪举办",
-      "type": "news",
-      "platform": "新浪",
-      "url": "https://k.sina.cn/article_7857201856_1d45362c001908taio.html",
-      "summary": "大会以定义新工业智领新时代为主题，围绕工业AI与智能光学成像前沿进展展开交流。当前AI正从信息世界加快走向物理世界，工业场景成为检验技术规模化应用能力的重要领域。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "high",
-        "scenarios": [
-          "工业视觉",
-          "AI大会"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-02T01:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 50.25,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 56.0,
-        "freshness": 80
-      }
-    },
-    {
-      "name": "2026工业AI视觉监测厂商推荐：智能图纸识别成为差异化竞争关键",
-      "type": "news",
-      "platform": "搜狐",
-      "url": "https://m.sohu.com/a/1097127229_121078241/",
-      "summary": "深兰科技等厂商在视觉缺陷检测与三维建模领域积累深厚，2026年通过DeepAgent智能体开放平台向大模型方向升级，智能图纸识别成为工业AI视觉新差异化方向。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "moderate",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "工业视觉",
-          "缺陷检测"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-05T10:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 49.5,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 57.0,
-        "practicality": 61.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "20家机器人公司吃掉具身智能融资半壁江山",
-      "type": "news",
-      "platform": "36氪",
-      "url": "https://36kr.com/p/4053825059574656",
-      "summary": "2026年具身智能融资继续加速，超半数资金流入机器人大脑赛道。VLA、世界模型、RL与运控交叉方向是缺口和薪酬弹性最大的领域，自动驾驶成为最大人才输送源。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "具身智能",
-          "融资"
-        ],
-        "maturity": "emerging"
-      },
-      "freshness": {
-        "publish_date": "2026-11-03T18:08:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 48.5,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 49.0,
-        "freshness": 80
-      }
-    },
-    {
-      "name": "2026机器视觉行业案例解析：北京中远通工业落地实践",
-      "type": "news",
-      "platform": "中远通",
-      "url": "https://www.zyttech.com/newd/113.html",
-      "summary": "机器视觉在缺陷检测场景应用最广，覆盖汽车零部件、3C电子、锂电、半导体等行业。2026年3D视觉落地加速普及，边缘端轻量化部署与多光谱成像成为技术升级方向。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "缺陷检测",
-          "3D视觉",
-          "工业质检"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-05T08:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 49.0,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 69.0,
-        "practicality": 63.0,
-        "freshness": 80
-      }
-    },
-    {
-      "name": "传统规则视觉与嵌入式AI智能相机的技术差异及量产选型策略",
-      "type": "news",
-      "platform": "eet-china",
-      "url": "https://mbb.eet-china.com/blog/4158828-479212.html",
-      "summary": "文章对比了传统规则算法视觉与嵌入式AI智能相机在工业检测中的技术差异，分析了柔性制造场景下两者的选型策略，指出AI相机在多品类混线生产中优势明显。",
-      "popularity": {
-        "views": 893,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "high",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "工业检测",
-          "AI相机"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-05T16:23:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 53.43,
-      "detail_scores": {
-        "popularity": 8.93,
-        "usability": 78.0,
-        "practicality": 61.0,
-        "freshness": 80
-      }
-    },
-    {
       "name": "2026具身智能机器人传感器白皮书发布",
       "type": "news",
       "platform": "eet-china",
@@ -2237,6 +2021,250 @@
       "title_zh": "产业观察：星尘智能发布 CoMind，机器人实现「共享视野」",
       "summary_zh": "星尘智能 11 月 13 日发布 CoMind（Be My Eye），被称为首个主动共享视野、任务策展的多机器人 VLA 框架：不设总指挥，每台机器人从自身多路相机画面中挑出真正影响队友决策的信息压缩后传输，并用动作级反向传播让接收方的执行误差回传优化发送方编码器。隔墙跟随成功率 0%→100%，盲盒置物 38.9%→88.9%，传输 token 约为朴素方案的 1/5（带宽下降 80%），基于 Lumo-1/Lumo-2 具身 OS 与绳驱本体。",
       "selected_on": "2026-11-17"
+    },
+    {
+      "name": "Weitu AI打造能记忆会思考的流式多模态大脑",
+      "type": "news",
+      "platform": "机器之心",
+      "url": "https://tech.sina.cn/2026-11-16/detail-iniyxcic1243968.d.html",
+      "summary": "Weitu AI 发布面向持续视频流的流式多模态视频大脑，采用 Dual Sparse Memory 与 Long-term Memory 双记忆机制，可长时间在线感知并回溯历史画面。OVBench 得分 69.9（对比 Gemini 3.1 Pro 58.8），Meta S-EMBER 基准 58.23（对比 54.41），主要落地方向为 AI 眼镜与工业检修等持续视觉感知场景。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "视频理解",
+          "工业检修",
+          "边缘/端侧持续感知",
+          "多模态大模型"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-16 13:30:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 52.75,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 60.0,
+        "practicality": 71.0,
+        "freshness": 100
+      },
+      "title_zh": "Weitu AI 发布流式多模态视频大脑：能记忆、会思考",
+      "summary_zh": "Weitu AI 推出面向持续视频流的流式多模态大脑，用 Dual Sparse Memory + Long-term Memory 双记忆机制做长时在线感知与历史回溯；OVBench 69.9（Gemini 3.1 Pro 58.8）、Meta S-EMBER 58.23（54.41），主打 AI 眼镜与工业检修等需要不间断视觉感知的场景。",
+      "collected_on": "2026-11-18",
+      "selected_on": "2026-11-18"
+    },
+    {
+      "name": "最强GPT-6 Astra只对26.7%：Einsia AI发布Visual Cipher Bench长程视觉推理基准",
+      "type": "news",
+      "platform": "机器之心",
+      "url": "https://www.163.com/dy/article/LBV43V8I0511AQHO.html",
+      "summary": "Einsia AI 发布长程视觉推理基准 Visual Cipher Bench：40 道题、67 张纯黑白线稿，题干不含任何文字，要求模型从图像中自行发现规则并多步推理。8 个前沿模型共作答 3480 次，GPT-6 Astra max 正确率仅 26.7%，DeepSeek V4.1 Flash、Qwen3.8 Max、Kimi K3.1 Pro 得 0 分；给一句话提示规则后准确率从 12.2% 升至 51.1%。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉推理评测",
+          "VLM",
+          "基准与数据集"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-17 18:15:06"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 50.75,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 78.0,
+        "practicality": 45.0,
+        "freshness": 100
+      },
+      "title_zh": "Einsia AI 发布 Visual Cipher Bench：最强 GPT-6 Astra 仅得 26.7%",
+      "summary_zh": "长程视觉推理基准 Visual Cipher Bench 共 40 题、67 张纯黑白线稿且题干无文字，要求模型自行从图像发现规则再多步推理；8 个前沿模型作答 3480 次，GPT-6 Astra max 正确率仅 26.7%，DeepSeek V4.1 Flash、Qwen3.8 Max、Kimi K3.1 Pro 全部 0 题，给一句规则提示后从 12.2% 升至 51.1%。",
+      "collected_on": "2026-11-18",
+      "selected_on": "2026-11-18"
+    },
+    {
+      "name": "杨哲轩谈数据编译、模型能力与机器人如何重新进入真实世界",
+      "type": "news",
+      "platform": "36氪",
+      "url": "https://www.163.com/dy/article/LBSB0U2A05118DFD.html",
+      "summary": "智域基石杨哲轩提出「数据编译」：头戴设备采集的连续视频与 IMU 数据只记录发生了什么，需经质检、底座重构、结构化标注等五环节管线，补齐动力学、空间关系与接触关系，才能变成可训练、可评测的操作级数据资产；并谈到制造业质检是同类结构化数据的高需求场景。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "具身数据采集与标注",
+          "视频+IMU多模态数据",
+          "工业质检",
+          "模型训练数据管线"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-16 16:12:35"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 49.0,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 60.0,
+        "practicality": 56.0,
+        "freshness": 100
+      },
+      "title_zh": "杨哲轩谈“数据编译”：机器人如何重新进入真实世界",
+      "summary_zh": "智域基石杨哲轩提出把头戴设备采集的连续视频与 IMU 数据“编译”成可训练、可评测、可查询的操作级数据资产：五环节管线含数据质检（丢帧、IMU 漂移、关键动作遮挡筛除）、底座重构与动力学/空间/接触关系补全；并指出制造业质检是同类结构化视觉数据的高需求场景。",
+      "collected_on": "2026-11-18",
+      "selected_on": "2026-11-18"
+    },
+    {
+      "name": "并购完成，李飞飞正式率队加入AMD",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/11/510695.html",
+      "summary": "AMD 完成对 World Labs 的 82 亿美元股票收购（46 天交割），李飞飞出任 AMD 执行副总裁兼首席科学家，团队作为独立前沿研究组织继续做基础模型研发。World Labs 主打 Atlas 世界模型与相机可控视频生成（60 秒、1440p），此前已收购 Scenix 做实景转仿真数据，指向三维视觉重建与机器人 sim2real 零样本迁移。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "三维视觉与空间智能",
+          "世界模型",
+          "sim2real仿真数据",
+          "算力与部署"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-17 22:15:20"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 46.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 44.0,
+        "practicality": 62.0,
+        "freshness": 100
+      },
+      "title_zh": "AMD 完成 82 亿美元收购 World Labs，李飞飞率队加入",
+      "summary_zh": "AMD 宣布以 82 亿美元股票、46 天完成对李飞飞联合创办的空间智能公司 World Labs 的收购，李飞飞任执行副总裁兼首席科学家并保留独立前沿研究组织；World Labs 主打 Atlas 世界模型与相机可控视频生成（60 秒 / 1440p），并已收购 Scenix 做实景转仿真数据，指向三维视觉重建与机器人 sim2real 零样本迁移。",
+      "collected_on": "2026-11-18",
+      "selected_on": "2026-11-18"
+    },
+    {
+      "name": "MMLab@NTU提出原生具身模型NEO-VLA：从像素直出动作",
+      "type": "news",
+      "platform": "机器之心",
+      "url": "https://www.163.com/dy/article/LBRRFTM90511AQHO.html",
+      "summary": "MMLab@NTU 提出原生 VLA 模型 NEO-VLA：去掉独立视觉编码器，直接从像素预测动作，2B 主干配合动作专家读取多层 KV、流匹配一次生成 30 步动作块。冻结主干在 LIBERO 达 90.9%，完整模型平均 97.4；用 223 万条轨迹（约 1 万小时）训练，单张 RTX 3090 BF16 推理约 0.26 秒/动作块，代码、权重与数据集已开源。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "VLA",
+          "机器人操作",
+          "视觉模型训练与部署",
+          "开源权重"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-16 11:41:16"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 45.0,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 53.0,
+        "practicality": 47.0,
+        "freshness": 100
+      },
+      "title_zh": "MMLab@NTU 提出原生具身模型 NEO-VLA：从像素直出动作",
+      "summary_zh": "MMLab@NTU 开源原生 VLA 模型 NEO-VLA：去掉独立视觉编码器，直接从像素预测动作，2B 主干 + 动作专家读取多层 KV、流匹配一次生成 30 步动作块；冻结主干 LIBERO 90.9%（Qwen3-VL 79.5%、Gemma-3 84.5%），完整模型 LIBERO 均分 97.4、RoboTwin 2.0 Clean 75.78；训练用 9 类数据集 223 万条轨迹（约 1 万小时），单张 RTX 3090 BF16 约 0.26 秒出一个动作块，代码、权重与数据集公开（arXiv 2611.06918，EvolvingLMMs-Lab/NEO VLAKit）。",
+      "collected_on": "2026-11-16",
+      "selected_on": "2026-11-18"
     }
   ],
   "pending_items": [
@@ -2281,7 +2309,9 @@
         "usability": 44.0,
         "practicality": 43.0,
         "freshness": 80
-      }
+      },
+      "collected_on": null,
+      "selected_on": null
     },
     {
       "name": "看视频、建世界、做实验：清华Asking the World让AI用物理回答问题",
@@ -2325,7 +2355,9 @@
         "usability": 44.0,
         "practicality": 30.0,
         "freshness": 80
-      }
+      },
+      "collected_on": null,
+      "selected_on": null
     },
     {
       "name": "特斯拉公开Optimus机器人训练秘籍：世界模型实现“策略在环”闭环",
@@ -2373,11 +2405,11 @@
       }
     },
     {
-      "name": "MMLab@NTU提出原生具身模型NEO-VLA：从像素直出动作",
+      "name": "物理AI的强化学习仿真环境来了，光轮智能推出RoboFinals RL Envs",
       "type": "news",
-      "platform": "机器之心",
-      "url": "https://www.163.com/dy/article/LBRRFTM90511AQHO.html",
-      "summary": "MMLab@NTU提出原生具身模型NEO-VLA：用40层单一VLM主干替代「视觉编码器+LLM」两段式结构，动作专家从主干多个深度读取KV缓存，以flow matching 30步直接输出动作块。模型在9个公开数据集共2231583条轨迹、2704个场景、7444个相机视角、约1万小时数据上训练，LIBERO平均成功率97.4%，冻结主干设置下90.9%优于Qwen3-VL的79.5%；单张RTX 3090（24GB，BF16）推理一个动作块约0.26秒。",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/11/510561.html",
+      "summary": "光轮智能推出面向物理 AI 的强化学习仿真环境 RoboFinals RL Envs，把「视觉真实 + 物理真实」的仿真资产、高精度物理求解器与专家经验打包成可判定的训练与评测环境，供具身模型做长程任务后训练。文章同时指出 RL Envs 正成为数据之外的新生意，Mercor、Surge AI 等公司已在抢这一环。",
       "popularity": {
         "views": 0,
         "likes": 0,
@@ -2392,14 +2424,15 @@
       "practicality": {
         "scope": "medium",
         "scenarios": [
-          "VLA",
+          "仿真训练环境",
+          "强化学习后训练",
           "具身智能",
-          "端到端视觉-动作"
+          "视觉真实资产"
         ],
-        "maturity": "experimental"
+        "maturity": "medium"
       },
       "freshness": {
-        "publish_date": "2026-11-16T11:41:00"
+        "publish_date": "2026-11-17 10:03:22"
       },
       "pricing": {
         "has_paid_features": false
@@ -2407,15 +2440,15 @@
       "accessibility": {
         "blocked_in_china": false
       },
-      "collected_on": "2026-11-17",
       "filtered": false,
-      "total_score": 42.25,
+      "total_score": 45.0,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 44.0,
-        "practicality": 45.0,
+        "practicality": 56.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-18"
     }
   ]
 }
