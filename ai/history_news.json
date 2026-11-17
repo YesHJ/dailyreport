@@ -4473,7 +4473,8 @@
         "usability": 60.0,
         "practicality": 30.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-18"
     },
     {
       "name": "训练一个强大的智能体，究竟有多简单？字节跳动等推出Axion 1.0",
@@ -4517,7 +4518,8 @@
         "usability": 44.0,
         "practicality": 45.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-18"
     }
   ]
 }
