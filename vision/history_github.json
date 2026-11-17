@@ -1,68 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "maaazhuang/mvkit",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/maaazhuang/mvkit",
-      "summary": "工业 机器视觉 库 with C11 and C++14 APIs. (语言: C++) [标签: 3d-reconstruction, camera-calibration, computer-vision, image-processing, machine-vision]",
-      "popularity": {
-        "views": 35,
-        "likes": 35,
-        "comments": 1
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "机器视觉",
-          "工业视觉",
-          "三维视觉"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-10-18T03:15:48"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 35,
-        "forks": 1,
-        "open_issues": 0,
-        "language": "C++",
-        "license": "apache-2.0",
-        "topics": [
-          "3d-reconstruction",
-          "camera-calibration",
-          "computer-vision",
-          "image-processing",
-          "machine-vision",
-          "template-matching"
-        ],
-        "created_at": "2026-10-18T03:15:48Z",
-        "pushed_at": "2026-10-18T03:22:50Z"
-      },
-      "filtered": false,
-      "total_score": 57.11,
-      "detail_scores": {
-        "popularity": 40.35,
-        "usability": 78.0,
-        "practicality": 54.0,
-        "freshness": 60
-      },
-      "_source": "pending"
-    },
-    {
       "name": "kyutai-labs/reki",
       "type": "tool",
       "platform": "GitHub",
@@ -3031,6 +2969,62 @@
       "title_zh": "BUTR：把动态查询当作预算的小目标检测（NeurIPS 2026 官方实现）",
       "summary_zh": "NeurIPS 2026 论文《BUTR: Dynamic Query as Budgeting for Tiny Object Detection》官方实现，Python / Apache-2.0，12 star，面向小目标检测的「动态查询即预算」建模思路。",
       "selected_on": "2026-11-17"
+    },
+    {
+      "name": "fscdc/MMFlash",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/fscdc/MMFlash",
+      "summary": "[arXiv 2026] MMFlash: Faster Speculative Decoding for 视觉语言模型s (语言: Python)",
+      "popularity": {
+        "views": 40,
+        "likes": 40,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉语言模型"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-12T10:40:56"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 40,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "mit",
+        "topics": [],
+        "created_at": "2026-11-12T10:40:56Z",
+        "pushed_at": "2026-11-16T07:06:21Z"
+      },
+      "filtered": false,
+      "total_score": 55.62,
+      "detail_scores": {
+        "popularity": 40.4,
+        "usability": 60.0,
+        "practicality": 50.0,
+        "freshness": 80
+      },
+      "title_zh": "MMFlash：面向视觉语言模型的更快投机解码（NUS，arXiv 2026）",
+      "summary_zh": "新加坡国立大学开源的 VLM 投机解码框架：草稿模型不再重新编码图像/视频，直接读取已融合视觉上下文的目标模型隐状态，推理开销不随视觉 token 数增长；并提出视觉依赖感知的草稿训练与长视频稀疏草稿上下文（attention sink + 文本 + 步长采样视觉 token + 近期窗口）。在 Qwen3.5-4B/9B 上显著提速、Qwen3.8-27B 单张 H200 批大小 1 下最高 4.7×，权重已上 HuggingFace，可直接跑在原生 SGLang 0.5.23 / vLLM 0.33.0（DFLASH）上，无需打补丁。https://github.com/fscdc/MMFlash",
+      "collected_on": "2026-11-18",
+      "selected_on": "2026-11-18"
     }
   ],
   "pending_items": []
