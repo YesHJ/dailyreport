@@ -1,310 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "qybaihe/bla",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/qybaihe/bla",
-      "summary": "🛡️ BLA (Blind LLM 智能体s) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering 智能体s like REA. Poison -> Exhaust -> Ha...",
-      "popularity": {
-        "views": 3762,
-        "likes": 3762,
-        "comments": 466
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent",
-          "代码生成"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-10-25T05:25:45"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 3762,
-        "forks": 466,
-        "open_issues": 5,
-        "language": "TypeScript",
-        "license": "mit",
-        "topics": [
-          "adversarial-ai",
-          "claude-code",
-          "cursor",
-          "electron-security",
-          "llm-security",
-          "mcp",
-          "mcp-server",
-          "obfuscation",
-          "reverse-engineering",
-          "webassembly"
-        ],
-        "created_at": "2026-10-25T05:25:45Z",
-        "pushed_at": "2026-11-08T18:19:54Z"
-      },
-      "filtered": false,
-      "total_score": 70.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 53.0,
-        "practicality": 61.0,
-        "freshness": 60
-      },
-      "collected_on": "2026-11-09"
-    },
-    {
-      "name": "conglu1997/local-autoresearch",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/conglu1997/local-autoresearch",
-      "summary": "Local auto研究 on a MacBook, with Flint: geometry, scheduling and 机器学习 实验s. (语言: Python)",
-      "popularity": {
-        "views": 109,
-        "likes": 109,
-        "comments": 16
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "通用AI应用"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-10-21T16:45:57"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 109,
-        "forks": 16,
-        "open_issues": 1,
-        "language": "Python",
-        "license": "mit",
-        "topics": [],
-        "created_at": "2026-10-21T16:45:57Z",
-        "pushed_at": "2026-10-27T16:03:09Z"
-      },
-      "filtered": false,
-      "total_score": 69.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 60.0,
-        "practicality": 50.0,
-        "freshness": 60
-      },
-      "collected_on": "2026-10-31"
-    },
-    {
-      "name": "Louis-CFM/coucou",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/Louis-CFM/coucou",
-      "summary": "A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding 智能体s: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more. Approve from the notch or your Lock Scre...",
-      "popularity": {
-        "views": 7061,
-        "likes": 7061,
-        "comments": 1158
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent",
-          "代码生成"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-09-27T21:54:12"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 7061,
-        "forks": 1158,
-        "open_issues": 462,
-        "language": "Swift",
-        "license": "mit",
-        "topics": [
-          "ai-agents",
-          "anthropic",
-          "antigravity",
-          "claude",
-          "claude-code",
-          "codex",
-          "cursor",
-          "dynamic-island",
-          "gemini-cli",
-          "ios",
-          "iphon",
-          "linux",
-          "macos",
-          "macos-app",
-          "menubar-app",
-          "notch",
-          "open-source",
-          "swift",
-          "swiftui",
-          "windows"
-        ],
-        "created_at": "2026-09-27T21:54:12Z",
-        "pushed_at": "2026-11-06T13:51:13Z"
-      },
-      "filtered": false,
-      "total_score": 68.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 78.0,
-        "practicality": 61.0,
-        "freshness": 20
-      },
-      "collected_on": "2026-10-30"
-    },
-    {
-      "name": "solongate/agent-security",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/solongate/agent-security",
-      "summary": "Local-first, open-source 安全 gateway for AI coding 智能体s. Enforce tool-call policies, detect secrets, and audit actions on-device. (语言: Go) [标签: agent-security, ai-agent-security, ai-agents]",
-      "popularity": {
-        "views": 564,
-        "likes": 564,
-        "comments": 38
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-09-27T10:48:40"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 564,
-        "forks": 38,
-        "open_issues": 150,
-        "language": "Go",
-        "license": "apache-2.0",
-        "topics": [
-          "agent-security",
-          "ai-agent-security",
-          "ai-agents"
-        ],
-        "created_at": "2026-09-27T10:48:40Z",
-        "pushed_at": "2026-11-08T11:26:55Z"
-      },
-      "filtered": false,
-      "total_score": 63.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 60.0,
-        "practicality": 59.0,
-        "freshness": 20
-      },
-      "collected_on": "2026-11-09"
-    },
-    {
-      "name": "ChidiebereNjoku/ModelBrief",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/ChidiebereNjoku/ModelBrief",
-      "summary": "An open-source Python 库 that automates the 分析 and reporting of 机器学习 实验s, generating structured and comprehensive reports that make 模型 performance, results, and key insights easier to understand and...",
-      "popularity": {
-        "views": 354,
-        "likes": 354,
-        "comments": 283
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "数据处理"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-08-24T11:09:43"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 354,
-        "forks": 283,
-        "open_issues": 3,
-        "language": "Python",
-        "license": "other",
-        "topics": [],
-        "created_at": "2026-08-24T11:09:43Z",
-        "pushed_at": "2026-10-24T12:29:31Z"
-      },
-      "filtered": false,
-      "total_score": 63.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 50.0,
-        "freshness": 20
-      },
-      "_source": "pending",
-      "collected_on": "2026-10-30"
-    },
-    {
       "name": "Akshayykadam/PixelBoard",
       "type": "tool",
       "platform": "GitHub",
@@ -373,7 +69,7 @@
         "practicality": 59.0,
         "freshness": 20
       },
-      "collected_on": "2026-10-30"
+      "collected_on": "2026-10-29"
     },
     {
       "name": "eternityspring/reelbench-skills",
@@ -432,7 +128,7 @@
         "practicality": 59.0,
         "freshness": 20
       },
-      "collected_on": "2026-10-30"
+      "collected_on": "2026-10-29"
     },
     {
       "name": "vanzll/DiffusionART",
@@ -497,7 +193,7 @@
         "practicality": 54.0,
         "freshness": 20
       },
-      "collected_on": "2026-10-30"
+      "collected_on": "2026-10-29"
     },
     {
       "name": "tigerless-labs/agent-memory",
@@ -565,7 +261,7 @@
         "freshness": 20
       },
       "_source": "pending",
-      "collected_on": "2026-10-30"
+      "collected_on": "2026-10-29"
     },
     {
       "name": "2akouwu/reverify",
@@ -640,7 +336,7 @@
         "freshness": 20
       },
       "_source": "pending",
-      "collected_on": "2026-10-30"
+      "collected_on": "2026-10-29"
     },
     {
       "name": "wangzan101/Mika",
@@ -703,7 +399,7 @@
         "practicality": 61.0,
         "freshness": 60
       },
-      "collected_on": "2026-11-02"
+      "collected_on": "2026-11-01"
     },
     {
       "name": "somastllc/nlp-for-machine-learning-bootcamp",
@@ -761,7 +457,7 @@
         "practicality": 50.0,
         "freshness": 60
       },
-      "collected_on": "2026-11-02"
+      "collected_on": "2026-11-01"
     },
     {
       "name": "kuafuai/andee",
@@ -824,7 +520,7 @@
         "practicality": 61.0,
         "freshness": 20
       },
-      "collected_on": "2026-11-02"
+      "collected_on": "2026-11-01"
     },
     {
       "name": "openfilm/openfilm",
@@ -888,7 +584,7 @@
         "practicality": 63.0,
         "freshness": 20
       },
-      "collected_on": "2026-11-02"
+      "collected_on": "2026-11-01"
     },
     {
       "name": "e2sy/jailbreak-archives",
@@ -962,7 +658,7 @@
         "practicality": 50.0,
         "freshness": 20
       },
-      "collected_on": "2026-10-31"
+      "collected_on": "2026-10-30"
     },
     {
       "name": "MiniMax-AI/MiniMax-H3-Image",
@@ -1023,7 +719,7 @@
         "practicality": 52.0,
         "freshness": 80
       },
-      "collected_on": "2026-11-12"
+      "collected_on": "2026-11-11"
     },
     {
       "name": "islandmed/SculptForge",
@@ -1095,7 +791,7 @@
         "practicality": 59.0,
         "freshness": 60
       },
-      "collected_on": "2026-11-03"
+      "collected_on": "2026-11-02"
     },
     {
       "name": "Arda313131882/aion-2-trainer-tool",
@@ -1167,7 +863,7 @@
         "practicality": 59.0,
         "freshness": 80
       },
-      "collected_on": "2026-11-12"
+      "collected_on": "2026-11-11"
     },
     {
       "name": "wideeyededi/uncensored-nsfw-ai-video-api",
@@ -1242,7 +938,7 @@
         "practicality": 52.0,
         "freshness": 60
       },
-      "collected_on": "2026-11-03"
+      "collected_on": "2026-11-02"
     },
     {
       "name": "thesysdev/open-intelligent-ui",
@@ -1311,7 +1007,7 @@
         "practicality": 59.0,
         "freshness": 20
       },
-      "collected_on": "2026-11-03"
+      "collected_on": "2026-11-02"
     },
     {
       "name": "N1nEmAn/sapper-v2",
@@ -1378,7 +1074,7 @@
         "practicality": 61.0,
         "freshness": 60
       },
-      "collected_on": "2026-11-13"
+      "collected_on": "2026-11-12"
     },
     {
       "name": "salikhussain71-code/PAKGOV-RAG-project",
@@ -1443,7 +1139,7 @@
         "practicality": 52.0,
         "freshness": 20
       },
-      "collected_on": "2026-10-30"
+      "collected_on": "2026-10-29"
     },
     {
       "name": "amitshekhariitbhu/ai-engineering-course",
@@ -1504,7 +1200,7 @@
         "practicality": 63.0,
         "freshness": 20
       },
-      "collected_on": "2026-10-30"
+      "collected_on": "2026-10-29"
     },
     {
       "name": "flohoeller/affectui",
@@ -1579,7 +1275,7 @@
         "freshness": 20
       },
       "_source": "pending",
-      "collected_on": "2026-11-03"
+      "collected_on": "2026-11-02"
     },
     {
       "name": "baojian/llm-26-fall",
@@ -1633,7 +1329,7 @@
         "freshness": 20
       },
       "_source": "pending",
-      "collected_on": "2026-10-31"
+      "collected_on": "2026-10-30"
     },
     {
       "name": "ThinkWatchProject/ThinkWatch-Lite",
@@ -1707,7 +1403,7 @@
         "practicality": 59.0,
         "freshness": 20
       },
-      "collected_on": "2026-11-03"
+      "collected_on": "2026-11-02"
     },
     {
       "name": "apimart-66/ai-api-aggregator",
@@ -1772,7 +1468,7 @@
         "practicality": 50.0,
         "freshness": 20
       },
-      "collected_on": "2026-10-30"
+      "collected_on": "2026-10-29"
     },
     {
       "name": "apimart-API-Gateway/grok-image-api",
@@ -1836,7 +1532,7 @@
         "practicality": 50.0,
         "freshness": 20
       },
-      "collected_on": "2026-11-03"
+      "collected_on": "2026-11-02"
     },
     {
       "name": "whitecircle/halo",
@@ -1913,7 +1609,7 @@
         "freshness": 20
       },
       "_source": "pending",
-      "collected_on": "2026-10-30"
+      "collected_on": "2026-10-29"
     },
     {
       "name": "stubbb/c-shop",
@@ -1967,7 +1663,7 @@
         "freshness": 20
       },
       "_source": "pending",
-      "collected_on": "2026-10-31"
+      "collected_on": "2026-10-30"
     },
     {
       "name": "brave-plum-co/leonardo-ai-desktop",
@@ -2041,7 +1737,7 @@
         "practicality": 52.0,
         "freshness": 100
       },
-      "collected_on": "2026-11-15"
+      "collected_on": "2026-11-14"
     },
     {
       "name": "briskember13/adobe-acrobat-pdf-desktop",
@@ -2114,7 +1810,7 @@
         "practicality": 52.0,
         "freshness": 100
       },
-      "collected_on": "2026-11-15"
+      "collected_on": "2026-11-14"
     },
     {
       "name": "BlueRingsLabs/no-shortcuts",
@@ -2182,7 +1878,7 @@
         "practicality": 54.0,
         "freshness": 20
       },
-      "collected_on": "2026-10-30"
+      "collected_on": "2026-10-29"
     },
     {
       "name": "Erutaner/CLADE",
@@ -2236,7 +1932,7 @@
         "freshness": 20
       },
       "_source": "pending",
-      "collected_on": "2026-10-31"
+      "collected_on": "2026-10-30"
     },
     {
       "name": "dolev31/lasagna",
@@ -2313,7 +2009,7 @@
         "freshness": 60
       },
       "_source": "pending",
-      "collected_on": "2026-11-01"
+      "collected_on": "2026-10-31"
     },
     {
       "name": "alicebrown323/pro-tools-desktop",
@@ -2390,7 +2086,7 @@
       },
       "title_zh": "alicebrown323/pro-tools-desktop：Pro Tools 2026 桌面版多轨编辑与便携模式（C++）",
       "summary_zh": "仓库自述提供 Pro Tools 2026 在 Windows 11 上的桌面配置方案，含多轨编辑、MIDI 编排、VST 插件托管与便携模式，MIT 许可，C++ 实现，2026-11-14 创建、约 303 star。其主题标签混入 ai-generation-tools、large-language-models 等内容，与音频工具描述不完全一致，落地前需人工核实真实性。",
-      "selected_on": "2026-11-15T23:25:00+08:00"
+      "selected_on": "2026-11-15"
     },
     {
       "name": "Barry81-666/kaggle-portfolio",
@@ -2435,7 +2131,7 @@
         "created_at": "2026-10-24T14:00:16Z",
         "pushed_at": "2026-10-29T11:02:21Z"
       },
-      "collected_on": "2026-11-06",
+      "collected_on": "2026-11-05",
       "filtered": false,
       "total_score": 69.5,
       "detail_scores": {
@@ -2446,7 +2142,7 @@
       },
       "title_zh": "Barry81-666/kaggle-portfolio：计算生物学与医学影像方向的 Kaggle 项目集（Jupyter Notebook）",
       "summary_zh": "作者整理的 Kaggle 项目合集，覆盖计算生物学、医学影像、数据科学与机器学习，以 Jupyter Notebook 形式组织。100 star，2026-10-24 创建，无主题标签、未声明许可证，适合作为数据科学作品集与选题参考，不构成可直接部署的工程资产。",
-      "selected_on": "2026-11-15T23:25:00+08:00"
+      "selected_on": "2026-11-15"
     },
     {
       "name": "datasifaw/dataiku-projet-bancaire-analytics",
@@ -2510,7 +2206,7 @@
         "created_at": "2026-09-16T11:48:01Z",
         "pushed_at": "2026-11-07T11:51:44Z"
       },
-      "collected_on": "2026-10-31",
+      "collected_on": "2026-10-30",
       "filtered": false,
       "total_score": 59.75,
       "detail_scores": {
@@ -2521,7 +2217,7 @@
       },
       "title_zh": "datasifaw/dataiku-projet-bancaire-analytics：基于 Dataiku 的端到端银行分析项目",
       "summary_zh": "使用 Dataiku 搭建的银行分析全流程项目，包含数据准备、机器学习建模、客户评分与自动化流水线，标签覆盖 banking-analytics、dataiku、machine-learning 等。100 star，2026-09-16 创建，仓库未标注主要编程语言与许可证，依赖 Dataiku 平台才能复现完整流程。",
-      "selected_on": "2026-11-15T23:25:00+08:00"
+      "selected_on": "2026-11-15"
     },
     {
       "name": "LynxOfficialDeveloper/RtG-AI-Core-Engine",
@@ -2574,7 +2270,7 @@
         "created_at": "2026-09-22T21:09:40Z",
         "pushed_at": "2026-11-15T08:30:17Z"
       },
-      "collected_on": "2026-11-02",
+      "collected_on": "2026-11-01",
       "filtered": false,
       "total_score": 54.96,
       "detail_scores": {
@@ -2585,7 +2281,7 @@
       },
       "title_zh": "LynxOfficialDeveloper/RtG-AI-Core-Engine：西语学习方向的开源机器学习实验 RtG-AI 2026",
       "summary_zh": "自述为 Road to Gramby's 的西语机器学习实验引擎，输出 ai-json 结构并通过 GitHub Pages 部署，标签含 rtg-format、roblox、testing，HTML 实现，70 star，2026-09-22 创建。文档以演示为主，缺少训练数据与评测说明，复用价值集中在其数据格式设计。",
-      "selected_on": "2026-11-15T23:25:00+08:00"
+      "selected_on": "2026-11-15"
     },
     {
       "name": "alrisqi/MrD-Optimizer-Lab",
@@ -2647,7 +2343,7 @@
         "created_at": "2026-08-25T10:05:47Z",
         "pushed_at": "2026-10-30T21:30:49Z"
       },
-      "collected_on": "2026-10-31",
+      "collected_on": "2026-10-30",
       "filtered": false,
       "total_score": 50.91,
       "detail_scores": {
@@ -2659,7 +2355,7 @@
       "_source": "pending",
       "title_zh": "alrisqi/MrD-Optimizer-Lab：MrD 深度学习训练与模型优化工具箱",
       "summary_zh": "面向分类、目标检测与分割的训练与标注实验台，标签包含 tensorflow2、torch、opencv4、labeling-tool、training-dataset，HTML 实现，55 star，2026-08-25 创建。本轮由后备池补位入选，并非当日新采集条目。",
-      "selected_on": "2026-11-15T23:25:00+08:00"
+      "selected_on": "2026-11-15"
     },
     {
       "name": "Leonxlnx/earshot",
@@ -2712,7 +2408,7 @@
         "created_at": "2026-10-15T06:52:46Z",
         "pushed_at": "2026-11-15T22:00:13Z"
       },
-      "collected_on": "2026-11-07",
+      "collected_on": "2026-11-06",
       "filtered": false,
       "total_score": 67.0,
       "detail_scores": {
@@ -2797,7 +2493,7 @@
       "title_zh": "Valen-Team/Valen：0.8B 到 27B 的开源多模态决策模型",
       "summary_zh": "开源多模态决策模型族，覆盖文本、图像与视频：直接在自有候选集上输出概率并用边界框定位，替代自由文本生成；提供免费 API 与 ONNX、GGUF、vLLM、SGLang 部署及微调代码。",
       "selected_on": "2026-11-16",
-      "collected_on": "2026-11-16"
+      "collected_on": "2026-11-15"
     },
     {
       "name": "nihui/qwenimage-ncnn-vulkan",
@@ -2854,7 +2550,7 @@
         "created_at": "2026-09-21T11:11:37Z",
         "pushed_at": "2026-11-02T06:29:35Z"
       },
-      "collected_on": "2026-10-30",
+      "collected_on": "2026-10-29",
       "filtered": false,
       "total_score": 63.75,
       "detail_scores": {
@@ -2919,7 +2615,7 @@
         "freshness": 20
       },
       "_source": "pending",
-      "collected_on": "2026-11-01",
+      "collected_on": "2026-10-31",
       "title_zh": "terryds/bestvaluemodel：大模型智能指数与 API 价格性价比对照",
       "summary_zh": "一个静态页面，把 Artificial Analysis 智能指数与 API 混合价格放进同一张图逐模型比对，按日刷新，帮助按性价比选 LLM；数据以 JSON 随仓库发布，站点跑在 Cloudflare Workers。",
       "selected_on": "2026-11-16"
@@ -2976,7 +2672,7 @@
         "freshness": 20
       },
       "_source": "pending",
-      "collected_on": "2026-11-02",
+      "collected_on": "2026-11-01",
       "title_zh": "ecklein/modeldiff-ml：机器学习模型行为回归对比库",
       "summary_zh": "模型行为回归测试框架：逐样本比较候选模型与基线模型，找出可读的差异区域并在独立数据上验证，用于发现整体指标提升下被掩盖的局部退化，可接已训练模型或预测结果，MIT 许可。",
       "selected_on": "2026-11-16"
@@ -3052,7 +2748,7 @@
       "selected_on": "2026-11-17",
       "title_zh": "vercel-labs/ui：给智能体拼装新一代界面的行为组件库",
       "summary_zh": "Vercel Labs 开源的 headless 行为（behaviors）组件库，把无障碍交互与常用 UI 逻辑封装成可复用单元，供 AI 智能体直接组装新一代界面，支持 React/Solid 并可经 MCP 接入。（TypeScript，5283 stars）",
-      "collected_on": "2026-11-17"
+      "collected_on": "2026-11-16"
     },
     {
       "name": "QingYunA/answer-me-with-html",
@@ -3332,6 +3028,339 @@
       "selected_on": "2026-11-17",
       "title_zh": "ClusterChat：把一个大模型拆开分摊到浏览器用户之间协同推理",
       "summary_zh": "纯浏览器实现的聊天机器人，用 WebGPU 加 WebRTC/P2P 把一个开源大模型的推理负载拆分到多个访问者设备上协同完成，探索去中心化推理形态。（JavaScript，56 stars）"
+    },
+    {
+      "name": "frandymbangwei-ux/spam-mail-detector-ml",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/frandymbangwei-ux/spam-mail-detector-ml",
+      "summary": "Spam Mail Detector ML: 机器学习 Email 分类 and Spam 检测 (语言: Go) [标签: accuracy-score, algorithm, artificial-intelligence-algorithms, artificial-intelligence-models, artificial-intelligence-projects]",
+      "popularity": {
+        "views": 153,
+        "likes": 153,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "自然语言处理"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-15T20:43:26"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 153,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "Go",
+        "license": "",
+        "topics": [
+          "accuracy-score",
+          "algorithm",
+          "artificial-intelligence-algorithms",
+          "artificial-intelligence-models",
+          "artificial-intelligence-projects",
+          "bash-script",
+          "detectany-kind",
+          "logistic-regression",
+          "nlp-machine-learning",
+          "numpy",
+          "spam",
+          "spam-classification",
+          "spam-detection",
+          "spam-filtering",
+          "spam-mail",
+          "spam-mail-classifier",
+          "spam-protection",
+          "tensorflow",
+          "tensorflow2",
+          "tfidf-vectorizer"
+        ],
+        "created_at": "2026-11-15T20:43:26Z",
+        "pushed_at": "2026-11-17T20:34:57Z"
+      },
+      "filtered": false,
+      "total_score": 75.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 80
+      },
+      "title_zh": "Spam Mail Detector ML：机器学习邮件分类与垃圾邮件检测",
+      "summary_zh": "用机器学习把邮件判为垃圾邮件或正常邮件的 Go 项目，提供 PowerShell 安装脚本、准确率评测示例与在线演示页，适合做入门级文本分类与邮件风控实践，153 Star。",
+      "selected_on": "2026-11-18",
+      "collected_on": "2026-11-18"
+    },
+    {
+      "name": "kaankiziltug/logo-design-skill",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/kaankiziltug/logo-design-skill",
+      "summary": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI 智能体s: principles, process, SVG craft, testing tools and a 1,400+ logo reference 库. (语言: HTML) [标签: agent-skills, brandin...",
+      "popularity": {
+        "views": 7177,
+        "likes": 7177,
+        "comments": 575
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "代码生成"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-09-26T08:23:34"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 7177,
+        "forks": 575,
+        "open_issues": 2,
+        "language": "HTML",
+        "license": "mit",
+        "topics": [
+          "agent-skills",
+          "branding",
+          "claude",
+          "claude-skills",
+          "codex",
+          "gemini-cli",
+          "logo-design",
+          "svg"
+        ],
+        "created_at": "2026-09-26T08:23:34Z",
+        "pushed_at": "2026-11-13T16:32:36Z"
+      },
+      "collected_on": "2026-10-29",
+      "filtered": false,
+      "total_score": 68.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 78.0,
+        "practicality": 61.0,
+        "freshness": 20
+      },
+      "title_zh": "Logo Design Skill：给 Claude 等智能体装上标志设计技能",
+      "summary_zh": "面向 Claude、Gemini CLI、Codex CLI、Cursor、GitHub Copilot 等支持 Agent Skills 的智能体的标志设计技能包，含设计原则、流程、SVG 工艺、测试工具与 1400+ logo 参考库，MIT 协议，7177 Star。",
+      "selected_on": "2026-11-18"
+    },
+    {
+      "name": "deepseek-ai/DeepEP-Ascend",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/deepseek-ai/DeepEP-Ascend",
+      "summary": "A 高性能 communication 库 for 机器学习 训练 and 推理 on Huawei Ascend NPUs. (语言: C++)",
+      "popularity": {
+        "views": 297,
+        "likes": 297,
+        "comments": 68
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "模型训练",
+          "推理部署"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-30T00:44:59"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 297,
+        "forks": 68,
+        "open_issues": 23,
+        "language": "C++",
+        "license": "",
+        "topics": [],
+        "created_at": "2026-09-30T00:44:59Z",
+        "pushed_at": "2026-11-03T01:45:19Z"
+      },
+      "collected_on": "2026-10-29",
+      "filtered": false,
+      "total_score": 64.25,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 52.0,
+        "freshness": 20
+      },
+      "title_zh": "DeepEP-Ascend：昇腾 NPU 上的 MoE 专家并行通信库",
+      "summary_zh": "深度求索开源的华为昇腾 NPU 高性能训练与推理通信库，提供 MoE dispatch/combine 的 EP all-to-all、FP8 dispatch、流水线并行与 CP/DP Bucket 集合通信，公开 buffer API 与 NVIDIA 版 DeepEP 对齐。",
+      "selected_on": "2026-11-18"
+    },
+    {
+      "name": "beckettharriman/openfill",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/beckettharriman/openfill",
+      "summary": "Generative Fill, Remove object, Generative Expand and Text to Image for PhotoCraft and GIMP 3. Free, local, on your own GPU through ComfyUI. (语言: Python) [标签: comfyui, flux, generative-ai, generati...",
+      "popularity": {
+        "views": 301,
+        "likes": 301,
+        "comments": 17
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "图像生成"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-14T20:51:20"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 301,
+        "forks": 17,
+        "open_issues": 9,
+        "language": "Python",
+        "license": "apache-2.0",
+        "topics": [
+          "comfyui",
+          "flux",
+          "generative-ai",
+          "generative-fill",
+          "gimp",
+          "gimp-3",
+          "gimp-plugin",
+          "gimp3",
+          "image-editing",
+          "inpainting",
+          "lama",
+          "local-ai",
+          "object-removal",
+          "outpainting",
+          "photo-editing",
+          "photoshop-alternative",
+          "python",
+          "sdxl",
+          "stable-diffusion"
+        ],
+        "created_at": "2026-10-14T20:51:20Z",
+        "pushed_at": "2026-11-08T17:38:24Z"
+      },
+      "collected_on": "2026-10-29",
+      "filtered": false,
+      "total_score": 61.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 60.0,
+        "practicality": 50.0,
+        "freshness": 20
+      },
+      "title_zh": "OpenFill：为 GIMP 3 与 PhotoCraft 加上本地生成式填充",
+      "summary_zh": "通过 ComfyUI 在自己的 GPU 上完成生成式填充、移除物体、画面扩展与文生图，给 GIMP 3.2 和 PhotoCraft 0.12-0.20 提供可替代 Photoshop 的本地方案，Apache-2.0，目前 Beta 阶段。",
+      "selected_on": "2026-11-18"
+    },
+    {
+      "name": "andrew-morris/neuronaut",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/andrew-morris/neuronaut",
+      "summary": "An explorer and 调试器 of sorts for 大语言模型 (LLM) weights (语言: C++)",
+      "popularity": {
+        "views": 38,
+        "likes": 38,
+        "comments": 4
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "通用AI应用"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-05T21:19:01"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 38,
+        "forks": 4,
+        "open_issues": 0,
+        "language": "C++",
+        "license": "mit",
+        "topics": [],
+        "created_at": "2026-11-05T21:19:01Z",
+        "pushed_at": "2026-11-08T21:35:42Z"
+      },
+      "filtered": false,
+      "total_score": 57.01,
+      "detail_scores": {
+        "popularity": 58.38,
+        "usability": 60.0,
+        "practicality": 50.0,
+        "freshness": 60
+      },
+      "_source": "pending",
+      "title_zh": "neuronaut：大语言模型权重的探索与调试器",
+      "summary_zh": "基于 C++/ggml 的 LLM 权重调试器，直接读取 llama.cpp、Ollama、LM Studio 使用的 GGUF 文件，可定位回答问题涉及的关键神经元，改写后另存为普通 llama.cpp 可加载的模型，小模型 CPU 即可运行。",
+      "selected_on": "2026-11-18",
+      "collected_on": "2026-11-16"
     }
   ],
   "pending_items": [
@@ -3397,7 +3426,7 @@
         "practicality": 52.0,
         "freshness": 20
       },
-      "collected_on": "2026-11-02"
+      "collected_on": "2026-11-01"
     },
     {
       "name": "nicklucenasantanalucenasant-maker/yapt-core",
@@ -3455,7 +3484,7 @@
         "practicality": 50.0,
         "freshness": 20
       },
-      "collected_on": "2026-10-31"
+      "collected_on": "2026-10-30"
     },
     {
       "name": "Sanane001/torch-hydra-starter",
@@ -3517,7 +3546,7 @@
         "practicality": 50.0,
         "freshness": 20
       },
-      "collected_on": "2026-10-31"
+      "collected_on": "2026-10-30"
     },
     {
       "name": "avri22222/TS-Forge",
@@ -3582,59 +3611,7 @@
         "practicality": 50.0,
         "freshness": 20
       },
-      "collected_on": "2026-11-02"
-    },
-    {
-      "name": "andrew-morris/neuronaut",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/andrew-morris/neuronaut",
-      "summary": "An explorer and 调试器 of sorts for 大语言模型 (LLM) weights (语言: C++)",
-      "popularity": {
-        "views": 38,
-        "likes": 38,
-        "comments": 4
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "通用AI应用"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-11-05T21:19:01"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 38,
-        "forks": 4,
-        "open_issues": 0,
-        "language": "C++",
-        "license": "mit",
-        "topics": [],
-        "created_at": "2026-11-05T21:19:01Z",
-        "pushed_at": "2026-11-08T21:35:42Z"
-      },
-      "filtered": false,
-      "total_score": 57.01,
-      "detail_scores": {
-        "popularity": 58.38,
-        "usability": 60.0,
-        "practicality": 50.0,
-        "freshness": 60
-      }
+      "collected_on": "2026-11-01"
     },
     {
       "name": "niharika2309/16-week-ai-ml-series",
