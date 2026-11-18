@@ -1,231 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "大模型周报（11.01—11.08）：AI智能体新进展",
-      "type": "news",
-      "platform": "亿欧",
-      "url": "https://www.iyiou.com/data/202611091145657",
-      "summary": "以周为单位汇总模型发布与产品进展，覆盖原生多模态大模型、国产算力适配与智能体落地数据，适合快速建立一周AI技术地图并挑选跟进对象。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "wide",
-        "scenarios": [
-          "大模型",
-          "智能体",
-          "行业数据"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-09T10:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 59.75,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 78.0,
-        "freshness": 100
-      },
-      "collected_on": "2026-11-09"
-    },
-    {
-      "name": "千问办公2.0发布：首个支持多人与Agent协作的Team Agent来了",
-      "type": "news",
-      "platform": "量子位",
-      "url": "https://www.qbitai.com/2026/11/508694.html",
-      "summary": "11月9日千问办公升级到2.0，把智能体从个人助手扩展为团队可共享的执行角色，支持多人围绕同一任务与Agent协同。对想评估办公场景下Agent编排方式的团队有直接参考价值。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "wide",
-        "scenarios": [
-          "AI办公",
-          "智能体",
-          "企业协作"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-11-09T18:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 57.5,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 69.0,
-        "freshness": 100
-      },
-      "collected_on": "2026-11-09"
-    },
-    {
-      "name": "腾讯混元跻身最强开源模型：一手实测Hy4搭配WorkBuddy的多模态Agent交付",
-      "type": "news",
-      "platform": "量子位",
-      "url": "https://www.qbitai.com/2026/11/507843.html",
-      "summary": "混元Hy4发布即开源，补充了视觉理解与电脑操作能力，实测中配合智能体工具可完成跨模态任务交付，适合关注国产开源模型接入与Agent能力评估的开发者。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "wide",
-        "scenarios": [
-          "大模型",
-          "开源",
-          "AI Agent"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-09T17:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 56.75,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 69.0,
-        "practicality": 78.0,
-        "freshness": 100
-      },
-      "collected_on": "2026-11-09"
-    },
-    {
-      "name": "每日极客日报 · 2026年11月08日",
-      "type": "news",
-      "platform": "CSDN",
-      "url": "https://blog.csdn.net/weixin_45635831/article/details/170293233",
-      "summary": "30条科技要闻汇总，重点包括MiniMax坚持边收费边开放权重的双轨开源策略，以及投资机构报告显示美国企业在开源大模型上的支出明显向中国模型集中。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "大模型",
-          "开源生态",
-          "行业动态"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-08T08:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 56.0,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 63.0,
-        "freshness": 100
-      },
-      "collected_on": "2026-11-09"
-    },
-    {
-      "name": "开源AI的竞争不是零和博弈",
-      "type": "news",
-      "platform": "人民网",
-      "url": "http://finance.people.com.cn/n1/2026/1109/c1004-40830161.html",
-      "summary": "盘点10月底以来中美欧密集释出的开源模型权重，认为中国技术突破改变了开源模型性能不如闭源的固有认知，并讨论开放权重对全球开发者选型与协作的影响。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "开源生态",
-          "大模型",
-          "产业观察"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-09T07:45:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 56.0,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 63.0,
-        "freshness": 100
-      },
-      "collected_on": "2026-11-09"
-    },
-    {
       "name": "AI 日报（2026年11月10日）：旗舰模型密集更新与 Agent 落地动态汇总",
       "type": "news",
       "platform": "掘金",
@@ -267,7 +42,8 @@
         "practicality": 61.0,
         "freshness": 100
       },
-      "collected_on": "2026-11-10"
+      "collected_on": "2026-11-10",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "并行推测解码刷新 SOTA：因果依赖刻进草稿网络深度，SGLang 吞吐最高达 4 倍（已开源）",
@@ -311,7 +87,8 @@
         "practicality": 56.0,
         "freshness": 100
       },
-      "collected_on": "2026-11-10"
+      "collected_on": "2026-11-10",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "DeepSeek Harness 深度学习与架构手册",
@@ -355,7 +132,8 @@
         "practicality": 56.0,
         "freshness": 100
       },
-      "collected_on": "2026-11-10"
+      "collected_on": "2026-11-10",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "AI 前沿日报 · 2026-11-10：重估",
@@ -399,7 +177,8 @@
         "practicality": 43.0,
         "freshness": 100
       },
-      "collected_on": "2026-11-10"
+      "collected_on": "2026-11-10",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "voicebox 开源 AI 语音工作室：从文本前端到声音克隆的工程实践",
@@ -443,7 +222,8 @@
         "practicality": 43.0,
         "freshness": 100
       },
-      "collected_on": "2026-11-10"
+      "collected_on": "2026-11-10",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "千问办公2.0 发布首个 Team Agent，支持多人与 Agent 协作",
@@ -488,7 +268,8 @@
         "practicality": 78.0,
         "freshness": 80
       },
-      "collected_on": "2026-11-11"
+      "collected_on": "2026-11-11",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "AI科技热点日报（2026年11月11日）：Fable 5.2 与 Claude 办公套件集中发布",
@@ -533,7 +314,8 @@
         "practicality": 63.0,
         "freshness": 100
       },
-      "collected_on": "2026-11-11"
+      "collected_on": "2026-11-11",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "新浪AI热点小时报：基元律动发布180B Agent原生模型，蚂蚁灵波开源触觉模型",
@@ -578,7 +360,8 @@
         "practicality": 63.0,
         "freshness": 100
       },
-      "collected_on": "2026-11-11"
+      "collected_on": "2026-11-11",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "MiniMax 正式发布并开源 H3 Image：4K 图像生成约10秒，支持16张参考图",
@@ -624,7 +407,8 @@
         "practicality": 71.0,
         "freshness": 100
       },
-      "collected_on": "2026-11-11"
+      "collected_on": "2026-11-11",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "8点1氪：Anthropic 正式启动 IPO 路演，英伟达及黄仁勋遭股东集体诉讼",
@@ -668,7 +452,8 @@
         "practicality": 61.0,
         "freshness": 100
       },
-      "collected_on": "2026-11-11"
+      "collected_on": "2026-11-11",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "智能体 AI 架构中记忆、知识与上下文的系统化方案",
@@ -709,7 +494,8 @@
         "practicality": 76.0,
         "freshness": 100
       },
-      "collected_on": "2026-11-12"
+      "collected_on": "2026-11-12",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "Coding agent写测试集体失败，AI代码合格率被高估一倍",
@@ -750,7 +536,8 @@
         "practicality": 76.0,
         "freshness": 100
       },
-      "collected_on": "2026-11-12"
+      "collected_on": "2026-11-12",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "诺奖得主Hassabis再交神作，AlphaGenome 2破译人类98%基因\"暗物质\"",
@@ -791,7 +578,8 @@
         "practicality": 61.0,
         "freshness": 100
       },
-      "collected_on": "2026-11-12"
+      "collected_on": "2026-11-12",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "Anthropic启动IPO路演，估值已缩水6000亿美元",
@@ -831,7 +619,8 @@
         "practicality": 44.0,
         "freshness": 100
       },
-      "collected_on": "2026-11-12"
+      "collected_on": "2026-11-12",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "Agent 上下文越跑越贵？aiXcompact-4B 值不值得接",
@@ -872,7 +661,8 @@
         "practicality": 64.0,
         "freshness": 100
       },
-      "collected_on": "2026-11-12"
+      "collected_on": "2026-11-12",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "黄仁勋辞职，英伟达33年首换帅，市值蒸发超3万亿",
@@ -917,7 +707,8 @@
         "practicality": 69.0,
         "freshness": 100
       },
-      "collected_on": "2026-11-13"
+      "collected_on": "2026-11-13",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "10秒生成4K图：MiniMax再次拿出开源SOTA",
@@ -962,7 +753,8 @@
         "practicality": 78.0,
         "freshness": 100
       },
-      "collected_on": "2026-11-13"
+      "collected_on": "2026-11-13",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "硬科技早报｜字节AI芯片负责人离职；Qwen4将登场；沐曦优必选合资造芯",
@@ -1007,7 +799,8 @@
         "practicality": 54.0,
         "freshness": 100
       },
-      "collected_on": "2026-11-13"
+      "collected_on": "2026-11-13",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "2026年11月12日全球AI简报",
@@ -1052,7 +845,8 @@
         "practicality": 54.0,
         "freshness": 100
       },
-      "collected_on": "2026-11-13"
+      "collected_on": "2026-11-13",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "擎天租一年融7轮，芒果系投了",
@@ -1097,7 +891,8 @@
         "practicality": 39.0,
         "freshness": 100
       },
-      "collected_on": "2026-11-13"
+      "collected_on": "2026-11-13",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "突发！DeepSeek开放全家桶API",
@@ -1142,7 +937,8 @@
         "practicality": 78.0,
         "freshness": 100
       },
-      "collected_on": "2026-11-14"
+      "collected_on": "2026-11-14",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "2026年11月14日 AI 行业日报：ChatGPT Wallet 上线、llama.cpp 迈入 1.0 稳定版、LangChain 完成 3 亿美元融资",
@@ -1187,7 +983,8 @@
         "practicality": 78.0,
         "freshness": 100
       },
-      "collected_on": "2026-11-14"
+      "collected_on": "2026-11-14",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "文心5.5 Flash Preview发布：2800亿参数MoE，11月25日前 Apache 2.0 开源权重",
@@ -1232,7 +1029,8 @@
         "practicality": 69.0,
         "freshness": 100
       },
-      "collected_on": "2026-11-14"
+      "collected_on": "2026-11-14",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "早报｜腾讯混元发布实时语音模型 Hy Realtime，Thinking Machines 开放 Inkling 2 Small 权重",
@@ -1277,7 +1075,8 @@
         "practicality": 69.0,
         "freshness": 100
       },
-      "collected_on": "2026-11-14"
+      "collected_on": "2026-11-14",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "百度推出大模型交易平台「词元所」：主打验真与征信，日均调用 Token 超 7000 亿",
@@ -1322,7 +1121,8 @@
         "practicality": 54.0,
         "freshness": 100
       },
-      "collected_on": "2026-11-14"
+      "collected_on": "2026-11-14",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "AI 自动写 PR，模型反而最简单：Inkitt 如何应对 Webhook 重复、CI 失败与合并冲突",
@@ -1370,7 +1170,7 @@
       },
       "title_zh": "AI 自动写 PR：Inkitt 如何应对 Webhook 重复、CI 失败与合并冲突",
       "summary_zh": "InfoQ 介绍 Inkitt 已投入日常交付的一次性 PR 自动生成系统：事件驱动编排器调度短生命周期智能体容器，覆盖需求说明、实现、验证、CI 失败修复与合并冲突解决，并把运行状态持久化到数据库以支持断点恢复。",
-      "selected_on": "2026-11-15"
+      "selected_on": "2026-11-19"
     },
     {
       "name": "GitLab 19.5 发布，将智能体开发纳入可治理的 DevOps 平台能力",
@@ -1418,7 +1218,7 @@
       },
       "title_zh": "GitLab 19.5 发布：把智能体开发纳入可治理的 DevOps 平台能力",
       "summary_zh": "GitLab 19.5 聚焦智能体软件开发与治理，GitLab MCP 服务端正式 GA，并拓展外部 AI 智能体与 GitLab 的交互能力，使 Agent 编码流程进入可审计、可治理的平台底座。",
-      "selected_on": "2026-11-15"
+      "selected_on": "2026-11-19"
     },
     {
       "name": "闭环 AI 自我进化：从 Skill、Harness 到模型训练与评估｜AICon北京",
@@ -1466,7 +1266,7 @@
       },
       "title_zh": "闭环 AI 自我进化：从 Skill、Harness 到模型训练与评估（AICon 北京）",
       "summary_zh": "AICon 北京议题，以 RetriEvolver 为例展示自我演进在异构检索系统中的应用成效，串起 Skill、Harness、模型训练与评估的闭环路径。",
-      "selected_on": "2026-11-15"
+      "selected_on": "2026-11-19"
     },
     {
       "name": "为什么 agent 的 demo 都很惊艳，上了生产就不靠谱",
@@ -1514,7 +1314,7 @@
       },
       "title_zh": "为什么 Agent 的 demo 都很惊艳，上了生产就不靠谱",
       "summary_zh": "对照 LiveBench 2.0 通用任务榜与 EON 模拟企业环境的成绩差，指出 demo 测能力上限、生产考可靠性下限，归纳策略漂移、多源信息纠缠、长上下文三类翻车模式，并给出数字孪生评测与带置信区间报告的最小实践步骤。",
-      "selected_on": "2026-11-15"
+      "selected_on": "2026-11-19"
     },
     {
       "name": "热点速递 | Chrome、Edge、Firefox、MDN 把 Web 最佳实践做成 Skill",
@@ -1562,7 +1362,7 @@
       },
       "title_zh": "Chrome、Edge、Firefox、MDN 把 Web 最佳实践做成 Agent Skill",
       "summary_zh": "四家标准与浏览器厂商联合推出 GoogleChrome/modern-web-guidance，用 CLI 加 skill 包让编码 Agent 直接读取现代 Web 最佳实践并识别、替换过时写法，2026-11-15 单日新增 3635 star，居当日 GitHub star 增速第一。",
-      "selected_on": "2026-11-15"
+      "selected_on": "2026-11-19"
     },
     {
       "name": "AI与大模型新闻日报 | 2026-11-14",
@@ -1608,7 +1408,7 @@
       },
       "title_zh": "AI 与大模型新闻日报（2026 年 11 月 14 日）",
       "summary_zh": "11 月 14 日聚合：llama.cpp 与 ggml 迈入 1.0.0，支持超 150 种模型架构、断网可本地推理；OpenAI 宣布重组具身智能团队，让通用大模型充当机器人大脑。",
-      "selected_on": "2026-11-16",
+      "selected_on": "2026-11-19",
       "collected_on": "2026-11-15"
     },
     {
@@ -1655,7 +1455,7 @@
       },
       "title_zh": "AI 资讯日报（2026 年 11 月 15 日）：OpenAI 推 ChatGPT Wallet，Sierra 与 Meta 发布 Poppy 协议，谷歌 Gemini 4 Hydrogen 上线",
       "summary_zh": "11 月 15 日动态：谷歌发布 Gemini 4 Hydrogen，主打高速代理式工作流与百万 token 上下文并接入搜索；文心 5.5 Flash 预览版、DeepSeek 全栈 API 同期上线。",
-      "selected_on": "2026-11-16",
+      "selected_on": "2026-11-19",
       "collected_on": "2026-11-15"
     },
     {
@@ -1703,7 +1503,7 @@
       },
       "title_zh": "官方点名：DeepSeek Harness 的 4 个神级插件",
       "summary_zh": "实测 DeepSeek Harness 官方点名的四个插件：dsh-media-desk、归藏设计、dsh-context 上下文洞察、论文阅读 agentero-dsh，并自研终端自动化插件 paiwarp-dsh。",
-      "selected_on": "2026-11-16",
+      "selected_on": "2026-11-19",
       "collected_on": "2026-11-15"
     },
     {
@@ -1751,7 +1551,7 @@
       },
       "title_zh": "Agent 如何越用越强？中科院自动化所、美团等推出 RSI 综述",
       "summary_zh": "中科院自动化所联合美团等发布 LLM Agent 递归自我改进综述，沿 Prompt、Memory、Skill、Harness 四条主线梳理 40 项研究，提出七步生命周期框架。",
-      "selected_on": "2026-11-16",
+      "selected_on": "2026-11-19",
       "collected_on": "2026-11-15"
     },
     {
@@ -1799,7 +1599,7 @@
       },
       "title_zh": "4K 生图跑进 10 秒：MiniMax 开源 H3-Image 冲击游戏研发",
       "summary_zh": "MiniMax 发布并开源图像生成与编辑模型 H3-Image，支持多图参考，4K 生图进入十秒级；文章结合游戏研发环节实测其可用性与短板。",
-      "selected_on": "2026-11-16",
+      "selected_on": "2026-11-19",
       "collected_on": "2026-11-15"
     },
     {
@@ -1845,7 +1645,7 @@
         "practicality": 78.0,
         "freshness": 100
       },
-      "selected_on": "2026-11-17",
+      "selected_on": "2026-11-19",
       "title_zh": "阿里正式发布 Qwen4，智能体与编程能力进阶",
       "summary_zh": "阿里正式发布通义千问 Qwen4，主打智能体与编程能力进阶，强调真实全场景下的工具调用与长链路任务执行，面向开发者开放接入。",
       "collected_on": "2026-11-16"
@@ -1893,7 +1693,7 @@
         "practicality": 78.0,
         "freshness": 100
       },
-      "selected_on": "2026-11-17",
+      "selected_on": "2026-11-19",
       "title_zh": "AI Models 1.1.0 发布：查大模型价格、对比模型、找 API 地址",
       "summary_zh": "开源目录工具 AI Models 发布 1.1.0，收录 1806 条模型记录与 47 个供应商入口，支持组合搜索、模型 PK 比价、按协议与套餐查 Base URL 以及 SOTA 时间轴，源码与数据口径公开。",
       "collected_on": "2026-11-16"
@@ -1941,7 +1741,7 @@
         "practicality": 78.0,
         "freshness": 100
       },
-      "selected_on": "2026-11-17",
+      "selected_on": "2026-11-19",
       "title_zh": "腾讯混元发布 Hy4 flash，单任务成本仅为 Hy4 的 5%",
       "summary_zh": "腾讯混元发布 Hy4 flash：总参 224B、激活 12B，支持 1M 上下文与多模态，输入 0.5 元、缓存命中 0.02 元每百万 Token，解码超 150tps，内部 WorkIndex 测算单任务成本为 Hy4 的 5%，团队称计划开源。",
       "collected_on": "2026-11-16"
@@ -1989,7 +1789,7 @@
         "practicality": 63.0,
         "freshness": 100
       },
-      "selected_on": "2026-11-17",
+      "selected_on": "2026-11-19",
       "title_zh": "AI Weekly（11.9-11.15）：一周 AI 要闻速览",
       "summary_zh": "博主按周汇总 11 月 9 日至 15 日的 AI 行业动态，覆盖大模型发布、智能体与开发工具进展，附原文链接与简评，适合快速补齐一周信息差。",
       "collected_on": "2026-11-16"
@@ -2037,7 +1837,7 @@
         "practicality": 78.0,
         "freshness": 100
       },
-      "selected_on": "2026-11-17",
+      "selected_on": "2026-11-19",
       "title_zh": "书生-S2.1 Flash 登顶机器学习工程基准，AI 成为自主进化的科学家",
       "summary_zh": "上海 AI 实验室等发布并开源书生-S2.1 Flash，MLE-bench Lite 得 90.3 分居首，OfficeQA Pro 72.2、SpreadsheetBench 2 37.1 分，33 项通用智能体基准拿下 4 项第一，权重已上架 ModelScope 与 Hugging Face。",
       "collected_on": "2026-11-16"
@@ -2087,8 +1887,8 @@
       },
       "title_zh": "阿里 Qwen4-Max 正式登场：单任务成本降 58%，前端编程全球第六",
       "summary_zh": "InfoQ 报道阿里发布新一代基座大模型 Qwen4-Max：总参数 2.4T、激活 71B，ALE 得分 46.7，单任务成本下降 58%，缓存命中低至 0.5 元/百万 Token，已开放 API，中小尺寸模型将陆续开源。",
-      "selected_on": "2026-11-18",
-      "collected_on": "2026-11-18"
+      "selected_on": "2026-11-19",
+      "collected_on": "2026-11-17"
     },
     {
       "name": "AI金融分析师来了，香港上市公司和家办都投了",
@@ -2135,8 +1935,8 @@
       },
       "title_zh": "AI 金融分析师 ARTi 亮相，香港上市公司与家办参投",
       "summary_zh": "36氪报道 AI 金融分析师 ARTi 获香港上市公司与家族办公室投资，产品把财报阅读、纪要整理与投研写作交给智能体完成，文章梳理其落地场景、客户与融资进展。",
-      "selected_on": "2026-11-18",
-      "collected_on": "2026-11-18"
+      "selected_on": "2026-11-19",
+      "collected_on": "2026-11-17"
     },
     {
       "name": "AI 自己搞科研能做到哪一步？我上手跑了港大开源的 AI-Researcher",
@@ -2183,8 +1983,8 @@
       },
       "title_zh": "实测港大开源 AI-Researcher：AI 自己搞科研能做到哪一步",
       "summary_zh": "博主实测港大开源的 AI-Researcher（github.com/HKUDS/AI-Researcher）：Prepare、Resource Analyst、Idea Generator、Code Agent、Advisor、Writer 六类智能体闭环，在 Docker 沙箱跑实验并输出 LaTeX 论文，附部署步骤、烧钱提醒与选型建议。",
-      "selected_on": "2026-11-18",
-      "collected_on": "2026-11-18"
+      "selected_on": "2026-11-19",
+      "collected_on": "2026-11-17"
     },
     {
       "name": "提速2.48倍且画质不掉线，AI视频“降本增效”有了新解法",
@@ -2231,8 +2031,8 @@
       },
       "title_zh": "提速 2.48 倍且画质不掉线：AI 视频降本增效的新解法",
       "summary_zh": "是石科技分享多模态模型服务工程优化：历史缓存残差自适应加速 2.48 倍，结合 SGLang 缓存管理、免训练模态自适应 Token 压缩（WorldSense 1.33 倍）与全模态 Context Engine，实现视频生成降本。",
-      "selected_on": "2026-11-18",
-      "collected_on": "2026-11-18"
+      "selected_on": "2026-11-19",
+      "collected_on": "2026-11-17"
     },
     {
       "name": "744B模型追平Claude Opus 5，人大复旦提出ToolSpace探索环境合成新范式",
@@ -2279,8 +2079,247 @@
       },
       "title_zh": "744B 模型追平 Claude Opus 5：人大复旦提出 ToolSpace 环境合成新范式",
       "summary_zh": "机器之心报道人大、复旦、上交大提出 ToolSpace：以工具为中心合成跨环境任务，从 2042 个工具构建 804 个环境与 3.4 万条轨迹，ToolSpace-744B 七项长程工具基准从 44.6 升至 56.6，代码见 github.com/dongguanting/ToolSpace。",
-      "selected_on": "2026-11-18",
-      "collected_on": "2026-11-18"
+      "selected_on": "2026-11-19",
+      "collected_on": "2026-11-17"
+    },
+    {
+      "name": "第十章: Agent Skill的调用机制解读",
+      "type": "tutorial",
+      "platform": "掘金",
+      "url": "https://juejin.cn/post/7708975511029104691",
+      "summary": "拆解Agent Skill从任务识别、能力边界判断、描述匹配到执行与输出整合的完整调用链路，说明渐进式披露如何压低Token消耗，并给出Python实现示例。",
+      "popularity": {
+        "views": 0,
+        "likes": 51,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "AI Agent",
+          "Skill",
+          "AI编程"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-17T00:00:00+08:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 64.3,
+      "detail_scores": {
+        "popularity": 51.00000000000001,
+        "usability": 78.0,
+        "practicality": 78.0,
+        "freshness": 50
+      },
+      "title_zh": "掘金长文：Agent Skill 调用机制与 Token 经济学解读",
+      "summary_zh": "拆解 Agent 从任务识别、能力边界判断、Skill 匹配、执行到输出整合的五步调用链路，并用渐进式披露解释 Token 开销可控的原因，附 SkillExecutor 示例代码。",
+      "selected_on": "2026-11-19",
+      "collected_on": "2026-11-19"
+    },
+    {
+      "name": "OpenClaw 退潮背后，是 AI 圈“技术自嗨”的终结",
+      "type": "news",
+      "platform": "掘金",
+      "url": "https://juejin.cn/post/7709311318860742692",
+      "summary": "作者复盘OpenClaw从爆火到退潮的三点原因：环境配置门槛高、Token成本失控、权限与安全风险模糊，认为AI落地关键在降门槛、降成本与提升可控性。",
+      "popularity": {
+        "views": 0,
+        "likes": 59,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "行业观察"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-18T00:00:00+08:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 60.95,
+      "detail_scores": {
+        "popularity": 59.0,
+        "usability": 81.0,
+        "practicality": 52.0,
+        "freshness": 50
+      },
+      "title_zh": "OpenClaw 退潮：AI 圈技术自嗨的终结",
+      "summary_zh": "复盘 OpenClaw 两个月内从爆火到退潮的三点原因：环境配置门槛高、Token 成本失控、权限与安全风险模糊，认为降门槛、降成本、提升可控性才是落地前提。",
+      "selected_on": "2026-11-19",
+      "collected_on": "2026-11-19"
+    },
+    {
+      "name": "800 个 MCP Server、5000 个工具，AI 智能体的“微服务危机”来了",
+      "type": "news",
+      "platform": "InfoQ",
+      "url": "https://www.infoq.cn/article/FrDlAvNIwkr8ttdvWMCC",
+      "summary": "当MCP Server与工具数量激增，智能体出现选型失准、上下文膨胀与运维失控，文章类比微服务危机，给出工具分层注册、命名治理与按需加载的落地建议。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 7
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "MCP",
+          "AI Agent",
+          "工程化"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-18T00:00:00+08:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 55.0,
+      "detail_scores": {
+        "popularity": 35.0,
+        "usability": 69.0,
+        "practicality": 69.0,
+        "freshness": 50
+      },
+      "title_zh": "InfoQ：800 个 MCP Server、5000 个工具引发的智能体微服务危机",
+      "summary_zh": "MCP Server 与工具数量激增后，智能体出现选型失准、上下文膨胀与运维失控，文章类比微服务危机，给出分层注册、命名治理与按需加载的治理建议。",
+      "selected_on": "2026-11-19",
+      "collected_on": "2026-11-19"
+    },
+    {
+      "name": "GitHub 让 AI 接管工作流，单次默认预算 10 美元：是不是太大方了？",
+      "type": "news",
+      "platform": "InfoQ",
+      "url": "https://www.infoq.cn/article/lMs1bM1muspglUjMr1l3",
+      "summary": "GitHub 推出 Agentic Workflows，允许AI在CI流水线中自主编排与执行任务，单次运行默认预算10美元，文章讨论成本失控风险与企业落地边界条件。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 7
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "DevOps",
+          "AI Agent",
+          "代码审查"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-18T00:00:00+08:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 54.25,
+      "detail_scores": {
+        "popularity": 35.0,
+        "usability": 90.0,
+        "practicality": 45.0,
+        "freshness": 50
+      },
+      "title_zh": "InfoQ：GitHub Agentic Workflows 单次默认预算 10 美元是否过大",
+      "summary_zh": "GitHub 推出 Agentic Workflows，允许 AI 在 CI 流水线中自主编排并执行任务，单次运行默认预算 10 美元，文章聚焦成本失控风险与企业落地的边界条件。",
+      "selected_on": "2026-11-19",
+      "collected_on": "2026-11-19"
+    },
+    {
+      "name": "Claude Code新模式来了，不换模型，Token消耗最高砍掉77%",
+      "type": "news",
+      "platform": "36氪",
+      "url": "https://www.36kr.com/p/4075148096066440",
+      "summary": "Claude Code推出新模式，无需更换模型、仅靠上下文管理与工具调用优化即可将Token消耗最高降低77%，为AI编程成本控制提供可复制的工程思路。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "AI编程",
+          "Agent",
+          "成本优化"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-18T21:07:00+08:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 49.75,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 78.0,
+        "freshness": 50
+      },
+      "title_zh": "36氪：Claude Code 新模式不换模型，Token 消耗最高降 77%",
+      "summary_zh": "Claude Code 新模式无需更换模型，仅靠上下文管理与工具调用优化即可将 Token 消耗最高降低 77%，为 AI 编程成本控制提供可复制的工程思路。",
+      "selected_on": "2026-11-19",
+      "collected_on": "2026-11-19"
     }
   ],
   "pending_items": [
@@ -4432,51 +4471,6 @@
       "collected_on": "2026-11-16"
     },
     {
-      "name": "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率",
-      "type": "news",
-      "platform": "量子位",
-      "url": "https://www.qbitai.com/2026/11/510652.html",
-      "summary": "量子位报道，材料科学智能体 MatOS 正式开源，配套论文与代码仓库 github.com/DingyangLyu/MatOS，面向材料研发任务链，官方称可显著提高任务成功率。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "narrow",
-        "scenarios": [
-          "材料配方与实验方案设计",
-          "文献与数据检索整合",
-          "材料研发任务自动化评测"
-        ],
-        "maturity": "experimental"
-      },
-      "freshness": {
-        "publish_date": "2026-11-17T14:09:40"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 42.5,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 60.0,
-        "practicality": 30.0,
-        "freshness": 100
-      },
-      "collected_on": "2026-11-18"
-    },
-    {
       "name": "训练一个强大的智能体，究竟有多简单？字节跳动等推出Axion 1.0",
       "type": "news",
       "platform": "机器之心",
@@ -4520,6 +4514,183 @@
         "freshness": 100
       },
       "collected_on": "2026-11-18"
+    },
+    {
+      "name": "GPT-6.2 Astra首发24小时口碑大翻车，硅谷大佬集体差评",
+      "type": "news",
+      "platform": "36氪",
+      "url": "https://www.36kr.com/p/4075178142864513",
+      "summary": "GPT-6.2 Astra上线24小时口碑两极反转，多位开发者与从业者反馈实际体验与跑分差距明显、成本偏高，暴露新模型评测与生产可用之间的鸿沟。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "大模型",
+          "模型评测"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-18T20:02:00+08:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-19",
+      "filtered": false,
+      "total_score": 47.0,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 67.0,
+        "freshness": 50
+      }
+    },
+    {
+      "name": "GPT-6.2 Astra 刚发布即遭大量差评，实测后我觉得它有点冤",
+      "type": "news",
+      "platform": "36氪",
+      "url": "https://www.36kr.com/p/4074475449062281",
+      "summary": "作者实测GPT-6.2 Astra后认为部分差评源于提示方式与任务选型不当，在长上下文与复杂指令场景仍有优势，并给出与上一代模型的对比结论与使用建议。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "大模型",
+          "模型评测"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-18T07:44:00+08:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-19",
+      "filtered": false,
+      "total_score": 43.25,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 52.0,
+        "freshness": 50
+      }
+    },
+    {
+      "name": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/11/510922.html",
+      "summary": "谷歌疑似即将推出代号Neon的Gemini新模型，曝光信息指向推理与多模态能力升级，命名延续元素周期表风格，具体参数与发布时间仍待官方确认。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "poor",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "大模型",
+          "多模态"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-18T17:41:55+08:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-19",
+      "filtered": false,
+      "total_score": 38.0,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 69.0,
+        "practicality": 43.0,
+        "freshness": 50
+      }
+    },
+    {
+      "name": "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/11/510652.html",
+      "summary": "材料科学智能体MatOS正式开源，覆盖实验设计、数据处理与文献检索流程，官方称可显著提升材料研发任务成功率，为AI for Science提供可复用智能体框架。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "narrow",
+        "scenarios": [
+          "AI Agent",
+          "AI for Science",
+          "开源"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-17T14:09:40+08:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-18",
+      "filtered": false,
+      "total_score": 34.75,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 60.0,
+        "practicality": 39.0,
+        "freshness": 50
+      }
     }
   ]
 }
