@@ -1,191 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "kyutai-labs/reki",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/kyutai-labs/reki",
-      "summary": "REKI: a 2.4B 视觉-语言-动作 模型 pretrained on public data only, with a memory of its recent past at negligible cost. (语言: Python)",
-      "popularity": {
-        "views": 34,
-        "likes": 34,
-        "comments": 4
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉语言模型"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-10-15T16:18:44"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 34,
-        "forks": 4,
-        "open_issues": 4,
-        "language": "Python",
-        "license": "mit",
-        "topics": [],
-        "created_at": "2026-10-15T16:18:44Z",
-        "pushed_at": "2026-10-21T11:13:35Z"
-      },
-      "filtered": false,
-      "total_score": 55.8,
-      "detail_scores": {
-        "popularity": 54.34,
-        "usability": 60.0,
-        "practicality": 50.0,
-        "freshness": 60
-      },
-      "_source": "pending"
-    },
-    {
-      "name": "yoheinakajima/glance",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/yoheinakajima/glance",
-      "summary": "Ask an open 视觉语言模型 typed questions about an image and get probabilities back, on your own machine. (语言: Python) [标签: calibration, image-classification, vision-language-model, vlm, zero-shot]",
-      "popularity": {
-        "views": 31,
-        "likes": 31,
-        "comments": 5
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉语言模型",
-          "图像分类",
-          "相机标定"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-21T06:51:38"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 31,
-        "forks": 5,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "apache-2.0",
-        "topics": [
-          "calibration",
-          "image-classification",
-          "vision-language-model",
-          "vlm",
-          "zero-shot"
-        ],
-        "created_at": "2026-09-21T06:51:38Z",
-        "pushed_at": "2026-09-28T20:15:02Z"
-      },
-      "filtered": false,
-      "total_score": 51.64,
-      "detail_scores": {
-        "popularity": 56.31,
-        "usability": 69.0,
-        "practicality": 54.0,
-        "freshness": 20
-      },
-      "_source": "pending"
-    },
-    {
-      "name": "alrisqi/MrD-Optimizer-Lab",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/alrisqi/MrD-Optimizer-Lab",
-      "summary": "MrD 深度学习 Studio: AI 训练 & 模型 优化 Tools 2026 (语言: HTML) [标签: classification, deep-learning, deep-neural-networks, label, labeling-tool]",
-      "popularity": {
-        "views": 55,
-        "likes": 55,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "目标检测",
-          "图像分割",
-          "图像分类"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-08-25T10:05:47"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 55,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "HTML",
-        "license": "",
-        "topics": [
-          "classification",
-          "deep-learning",
-          "deep-neural-networks",
-          "label",
-          "labeling-tool",
-          "labels",
-          "objectdetection",
-          "objectdetector",
-          "opencv4",
-          "segmentation",
-          "tensorflow2",
-          "torch",
-          "trainer",
-          "training",
-          "training-dataset"
-        ],
-        "created_at": "2026-08-25T10:05:47Z",
-        "pushed_at": "2026-10-29T22:20:43Z"
-      },
-      "filtered": false,
-      "total_score": 51.41,
-      "detail_scores": {
-        "popularity": 55.55,
-        "usability": 69.0,
-        "practicality": 54.0,
-        "freshness": 20
-      },
-      "_source": "pending"
-    },
-    {
       "name": "Sanane001/torch-hydra-starter",
       "type": "tool",
       "platform": "GitHub",
@@ -3025,6 +2840,189 @@
       "summary_zh": "新加坡国立大学开源的 VLM 投机解码框架：草稿模型不再重新编码图像/视频，直接读取已融合视觉上下文的目标模型隐状态，推理开销不随视觉 token 数增长；并提出视觉依赖感知的草稿训练与长视频稀疏草稿上下文（attention sink + 文本 + 步长采样视觉 token + 近期窗口）。在 Qwen3.5-4B/9B 上显著提速、Qwen3.8-27B 单张 H200 批大小 1 下最高 4.7×，权重已上 HuggingFace，可直接跑在原生 SGLang 0.5.23 / vLLM 0.33.0（DFLASH）上，无需打补丁。https://github.com/fscdc/MMFlash",
       "collected_on": "2026-11-18",
       "selected_on": "2026-11-18"
+    },
+    {
+      "name": "patrasc237/EEG-DL",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/patrasc237/EEG-DL",
+      "summary": "A 深度学习 库 for EEG signal 分类, with 26 network architectures. (语言: Python) [标签: classification, deep-learning, eeg, neuroscience, python]",
+      "popularity": {
+        "views": 49,
+        "likes": 49,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "图像分类",
+          "深度学习"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-05T14:19:24"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 49,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "mit",
+        "topics": [
+          "classification",
+          "deep-learning",
+          "eeg",
+          "neuroscience",
+          "python",
+          "tensorflow"
+        ],
+        "created_at": "2026-11-05T14:19:24Z",
+        "pushed_at": "2026-11-05T14:19:48Z"
+      },
+      "collected_on": "2026-11-05",
+      "filtered": false,
+      "total_score": 57.1,
+      "detail_scores": {
+        "popularity": 49.49000000000001,
+        "usability": 69.0,
+        "practicality": 52.0,
+        "freshness": 60
+      },
+      "title_zh": "EEG-DL：集成 26 种深度网络的脑电信号分类库",
+      "summary_zh": "面向 EEG 脑电信号分类的深度学习工具箱，内置 26 种网络架构并提供统一的训练与评测流程，可用于跨架构复现与基线对比（Python / TensorFlow，MIT 协议）。需要注意它属于时序生理信号建模，与机器视觉、工业检测主线关系较弱，只做 CV 项目的团队可直接跳过；文档给出结构列表与使用示例，但要接自己的数据仍需改写预处理与标签映射。",
+      "selected_on": "2026-11-19"
+    },
+    {
+      "name": "zfkarl/MedJev",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/zfkarl/MedJev",
+      "summary": "MedJev: A System One Vision-Language Decision 模型 for Fast and Effective Medical Image Understanding (语言: Python)",
+      "popularity": {
+        "views": 27,
+        "likes": 27,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉语言模型",
+          "医学影像"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-14T08:47:11"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 27,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "mit",
+        "topics": [],
+        "created_at": "2026-11-14T08:47:11Z",
+        "pushed_at": "2026-11-14T21:49:27Z"
+      },
+      "collected_on": "2026-11-19",
+      "filtered": false,
+      "total_score": 52.18,
+      "detail_scores": {
+        "popularity": 27.270000000000003,
+        "usability": 60.0,
+        "practicality": 52.0,
+        "freshness": 80
+      },
+      "title_zh": "MedJev：走“系统一”路线的视觉-语言医学影像决策模型",
+      "summary_zh": "论文 MedJev 的开源实现，用视觉-语言模型做快速医学影像理解与决策，强调即时判断（System One）而非长链推理，以换取更低的阅片延迟。适合医疗影像 + VLM 方向做算法验证与延迟优化参考；项目较新、Stars 少，代码仍在早期阶段，二次开发前建议先确认评测脚本、数据格式与权重可得性。",
+      "selected_on": "2026-11-19"
+    },
+    {
+      "name": "Bejochan/pokemon-card-value-analytic-tool",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/Bejochan/pokemon-card-value-analytic-tool",
+      "summary": "实时 计算机视觉 & fair value analytic suite for Pokémon TCG. Features sub-millisecond card identification (OpenAI CLIP + FAISS), automated 缺陷 grading (YOLOv8), daily market price 跟踪 (Supabase), and dynami...",
+      "popularity": {
+        "views": 28,
+        "likes": 28,
+        "comments": 2
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "缺陷检测",
+          "目标跟踪"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-01T03:52:46"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 28,
+        "forks": 2,
+        "open_issues": 1,
+        "language": "Jupyter Notebook",
+        "license": "",
+        "topics": [
+          "analytics",
+          "computer-vision",
+          "data-science",
+          "pokemon-tcg"
+        ],
+        "created_at": "2026-09-01T03:52:46Z",
+        "pushed_at": "2026-11-18T03:01:18Z"
+      },
+      "collected_on": "2026-11-19",
+      "filtered": false,
+      "total_score": 47.98,
+      "detail_scores": {
+        "popularity": 38.28,
+        "usability": 78.0,
+        "practicality": 52.0,
+        "freshness": 20
+      },
+      "title_zh": "宝可梦卡牌工具链：CLIP 检索识别 + YOLOv8 缺陷分级 + 行情跟踪",
+      "summary_zh": "一套实时计算机视觉与公允估值分析套件：用 OpenAI CLIP + FAISS 做亚毫秒级卡牌识别检索，用 YOLOv8 自动完成品相/缺陷分级，再通过 Supabase 每日跟踪行情并动态估值。对“检索式识别 + 检测分级 + 业务数据回写”这条视觉工程化链路有直接参考价值；以 Jupyter Notebook 组织，场景垂直于 TCG 卡牌，迁移到工业质检需替换检测模型、标注体系与阈值策略。",
+      "selected_on": "2026-11-19"
     }
   ],
   "pending_items": []
