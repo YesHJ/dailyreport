@@ -1,223 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "2026具身智能机器人传感器白皮书发布",
-      "type": "news",
-      "platform": "eet-china",
-      "url": "https://www.eet-china.com/mp/a537677.html",
-      "summary": "该白皮书梳理了2026年具身智能机器人所用传感器的技术路线与市场规模，涵盖视觉、力觉、触觉等多模态感知方案，为机器人感知系统选型提供参考。",
-      "popularity": {
-        "views": 179,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "具身智能",
-          "机器视觉"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-08T08:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 53.04,
-      "detail_scores": {
-        "popularity": 1.79,
-        "usability": 69.0,
-        "practicality": 61.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "睿创燧石「红外热成像+AI大模型」亮相北京安博会",
-      "type": "news",
-      "platform": "eet-china",
-      "url": "https://www.eet-china.com/mp/a537652.html",
-      "summary": "睿创燧石展示将红外热成像与AI大模型融合的视觉检测方案，可在无可见光条件下完成设备异常温度检测与智能预警，拓展了机器视觉在安防和工业巡检中的应用。",
-      "popularity": {
-        "views": 179,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "红外视觉",
-          "工业巡检"
-        ],
-        "maturity": "emerging"
-      },
-      "freshness": {
-        "publish_date": "2026-11-08T09:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 50.04,
-      "detail_scores": {
-        "popularity": 1.79,
-        "usability": 69.0,
-        "practicality": 49.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "每日瞰AI：混元Hy4上线首日调用激增，Sand.ai完成2亿美元融资",
-      "type": "news",
-      "platform": "eet-china",
-      "url": "https://www.eet-china.com/mp/a537325.html",
-      "summary": "腾讯混元Hy4大模型上线首日调用量激增，推理集群紧急扩容十倍；国产视频模型公司Sand.ai完成2亿美元A+轮融资，10个月累计融资3亿美元，计划发布MAGI-2正式版。",
-      "popularity": {
-        "views": 298,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "large",
-        "scenarios": [
-          "大模型",
-          "视频生成"
-        ],
-        "maturity": "emerging"
-      },
-      "freshness": {
-        "publish_date": "2026-11-06T11:30:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 48.14,
-      "detail_scores": {
-        "popularity": 2.98,
-        "usability": 81.0,
-        "practicality": 44.0,
-        "freshness": 80
-      }
-    },
-    {
-      "name": "IT周报 2026 11.02–11.08：GPT Image 2.6、混元Hy4视觉能力盘点",
-      "type": "news",
-      "platform": "CSDN",
-      "url": "https://blog.csdn.net/lovechris00/article/details/170335003",
-      "summary": "一周视觉与多模态要点汇总：OpenAI Images 2.6生成提速50%并新增原生GIF与SVG导出，全球周生图量达40亿张；腾讯Hy4由不足300B升至770B，首次引入原生视觉理解与Computer Use，幻觉率降至7.2%。",
-      "popularity": {
-        "views": 5000,
-        "likes": 60,
-        "comments": 4
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "wide",
-        "scenarios": [
-          "行业资讯汇总",
-          "图像生成",
-          "多模态"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-08T20:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 89.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 81.0,
-        "practicality": 78.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "腾讯混元跻身最强开源模型：一手实测Hy4多模态视觉与电脑操作",
-      "type": "news",
-      "platform": "量子位",
-      "url": "https://www.qbitai.com/2026/11/507843.html",
-      "summary": "混元Hy4（770B MoE）首次引入原生视觉理解与Computer Use，可结合GUI与命令行完成长程任务，并对Blender、CAD等专业软件做专项训练，权重即将开源，为视觉Agent与多模态工作流提供国产开源底座。",
-      "popularity": {
-        "views": 15000,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "wide",
-        "scenarios": [
-          "多模态理解",
-          "视觉Agent",
-          "本地化部署"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-09T09:30:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 84.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 60.0,
-        "practicality": 78.0,
-        "freshness": 100
-      }
-    },
-    {
       "name": "中国引领「开源10月」：多国先进开源大模型密集发布",
       "type": "news",
       "platform": "科技日报",
@@ -2265,6 +2048,266 @@
       "summary_zh": "MMLab@NTU 开源原生 VLA 模型 NEO-VLA：去掉独立视觉编码器，直接从像素预测动作，2B 主干 + 动作专家读取多层 KV、流匹配一次生成 30 步动作块；冻结主干 LIBERO 90.9%（Qwen3-VL 79.5%、Gemma-3 84.5%），完整模型 LIBERO 均分 97.4、RoboTwin 2.0 Clean 75.78；训练用 9 类数据集 223 万条轨迹（约 1 万小时），单张 RTX 3090 BF16 约 0.26 秒出一个动作块，代码、权重与数据集公开（arXiv 2611.06918，EvolvingLMMs-Lab/NEO VLAKit）。",
       "collected_on": "2026-11-16",
       "selected_on": "2026-11-18"
+    },
+    {
+      "name": "机器之心：浙大×宇树开源 500 万条机器人动作预训练数据集 Movens-5M",
+      "type": "news",
+      "platform": "机器之心",
+      "url": "https://www.163.com/dy/article/LC0V9FEE0511AQHO.html",
+      "summary": "浙江大学与宇树科技具身智能联合实验室等团队从海量互联网人类视频构建并开源预训练数据集 Movens-5M，含 1500 万条人体动作、500 万条经仿真执行验证的机器人动作，总时长超 1 万小时，覆盖 297 种动作、16 类场景。流水线分片段生成、质量筛选、语义标注、动作恢复（视频估计人体三维姿态）、物理精修五阶段，并将文字、语音、音乐、视频示范与动作多模态对齐。基于该数据训练的 Movens-Zero 在宇树 G1 上完成真机演示；数据从 1% 扩到 100% 时文字-动作匹配 R@3 由 12.72% 升至 62.57%，视频动作误差 MPJPE 由 132.82mm 降至 40.90mm。数据集已上传 HuggingFace（wendell0218/Movens-5M），附项目主页、论文与配套测试集 Movens-Intent。",
+      "popularity": {
+        "views": 9000,
+        "likes": 240,
+        "comments": 30
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "机器人视觉数据训练",
+          "视频到动作的数据流水线",
+          "具身模型开源复现"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-18 11:23:49"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "publish_source": "机器之心",
+        "popularity_basis": "按平台推荐位/转载规模给出的保守估计值（未公开精确阅读数）"
+      },
+      "collected_on": "2026-11-19",
+      "filtered": false,
+      "total_score": 92.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 90.0,
+        "practicality": 78.0,
+        "freshness": 100
+      },
+      "title_zh": "浙大×宇树开源 Movens-5M：500 万条经验证机器人动作数据验证具身规模效应",
+      "summary_zh": "浙江大学与宇树科技具身智能联合实验室等团队开源 Movens-5M，从海量互联网人类视频构建数据集，含 1500 万条人体动作、500 万条经仿真执行验证的机器人动作，总时长超 1 万小时，覆盖 297 种动作与 16 类场景。流水线分片段生成、质量筛选、语义标注、动作恢复（视频估计人体三维姿态）、物理精修五阶段，并把文字、语音、音乐、视频示范与动作做多模态对齐。基于其训练的 Movens-Zero 在宇树 G1 上完成真机演示：数据比例从 1% 增至 100% 时文字-动作匹配 R@3 由 12.72% 升至 62.57%，视频动作误差 MPJPE 由 132.82mm 降至 40.90mm。数据集已上架 HuggingFace（wendell0218/Movens-5M），另附项目主页、论文与配套测试集 Movens-Intent。",
+      "selected_on": "2026-11-19"
+    },
+    {
+      "name": "量子位：首届蚂蚁灵波具身大模型挑战赛收官，15 支队伍 48 小时真机比拼 LingBot-VLA 2.0",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/11/510610.html",
+      "summary": "量子位报道：首届蚂蚁灵波具身大模型挑战赛决赛以开源模型 LingBot-VLA 2.0 为统一底座，全球 1855 支队伍中晋级的 15 队在 48 小时内完成数据采集、模型调优与真机部署，同一套模型需完成摆水果、化妆品入位、双臂清桌三项任务。冠军 TARS 队（82.5 分、8 万元奖金）用多模态模型识别干扰物并按背景色抹除图像干扰，第三项任务改为自采“抓簸箕后沿”数据，并把单步训练耗时从约 15.6 秒压到 3.4 秒；亚军 EVA 队做 7 轮失败数据回流、额外采集 700 余条示范，训练提速 2.7 倍；SST 队用 DeepSeek 解析指令 + SAM 3 分割目标、倒放视频补齐标注，微调 SAM 3 约 1 小时，并采取“生成 50 步只执行 16 步”的重推理策略。赛事同期发布蚂蚁灵波开发者生态计划（20 位 MVP、40 位 Developer Expert）。",
+      "popularity": {
+        "views": 10000,
+        "likes": 300,
+        "comments": 60
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "VLA 模型微调",
+          "视觉数据增强与标注",
+          "真机部署与训练加速"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-17 12:35:03"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "publish_source": "量子位",
+        "popularity_basis": "按平台推荐位/转载规模给出的保守估计值（未公开精确阅读数）"
+      },
+      "collected_on": "2026-11-19",
+      "filtered": false,
+      "total_score": 89.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 90.0,
+        "practicality": 69.0,
+        "freshness": 100
+      },
+      "title_zh": "首届蚂蚁灵波具身大模型挑战赛收官：48 小时真机比拼 LingBot-VLA 2.0",
+      "summary_zh": "以开源模型 LingBot-VLA 2.0 为统一底座，全球 1855 支队伍中晋级的 15 队在 48 小时内完成数据采集、模型调优与真机部署，且三项任务（摆水果、化妆品入位、双臂清桌）必须共用同一套模型。冠军 TARS（82.5 分、8 万元）先用多模态模型识别干扰物并按背景色抹除图像干扰，第三项任务改为自采“抓簸箕后沿”数据，并把单步训练耗时从约 15.6 秒压到 3.4 秒；亚军 EVA 做了 7 轮失败数据回流、额外采集 700 余条示范，训练提速 2.7 倍；SST 用 DeepSeek 解析指令 + SAM 3 分割目标、靠倒放视频补齐标注（SAM 3 微调约 1 小时），并采用“生成 50 步只执行 16 步”的重推理策略。对 VLA 数据工程与真机部署落地节奏参考价值较高。",
+      "selected_on": "2026-11-19"
+    },
+    {
+      "name": "OFweek：华为云 CloudRoboWM1.2 具身世界模型，国产昇腾算力训练并开放权重与推理代码",
+      "type": "news",
+      "platform": "维科网",
+      "url": "https://robot.ofweek.com/2026-11/ART-8321205-11000-30712372.html",
+      "summary": "OFweek 机器人网报道：华为云具身世界模型 CloudRoboWM1.2 把竞争重点推向工程化。其 PPA 多模态世界表征统一编码 RGB 视频、深度、点云与语义信息，DualAct 实现原生动作生成，训练侧采用多粒度监督自适应预训练，并在昇腾算力上完成训练；评测基于 RoboTwin2.0、LiberoPro2.0 等基准。官方同时开放模型权重与推理代码，意味着国内团队可在国产算力链路上复现与二次开发，对视觉模型训练部署的算力选型与工程路径有直接参考价值。",
+      "popularity": {
+        "views": 7000,
+        "likes": 180,
+        "comments": 30
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "具身世界模型",
+          "多模态视觉表征",
+          "国产算力训练与推理部署"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-18 15:41:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "publish_source": "维科网",
+        "popularity_basis": "按平台推荐位/转载规模给出的保守估计值（未公开精确阅读数）"
+      },
+      "collected_on": "2026-11-19",
+      "filtered": false,
+      "total_score": 89.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 90.0,
+        "practicality": 69.0,
+        "freshness": 100
+      },
+      "title_zh": "华为云 CloudRoboWM1.2：昇腾算力训练的具身世界模型，开放权重与推理代码",
+      "summary_zh": "OFweek 机器人网报道，华为云具身世界模型 CloudRoboWM1.2 把竞争重心推向工程化：其 PPA 多模态世界表征统一编码 RGB 视频、深度、点云与语义信息，DualAct 负责原生动作生成，训练侧采用多粒度监督自适应预训练，全流程在昇腾算力上完成，评测基于 RoboTwin2.0、LiberoPro2.0 等基准。官方同时开放模型权重与推理代码，国内团队可在国产算力链路上复现与二次开发，对视觉/具身模型的训练算力选型与部署路径有直接参考意义。",
+      "selected_on": "2026-11-19"
+    },
+    {
+      "name": "电子发烧友：盟拓智能 AI 视觉检测在 MLED 量产的工程化落地，误报率低于 100ppm",
+      "type": "news",
+      "platform": "电子发烧友",
+      "url": "https://www.eet-china.com/mp/a540044.html",
+      "summary": "电子发烧友芯语专栏（JMInsights 集摩咨询）：盟拓智能董事长唐阳树将分享 AI 视觉检测在 Mini/Micro LED 量产中的落地。其视觉检修一体化平台 ideaPi 把缺陷检测、尺寸测量与 AI 分析整合进同一闭环，在直显检测环节提供多 FOV 高像素点亮成像与固定相机快速成像两套方案，通过多相机协同与融合校正实现单次拍摄整版检测；针对基板翘曲与柔性变形，系统实时抓取形变数据并自动重构图像平整度，把全板检测时间从 4—5 分钟压缩至 60 秒以内；新一代 AI 检测平台将误报率控制在 100ppm 以下，实践中最优接近零误报，直接决定 AOI 能否替代人工复判。",
+      "popularity": {
+        "views": 5000,
+        "likes": 140,
+        "comments": 15
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "工业缺陷检测",
+          "AOI 产线部署",
+          "多相机成像与良率管控"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-18 09:36:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "publish_source": "电子发烧友",
+        "popularity_basis": "按平台推荐位/转载规模给出的保守估计值（未公开精确阅读数）"
+      },
+      "collected_on": "2026-11-19",
+      "filtered": false,
+      "total_score": 89.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 81.0,
+        "practicality": 78.0,
+        "freshness": 100
+      },
+      "title_zh": "盟拓智能：AI 视觉检测落地 MLED 量产，全板检测 60 秒内、误报率低于 100ppm",
+      "summary_zh": "电子发烧友芯语专栏（JMInsights 集摩咨询）介绍盟拓智能的视觉检修一体化平台 ideaPi，把缺陷检测、尺寸测量与 AI 分析整合进同一闭环，支持高密度元件与大幅面基板分析。直显检测提供多 FOV 高像素点亮成像与固定相机快速成像两套方案，通过多相机协同与融合校正实现单次拍摄整版检测；针对基板翘曲与柔性变形，系统实时抓取形变数据并自动重构图像平整度，把全板检测时间从 4—5 分钟压缩至 60 秒以内；新一代 AI 检测平台将误报率控制在 100ppm 以下、最优接近零误报——这是 AOI 能否真正替代人工复判的关键指标。",
+      "selected_on": "2026-11-19"
+    },
+    {
+      "name": "量子位：光轮智能推出 RoboFinals RL Envs，物理 AI 强化学习仿真环境上线",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/11/510561.html",
+      "summary": "量子位报道：光轮智能发布 RoboFinals RL Envs，把物理 AI 的强化学习训练搬进仿真环境，面向机器人与具身智能任务提供可复用的仿真训练与评测接口，用于在部署前大规模验证策略。对视觉团队的价值在于：可用较低成本生成带视觉观测的交互轨迹，缓解真机数据稀缺与采集成本高的问题；但该方案更偏仿真基础设施，任务覆盖与真实场景迁移效果仍需自行验证。",
+      "popularity": {
+        "views": 6000,
+        "likes": 150,
+        "comments": 20
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "具身仿真训练",
+          "强化学习环境",
+          "视觉数据合成"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-17 10:03:22"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "publish_source": "量子位",
+        "popularity_basis": "按平台推荐位/转载规模给出的保守估计值（未公开精确阅读数）"
+      },
+      "collected_on": "2026-11-18",
+      "filtered": false,
+      "total_score": 83.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 81.0,
+        "practicality": 54.0,
+        "freshness": 100
+      },
+      "title_zh": "光轮智能推出 RoboFinals RL Envs，把物理 AI 的强化学习搬进仿真环境",
+      "summary_zh": "量子位报道，光轮智能发布 RoboFinals RL Envs，为机器人与具身智能任务提供可复用的仿真训练与评测接口，用于在真机部署前大规模验证策略。对视觉侧的价值在于可用较低成本生成带视觉观测的交互轨迹，缓解真机数据稀缺与采集成本高的问题；不过其定位偏仿真基础设施，任务覆盖度与 sim-to-real 迁移效果仍需结合自己的本体与场景实测验证。",
+      "selected_on": "2026-11-19"
     }
   ],
   "pending_items": [
