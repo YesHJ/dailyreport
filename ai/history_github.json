@@ -1,344 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "Akshayykadam/PixelBoard",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/Akshayykadam/PixelBoard",
-      "summary": "Unlock Google 11's Gemini \"Rambler\" Natural Voice Dictation & AI Writing Tools on ANY Android phone. No root required. (语言: Java) [标签: ai-writing-tools, android, apk, gboard, gboard-ai]",
-      "popularity": {
-        "views": 1478,
-        "likes": 1478,
-        "comments": 67
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "通用AI应用"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-09-17T04:23:43"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 1478,
-        "forks": 67,
-        "open_issues": 72,
-        "language": "Java",
-        "license": "gpl-3.0",
-        "topics": [
-          "ai-writing-tools",
-          "android",
-          "apk",
-          "gboard",
-          "gboard-ai",
-          "gboard-mod",
-          "gboards",
-          "gemini",
-          "gemini-ai",
-          "google-keyboard",
-          "keyboard",
-          "no-root",
-          "pixel-features",
-          "pixel11",
-          "rambler",
-          "voice-typing",
-          "voice-typing-app"
-        ],
-        "created_at": "2026-09-17T04:23:43Z",
-        "pushed_at": "2026-11-09T08:24:25Z"
-      },
-      "filtered": false,
-      "total_score": 66.0,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 59.0,
-        "freshness": 20
-      },
-      "collected_on": "2026-10-29"
-    },
-    {
-      "name": "eternityspring/reelbench-skills",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/eternityspring/reelbench-skills",
-      "summary": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill (语言: JavaScript) [标签: ai-video, claude-skills, ffmpeg, shot-analysis, video-analysis]",
-      "popularity": {
-        "views": 1208,
-        "likes": 1208,
-        "comments": 154
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视频生成"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-09-11T04:55:49"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 1208,
-        "forks": 154,
-        "open_issues": 1,
-        "language": "JavaScript",
-        "license": "apache-2.0",
-        "topics": [
-          "ai-video",
-          "claude-skills",
-          "ffmpeg",
-          "shot-analysis",
-          "video-analysis"
-        ],
-        "created_at": "2026-09-11T04:55:49Z",
-        "pushed_at": "2026-11-09T14:58:50Z"
-      },
-      "filtered": false,
-      "total_score": 66.0,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 59.0,
-        "freshness": 20
-      },
-      "collected_on": "2026-10-29"
-    },
-    {
-      "name": "vanzll/DiffusionART",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/vanzll/DiffusionART",
-      "summary": "Official Implementation of \"扩散ART: Efficient, Stable and 可扩展 Reinforcement of 扩散 模型s\" (语言: Python) [标签: diffusion-models, diffusionart, flow-matching, image-to-video, post-training]",
-      "popularity": {
-        "views": 229,
-        "likes": 229,
-        "comments": 3
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "图像生成",
-          "视频生成",
-          "模型训练"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-24T08:35:23"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 229,
-        "forks": 3,
-        "open_issues": 3,
-        "language": "Python",
-        "license": "apache-2.0",
-        "topics": [
-          "diffusion-models",
-          "diffusionart",
-          "flow-matching",
-          "image-to-video",
-          "post-training",
-          "reinforcement-learning",
-          "text-to-image",
-          "text-to-video",
-          "video-generation"
-        ],
-        "created_at": "2026-09-24T08:35:23Z",
-        "pushed_at": "2026-11-09T11:24:58Z"
-      },
-      "filtered": false,
-      "total_score": 64.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 54.0,
-        "freshness": 20
-      },
-      "collected_on": "2026-10-29"
-    },
-    {
-      "name": "tigerless-labs/agent-memory",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/tigerless-labs/agent-memory",
-      "summary": "Long-term memory 运行时 for AI 智能体s — plain Markdown as the source of truth, local ranked 检索, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key. (语言: Python...",
-      "popularity": {
-        "views": 4303,
-        "likes": 4303,
-        "comments": 201
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent",
-          "代码生成"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-09-01T21:52:29"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 4303,
-        "forks": 201,
-        "open_issues": 19,
-        "language": "Python",
-        "license": "mit",
-        "topics": [
-          "agent-memory",
-          "ai-agents",
-          "claude-code",
-          "codex",
-          "llm",
-          "local-first",
-          "long-term-memory",
-          "markdown",
-          "mcp",
-          "python",
-          "retrieval",
-          "sqlite"
-        ],
-        "created_at": "2026-09-01T21:52:29Z",
-        "pushed_at": "2026-10-30T14:02:49Z"
-      },
-      "filtered": false,
-      "total_score": 62.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 53.0,
-        "practicality": 61.0,
-        "freshness": 20
-      },
-      "_source": "pending",
-      "collected_on": "2026-10-29"
-    },
-    {
-      "name": "2akouwu/reverify",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/2akouwu/reverify",
-      "summary": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering ...",
-      "popularity": {
-        "views": 1321,
-        "likes": 1321,
-        "comments": 258
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-08-31T01:02:18"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 1321,
-        "forks": 258,
-        "open_issues": 16,
-        "language": "Python",
-        "license": "mit",
-        "topics": [
-          "ai",
-          "ai-agents",
-          "ai-coding",
-          "anti-hallucination",
-          "binary-analysis",
-          "context-engineering",
-          "ctf",
-          "developer-tools",
-          "disassembler",
-          "grounding",
-          "hallucination",
-          "hallucination-detection",
-          "llm",
-          "malware-analysis",
-          "mcp",
-          "mcp-server",
-          "python",
-          "reverse-engineering",
-          "security-tools",
-          "verification"
-        ],
-        "created_at": "2026-08-31T01:02:18Z",
-        "pushed_at": "2026-10-01T11:31:02Z"
-      },
-      "filtered": false,
-      "total_score": 62.0,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 53.0,
-        "practicality": 59.0,
-        "freshness": 20
-      },
-      "_source": "pending",
-      "collected_on": "2026-10-29"
-    },
-    {
       "name": "wangzan101/Mika",
       "type": "tool",
       "platform": "GitHub",
@@ -399,7 +61,8 @@
         "practicality": 61.0,
         "freshness": 60
       },
-      "collected_on": "2026-11-01"
+      "collected_on": "2026-11-01",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "somastllc/nlp-for-machine-learning-bootcamp",
@@ -457,7 +120,8 @@
         "practicality": 50.0,
         "freshness": 60
       },
-      "collected_on": "2026-11-01"
+      "collected_on": "2026-11-01",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "kuafuai/andee",
@@ -520,7 +184,8 @@
         "practicality": 61.0,
         "freshness": 20
       },
-      "collected_on": "2026-11-01"
+      "collected_on": "2026-11-01",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "openfilm/openfilm",
@@ -584,7 +249,8 @@
         "practicality": 63.0,
         "freshness": 20
       },
-      "collected_on": "2026-11-01"
+      "collected_on": "2026-11-01",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "e2sy/jailbreak-archives",
@@ -658,7 +324,8 @@
         "practicality": 50.0,
         "freshness": 20
       },
-      "collected_on": "2026-10-30"
+      "collected_on": "2026-10-30",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "MiniMax-AI/MiniMax-H3-Image",
@@ -719,7 +386,8 @@
         "practicality": 52.0,
         "freshness": 80
       },
-      "collected_on": "2026-11-11"
+      "collected_on": "2026-11-11",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "islandmed/SculptForge",
@@ -791,7 +459,8 @@
         "practicality": 59.0,
         "freshness": 60
       },
-      "collected_on": "2026-11-02"
+      "collected_on": "2026-11-02",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "Arda313131882/aion-2-trainer-tool",
@@ -863,7 +532,8 @@
         "practicality": 59.0,
         "freshness": 80
       },
-      "collected_on": "2026-11-11"
+      "collected_on": "2026-11-11",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "wideeyededi/uncensored-nsfw-ai-video-api",
@@ -938,7 +608,8 @@
         "practicality": 52.0,
         "freshness": 60
       },
-      "collected_on": "2026-11-02"
+      "collected_on": "2026-11-02",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "thesysdev/open-intelligent-ui",
@@ -1007,7 +678,8 @@
         "practicality": 59.0,
         "freshness": 20
       },
-      "collected_on": "2026-11-02"
+      "collected_on": "2026-11-02",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "N1nEmAn/sapper-v2",
@@ -1074,7 +746,8 @@
         "practicality": 61.0,
         "freshness": 60
       },
-      "collected_on": "2026-11-12"
+      "collected_on": "2026-11-12",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "salikhussain71-code/PAKGOV-RAG-project",
@@ -1139,7 +812,8 @@
         "practicality": 52.0,
         "freshness": 20
       },
-      "collected_on": "2026-10-29"
+      "collected_on": "2026-11-03",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "amitshekhariitbhu/ai-engineering-course",
@@ -1200,7 +874,8 @@
         "practicality": 63.0,
         "freshness": 20
       },
-      "collected_on": "2026-10-29"
+      "collected_on": "2026-11-03",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "flohoeller/affectui",
@@ -1275,7 +950,8 @@
         "freshness": 20
       },
       "_source": "pending",
-      "collected_on": "2026-11-02"
+      "collected_on": "2026-11-02",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "baojian/llm-26-fall",
@@ -1329,7 +1005,8 @@
         "freshness": 20
       },
       "_source": "pending",
-      "collected_on": "2026-10-30"
+      "collected_on": "2026-11-12",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "ThinkWatchProject/ThinkWatch-Lite",
@@ -1403,7 +1080,8 @@
         "practicality": 59.0,
         "freshness": 20
       },
-      "collected_on": "2026-11-02"
+      "collected_on": "2026-11-04",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "apimart-66/ai-api-aggregator",
@@ -1468,7 +1146,8 @@
         "practicality": 50.0,
         "freshness": 20
       },
-      "collected_on": "2026-10-29"
+      "collected_on": "2026-11-04",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "apimart-API-Gateway/grok-image-api",
@@ -1532,7 +1211,8 @@
         "practicality": 50.0,
         "freshness": 20
       },
-      "collected_on": "2026-11-02"
+      "collected_on": "2026-11-04",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "whitecircle/halo",
@@ -1609,7 +1289,8 @@
         "freshness": 20
       },
       "_source": "pending",
-      "collected_on": "2026-10-29"
+      "collected_on": "2026-11-13",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "stubbb/c-shop",
@@ -1663,7 +1344,8 @@
         "freshness": 20
       },
       "_source": "pending",
-      "collected_on": "2026-10-30"
+      "collected_on": "2026-11-13",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "brave-plum-co/leonardo-ai-desktop",
@@ -1737,7 +1419,8 @@
         "practicality": 52.0,
         "freshness": 100
       },
-      "collected_on": "2026-11-14"
+      "collected_on": "2026-11-14",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "briskember13/adobe-acrobat-pdf-desktop",
@@ -1810,7 +1493,8 @@
         "practicality": 52.0,
         "freshness": 100
       },
-      "collected_on": "2026-11-14"
+      "collected_on": "2026-11-14",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "BlueRingsLabs/no-shortcuts",
@@ -1878,7 +1562,8 @@
         "practicality": 54.0,
         "freshness": 20
       },
-      "collected_on": "2026-10-29"
+      "collected_on": "2026-11-04",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "Erutaner/CLADE",
@@ -1932,7 +1617,8 @@
         "freshness": 20
       },
       "_source": "pending",
-      "collected_on": "2026-10-30"
+      "collected_on": "2026-11-14",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "dolev31/lasagna",
@@ -2009,7 +1695,8 @@
         "freshness": 60
       },
       "_source": "pending",
-      "collected_on": "2026-10-31"
+      "collected_on": "2026-11-14",
+      "selected_on": "2026-11-19"
     },
     {
       "name": "alicebrown323/pro-tools-desktop",
@@ -2086,7 +1773,7 @@
       },
       "title_zh": "alicebrown323/pro-tools-desktop：Pro Tools 2026 桌面版多轨编辑与便携模式（C++）",
       "summary_zh": "仓库自述提供 Pro Tools 2026 在 Windows 11 上的桌面配置方案，含多轨编辑、MIDI 编排、VST 插件托管与便携模式，MIT 许可，C++ 实现，2026-11-14 创建、约 303 star。其主题标签混入 ai-generation-tools、large-language-models 等内容，与音频工具描述不完全一致，落地前需人工核实真实性。",
-      "selected_on": "2026-11-15"
+      "selected_on": "2026-11-19"
     },
     {
       "name": "Barry81-666/kaggle-portfolio",
@@ -2142,7 +1829,7 @@
       },
       "title_zh": "Barry81-666/kaggle-portfolio：计算生物学与医学影像方向的 Kaggle 项目集（Jupyter Notebook）",
       "summary_zh": "作者整理的 Kaggle 项目合集，覆盖计算生物学、医学影像、数据科学与机器学习，以 Jupyter Notebook 形式组织。100 star，2026-10-24 创建，无主题标签、未声明许可证，适合作为数据科学作品集与选题参考，不构成可直接部署的工程资产。",
-      "selected_on": "2026-11-15"
+      "selected_on": "2026-11-19"
     },
     {
       "name": "datasifaw/dataiku-projet-bancaire-analytics",
@@ -2206,7 +1893,7 @@
         "created_at": "2026-09-16T11:48:01Z",
         "pushed_at": "2026-11-07T11:51:44Z"
       },
-      "collected_on": "2026-10-30",
+      "collected_on": "2026-11-04",
       "filtered": false,
       "total_score": 59.75,
       "detail_scores": {
@@ -2217,7 +1904,7 @@
       },
       "title_zh": "datasifaw/dataiku-projet-bancaire-analytics：基于 Dataiku 的端到端银行分析项目",
       "summary_zh": "使用 Dataiku 搭建的银行分析全流程项目，包含数据准备、机器学习建模、客户评分与自动化流水线，标签覆盖 banking-analytics、dataiku、machine-learning 等。100 star，2026-09-16 创建，仓库未标注主要编程语言与许可证，依赖 Dataiku 平台才能复现完整流程。",
-      "selected_on": "2026-11-15"
+      "selected_on": "2026-11-19"
     },
     {
       "name": "LynxOfficialDeveloper/RtG-AI-Core-Engine",
@@ -2270,7 +1957,7 @@
         "created_at": "2026-09-22T21:09:40Z",
         "pushed_at": "2026-11-15T08:30:17Z"
       },
-      "collected_on": "2026-11-01",
+      "collected_on": "2026-11-04",
       "filtered": false,
       "total_score": 54.96,
       "detail_scores": {
@@ -2281,7 +1968,7 @@
       },
       "title_zh": "LynxOfficialDeveloper/RtG-AI-Core-Engine：西语学习方向的开源机器学习实验 RtG-AI 2026",
       "summary_zh": "自述为 Road to Gramby's 的西语机器学习实验引擎，输出 ai-json 结构并通过 GitHub Pages 部署，标签含 rtg-format、roblox、testing，HTML 实现，70 star，2026-09-22 创建。文档以演示为主，缺少训练数据与评测说明，复用价值集中在其数据格式设计。",
-      "selected_on": "2026-11-15"
+      "selected_on": "2026-11-19"
     },
     {
       "name": "alrisqi/MrD-Optimizer-Lab",
@@ -2343,7 +2030,7 @@
         "created_at": "2026-08-25T10:05:47Z",
         "pushed_at": "2026-10-30T21:30:49Z"
       },
-      "collected_on": "2026-10-30",
+      "collected_on": "2026-11-15",
       "filtered": false,
       "total_score": 50.91,
       "detail_scores": {
@@ -2355,7 +2042,7 @@
       "_source": "pending",
       "title_zh": "alrisqi/MrD-Optimizer-Lab：MrD 深度学习训练与模型优化工具箱",
       "summary_zh": "面向分类、目标检测与分割的训练与标注实验台，标签包含 tensorflow2、torch、opencv4、labeling-tool、training-dataset，HTML 实现，55 star，2026-08-25 创建。本轮由后备池补位入选，并非当日新采集条目。",
-      "selected_on": "2026-11-15"
+      "selected_on": "2026-11-19"
     },
     {
       "name": "Leonxlnx/earshot",
@@ -2419,7 +2106,7 @@
       },
       "title_zh": "Leonxlnx/earshot：给编程智能体装上耳朵的开源音频工具",
       "summary_zh": "Ears for coding agents：把声音能力接进编程智能体，让 AI 能听、能评审、能出音效，纯 CPU 运行、MIT 开源，适配 Claude Code 与 MCP 客户端。",
-      "selected_on": "2026-11-16"
+      "selected_on": "2026-11-19"
     },
     {
       "name": "Valen-Team/Valen",
@@ -2492,7 +2179,7 @@
       },
       "title_zh": "Valen-Team/Valen：0.8B 到 27B 的开源多模态决策模型",
       "summary_zh": "开源多模态决策模型族，覆盖文本、图像与视频：直接在自有候选集上输出概率并用边界框定位，替代自由文本生成；提供免费 API 与 ONNX、GGUF、vLLM、SGLang 部署及微调代码。",
-      "selected_on": "2026-11-16",
+      "selected_on": "2026-11-19",
       "collected_on": "2026-11-15"
     },
     {
@@ -2550,7 +2237,7 @@
         "created_at": "2026-09-21T11:11:37Z",
         "pushed_at": "2026-11-02T06:29:35Z"
       },
-      "collected_on": "2026-10-29",
+      "collected_on": "2026-11-06",
       "filtered": false,
       "total_score": 63.75,
       "detail_scores": {
@@ -2561,7 +2248,7 @@
       },
       "title_zh": "nihui/qwenimage-ncnn-vulkan：Qwen-Image-2.1 的 ncnn 端侧实现",
       "summary_zh": "用 ncnn 实现的 Qwen-Image-2.1，支持文生图、图像编辑、多图参考输入与透明 RGBA 输出，基于 Vulkan 在 Linux、macOS、Windows 与 AMD、Apple、Intel、NVIDIA 显卡上运行。",
-      "selected_on": "2026-11-16"
+      "selected_on": "2026-11-19"
     },
     {
       "name": "terryds/bestvaluemodel",
@@ -2615,10 +2302,10 @@
         "freshness": 20
       },
       "_source": "pending",
-      "collected_on": "2026-10-31",
+      "collected_on": "2026-11-15",
       "title_zh": "terryds/bestvaluemodel：大模型智能指数与 API 价格性价比对照",
       "summary_zh": "一个静态页面，把 Artificial Analysis 智能指数与 API 混合价格放进同一张图逐模型比对，按日刷新，帮助按性价比选 LLM；数据以 JSON 随仓库发布，站点跑在 Cloudflare Workers。",
-      "selected_on": "2026-11-16"
+      "selected_on": "2026-11-19"
     },
     {
       "name": "ecklein/modeldiff-ml",
@@ -2672,10 +2359,10 @@
         "freshness": 20
       },
       "_source": "pending",
-      "collected_on": "2026-11-01",
+      "collected_on": "2026-11-15",
       "title_zh": "ecklein/modeldiff-ml：机器学习模型行为回归对比库",
       "summary_zh": "模型行为回归测试框架：逐样本比较候选模型与基线模型，找出可读的差异区域并在独立数据上验证，用于发现整体指标提升下被掩盖的局部退化，可接已训练模型或预测结果，MIT 许可。",
-      "selected_on": "2026-11-16"
+      "selected_on": "2026-11-19"
     },
     {
       "name": "vercel-labs/ui",
@@ -2745,7 +2432,7 @@
         "practicality": 59.0,
         "freshness": 60
       },
-      "selected_on": "2026-11-17",
+      "selected_on": "2026-11-19",
       "title_zh": "vercel-labs/ui：给智能体拼装新一代界面的行为组件库",
       "summary_zh": "Vercel Labs 开源的 headless 行为（behaviors）组件库，把无障碍交互与常用 UI 逻辑封装成可复用单元，供 AI 智能体直接组装新一代界面，支持 React/Solid 并可经 MCP 接入。（TypeScript，5283 stars）",
       "collected_on": "2026-11-16"
@@ -2817,7 +2504,7 @@
         "practicality": 61.0,
         "freshness": 20
       },
-      "selected_on": "2026-11-17",
+      "selected_on": "2026-11-19",
       "title_zh": "answer-me-with-html：让 AI 智能体用一页 HTML 讲清复杂问题",
       "summary_zh": "面向 Claude Code 的智能体技能（agent skill），把难题的答案渲染成一页可直接阅读的 HTML，自带图表与排版，适合在 CLI 与 Agent 工作流里做可视化讲解。（JavaScript，6365 stars）"
     },
@@ -2880,7 +2567,7 @@
         "practicality": 61.0,
         "freshness": 20
       },
-      "selected_on": "2026-11-17",
+      "selected_on": "2026-11-19",
       "title_zh": "MOSS-Image：5B 参数 DiT 图像基座模型，主打文字渲染与版面控制",
       "summary_zh": "OpenMOSS 团队公开的图像生成基座仓库，50 亿参数 DiT 模型强调高质量文字渲染、版面布局控制与高效微调，提供文生图与可控生成示例。（Python，2919 stars）"
     },
@@ -2959,7 +2646,7 @@
         "practicality": 63.0,
         "freshness": 20
       },
-      "selected_on": "2026-11-17",
+      "selected_on": "2026-11-19",
       "title_zh": "esp32-iphone-agent：用 7 美元 ESP32 让大模型操作真实 iPhone",
       "summary_zh": "通过 AirPlay 取画面、USB HID 做按键，把任意 OpenAI 兼容视觉模型接到真实 iPhone 上执行自动化任务，无需 Mac、开发者账号或越狱。（Swift，5027 stars）"
     },
@@ -3016,7 +2703,7 @@
         "created_at": "2026-10-09T14:22:32Z",
         "pushed_at": "2026-11-10T01:07:13Z"
       },
-      "collected_on": "2026-10-30",
+      "collected_on": "2026-11-03",
       "filtered": false,
       "total_score": 57.22,
       "detail_scores": {
@@ -3025,7 +2712,7 @@
         "practicality": 52.0,
         "freshness": 20
       },
-      "selected_on": "2026-11-17",
+      "selected_on": "2026-11-19",
       "title_zh": "ClusterChat：把一个大模型拆开分摊到浏览器用户之间协同推理",
       "summary_zh": "纯浏览器实现的聊天机器人，用 WebGPU 加 WebRTC/P2P 把一个开源大模型的推理负载拆分到多个访问者设备上协同完成，探索去中心化推理形态。（JavaScript，56 stars）"
     },
@@ -3103,8 +2790,8 @@
       },
       "title_zh": "Spam Mail Detector ML：机器学习邮件分类与垃圾邮件检测",
       "summary_zh": "用机器学习把邮件判为垃圾邮件或正常邮件的 Go 项目，提供 PowerShell 安装脚本、准确率评测示例与在线演示页，适合做入门级文本分类与邮件风控实践，153 Star。",
-      "selected_on": "2026-11-18",
-      "collected_on": "2026-11-18"
+      "selected_on": "2026-11-19",
+      "collected_on": "2026-11-17"
     },
     {
       "name": "kaankiziltug/logo-design-skill",
@@ -3159,7 +2846,7 @@
         "created_at": "2026-09-26T08:23:34Z",
         "pushed_at": "2026-11-13T16:32:36Z"
       },
-      "collected_on": "2026-10-29",
+      "collected_on": "2026-10-30",
       "filtered": false,
       "total_score": 68.75,
       "detail_scores": {
@@ -3170,7 +2857,7 @@
       },
       "title_zh": "Logo Design Skill：给 Claude 等智能体装上标志设计技能",
       "summary_zh": "面向 Claude、Gemini CLI、Codex CLI、Cursor、GitHub Copilot 等支持 Agent Skills 的智能体的标志设计技能包，含设计原则、流程、SVG 工艺、测试工具与 1400+ logo 参考库，MIT 协议，7177 Star。",
-      "selected_on": "2026-11-18"
+      "selected_on": "2026-11-19"
     },
     {
       "name": "deepseek-ai/DeepEP-Ascend",
@@ -3227,7 +2914,7 @@
       },
       "title_zh": "DeepEP-Ascend：昇腾 NPU 上的 MoE 专家并行通信库",
       "summary_zh": "深度求索开源的华为昇腾 NPU 高性能训练与推理通信库，提供 MoE dispatch/combine 的 EP all-to-all、FP8 dispatch、流水线并行与 CP/DP Bucket 集合通信，公开 buffer API 与 NVIDIA 版 DeepEP 对齐。",
-      "selected_on": "2026-11-18"
+      "selected_on": "2026-11-19"
     },
     {
       "name": "beckettharriman/openfill",
@@ -3292,7 +2979,7 @@
         "created_at": "2026-10-14T20:51:20Z",
         "pushed_at": "2026-11-08T17:38:24Z"
       },
-      "collected_on": "2026-10-29",
+      "collected_on": "2026-10-30",
       "filtered": false,
       "total_score": 61.5,
       "detail_scores": {
@@ -3303,7 +2990,7 @@
       },
       "title_zh": "OpenFill：为 GIMP 3 与 PhotoCraft 加上本地生成式填充",
       "summary_zh": "通过 ComfyUI 在自己的 GPU 上完成生成式填充、移除物体、画面扩展与文生图，给 GIMP 3.2 和 PhotoCraft 0.12-0.20 提供可替代 Photoshop 的本地方案，Apache-2.0，目前 Beta 阶段。",
-      "selected_on": "2026-11-18"
+      "selected_on": "2026-11-19"
     },
     {
       "name": "andrew-morris/neuronaut",
@@ -3359,8 +3046,355 @@
       "_source": "pending",
       "title_zh": "neuronaut：大语言模型权重的探索与调试器",
       "summary_zh": "基于 C++/ggml 的 LLM 权重调试器，直接读取 llama.cpp、Ollama、LM Studio 使用的 GGUF 文件，可定位回答问题涉及的关键神经元，改写后另存为普通 llama.cpp 可加载的模型，小模型 CPU 即可运行。",
-      "selected_on": "2026-11-18",
-      "collected_on": "2026-11-16"
+      "selected_on": "2026-11-19",
+      "collected_on": "2026-11-17"
+    },
+    {
+      "name": "qybaihe/bla",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/qybaihe/bla",
+      "summary": "🛡️ BLA (bla-智能体s / Blind LLM 智能体s) — Open-source Blue Defense MCP server & CLI protecting JS/TS, Electron ASAR, WASM, Python, Native Binaries, SQLite, GGUF/Safetensors & Android DEX against AI reve...",
+      "popularity": {
+        "views": 6136,
+        "likes": 6136,
+        "comments": 767
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "代码生成"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-25T05:25:45"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 6136,
+        "forks": 767,
+        "open_issues": 6,
+        "language": "TypeScript",
+        "license": "mit",
+        "topics": [
+          "adversarial-ai",
+          "ai-security",
+          "android-security",
+          "binary-protection",
+          "claude-code",
+          "codex",
+          "cursor",
+          "electron-security",
+          "gguf",
+          "ghidra",
+          "llm-security",
+          "mcp",
+          "mcp-server",
+          "obfuscation",
+          "python-security",
+          "reverse-engineering",
+          "safetensors",
+          "software-protection",
+          "webassembly"
+        ],
+        "created_at": "2026-10-25T05:25:45Z",
+        "pushed_at": "2026-11-18T18:12:34Z"
+      },
+      "collected_on": "2026-11-08",
+      "filtered": false,
+      "total_score": 72.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 62.0,
+        "practicality": 61.0,
+        "freshness": 60
+      },
+      "title_zh": "BLA：拦截 AI 逆向的开源蓝队 MCP 防护服务",
+      "summary_zh": "开源蓝队防护 MCP 服务与命令行工具，覆盖 JS/TS、Electron ASAR、WASM、Python、原生二进制、SQLite、GGUF/Safetensors 与安卓 DEX，抵御 AI 驱动的逆向分析，已获 6136 星。",
+      "selected_on": "2026-11-19"
+    },
+    {
+      "name": "Louis-CFM/coucou",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/Louis-CFM/coucou",
+      "summary": "A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding 智能体s: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more. Approve from the notch or your Lock Scre...",
+      "popularity": {
+        "views": 7331,
+        "likes": 7331,
+        "comments": 1212
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "代码生成"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-09-27T21:54:12"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 7331,
+        "forks": 1212,
+        "open_issues": 461,
+        "language": "Swift",
+        "license": "mit",
+        "topics": [
+          "ai-agents",
+          "anthropic",
+          "antigravity",
+          "claude",
+          "claude-code",
+          "codex",
+          "cursor",
+          "dynamic-island",
+          "gemini-cli",
+          "ios",
+          "iphon",
+          "linux",
+          "macos",
+          "macos-app",
+          "menubar-app",
+          "notch",
+          "open-source",
+          "swift",
+          "swiftui",
+          "windows"
+        ],
+        "created_at": "2026-09-27T21:54:12Z",
+        "pushed_at": "2026-11-18T18:02:43Z"
+      },
+      "collected_on": "2026-10-30",
+      "filtered": false,
+      "total_score": 68.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 78.0,
+        "practicality": 61.0,
+        "freshness": 20
+      },
+      "title_zh": "coucou：在 Mac 刘海与 iPhone 上监管 AI 编程智能体",
+      "summary_zh": "常驻 Mac 刘海与 iPhone 的小助手，实时跟踪 Claude Code、Codex、Cursor、Gemini CLI 等 AI 编程智能体的运行状态，可直接在刘海或锁屏页审批，Swift 开源，7331 星。",
+      "selected_on": "2026-11-19"
+    },
+    {
+      "name": "niharika2309/16-week-ai-ml-series",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/niharika2309/16-week-ai-ml-series",
+      "summary": "AI, One Concept at a Time A beginner-friendly journey into 人工智能 and 机器学习  By Niharika Batra  No complicated jargon. No assumption that you already know AI. Just one concept at a time. (语言: JavaScript)",
+      "popularity": {
+        "views": 54,
+        "likes": 54,
+        "comments": 3
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "通用AI应用"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-14T02:26:27"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 54,
+        "forks": 3,
+        "open_issues": 0,
+        "language": "JavaScript",
+        "license": "",
+        "topics": [],
+        "created_at": "2026-09-14T02:26:27Z",
+        "pushed_at": "2026-11-11T00:47:45Z"
+      },
+      "collected_on": "2026-11-05",
+      "filtered": false,
+      "total_score": 54.61,
+      "detail_scores": {
+        "popularity": 69.54,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 20
+      },
+      "_source": "pending",
+      "title_zh": "16 周 AI/ML 渐进式学习系列",
+      "summary_zh": "面向零基础的 16 周人工智能与机器学习系列内容，每次只讲透一个概念，不预设先验知识，可作为系统化入门路线与自学材料参考。",
+      "selected_on": "2026-11-19"
+    },
+    {
+      "name": "Sanane001/torch-hydra-starter",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/Sanane001/torch-hydra-starter",
+      "summary": "PyTorch AI 模板 2026: Hydra-Powered 深度学习 脚手架 Starter Kit (语言: HTML) [标签: boilerplate, boilerplate-template, deep-learning, hydra, machine-learning]",
+      "popularity": {
+        "views": 55,
+        "likes": 55,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "通用AI应用"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-08-25T10:17:59"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 55,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "HTML",
+        "license": "",
+        "topics": [
+          "boilerplate",
+          "boilerplate-template",
+          "deep-learning",
+          "hydra",
+          "machine-learning",
+          "pytorch",
+          "trainer",
+          "yaml"
+        ],
+        "created_at": "2026-08-25T10:17:59Z",
+        "pushed_at": "2026-10-21T16:14:22Z"
+      },
+      "filtered": false,
+      "total_score": 50.41,
+      "detail_scores": {
+        "popularity": 55.55,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 20
+      },
+      "_source": "pending",
+      "title_zh": "torch-hydra-starter：PyTorch + Hydra 训练脚手架",
+      "summary_zh": "2026 版 PyTorch 深度学习训练模板，用 Hydra 管理 YAML 配置，内置实验目录与训练脚本结构，适合快速启动可复现的训练实验，上手门槛较低。",
+      "selected_on": "2026-11-19",
+      "collected_on": "2026-10-30"
+    },
+    {
+      "name": "avri22222/TS-Forge",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/avri22222/TS-Forge",
+      "summary": "开源 AI 训练 Hub 2026: Build Ethical 机器学习 模型s (语言: HTML) [标签: ai, ai-models, automl, deep-learning, deep-neural-networks]",
+      "popularity": {
+        "views": 54,
+        "likes": 54,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "模型训练"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-21T22:44:36"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 54,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "HTML",
+        "license": "",
+        "topics": [
+          "ai",
+          "ai-models",
+          "automl",
+          "deep-learning",
+          "deep-neural-networks",
+          "lithicsoft",
+          "machine-learning",
+          "trainer",
+          "trainer-studio",
+          "training",
+          "transfer-learning"
+        ],
+        "created_at": "2026-09-21T22:44:36Z",
+        "pushed_at": "2026-11-01T22:30:01Z"
+      },
+      "filtered": false,
+      "total_score": 50.11,
+      "detail_scores": {
+        "popularity": 54.540000000000006,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 20
+      },
+      "_source": "pending",
+      "title_zh": "TS-Forge：开源 AI 模型训练 Hub",
+      "summary_zh": "开源 AI 训练中心，覆盖 AutoML、深度学习与迁移学习等训练流程，强调合规数据与模型管理，适合想统一训练管线的个人与小型团队参考。",
+      "selected_on": "2026-11-19",
+      "collected_on": "2026-11-01"
     }
   ],
   "pending_items": [
@@ -3485,186 +3519,6 @@
         "freshness": 20
       },
       "collected_on": "2026-10-30"
-    },
-    {
-      "name": "Sanane001/torch-hydra-starter",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/Sanane001/torch-hydra-starter",
-      "summary": "PyTorch AI 模板 2026: Hydra-Powered 深度学习 脚手架 Starter Kit (语言: HTML) [标签: boilerplate, boilerplate-template, deep-learning, hydra, machine-learning]",
-      "popularity": {
-        "views": 55,
-        "likes": 55,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "通用AI应用"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-08-25T10:17:59"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 55,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "HTML",
-        "license": "",
-        "topics": [
-          "boilerplate",
-          "boilerplate-template",
-          "deep-learning",
-          "hydra",
-          "machine-learning",
-          "pytorch",
-          "trainer",
-          "yaml"
-        ],
-        "created_at": "2026-08-25T10:17:59Z",
-        "pushed_at": "2026-10-21T16:14:22Z"
-      },
-      "filtered": false,
-      "total_score": 50.41,
-      "detail_scores": {
-        "popularity": 55.55,
-        "usability": 69.0,
-        "practicality": 50.0,
-        "freshness": 20
-      },
-      "collected_on": "2026-10-30"
-    },
-    {
-      "name": "avri22222/TS-Forge",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/avri22222/TS-Forge",
-      "summary": "开源 AI 训练 Hub 2026: Build Ethical 机器学习 模型s (语言: HTML) [标签: ai, ai-models, automl, deep-learning, deep-neural-networks]",
-      "popularity": {
-        "views": 54,
-        "likes": 54,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "模型训练"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-21T22:44:36"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 54,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "HTML",
-        "license": "",
-        "topics": [
-          "ai",
-          "ai-models",
-          "automl",
-          "deep-learning",
-          "deep-neural-networks",
-          "lithicsoft",
-          "machine-learning",
-          "trainer",
-          "trainer-studio",
-          "training",
-          "transfer-learning"
-        ],
-        "created_at": "2026-09-21T22:44:36Z",
-        "pushed_at": "2026-11-01T22:30:01Z"
-      },
-      "filtered": false,
-      "total_score": 50.11,
-      "detail_scores": {
-        "popularity": 54.540000000000006,
-        "usability": 69.0,
-        "practicality": 50.0,
-        "freshness": 20
-      },
-      "collected_on": "2026-11-01"
-    },
-    {
-      "name": "niharika2309/16-week-ai-ml-series",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/niharika2309/16-week-ai-ml-series",
-      "summary": "AI, One Concept at a Time A beginner-friendly journey into 人工智能 and 机器学习  By Niharika Batra  No complicated jargon. No assumption that you already know AI. Just one concept at a time. (语言: JavaScript)",
-      "popularity": {
-        "views": 54,
-        "likes": 54,
-        "comments": 3
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "通用AI应用"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-14T02:26:27"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 54,
-        "forks": 3,
-        "open_issues": 0,
-        "language": "JavaScript",
-        "license": "",
-        "topics": [],
-        "created_at": "2026-09-14T02:26:27Z",
-        "pushed_at": "2026-11-11T00:47:45Z"
-      },
-      "collected_on": "2026-10-30",
-      "filtered": false,
-      "total_score": 54.61,
-      "detail_scores": {
-        "popularity": 69.54,
-        "usability": 69.0,
-        "practicality": 50.0,
-        "freshness": 20
-      }
     }
   ]
 }
