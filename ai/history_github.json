@@ -1,333 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "wangzan101/Mika",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/wangzan101/Mika",
-      "summary": "An on-device AI 智能体 for Android that operates apps and the web to get things done for you. (语言: Kotlin) [标签: accessibility, ai-agent, android, automation, jetpack-compose]",
-      "popularity": {
-        "views": 8068,
-        "likes": 8068,
-        "comments": 1840
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent",
-          "自动化"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-10-29T14:34:07"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 8068,
-        "forks": 1840,
-        "open_issues": 121,
-        "language": "Kotlin",
-        "license": "apache-2.0",
-        "topics": [
-          "accessibility",
-          "ai-agent",
-          "android",
-          "automation",
-          "jetpack-compose",
-          "kotlin",
-          "llm",
-          "mobile-agent"
-        ],
-        "created_at": "2026-10-29T14:34:07Z",
-        "pushed_at": "2026-11-10T17:00:01Z"
-      },
-      "filtered": false,
-      "total_score": 74.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 61.0,
-        "freshness": 60
-      },
-      "collected_on": "2026-11-01",
-      "selected_on": "2026-11-19"
-    },
-    {
-      "name": "somastllc/nlp-for-machine-learning-bootcamp",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/somastllc/nlp-for-machine-learning-bootcamp",
-      "summary": "NLP for 机器学习 Bootcamp. [标签: ai, bootcamp, machine-learning, nlp]",
-      "popularity": {
-        "views": 93,
-        "likes": 93,
-        "comments": 9
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "自然语言处理"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-10-20T19:48:09"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 93,
-        "forks": 9,
-        "open_issues": 0,
-        "language": "",
-        "license": "other",
-        "topics": [
-          "ai",
-          "bootcamp",
-          "machine-learning",
-          "nlp"
-        ],
-        "created_at": "2026-10-20T19:48:09Z",
-        "pushed_at": "2026-10-24T13:28:24Z"
-      },
-      "filtered": false,
-      "total_score": 69.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 60.0,
-        "practicality": 50.0,
-        "freshness": 60
-      },
-      "collected_on": "2026-11-01",
-      "selected_on": "2026-11-19"
-    },
-    {
-      "name": "kuafuai/andee",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/kuafuai/andee",
-      "summary": "Andee lives on your phone or Mac and uses any app like you do—no integrations, no root, any 模型; memory and passwords never leave your device | Andee 住进你的手机或 Mac，像你一样操作任何 App——无需集成、无需 Root、支持任意模型，记忆...",
-      "popularity": {
-        "views": 4405,
-        "likes": 4405,
-        "comments": 278
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent",
-          "自动化"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-09-17T13:20:59"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 4405,
-        "forks": 278,
-        "open_issues": 15,
-        "language": "Kotlin",
-        "license": "other",
-        "topics": [
-          "agent",
-          "ai",
-          "ai-agents",
-          "android-automation",
-          "mobile-agents",
-          "personal-agent",
-          "personal-ai",
-          "phone-automation"
-        ],
-        "created_at": "2026-09-17T13:20:59Z",
-        "pushed_at": "2026-11-10T13:33:11Z"
-      },
-      "filtered": false,
-      "total_score": 66.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 61.0,
-        "freshness": 20
-      },
-      "collected_on": "2026-11-01",
-      "selected_on": "2026-11-19"
-    },
-    {
-      "name": "openfilm/openfilm",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/openfilm/openfilm",
-      "summary": "The 开源 AI video 智能体: turns any coding 智能体 into a video 智能体, with an editor to change anything it makes. (语言: TypeScript) [标签: ai-video, claude-code, codex, coding-agents, html]",
-      "popularity": {
-        "views": 5661,
-        "likes": 5661,
-        "comments": 539
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent",
-          "视频生成",
-          "代码生成"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-10-04T09:29:07"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 5661,
-        "forks": 539,
-        "open_issues": 41,
-        "language": "TypeScript",
-        "license": "mit",
-        "topics": [
-          "ai-video",
-          "claude-code",
-          "codex",
-          "coding-agents",
-          "html",
-          "motion-graphics",
-          "video-agent",
-          "video-editor"
-        ],
-        "created_at": "2026-10-04T09:29:07Z",
-        "pushed_at": "2026-11-09T19:48:33Z"
-      },
-      "filtered": false,
-      "total_score": 64.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 60.0,
-        "practicality": 63.0,
-        "freshness": 20
-      },
-      "collected_on": "2026-11-01",
-      "selected_on": "2026-11-19"
-    },
-    {
-      "name": "e2sy/jailbreak-archives",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/e2sy/jailbreak-archives",
-      "summary": "A structured, versioned archive of adversarial prompt engineering techniques against 大语言模型s — for AI safety 研究, red-teaming, and 防御性 hardening. (语言: Roff) [标签: adversarial-prompts, ai-red-team, ai-...",
-      "popularity": {
-        "views": 97,
-        "likes": 97,
-        "comments": 9
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "对话交互"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-30T07:34:14"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 97,
-        "forks": 9,
-        "open_issues": 0,
-        "language": "Roff",
-        "license": "mit",
-        "topics": [
-          "adversarial-prompts",
-          "ai-red-team",
-          "ai-safety",
-          "chatbot",
-          "chatgpt",
-          "claude",
-          "cybersecurity",
-          "deepseek",
-          "jailbreak",
-          "jailbreak-prompts",
-          "jailbreak-script",
-          "llm",
-          "llm-jailbreak",
-          "llm-security",
-          "offensive-security",
-          "prompt-engineering",
-          "prompt-injection",
-          "qwen",
-          "red-teaming",
-          "responsible-disclosure"
-        ],
-        "created_at": "2026-09-30T07:34:14Z",
-        "pushed_at": "2026-11-10T06:44:07Z"
-      },
-      "filtered": false,
-      "total_score": 59.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 53.0,
-        "practicality": 50.0,
-        "freshness": 20
-      },
-      "collected_on": "2026-10-30",
-      "selected_on": "2026-11-19"
-    },
-    {
       "name": "MiniMax-AI/MiniMax-H3-Image",
       "type": "tool",
       "platform": "GitHub",
@@ -812,7 +485,7 @@
         "practicality": 52.0,
         "freshness": 20
       },
-      "collected_on": "2026-11-03",
+      "collected_on": "2026-10-29",
       "selected_on": "2026-11-19"
     },
     {
@@ -874,7 +547,7 @@
         "practicality": 63.0,
         "freshness": 20
       },
-      "collected_on": "2026-11-03",
+      "collected_on": "2026-10-29",
       "selected_on": "2026-11-19"
     },
     {
@@ -1005,7 +678,7 @@
         "freshness": 20
       },
       "_source": "pending",
-      "collected_on": "2026-11-12",
+      "collected_on": "2026-10-30",
       "selected_on": "2026-11-19"
     },
     {
@@ -1080,7 +753,7 @@
         "practicality": 59.0,
         "freshness": 20
       },
-      "collected_on": "2026-11-04",
+      "collected_on": "2026-11-02",
       "selected_on": "2026-11-19"
     },
     {
@@ -1146,7 +819,7 @@
         "practicality": 50.0,
         "freshness": 20
       },
-      "collected_on": "2026-11-04",
+      "collected_on": "2026-10-29",
       "selected_on": "2026-11-19"
     },
     {
@@ -1211,7 +884,7 @@
         "practicality": 50.0,
         "freshness": 20
       },
-      "collected_on": "2026-11-04",
+      "collected_on": "2026-11-02",
       "selected_on": "2026-11-19"
     },
     {
@@ -1289,7 +962,7 @@
         "freshness": 20
       },
       "_source": "pending",
-      "collected_on": "2026-11-13",
+      "collected_on": "2026-10-29",
       "selected_on": "2026-11-19"
     },
     {
@@ -1344,7 +1017,7 @@
         "freshness": 20
       },
       "_source": "pending",
-      "collected_on": "2026-11-13",
+      "collected_on": "2026-10-30",
       "selected_on": "2026-11-19"
     },
     {
@@ -1562,7 +1235,7 @@
         "practicality": 54.0,
         "freshness": 20
       },
-      "collected_on": "2026-11-04",
+      "collected_on": "2026-10-29",
       "selected_on": "2026-11-19"
     },
     {
@@ -1617,7 +1290,7 @@
         "freshness": 20
       },
       "_source": "pending",
-      "collected_on": "2026-11-14",
+      "collected_on": "2026-10-30",
       "selected_on": "2026-11-19"
     },
     {
@@ -1695,7 +1368,7 @@
         "freshness": 60
       },
       "_source": "pending",
-      "collected_on": "2026-11-14",
+      "collected_on": "2026-10-31",
       "selected_on": "2026-11-19"
     },
     {
@@ -1893,7 +1566,7 @@
         "created_at": "2026-09-16T11:48:01Z",
         "pushed_at": "2026-11-07T11:51:44Z"
       },
-      "collected_on": "2026-11-04",
+      "collected_on": "2026-10-30",
       "filtered": false,
       "total_score": 59.75,
       "detail_scores": {
@@ -1957,7 +1630,7 @@
         "created_at": "2026-09-22T21:09:40Z",
         "pushed_at": "2026-11-15T08:30:17Z"
       },
-      "collected_on": "2026-11-04",
+      "collected_on": "2026-11-01",
       "filtered": false,
       "total_score": 54.96,
       "detail_scores": {
@@ -2030,7 +1703,7 @@
         "created_at": "2026-08-25T10:05:47Z",
         "pushed_at": "2026-10-30T21:30:49Z"
       },
-      "collected_on": "2026-11-15",
+      "collected_on": "2026-10-30",
       "filtered": false,
       "total_score": 50.91,
       "detail_scores": {
@@ -2237,7 +1910,7 @@
         "created_at": "2026-09-21T11:11:37Z",
         "pushed_at": "2026-11-02T06:29:35Z"
       },
-      "collected_on": "2026-11-06",
+      "collected_on": "2026-10-29",
       "filtered": false,
       "total_score": 63.75,
       "detail_scores": {
@@ -2302,7 +1975,7 @@
         "freshness": 20
       },
       "_source": "pending",
-      "collected_on": "2026-11-15",
+      "collected_on": "2026-10-31",
       "title_zh": "terryds/bestvaluemodel：大模型智能指数与 API 价格性价比对照",
       "summary_zh": "一个静态页面，把 Artificial Analysis 智能指数与 API 混合价格放进同一张图逐模型比对，按日刷新，帮助按性价比选 LLM；数据以 JSON 随仓库发布，站点跑在 Cloudflare Workers。",
       "selected_on": "2026-11-19"
@@ -2359,7 +2032,7 @@
         "freshness": 20
       },
       "_source": "pending",
-      "collected_on": "2026-11-15",
+      "collected_on": "2026-11-01",
       "title_zh": "ecklein/modeldiff-ml：机器学习模型行为回归对比库",
       "summary_zh": "模型行为回归测试框架：逐样本比较候选模型与基线模型，找出可读的差异区域并在独立数据上验证，用于发现整体指标提升下被掩盖的局部退化，可接已训练模型或预测结果，MIT 许可。",
       "selected_on": "2026-11-19"
@@ -2703,7 +2376,7 @@
         "created_at": "2026-10-09T14:22:32Z",
         "pushed_at": "2026-11-10T01:07:13Z"
       },
-      "collected_on": "2026-11-03",
+      "collected_on": "2026-10-30",
       "filtered": false,
       "total_score": 57.22,
       "detail_scores": {
@@ -2846,7 +2519,7 @@
         "created_at": "2026-09-26T08:23:34Z",
         "pushed_at": "2026-11-13T16:32:36Z"
       },
-      "collected_on": "2026-10-30",
+      "collected_on": "2026-10-29",
       "filtered": false,
       "total_score": 68.75,
       "detail_scores": {
@@ -2979,7 +2652,7 @@
         "created_at": "2026-10-14T20:51:20Z",
         "pushed_at": "2026-11-08T17:38:24Z"
       },
-      "collected_on": "2026-10-30",
+      "collected_on": "2026-10-29",
       "filtered": false,
       "total_score": 61.5,
       "detail_scores": {
@@ -3047,7 +2720,7 @@
       "title_zh": "neuronaut：大语言模型权重的探索与调试器",
       "summary_zh": "基于 C++/ggml 的 LLM 权重调试器，直接读取 llama.cpp、Ollama、LM Studio 使用的 GGUF 文件，可定位回答问题涉及的关键神经元，改写后另存为普通 llama.cpp 可加载的模型，小模型 CPU 即可运行。",
       "selected_on": "2026-11-19",
-      "collected_on": "2026-11-17"
+      "collected_on": "2026-11-16"
     },
     {
       "name": "qybaihe/bla",
@@ -3191,7 +2864,7 @@
         "created_at": "2026-09-27T21:54:12Z",
         "pushed_at": "2026-11-18T18:02:43Z"
       },
-      "collected_on": "2026-10-30",
+      "collected_on": "2026-10-29",
       "filtered": false,
       "total_score": 68.75,
       "detail_scores": {
@@ -3247,7 +2920,7 @@
         "created_at": "2026-09-14T02:26:27Z",
         "pushed_at": "2026-11-11T00:47:45Z"
       },
-      "collected_on": "2026-11-05",
+      "collected_on": "2026-10-30",
       "filtered": false,
       "total_score": 54.61,
       "detail_scores": {
@@ -3395,9 +3068,264 @@
       "summary_zh": "开源 AI 训练中心，覆盖 AutoML、深度学习与迁移学习等训练流程，强调合规数据与模型管理，适合想统一训练管线的个人与小型团队参考。",
       "selected_on": "2026-11-19",
       "collected_on": "2026-11-01"
-    }
-  ],
-  "pending_items": [
+    },
+    {
+      "name": "conglu1997/local-autoresearch",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/conglu1997/local-autoresearch",
+      "summary": "Local auto研究 on a MacBook, with Flint: geometry, scheduling and 机器学习 实验s. (语言: Python)",
+      "popularity": {
+        "views": 111,
+        "likes": 111,
+        "comments": 16
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "通用AI应用"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-21T16:45:57"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 111,
+        "forks": 16,
+        "open_issues": 1,
+        "language": "Python",
+        "license": "mit",
+        "topics": [],
+        "created_at": "2026-10-21T16:45:57Z",
+        "pushed_at": "2026-10-27T16:03:09Z"
+      },
+      "collected_on": "2026-10-30",
+      "filtered": false,
+      "total_score": 69.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 60.0,
+        "practicality": 50.0,
+        "freshness": 60
+      },
+      "title_zh": "local-autoresearch：在 MacBook 上用本地模型 Flint 逐个实验改进程序",
+      "summary_zh": "作者让 Recursive 出品的本地语言模型 Flint 在 MacBook 上一次一个实验地改进小程序：由 runner 跑测试并只保留真正有提升的改动，覆盖几何（圆堆积）、任务调度与机器学习三组实验，全程不依赖云端模型。上手只需 uv，部分 starter solver 不装 Flint 也能运行。适合想搭建本地化自动实验循环（提假设→跑→留优）的人参考实现思路。",
+      "selected_on": "2026-11-20"
+    },
+    {
+      "name": "Akshayykadam/PixelBoard",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/Akshayykadam/PixelBoard",
+      "summary": "Unlock Google 11's Gemini \"Rambler\" Natural Voice Dictation & AI Writing Tools on ANY Android phone. No root required. (语言: Kotlin) [标签: ai-writing-tools, android, apk, gboard, gboard-ai]",
+      "popularity": {
+        "views": 1661,
+        "likes": 1661,
+        "comments": 81
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "通用AI应用"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-09-17T04:23:43"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 1661,
+        "forks": 81,
+        "open_issues": 68,
+        "language": "Kotlin",
+        "license": "gpl-3.0",
+        "topics": [
+          "ai-writing-tools",
+          "android",
+          "apk",
+          "gboard",
+          "gboard-ai",
+          "gboard-mod",
+          "gboards",
+          "gemini",
+          "gemini-ai",
+          "google-keyboard",
+          "keyboard",
+          "no-root",
+          "pixel-features",
+          "pixel11",
+          "rambler",
+          "voice-typing",
+          "voice-typing-app"
+        ],
+        "created_at": "2026-09-17T04:23:43Z",
+        "pushed_at": "2026-11-17T05:29:53Z"
+      },
+      "collected_on": "2026-10-29",
+      "filtered": false,
+      "total_score": 66.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 59.0,
+        "freshness": 20
+      },
+      "title_zh": "PixelBoard：免 Root 在任意安卓机上用上 Pixel 11 的 Rambler 语音输入与 AI 写作",
+      "summary_zh": "基于 Gboard v18.6.3.100 的 Kotlin 输入法 Mod，把 Pixel 11 系列的 Rambler 自然语音听写和 AI 写作助手带到其他 Android 设备，支持 Android 10 至 16、arm64-v8a，直接安装 Release APK 即可，无需 Root。当前版本 v1.3.5，约 1661 star，仓库 11 月中旬仍在更新。",
+      "selected_on": "2026-11-20"
+    },
+    {
+      "name": "eternityspring/reelbench-skills",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/eternityspring/reelbench-skills",
+      "summary": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill (语言: JavaScript) [标签: ai-video, claude-skills, ffmpeg, shot-analysis, video-analysis]",
+      "popularity": {
+        "views": 1236,
+        "likes": 1236,
+        "comments": 156
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视频生成"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-09-11T04:55:49"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 1236,
+        "forks": 156,
+        "open_issues": 1,
+        "language": "JavaScript",
+        "license": "apache-2.0",
+        "topics": [
+          "ai-video",
+          "claude-skills",
+          "ffmpeg",
+          "shot-analysis",
+          "video-analysis"
+        ],
+        "created_at": "2026-09-11T04:55:49Z",
+        "pushed_at": "2026-11-09T14:58:50Z"
+      },
+      "collected_on": "2026-10-29",
+      "filtered": false,
+      "total_score": 66.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 59.0,
+        "freshness": 20
+      },
+      "title_zh": "reelbench-skills：面向视频工作的 Claude Code / Codex 技能集",
+      "summary_zh": "为智能体编程工具准备的 AI 视频技能包，覆盖镜头切分与画面分析、ffmpeg 处理、解说字幕对齐等流程，示例把 287 秒英文素材拆成 46 个镜头并生成同步演示视频。README 提供中英双语，JavaScript 实现，约 1236 star，做视频拆解或剪辑流水线时可直接复用其中的 skill 定义。",
+      "selected_on": "2026-11-20"
+    },
+    {
+      "name": "rinste/turbo-mlx",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/rinste/turbo-mlx",
+      "summary": "Local AI image & video 生成 for Apple Silicon: a native macOS app with an MLX Swift engine. FLUX.2 Klein, Z-Image Turbo, Qwen-Image 2512, Ming-Image and LTX-2.3 (video with sound). Sandboxed, no Pyth...",
+      "popularity": {
+        "views": 260,
+        "likes": 260,
+        "comments": 30
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "图像生成",
+          "视频生成"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-27T16:55:19"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 260,
+        "forks": 30,
+        "open_issues": 19,
+        "language": "Swift",
+        "license": "mit",
+        "topics": [
+          "apple-silicon",
+          "generative-ai",
+          "macos",
+          "mlx",
+          "swiftui",
+          "text-to-image",
+          "text-to-video"
+        ],
+        "created_at": "2026-09-27T16:55:19Z",
+        "pushed_at": "2026-11-03T17:28:25Z"
+      },
+      "collected_on": "2026-11-20",
+      "filtered": false,
+      "total_score": 58.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 44.0,
+        "practicality": 52.0,
+        "freshness": 20
+      },
+      "title_zh": "turbo-mlx：Apple Silicon 原生 macOS 本地图像与视频生成应用",
+      "summary_zh": "Swift/SwiftUI 编写的本地生成式 AI 应用，基于 MLX Swift 引擎支持 FLUX.2 Klein、Z-Image Turbo、Qwen-Image 2512、Ming-Image 以及带声音的 LTX-2.3 视频生成，运行在沙箱中且不需要 Python 环境。适合想在 M 系列 Mac 上离线跑文生图、文生视频，又不想折腾依赖链的用户。",
+      "selected_on": "2026-11-20"
+    },
     {
       "name": "martinguirado95-ux/untangling-ml-complexity",
       "type": "tool",
@@ -3460,8 +3388,14 @@
         "practicality": 52.0,
         "freshness": 20
       },
-      "collected_on": "2026-11-01"
-    },
+      "collected_on": "2026-11-01",
+      "_source": "pending",
+      "title_zh": "untangling-ml-complexity（MLForge）：宣称简化机器学习代码结构与超参数的框架",
+      "summary_zh": "自称 MLForge 的“织机式”ML 框架，主打解耦数据加载与模型代码、超参数管理和实验治理，Python 3.10+、MIT 许可，仓库以 HTML 文档站形式呈现。需要提醒：README 表述高度营销化，缺少可验证的基准与真实用例，建议先跑最小示例再判断是否采用，对其中 7x24 支持、12 语言等宣传章节保持谨慎。",
+      "selected_on": "2026-11-20"
+    }
+  ],
+  "pending_items": [
     {
       "name": "nicklucenasantanalucenasant-maker/yapt-core",
       "type": "tool",
