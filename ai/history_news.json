@@ -1,231 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "AI 日报（2026年11月10日）：旗舰模型密集更新与 Agent 落地动态汇总",
-      "type": "news",
-      "platform": "掘金",
-      "url": "https://juejin.cn/post/7706098926289879091",
-      "summary": "25条中文日报梳理11月10日要点：Anthropic 发布 Claude Fable 5.2 与 Mythos 5.2 并降价20%，Meta 推轻量任务模型 Muse Ember，亚马逊开源 MoE 空闲专家解绑方案 HOPE，OpenAI 披露内部算力管控系统 Control Room。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "行业情报",
-          "大模型"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-10T09:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 55.5,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 61.0,
-        "freshness": 100
-      },
-      "collected_on": "2026-11-10",
-      "selected_on": "2026-11-19"
-    },
-    {
-      "name": "并行推测解码刷新 SOTA：因果依赖刻进草稿网络深度，SGLang 吞吐最高达 4 倍（已开源）",
-      "type": "news",
-      "platform": "机器之心",
-      "url": "https://view.inews.qq.com/a/20261109A0AOP100",
-      "summary": "腾讯优图发布 DSpine 推测解码草稿模型并开源（Apache 2.0）：在 Qwen3-4B/8B 的28组接受长度与40组 SGLang 服务测试中全部第一，相对自回归解码最高4.01倍吞吐；另提供面向 Agent 优化的 Qwen3.8-27B 草稿权重，可直接在 SGLang 启动参数中启用。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "high",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "large",
-        "scenarios": [
-          "推理加速",
-          "大模型部署"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-09T16:44:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 50.5,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 66.0,
-        "practicality": 56.0,
-        "freshness": 100
-      },
-      "collected_on": "2026-11-10",
-      "selected_on": "2026-11-19"
-    },
-    {
-      "name": "DeepSeek Harness 深度学习与架构手册",
-      "type": "news",
-      "platform": "CSDN",
-      "url": "https://blog.csdn.net/csdn122345/article/details/170413789",
-      "summary": "以 deepseek-ai/deepseek-harness 为对象的中文架构手册：拆解 Agent Loop、Session 与工具流水线、上下文压缩与会话恢复、审批沙箱与权限预设，并给出「产品边界→Agent 循环→工具链→沙箱扩展→评测生产化」的学习顺序。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "high",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "large",
-        "scenarios": [
-          "AI Agent",
-          "工程实践"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-10T10:10:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 50.5,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 66.0,
-        "practicality": 56.0,
-        "freshness": 100
-      },
-      "collected_on": "2026-11-10",
-      "selected_on": "2026-11-19"
-    },
-    {
-      "name": "AI 前沿日报 · 2026-11-10：重估",
-      "type": "news",
-      "platform": "CSDN",
-      "url": "https://blog.csdn.net/johnsong2009/article/details/170452285",
-      "summary": "中文技术日报复盘模型能力与评测口径变化：指出 Opus 5.5「思考模式突变」、Google 撤下审核承诺等事件，并用 Inspect 框架量化 LLM 工具调用的四种检索状态（零检索、摘要、部分未脱敏引用等），提醒 RAG 与权限设计中的泄密风险。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "RAG",
-          "安全评测"
-        ],
-        "maturity": "experimental"
-      },
-      "freshness": {
-        "publish_date": "2026-11-10T08:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 48.0,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 69.0,
-        "practicality": 43.0,
-        "freshness": 100
-      },
-      "collected_on": "2026-11-10",
-      "selected_on": "2026-11-19"
-    },
-    {
-      "name": "voicebox 开源 AI 语音工作室：从文本前端到声音克隆的工程实践",
-      "type": "news",
-      "platform": "CSDN",
-      "url": "https://blog.csdn.net/weixin_29038303/article/details/170272992",
-      "summary": "开发者解析开源项目 voicebox：定位为面向开发者与内容创作者的「AI 语音工作室」，把文本前端、合成流程与声音克隆整合成带界面和工作流的集成环境，可自部署、可改可扩，适合做配音与语音内容生产的技术选型参考。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI语音",
-          "内容创作"
-        ],
-        "maturity": "experimental"
-      },
-      "freshness": {
-        "publish_date": "2026-11-10T11:01:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 48.0,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 69.0,
-        "practicality": 43.0,
-        "freshness": 100
-      },
-      "collected_on": "2026-11-10",
-      "selected_on": "2026-11-19"
-    },
-    {
       "name": "千问办公2.0 发布首个 Team Agent，支持多人与 Agent 协作",
       "type": "news",
       "platform": "量子位",
@@ -2128,7 +1903,7 @@
       "title_zh": "掘金长文：Agent Skill 调用机制与 Token 经济学解读",
       "summary_zh": "拆解 Agent 从任务识别、能力边界判断、Skill 匹配、执行到输出整合的五步调用链路，并用渐进式披露解释 Token 开销可控的原因，附 SkillExecutor 示例代码。",
       "selected_on": "2026-11-19",
-      "collected_on": "2026-11-19"
+      "collected_on": "2026-11-18"
     },
     {
       "name": "OpenClaw 退潮背后，是 AI 圈“技术自嗨”的终结",
@@ -2175,7 +1950,7 @@
       "title_zh": "OpenClaw 退潮：AI 圈技术自嗨的终结",
       "summary_zh": "复盘 OpenClaw 两个月内从爆火到退潮的三点原因：环境配置门槛高、Token 成本失控、权限与安全风险模糊，认为降门槛、降成本、提升可控性才是落地前提。",
       "selected_on": "2026-11-19",
-      "collected_on": "2026-11-19"
+      "collected_on": "2026-11-18"
     },
     {
       "name": "800 个 MCP Server、5000 个工具，AI 智能体的“微服务危机”来了",
@@ -2223,7 +1998,7 @@
       "title_zh": "InfoQ：800 个 MCP Server、5000 个工具引发的智能体微服务危机",
       "summary_zh": "MCP Server 与工具数量激增后，智能体出现选型失准、上下文膨胀与运维失控，文章类比微服务危机，给出分层注册、命名治理与按需加载的治理建议。",
       "selected_on": "2026-11-19",
-      "collected_on": "2026-11-19"
+      "collected_on": "2026-11-18"
     },
     {
       "name": "GitHub 让 AI 接管工作流，单次默认预算 10 美元：是不是太大方了？",
@@ -2271,7 +2046,7 @@
       "title_zh": "InfoQ：GitHub Agentic Workflows 单次默认预算 10 美元是否过大",
       "summary_zh": "GitHub 推出 Agentic Workflows，允许 AI 在 CI 流水线中自主编排并执行任务，单次运行默认预算 10 美元，文章聚焦成本失控风险与企业落地的边界条件。",
       "selected_on": "2026-11-19",
-      "collected_on": "2026-11-19"
+      "collected_on": "2026-11-18"
     },
     {
       "name": "Claude Code新模式来了，不换模型，Token消耗最高砍掉77%",
@@ -2319,10 +2094,200 @@
       "title_zh": "36氪：Claude Code 新模式不换模型，Token 消耗最高降 77%",
       "summary_zh": "Claude Code 新模式无需更换模型，仅靠上下文管理与工具调用优化即可将 Token 消耗最高降低 77%，为 AI 编程成本控制提供可复制的工程思路。",
       "selected_on": "2026-11-19",
-      "collected_on": "2026-11-19"
-    }
-  ],
-  "pending_items": [
+      "collected_on": "2026-11-18"
+    },
+    {
+      "name": "实战工具：用开源 Agent Skill last30days 把近 30 天多源讨论收成带出处的综述",
+      "type": "news",
+      "platform": "CSDN",
+      "url": "https://blog.csdn.net/mtl1994/article/details/171038377",
+      "summary": "last30days 是 mvanhorn 开源的研究型 Agent Skill：在多个平台并行检索某一话题近 30 天的讨论，按点赞、投票等真实互动排序，输出带出处的证据简报而非二次改写综述。文章拆解其检索、排序与规划流程，说明无宿主大模型密钥时会退到确定性规划（headless/cron 回退），并给出接入与使用限制。",
+      "popularity": {
+        "views": 343,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "narrow",
+        "scenarios": [
+          "AI Agent",
+          "信息检索",
+          "技能插件"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-19T13:30:06"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-20",
+      "filtered": false,
+      "total_score": 48.78,
+      "detail_scores": {
+        "popularity": 3.43,
+        "usability": 81.0,
+        "practicality": 30.0,
+        "freshness": 100
+      },
+      "title_zh": "开源 Agent Skill last30days：把近 30 天多源讨论汇总成带出处的综述",
+      "summary_zh": "mvanhorn 开源的 last30days 是研究型 Agent Skill：并行检索多个平台近 30 天的相关讨论，按点赞、投票等真实互动排序，输出逐条可溯源的证据简报而不是二次改写综述。文章拆解它的检索、排序与规划流程，说明缺少宿主大模型密钥时会退化为确定性规划（headless、cron 场景），并给出接入方式与使用限制。",
+      "selected_on": "2026-11-20"
+    },
+    {
+      "name": "范式发布 Phai-A1/Phai-M1：国产算力全链路训练，单张3090可跑的语言模型",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/11/511071.html",
+      "summary": "范式智能首次公开自研双模型：通用语言模型 Phai-A1 主打代码与智能助手场景，官方称同质量下响应比同级快 8-10 倍、单张 RTX 3090 可运行、原生百万级上下文，SWE-Bench 系列成绩超同量级选手；视频模型 Phai-M1 面向真人影视，约 3 分钟生成 15 秒 720P 音画同步视频。两者全链路在华为昇腾卡上训练，近期将在 Hugging Face、ModelScope 开放权重。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "大模型",
+          "代码生成",
+          "视频生成"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-19T11:01:45"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-20",
+      "filtered": false,
+      "total_score": 48.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 69.0,
+        "practicality": 45.0,
+        "freshness": 100
+      },
+      "title_zh": "范式发布 Phai-A1 / Phai-M1：国产算力全链路训练，单张 3090 可跑的模型",
+      "summary_zh": "范式智能首次公开两款自研模型：通用语言模型 Phai-A1 主打代码与智能助手场景，官方称同质量下响应比同级快 8—10 倍、单张 RTX 3090 可运行、原生百万级上下文，SWE-Bench 系列成绩超过同量级选手；视频模型 Phai-M1 面向真人影视，约 3 分钟生成 15 秒 720P 音画同步视频。两者全链路在华为昇腾卡上训练，权重将陆续上线 Hugging Face 与 ModelScope。",
+      "selected_on": "2026-11-20"
+    },
+    {
+      "name": "SoduWork 开源 AI Agent 引擎入门指南：把模型调用、工具与任务规划组件化",
+      "type": "news",
+      "platform": "CSDN",
+      "url": "https://blog.csdn.net/Q5282055/article/details/170979119",
+      "summary": "SoduWork 是开源 AI Agent 引擎，将模型调用、工具使用、任务规划与上下文管理抽象为可复用组件，开发者只需关注业务逻辑。指南覆盖安装、接入模型 API、编排工具与运行多步任务的完整流程，强调其与直接调用大模型 API 的差异在于让智能体真正执行任务并依据结果动态调整下一步。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "模型编排",
+          "开源框架"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-18T13:34:39"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-20",
+      "filtered": false,
+      "total_score": 48.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 69.0,
+        "practicality": 45.0,
+        "freshness": 100
+      },
+      "title_zh": "SoduWork 入门：把模型调用、工具与任务规划组件化的开源 AI Agent 引擎",
+      "summary_zh": "SoduWork 将模型调用、工具使用、任务规划与上下文管理抽象为可复用组件，开发者只需关注业务逻辑。指南覆盖安装、接入模型 API、编排工具到运行多步任务的完整流程，并强调它与直接调用大模型 API 的区别在于让智能体真正执行任务、依据结果动态调整下一步。",
+      "selected_on": "2026-11-20"
+    },
+    {
+      "name": "AI 一周大事盘点（2026年11月1日～11月7日）",
+      "type": "news",
+      "platform": "CSDN",
+      "url": "https://blog.csdn.net/yuntongliangda/article/details/170293747",
+      "summary": "一周AI要闻汇总：乌镇峰会发布《携手构建全球开放人工智能行动倡议》共18条，Anthropic开源证明辅助原型FlashProve，另覆盖模型发布、监管与产业落地动态，适合做周度回顾。",
+      "popularity": {
+        "views": 8000,
+        "likes": 60,
+        "comments": 10
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "poor",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "周度AI行业动态回顾",
+          "编写周报或内部简报的素材来源"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-08T19:41:53"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 74.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 61.0,
+        "freshness": 60
+      },
+      "collected_on": "2026-11-08",
+      "_source": "pending",
+      "title_zh": "AI 一周大事盘点（2026 年 11 月 1 日～11 月 7 日）",
+      "summary_zh": "周度 AI 要闻汇总：乌镇峰会发布共 18 条的《携手构建全球开放人工智能行动倡议》，Anthropic 开源证明辅助原型 FlashProve，另覆盖模型发布、监管动向与产业落地消息，适合快速回看上周主线。",
+      "selected_on": "2026-11-20"
+    },
     {
       "name": "DeepSeek Super-agent 是什么：双层架构拆解与部署要点",
       "type": "技术解读",
@@ -2360,15 +2325,21 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 77.25,
+      "total_score": 73.25,
       "detail_scores": {
         "popularity": 100,
         "usability": 69.0,
         "practicality": 56.0,
-        "freshness": 80
+        "freshness": 60
       },
-      "collected_on": "2026-11-01"
-    },
+      "collected_on": "2026-11-01",
+      "_source": "pending",
+      "title_zh": "DeepSeek Super-agent 是什么：双层架构拆解与部署要点",
+      "summary_zh": "面向工程师讲清 Super-agent 的 Router/Worker 双层设计、事件直通与异步 ReAct 执行流，并给出本地部署依赖、显存与并发要求、常见踩坑点，适合要跑通原型或借鉴架构的团队。",
+      "selected_on": "2026-11-20"
+    }
+  ],
+  "pending_items": [
     {
       "name": "清华姚期智团队新作：代数世界模型 AWM，ARC-AGI-3 全通",
       "type": "研究进展",
@@ -2406,12 +2377,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 68.75,
+      "total_score": 64.75,
       "detail_scores": {
         "popularity": 100,
         "usability": 44.0,
         "practicality": 47.0,
-        "freshness": 80
+        "freshness": 60
       },
       "collected_on": "2026-11-01"
     },
@@ -2497,12 +2468,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 42.25,
+      "total_score": 38.25,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 60.0,
         "practicality": 45.0,
-        "freshness": 80
+        "freshness": 60
       },
       "collected_on": "2026-11-02"
     },
@@ -2541,12 +2512,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 55.25,
+      "total_score": 51.25,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 81.0,
         "practicality": 76.0,
-        "freshness": 80
+        "freshness": 60
       },
       "collected_on": "2026-11-03"
     },
@@ -2585,12 +2556,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 55.25,
+      "total_score": 51.25,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 81.0,
         "practicality": 76.0,
-        "freshness": 80
+        "freshness": 60
       },
       "collected_on": "2026-11-03"
     },
@@ -2629,12 +2600,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 57.62,
+      "total_score": 53.62,
       "detail_scores": {
         "popularity": 17.9,
         "usability": 69.0,
         "practicality": 76.0,
-        "freshness": 80
+        "freshness": 60
       },
       "collected_on": "2026-11-03"
     },
@@ -2673,12 +2644,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 49.25,
+      "total_score": 45.25,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 81.0,
         "practicality": 52.0,
-        "freshness": 80
+        "freshness": 60
       },
       "collected_on": "2026-11-03"
     },
@@ -2717,12 +2688,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 46.25,
+      "total_score": 42.25,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 69.0,
         "practicality": 52.0,
-        "freshness": 80
+        "freshness": 60
       },
       "collected_on": "2026-11-03"
     },
@@ -2761,12 +2732,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 37.75,
+      "total_score": 33.75,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 44.0,
         "practicality": 43.0,
-        "freshness": 80
+        "freshness": 60
       },
       "collected_on": "2026-11-03"
     },
@@ -2805,12 +2776,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 74.0,
+      "total_score": 70.0,
       "detail_scores": {
         "popularity": 100,
         "usability": 69.0,
         "practicality": 43.0,
-        "freshness": 80
+        "freshness": 60
       },
       "collected_on": "2026-11-04"
     },
@@ -2849,12 +2820,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 70.0,
+      "total_score": 66.0,
       "detail_scores": {
         "popularity": 100,
         "usability": 53.0,
         "practicality": 43.0,
-        "freshness": 80
+        "freshness": 60
       },
       "collected_on": "2026-11-04"
     },
@@ -2893,12 +2864,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 55.76,
+      "total_score": 51.76,
       "detail_scores": {
         "popularity": 14.2,
         "usability": 81.0,
         "practicality": 61.0,
-        "freshness": 80
+        "freshness": 60
       },
       "collected_on": "2026-11-04"
     },
@@ -2937,12 +2908,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 53.33,
+      "total_score": 49.33,
       "detail_scores": {
         "popularity": 6.100000000000001,
         "usability": 81.0,
         "practicality": 61.0,
-        "freshness": 80
+        "freshness": 60
       },
       "collected_on": "2026-11-04"
     },
@@ -2982,12 +2953,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 49.52,
+      "total_score": 45.52,
       "detail_scores": {
         "popularity": 5.8999999999999995,
         "usability": 69.0,
         "practicality": 58.0,
-        "freshness": 80
+        "freshness": 60
       },
       "collected_on": "2026-11-04"
     },
@@ -3027,12 +2998,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 46.75,
+      "total_score": 42.75,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 69.0,
         "practicality": 54.0,
-        "freshness": 80
+        "freshness": 60
       },
       "collected_on": "2026-11-04"
     },
@@ -3071,12 +3042,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 40.25,
+      "total_score": 36.25,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 69.0,
         "practicality": 28.0,
-        "freshness": 80
+        "freshness": 60
       },
       "collected_on": "2026-11-04"
     },
@@ -3116,12 +3087,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 38.25,
+      "total_score": 34.25,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 44.0,
         "practicality": 45.0,
-        "freshness": 80
+        "freshness": 60
       },
       "collected_on": "2026-11-04"
     },
@@ -3160,12 +3131,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 36.25,
+      "total_score": 32.25,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 44.0,
         "practicality": 37.0,
-        "freshness": 80
+        "freshness": 60
       },
       "collected_on": "2026-11-04"
     },
@@ -3204,12 +3175,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 41.0,
+      "total_score": 37.0,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 57.0,
         "practicality": 43.0,
-        "freshness": 80
+        "freshness": 60
       },
       "collected_on": "2026-11-05"
     },
@@ -3248,58 +3219,14 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 54.25,
+      "total_score": 46.25,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 81.0,
         "practicality": 56.0,
-        "freshness": 100
+        "freshness": 60
       },
       "collected_on": "2026-11-06"
-    },
-    {
-      "name": "AI 一周大事盘点（2026年11月1日～11月7日）",
-      "type": "news",
-      "platform": "CSDN",
-      "url": "https://blog.csdn.net/yuntongliangda/article/details/170293747",
-      "summary": "一周AI要闻汇总：乌镇峰会发布《携手构建全球开放人工智能行动倡议》共18条，Anthropic开源证明辅助原型FlashProve，另覆盖模型发布、监管与产业落地动态，适合做周度回顾。",
-      "popularity": {
-        "views": 8000,
-        "likes": 60,
-        "comments": 10
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "poor",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "周度AI行业动态回顾",
-          "编写周报或内部简报的素材来源"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-08T19:41:53"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 82.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 61.0,
-        "freshness": 100
-      },
-      "collected_on": "2026-11-08"
     },
     {
       "name": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
@@ -3337,12 +3264,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 80.0,
+      "total_score": 72.0,
       "detail_scores": {
         "popularity": 100,
         "usability": 60.0,
         "practicality": 60.0,
-        "freshness": 100
+        "freshness": 60
       },
       "collected_on": "2026-11-08"
     },
@@ -3381,12 +3308,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 78.0,
+      "total_score": 70.0,
       "detail_scores": {
         "popularity": 100,
         "usability": 60.0,
         "practicality": 52.0,
-        "freshness": 100
+        "freshness": 60
       },
       "collected_on": "2026-11-08"
     },
@@ -3425,12 +3352,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 74.0,
+      "total_score": 70.0,
       "detail_scores": {
         "popularity": 100,
         "usability": 60.0,
         "practicality": 52.0,
-        "freshness": 80
+        "freshness": 60
       },
       "collected_on": "2026-11-08"
     },
@@ -3469,12 +3396,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 51.75,
+      "total_score": 43.75,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 81.0,
         "practicality": 46.0,
-        "freshness": 100
+        "freshness": 60
       },
       "collected_on": "2026-11-09"
     },
@@ -3514,12 +3441,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 46.25,
+      "total_score": 38.25,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 60.0,
         "practicality": 45.0,
-        "freshness": 100
+        "freshness": 60
       },
       "collected_on": "2026-11-09"
     },
@@ -3560,12 +3487,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 55.0,
+      "total_score": 47.0,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 69.0,
         "practicality": 71.0,
-        "freshness": 100
+        "freshness": 60
       },
       "collected_on": "2026-11-11"
     },
@@ -3605,12 +3532,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 53.75,
+      "total_score": 45.75,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 81.0,
         "practicality": 54.0,
-        "freshness": 100
+        "freshness": 60
       },
       "collected_on": "2026-11-11"
     },
@@ -3649,12 +3576,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 51.75,
+      "total_score": 43.75,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 81.0,
         "practicality": 46.0,
-        "freshness": 100
+        "freshness": 60
       },
       "collected_on": "2026-11-11"
     },
@@ -3695,12 +3622,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 49.0,
+      "total_score": 41.0,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 69.0,
         "practicality": 47.0,
-        "freshness": 100
+        "freshness": 60
       },
       "collected_on": "2026-11-11"
     },
@@ -3740,12 +3667,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 48.5,
+      "total_score": 40.5,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 60.0,
         "practicality": 54.0,
-        "freshness": 100
+        "freshness": 60
       },
       "collected_on": "2026-11-11"
     },
@@ -3785,12 +3712,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 74.5,
+      "total_score": 70.5,
       "detail_scores": {
         "popularity": 100,
         "usability": 60.0,
         "practicality": 54.0,
-        "freshness": 80
+        "freshness": 60
       },
       "collected_on": "2026-11-13"
     },
@@ -3830,12 +3757,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 72.25,
+      "total_score": 68.25,
       "detail_scores": {
         "popularity": 100,
         "usability": 44.0,
         "practicality": 45.0,
-        "freshness": 100
+        "freshness": 80
       },
       "collected_on": "2026-11-13"
     },
@@ -3967,12 +3894,12 @@
       },
       "collected_on": "2026-11-15",
       "filtered": false,
-      "total_score": 53.79,
+      "total_score": 49.79,
       "detail_scores": {
         "popularity": 0.13,
         "usability": 90.0,
         "practicality": 45.0,
-        "freshness": 100
+        "freshness": 80
       }
     },
     {
@@ -4056,12 +3983,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 48.94,
+      "total_score": 44.94,
       "detail_scores": {
         "popularity": 7.3100000000000005,
         "usability": 53.0,
         "practicality": 54.0,
-        "freshness": 100
+        "freshness": 80
       },
       "collected_on": "2026-11-15"
     },
@@ -4101,12 +4028,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 47.62,
+      "total_score": 43.62,
       "detail_scores": {
         "popularity": 2.9000000000000004,
         "usability": 53.0,
         "practicality": 54.0,
-        "freshness": 100
+        "freshness": 80
       },
       "collected_on": "2026-11-15"
     },
@@ -4146,12 +4073,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 42.25,
+      "total_score": 38.25,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 44.0,
         "practicality": 45.0,
-        "freshness": 100
+        "freshness": 80
       },
       "collected_on": "2026-11-15"
     },
@@ -4192,12 +4119,12 @@
       },
       "collected_on": "2026-11-15",
       "filtered": false,
-      "total_score": 40.75,
+      "total_score": 36.75,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 53.0,
         "practicality": 30.0,
-        "freshness": 100
+        "freshness": 80
       }
     },
     {
@@ -4281,12 +4208,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 55.25,
+      "total_score": 51.25,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 78.0,
         "practicality": 63.0,
-        "freshness": 100
+        "freshness": 80
       },
       "collected_on": "2026-11-16"
     },
@@ -4326,12 +4253,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 54.5,
+      "total_score": 50.5,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 78.0,
         "practicality": 60.0,
-        "freshness": 100
+        "freshness": 80
       },
       "collected_on": "2026-11-16"
     },
@@ -4371,12 +4298,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 52.26,
+      "total_score": 48.26,
       "detail_scores": {
         "popularity": 0.02,
         "usability": 81.0,
         "practicality": 48.0,
-        "freshness": 100
+        "freshness": 80
       },
       "collected_on": "2026-11-16"
     },
@@ -4416,12 +4343,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 51.5,
+      "total_score": 47.5,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 81.0,
         "practicality": 45.0,
-        "freshness": 100
+        "freshness": 80
       },
       "collected_on": "2026-11-16"
     },
@@ -4461,12 +4388,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 44.5,
+      "total_score": 40.5,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 53.0,
         "practicality": 45.0,
-        "freshness": 100
+        "freshness": 80
       },
       "collected_on": "2026-11-16"
     },
@@ -4506,14 +4433,14 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 42.25,
+      "total_score": 38.25,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 44.0,
         "practicality": 45.0,
-        "freshness": 100
+        "freshness": 80
       },
-      "collected_on": "2026-11-18"
+      "collected_on": "2026-11-17"
     },
     {
       "name": "GPT-6.2 Astra首发24小时口碑大翻车，硅谷大佬集体差评",
@@ -4549,7 +4476,7 @@
       "accessibility": {
         "blocked_in_china": false
       },
-      "collected_on": "2026-11-19",
+      "collected_on": "2026-11-18",
       "filtered": false,
       "total_score": 47.0,
       "detail_scores": {
@@ -4593,7 +4520,7 @@
       "accessibility": {
         "blocked_in_china": false
       },
-      "collected_on": "2026-11-19",
+      "collected_on": "2026-11-18",
       "filtered": false,
       "total_score": 43.25,
       "detail_scores": {
@@ -4637,7 +4564,7 @@
       "accessibility": {
         "blocked_in_china": false
       },
-      "collected_on": "2026-11-19",
+      "collected_on": "2026-11-18",
       "filtered": false,
       "total_score": 38.0,
       "detail_scores": {
@@ -4682,7 +4609,7 @@
       "accessibility": {
         "blocked_in_china": false
       },
-      "collected_on": "2026-11-18",
+      "collected_on": "2026-11-17",
       "filtered": false,
       "total_score": 34.75,
       "detail_scores": {
