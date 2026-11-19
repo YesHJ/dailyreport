@@ -294,7 +294,8 @@
         "usability": 60.0,
         "practicality": 50.0,
         "freshness": 60
-      }
+      },
+      "collected_on": "2026-11-09"
     },
     {
       "name": "iris0329/GeoReader",
@@ -599,7 +600,8 @@
         "usability": 44.0,
         "practicality": 52.0,
         "freshness": 20
-      }
+      },
+      "collected_on": "2026-11-10"
     },
     {
       "name": "AndreiiArhire/LightMIS",
@@ -1366,7 +1368,8 @@
         "usability": 69.0,
         "practicality": 52.0,
         "freshness": 20
-      }
+      },
+      "collected_on": "2026-10-29"
     },
     {
       "name": "Gabedevz/haiku-bridge-trainer",
@@ -1423,7 +1426,8 @@
         "usability": 69.0,
         "practicality": 50.0,
         "freshness": 20
-      }
+      },
+      "collected_on": "2026-10-29"
     },
     {
       "name": "mhdijas-2001/torch-hydra-forge",
