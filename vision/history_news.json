@@ -1,180 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "100轮图像编辑这道「毙刷题」，新出的Seedream 5.5稳上来了！",
-      "type": "news",
-      "platform": "量子位",
-      "url": "https://www.woshipm.com/ai/6491624.html",
-      "summary": "字节Seed团队发布Seedream 5.5，主打多轮编辑稳定：同一张图连续编辑最多100轮仍能保持主体、构图与光影一致，而GPT-Image 2.6约10轮即开始畸变。原生支持RGBA透明素材与分层输出，严重文字崩坏率降至0.4%，2K方图编辑约0.28元/张，较前代降价60%。",
-      "popularity": {
-        "views": 0,
-        "likes": 8,
-        "comments": 8
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "excellent",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "wide",
-        "scenarios": [
-          "机器视觉",
-          "图像生成",
-          "设计生产"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-10T10:38:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 76.4,
-      "detail_scores": {
-        "popularity": 48.0,
-        "usability": 90.0,
-        "practicality": 78.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "Fable 5.2与蚂蚁灵波触觉模型撞期发布，通用大模型与具身基础模型协同加速具身产业",
-      "type": "news",
-      "platform": "量子位",
-      "url": "https://m.163.com/dy/article/LBCVA5DB05118HA4.html",
-      "summary": "11月10日蚂蚁灵波开源触觉基础模型LingBot-Touch，基于近5000小时真实触觉数据预训练，统一磁触觉、视触觉、压阻三类信号表征，已接入LingBot-VLA。26项真机测试任务成功率提升14—26个百分点，模型与代码上线Hugging Face、GitHub与魔搭。",
-      "popularity": {
-        "views": 0,
-        "likes": 1,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "机器视觉",
-          "具身智能",
-          "机器人操作"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-10T15:26:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 55.55,
-      "detail_scores": {
-        "popularity": 1.0,
-        "usability": 78.0,
-        "practicality": 63.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "AI 日报（2026年11月11日）：LingBot-Touch 开源、Gemini Robotics 2.5 进奔驰产线",
-      "type": "news",
-      "platform": "SegmentFault",
-      "url": "https://segmentfault.com/a/1190000048392120",
-      "summary": "11月11日汇总28条行业动态：美团开源LongCat-2.5、蚂蚁灵波开源触觉基础模型LingBot-Touch、Gemini Robotics 2.5在奔驰产线试运行，并覆盖安全与政策条目，适合快速浏览当日具身与视觉领域进展。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "机器视觉",
-          "行业动态"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-11T09:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 55.5,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 61.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "MiniMax开源H3 Image：4K图像生成仅10秒，支持多达16张参考图",
-      "type": "news",
-      "platform": "量子位",
-      "url": "https://www.163.com/dy/article/LBDV51B505198NMR.html",
-      "summary": "MiniMax开源图像模型H3 Image，宣称4K图像生成仅需10秒，支持最多16张参考图输入，适合批量素材生成与视觉数据构造，为工业检测样本增广、缺陷图合成提供了低成本可选方案。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "机器视觉",
-          "图像生成"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-11T10:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 52.5,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 69.0,
-        "practicality": 61.0,
-        "freshness": 100
-      }
-    },
-    {
       "name": "谷歌Gemini Robotics 2.5发布：灵巧操作能力突破、奔驰产线成功率96%（产业拆解）",
       "type": "news",
       "platform": "东方财富",
@@ -2277,6 +2103,249 @@
       "collected_on": null,
       "selected_on": null,
       "_source": "pending"
+    },
+    {
+      "name": "火山引擎上线豆包实时音视频通话模型 SeedRealtime 1.0 API",
+      "type": "news",
+      "platform": "36氪",
+      "url": "https://m.163.com/dy/article/LC5P6HD905562DGT.html",
+      "summary": "据 36氪 消息，火山引擎正式上线豆包实时音视频通话模型 SeedRealtime 1.0 API：把声音、画面、时序与表达统一到同一个端到端模型，可在连续多模态信息流上实时交互，实现「边看、边听、边说」，适合视觉问答、远程巡检等实时视频理解场景。",
+      "popularity": {
+        "views": 3200,
+        "likes": 70,
+        "comments": 8
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "cloud",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "实时视频理解",
+          "多模态API",
+          "视觉模型部署"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-20T08:13:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-21",
+      "filtered": false,
+      "total_score": 83.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 63.0,
+        "freshness": 100
+      },
+      "selected_on": "2026-11-21",
+      "title_zh": "火山引擎上线豆包实时音视频通话模型 SeedRealtime 1.0 API",
+      "summary_zh": "据 36氪 消息，火山引擎正式上线豆包实时音视频通话模型 SeedRealtime 1.0 API，把声音、画面、时序与表达统一到同一个端到端模型，可在连续多模态信息流上实时交互，实现「边看、边听、边说」，适用于实时视频理解与视觉问答类场景。"
+    },
+    {
+      "name": "仅凭公寓内部照片画平面图，GPT-6.2 Astra 在 Blueprint-Bench 2 拿下第一",
+      "type": "news",
+      "platform": "新智元",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=f49cbd6c",
+      "summary": "评测机构 Andon Labs 的 Blueprint-Bench 2 要求智能体只看在屋内拍摄的室内照片，推导出俯视平面图，考察三维空间理解。GPT-6.2 Astra 排名第一并超过人类基线，GPT-6.2 Sol 位列第三；OpenAI 总裁 Greg Brockman 发帖确认，但具体分数与人类基线数值尚未公布。",
+      "popularity": {
+        "views": 3900,
+        "likes": 88,
+        "comments": 9
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "cloud",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "空间理解",
+          "三维推理",
+          "多模态评测基准"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-20T18:05:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-21",
+      "filtered": false,
+      "total_score": 78.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 45.0,
+        "freshness": 100
+      },
+      "selected_on": "2026-11-21",
+      "title_zh": "只看室内照片就能画平面图，GPT-6.2 Astra 登顶 Blueprint-Bench 2",
+      "summary_zh": "Andon Labs 的 Blueprint-Bench 2 要求智能体仅用屋内拍摄的室内照片推导出俯视平面图，考察三维空间理解。GPT-6.2 Astra 排名第一并超过人类基线，GPT-6.2 Sol 位列第三；OpenAI 总裁 Greg Brockman 发帖确认，但具体分数与人类基线数值尚未公布。"
+    },
+    {
+      "name": "GPT-6 掀了具身模型牌桌：通用大模型控机器人背后的视觉与3D轨迹数据缺口",
+      "type": "news",
+      "platform": "新智元",
+      "url": "https://m.163.com/dy/article/LC7AOOQ60511ABV6.html",
+      "summary": "新智元拆解 OpenAI 解散独立机器人团队一事：通用大模型已能直接操控机器人（Astra 仿真操作 74.8%、Fable 5.2 在 RoboDojo 自测 64.9%），但真正卡脖子的是从第一视角视频重建 3D 动作轨迹的数据管线——多路相机毫秒级对齐、毫米级手部姿态重建、跨本体关节换算，国内数据平台已把有效率做到 90% 以上并日吞吐上万小时。",
+      "popularity": {
+        "views": 4800,
+        "likes": 110,
+        "comments": 16
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "large",
+        "scenarios": [
+          "具身智能",
+          "视觉数据管线",
+          "3D轨迹重建",
+          "VLA"
+        ],
+        "maturity": "emerging"
+      },
+      "freshness": {
+        "publish_date": "2026-11-20T22:39:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-21",
+      "filtered": false,
+      "total_score": 77.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 60.0,
+        "practicality": 48.0,
+        "freshness": 100
+      },
+      "selected_on": "2026-11-21",
+      "title_zh": "GPT-6 掀了具身模型牌桌，缺口在视觉与 3D 轨迹数据",
+      "summary_zh": "新智元拆解 OpenAI 解散独立机器人团队：通用大模型已能直接操控机器人（Astra 仿真操作 74.8%、Fable 5.2 在 RoboDojo 自测 64.9%），真正卡脖子的是从第一视角视频重建 3D 动作轨迹的数据管线——多路相机毫秒级对齐、毫米级手部姿态重建、跨本体关节换算，国内数据平台已把有效率做到 90% 以上、日吞吐上万小时。"
+    },
+    {
+      "name": "昇腾算力训出双榜SOTA具身世界模型，华为云 CloudRobo-WM1.2 将开放权重与后训练代码",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://m.toutiao.com/article/7710155828661109248/",
+      "summary": "华为云发布昇腾原生具身世界模型 CloudRobo-WM1.2，采用 PPA（Perceive-Predict-Act）多模态世界表征与 DualAct 双路径动作架构，联合训练 RGB 视频、DINO 语义特征、深度与点云；在 RoboTwin 2.0、LIBERO-Pro 2.0 分别拿到 88.98%、81.73% 双榜第一，真机 5 种本体 13 项任务平均成功率高出第二名 23 个百分点，训练数据 2.75 万小时、20 个数据源、33 种本体，权重与推理/后训练代码计划 11 月 30 日开放。",
+      "popularity": {
+        "views": 6100,
+        "likes": 165,
+        "comments": 24
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "large",
+        "scenarios": [
+          "世界模型",
+          "具身智能",
+          "多模态感知",
+          "国产算力训练"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-20T15:45:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-21",
+      "filtered": false,
+      "total_score": 76.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 44.0,
+        "practicality": 60.0,
+        "freshness": 100
+      },
+      "selected_on": "2026-11-21",
+      "title_zh": "昇腾算力训出双榜 SOTA 具身世界模型 CloudRobo-WM1.2",
+      "summary_zh": "华为云发布昇腾原生具身世界模型 CloudRobo-WM1.2，用 PPA（Perceive-Predict-Act）多模态世界表征与 DualAct 双路径动作架构，联合训练 RGB 视频、DINO 语义特征、深度与点云；RoboTwin 2.0 拿到 88.98%、LIBERO-Pro 2.0 拿到 81.73% 均列第一，真机 5 种本体 13 项任务比第二名高 23 个百分点，训练数据 2.75 万小时、20 个数据源、33 种本体，权重与推理/后训练代码计划 11 月 30 日开放。"
+    },
+    {
+      "name": "全球首个原生3D动力学预测世界模型，RoboScience为机器人操作提供更精准的物体运动预测",
+      "type": "news",
+      "platform": "机器之心",
+      "url": "https://m.163.com/dy/article/LC6L3DE80511AQHO.html",
+      "summary": "RoboScience（机器科学）发布 WorldFlow，称是全球首个原生3D动力学预测世界模型：从多视角视觉观测出发预测物体在受力后的运动轨迹，训练覆盖17个数据源、144万样本，并推出 WorldFlowBench 评测，在 ADE/FDE 指标上领先，真机操作成功率从 11.1% 提升到 66.7%。",
+      "popularity": {
+        "views": 4200,
+        "likes": 96,
+        "comments": 12
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "世界模型",
+          "3D动力学预测",
+          "机器人操作",
+          "机器视觉"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-20T16:21:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-21",
+      "filtered": false,
+      "total_score": 72.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 44.0,
+        "practicality": 47.0,
+        "freshness": 100
+      },
+      "selected_on": "2026-11-21",
+      "title_zh": "RoboScience 发布全球首个原生 3D 动力学预测世界模型 WorldFlow",
+      "summary_zh": "RoboScience（机器科学）推出 WorldFlow，宣称是全球首个原生 3D 动力学预测世界模型：从多视角视觉观测预测物体受力后的运动轨迹，训练覆盖 17 个数据源、144 万样本，并配套 WorldFlowBench 评测；ADE/FDE 指标领先，真机操作成功率从 11.1% 提升到 66.7%。"
     }
   ],
   "pending_items": [
@@ -2323,8 +2392,56 @@
         "practicality": 30.0,
         "freshness": 60
       },
-      "collected_on": null,
+      "collected_on": "2026-11-11",
       "selected_on": null
+    },
+    {
+      "name": "米哈游发了个VLA论文：Gamer 用 Qwen3-VL 做《崩坏：星穹铁道》长程自主操作",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://c.m.163.com/news/a/LC7GMJG20511DSSR.html",
+      "summary": "米哈游与 RainBowLuoCS 团队公开 VLA 论文 Gamer：以 Qwen3-VL-8B 为骨干，走 CPT+SFT+TA-GRPO 强化学习三段训练，配合 Streaming-vLLM 低延迟推理，在《崩坏：星穹铁道》约50小时长程任务中实现 95% 自主完成率，对比基线 17.1%，验证纯视觉输入驱动的长程游戏操作智能体可行性。",
+      "popularity": {
+        "views": 5600,
+        "likes": 140,
+        "comments": 22
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "VLA",
+          "视觉-语言-动作",
+          "强化学习",
+          "长程任务"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-21T00:24:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-21",
+      "filtered": false,
+      "total_score": 72.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 44.0,
+        "practicality": 47.0,
+        "freshness": 100
+      },
+      "title_zh": "米哈游 VLA 论文 Gamer，用 Qwen3-VL 长程自主游玩《崩坏：星穹铁道》",
+      "summary_zh": "米哈游团队公开 VLA 论文 Gamer：以 Qwen3-VL-8B 为骨干，走 CPT+SFT+TA-GRPO 强化学习三段训练，配合 Streaming-vLLM 低延迟推理，在约 50 小时的长程任务中达到 95% 自主完成率，基线仅 17.1%，验证纯视觉输入驱动的长程操作智能体。"
     }
   ]
 }
