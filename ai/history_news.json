@@ -1,236 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "千问办公2.0 发布首个 Team Agent，支持多人与 Agent 协作",
-      "type": "news",
-      "platform": "量子位",
-      "url": "https://www.qbitai.com/2026/11/508798.html",
-      "summary": "千问办公2.0上线首个支持多人与Agent协作的Team Agent，可进群协同干活，实测覆盖选题、写稿、整理等编辑部日常，办公AI从单机模式走向协作模式。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "excellent",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "wide",
-        "scenarios": [
-          "AI办公",
-          "智能体",
-          "效率工具"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-09T09:27:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 58.0,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 90.0,
-        "practicality": 78.0,
-        "freshness": 80
-      },
-      "collected_on": "2026-11-11",
-      "selected_on": "2026-11-19"
-    },
-    {
-      "name": "AI科技热点日报（2026年11月11日）：Fable 5.2 与 Claude 办公套件集中发布",
-      "type": "news",
-      "platform": "CSDN",
-      "url": "https://blog.csdn.net/haohaizi_liu/article/details/170517245",
-      "summary": "汇总当日主线：Anthropic 发布 Fable 5.2 与 Mythos 5.2 并推出 Claude Sheets、Whiteboards、Data 与会议助手，同时披露招股书与一级市场动态。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "大模型",
-          "行业动态",
-          "AI办公"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-11T09:30:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 56.0,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 63.0,
-        "freshness": 100
-      },
-      "collected_on": "2026-11-11",
-      "selected_on": "2026-11-19"
-    },
-    {
-      "name": "新浪AI热点小时报：基元律动发布180B Agent原生模型，蚂蚁灵波开源触觉模型",
-      "type": "news",
-      "platform": "新浪科技",
-      "url": "https://k.sina.cn/article_7857201856_1d45362c001908ub76.html",
-      "summary": "11月10日资讯聚合：基元律动发布总参数180B的Agent原生模型并开放限量内测，蚂蚁灵波开源LingBot-Touch，乌镇峰会首次把开源开放定为核心关键词。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "智能体",
-          "大模型",
-          "行业动态"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-10T13:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 56.0,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 63.0,
-        "freshness": 100
-      },
-      "collected_on": "2026-11-11",
-      "selected_on": "2026-11-19"
-    },
-    {
-      "name": "MiniMax 正式发布并开源 H3 Image：4K 图像生成约10秒，支持16张参考图",
-      "type": "news",
-      "platform": "新智元",
-      "url": "https://cj.sina.cn/articles/view/7857201856/1d45362c001908udqa",
-      "summary": "MiniMax 发布 H3 Image 并当天开源权重、同步开放 API，支持最多16张参考图、7500字符提示词与4K出图，官方称生成耗时约10秒，可直接接入自家编码与创作平台。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "wide",
-        "scenarios": [
-          "多模态",
-          "图像生成",
-          "开源模型",
-          "内容创作"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-11-11T03:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 55.75,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 72.0,
-        "practicality": 71.0,
-        "freshness": 100
-      },
-      "collected_on": "2026-11-11",
-      "selected_on": "2026-11-19"
-    },
-    {
-      "name": "8点1氪：Anthropic 正式启动 IPO 路演，英伟达及黄仁勋遭股东集体诉讼",
-      "type": "news",
-      "platform": "36氪",
-      "url": "https://www.163.com/dy/article/LBEK5KC005118DFD.html",
-      "summary": "36氪8点1氪汇总：Anthropic启动IPO路演、高盛给出2030年6000亿美元营收预测，英伟达市值两日大幅蒸发并遭股东诉讼，阿里拟分拆平头哥独立上市。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "行业动态",
-          "投融资"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-11T08:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 55.5,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 61.0,
-        "freshness": 100
-      },
-      "collected_on": "2026-11-11",
-      "selected_on": "2026-11-19"
-    },
-    {
       "name": "智能体 AI 架构中记忆、知识与上下文的系统化方案",
       "type": "news",
       "platform": "InfoQ",
@@ -2337,6 +2107,245 @@
       "title_zh": "DeepSeek Super-agent 是什么：双层架构拆解与部署要点",
       "summary_zh": "面向工程师讲清 Super-agent 的 Router/Worker 双层设计、事件直通与异步 ReAct 执行流，并给出本地部署依赖、显存与并发要求、常见踩坑点，适合要跑通原型或借鉴架构的团队。",
       "selected_on": "2026-11-20"
+    },
+    {
+      "name": "告别「服务器繁忙」与长对话限制，几招让你继续畅用 DeepSeek",
+      "type": "news",
+      "platform": "36氪",
+      "url": "https://www.36kr.com/p/4077987624981382",
+      "summary": "DeepSeek 高峰期限流与长对话截断问题突出，文章梳理网页版、App、API 与开源权重本地部署等可用路径，并给出控制上下文长度、复用会话缓存等绕过限制的实操建议。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "大模型可用性",
+          "长上下文优化",
+          "本地部署备选"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-20T20:23:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-21",
+      "filtered": false,
+      "total_score": 62.0,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 90.0,
+        "practicality": 78.0,
+        "freshness": 100
+      },
+      "title_zh": "告别「服务器繁忙」与长对话限制，几招让你继续畅用 DeepSeek",
+      "summary_zh": "DeepSeek 高峰期限流与长对话截断问题突出，文章梳理网页版、App、API 与开源权重本地部署等可用路径，并给出控制上下文长度、复用会话缓存等绕过限制的实操建议。",
+      "selected_on": "2026-11-21"
+    },
+    {
+      "name": "GitHub 日榜趋势速报 | 2026-11-20",
+      "type": "news",
+      "platform": "掘金",
+      "url": "https://juejin.cn/post/7709812277021655078",
+      "summary": "梳理当日 GitHub Trending 前 20 项目，多为 AI 编程与智能体工具，如 Claude-BugHunter、superpowers、firecrawl 等，附星数增幅与用途简介。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "开源工具发现",
+          "AI 编程",
+          "智能体项目跟踪"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-20"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-21",
+      "filtered": false,
+      "total_score": 59.75,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 78.0,
+        "freshness": 100
+      },
+      "title_zh": "GitHub 日榜趋势速报 | 2026-11-20",
+      "summary_zh": "梳理当日 GitHub Trending 前 20 项目，多为 AI 编程与智能体工具，如 Claude-BugHunter、superpowers、firecrawl 等，附星数增幅与用途简介。",
+      "selected_on": "2026-11-21"
+    },
+    {
+      "name": "GPT-6.2 Astra 和 Sol 双发：智能体考榜涨 5.2 分，成本降到三分之一",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026-11-510707.html",
+      "summary": "OpenAI 被曝推出 GPT-6.2 Astra 与 Sol：智能体考试涨 5.2 分、成本降至约三分之一，FrontierCode 2.0 达 44.2%，Astra API 降价 20%。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "通用大模型调用",
+          "编码智能体",
+          "推理成本优化"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-18T08:49:14"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-21",
+      "filtered": false,
+      "total_score": 58.0,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 90.0,
+        "practicality": 78.0,
+        "freshness": 80
+      },
+      "title_zh": "GPT-6.2 Astra 和 Sol 双发：智能体考榜涨 5.2 分，成本降到三分之一",
+      "summary_zh": "OpenAI 被曝推出 GPT-6.2 Astra 与 Sol：智能体考试涨 5.2 分、成本降至约三分之一，FrontierCode 2.0 达 44.2%，Astra API 降价 20%。",
+      "selected_on": "2026-11-21"
+    },
+    {
+      "name": "双系统决策+双层自进化，Agnes 让 Agent 效率最高提速 14 倍，成本骤降至 1/27",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026-11-511582.html",
+      "summary": "Agnes 开源 Agent 框架 Agnes Harness（Apache-2.0），双系统决策加双层自进化，决策提速最高 14.3 倍、成本降至 1/27，支持插件与 MCP，云 API 即可跑。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "智能体运行时",
+          "自进化 Agent",
+          "MCP 工具编排"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-20T13:24:11"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-21",
+      "filtered": false,
+      "total_score": 56.75,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 78.0,
+        "practicality": 69.0,
+        "freshness": 100
+      },
+      "title_zh": "双系统决策+双层自进化，Agnes 让 Agent 效率最高提速 14 倍，成本骤降至 1/27",
+      "summary_zh": "Agnes 开源 Agent 框架 Agnes Harness（Apache-2.0），双系统决策加双层自进化，决策提速最高 14.3 倍、成本降至 1/27，支持插件与 MCP，云 API 即可跑。",
+      "selected_on": "2026-11-21"
+    },
+    {
+      "name": "每日极客日报 · 2026 年 11 月 20 日",
+      "type": "news",
+      "platform": "CSDN",
+      "url": "https://blog.csdn.net/weixin_45635831/article/details/171100020",
+      "summary": "日报汇总当日模型与智能体动态：Gemini 4 Argon 物理推理、混元 Hy4 flash 登顶 OpenRouter 调用榜、用扩散模型做智能体基座的专访，适合快速回顾热点。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "每日资讯聚合",
+          "模型动态跟踪"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-20"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-21",
+      "filtered": false,
+      "total_score": 55.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 61.0,
+        "freshness": 100
+      },
+      "title_zh": "每日极客日报 · 2026 年 11 月 20 日",
+      "summary_zh": "日报汇总当日模型与智能体动态：Gemini 4 Argon 物理推理、混元 Hy4 flash 登顶 OpenRouter 调用榜、用扩散模型做智能体基座的专访，适合快速回顾热点。",
+      "selected_on": "2026-11-21"
     }
   ],
   "pending_items": [
@@ -4617,6 +4626,141 @@
         "usability": 60.0,
         "practicality": 39.0,
         "freshness": 50
+      }
+    },
+    {
+      "name": "范式下场做基模了！国产算力全链路训练，双模型同步亮相",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026-11-511071.html",
+      "summary": "范式发布自研基座模型 Phai-A1（语言）与 Phai-M1（视频），全流程在华为昇腾算力上训练；官方称响应快约 8-10 倍，原生百万上下文，单张 3090 可本地部署，权重即将开源。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "国产算力训练",
+          "开源基座模型",
+          "长上下文应用"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-19T11:01:45"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-21",
+      "filtered": false,
+      "total_score": 54.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 69.0,
+        "practicality": 69.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "腾讯姚顺雨重返清华：大模型不靠“赛马”拼指标，RSI 要落到具体工程",
+      "type": "news",
+      "platform": "36氪",
+      "url": "https://www.36kr.com/p/4077969369322632",
+      "summary": "腾讯混元负责人姚顺雨在清华分享：大模型竞争不应靠赛马式刷榜，自进化 RSI 必须落到数据、评测、反馈闭环等具体工程，并称智能体长期任务是下一阶段重点。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "模型研发方法论",
+          "自进化智能体",
+          "评测体系建设"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-20T19:11:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-21",
+      "filtered": false,
+      "total_score": 53.75,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 54.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "「Agent 版 arXiv」来了：936 个智能体 12 周发近千篇论文，连同行评议都整上了",
+      "type": "news",
+      "platform": "36氪",
+      "url": "https://www.36kr.com/p/4077710469895302",
+      "summary": "智能体自主投稿互评的「Agent 版 arXiv」上线，12 周内 936 个 Agent 产出近千篇论文并内置自动化同行评议，暴露灌水与可复现性问题，为 AI 科研自动化治理提供样本。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI 自动化科研",
+          "智能体协作",
+          "学术评测治理"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-20T17:19:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-21",
+      "filtered": false,
+      "total_score": 51.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 45.0,
+        "freshness": 100
       }
     }
   ]
