@@ -1,68 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "Sanane001/torch-hydra-starter",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/Sanane001/torch-hydra-starter",
-      "summary": "PyTorch AI Template 2026: Hydra-Powered 深度学习 Boilerplate Starter Kit (语言: HTML) [标签: boilerplate, boilerplate-template, deep-learning, hydra, machine-learning]",
-      "popularity": {
-        "views": 55,
-        "likes": 55,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "深度学习"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-08-25T10:17:59"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 55,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "HTML",
-        "license": "",
-        "topics": [
-          "boilerplate",
-          "boilerplate-template",
-          "deep-learning",
-          "hydra",
-          "machine-learning",
-          "pytorch",
-          "trainer",
-          "yaml"
-        ],
-        "created_at": "2026-08-25T10:17:59Z",
-        "pushed_at": "2026-10-21T16:14:22Z"
-      },
-      "filtered": false,
-      "total_score": 50.41,
-      "detail_scores": {
-        "popularity": 55.55,
-        "usability": 69.0,
-        "practicality": 50.0,
-        "freshness": 20
-      },
-      "_source": "pending"
-    },
-    {
       "name": "groundingpi/GroundingPI",
       "type": "tool",
       "platform": "GitHub",
@@ -242,7 +180,10 @@
         "usability": 60.0,
         "practicality": 54.0,
         "freshness": 60
-      }
+      },
+      "collected_on": "2026-11-09",
+      "title_zh": "Fast-VLA：只推理一次的机器人操作 VLA",
+      "summary_zh": "提出 You Only Think Once 的 VLA 结构，把单次视觉-语言推理直接展开为动作块，减少反复思考带来的延迟，在 LIBERO、RoboTwin 等仿真操作基准上验证，Python/Apache-2.0 开源。"
     },
     {
       "name": "Aqshalikhsan/Colosseum-Microcontroller",
@@ -1073,7 +1014,10 @@
         "usability": 44.0,
         "practicality": 59.0,
         "freshness": 20
-      }
+      },
+      "collected_on": "2026-10-29",
+      "title_zh": "CV_Deployment_skill：计算机视觉部署资料与工程工作流配置",
+      "summary_zh": "汇总计算机视觉落地的部署资料与工程 workflow 配置，覆盖模型导出、推理加速与产线集成环节，可当作视觉部署技能清单参考。"
     },
     {
       "name": "deep-learning-alchemy/assignments",
@@ -1190,7 +1134,10 @@
         "usability": 44.0,
         "practicality": 50.0,
         "freshness": 20
-      }
+      },
+      "collected_on": "2026-10-29",
+      "title_zh": "no-shortcuts：不走捷径的数据、机器学习与 AI 工程课程",
+      "summary_zh": "173 节课、166 个可运行实验的免费 AI 工程课程（CC BY-NC 4.0），从数学、代码、系统到安全完整走一遍，包含深度学习与视觉相关模块。"
     },
     {
       "name": "nhatkhangcs/educational_vlm",
@@ -1244,7 +1191,10 @@
         "usability": 60.0,
         "practicality": 50.0,
         "freshness": 60
-      }
+      },
+      "collected_on": "2026-10-30",
+      "title_zh": "educational_vlm：用 Notebook 手写视觉语言模型组件",
+      "summary_zh": "一套 Jupyter Notebook 教程，从代码层面拆解视觉语言模型（VLM）的各个组件：图像编码、跨模态对齐与指令微调，适合学习 CV/VLM 的训练流程。"
     },
     {
       "name": "jushengzhang/robot-weight-debugging",
@@ -3027,6 +2977,85 @@
       "title_zh": "宝可梦卡牌工具链：CLIP 检索识别 + YOLOv8 缺陷分级 + 行情跟踪",
       "summary_zh": "一套实时计算机视觉与公允估值分析套件：用 OpenAI CLIP + FAISS 做亚毫秒级卡牌识别检索，用 YOLOv8 自动完成品相/缺陷分级，再通过 Supabase 每日跟踪行情并动态估值。对“检索式识别 + 检测分级 + 业务数据回写”这条视觉工程化链路有直接参考价值；以 Jupyter Notebook 组织，场景垂直于 TCG 卡牌，迁移到工业质检需替换检测模型、标注体系与阈值策略。",
       "selected_on": "2026-11-19"
+    },
+    {
+      "name": "General-Sequences/sequence-ai",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/General-Sequences/sequence-ai",
+      "summary": "SequenceLink: 开源 serving for robot policies on remote GPUs, verified with openpi, LeRobot, GR00T and Octo. An 推理 layer (CUDA graphs with the same outputs, replicas) and a network layer (a robot's c...",
+      "popularity": {
+        "views": 30,
+        "likes": 30,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉-语言-动作",
+          "视觉语言模型",
+          "机器人视觉"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-17T00:14:54"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 30,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "apache-2.0",
+        "topics": [
+          "action-chunking",
+          "batching",
+          "cuda-graphs",
+          "gr00t",
+          "inference",
+          "latency",
+          "lerobot",
+          "openpi",
+          "policy-serving",
+          "python",
+          "pytorch",
+          "remote-inference",
+          "robot-learning",
+          "robotics",
+          "scheduling",
+          "sdk",
+          "sequencelink",
+          "vision-language-action",
+          "vla",
+          "websocket"
+        ],
+        "created_at": "2026-11-17T00:14:54Z",
+        "pushed_at": "2026-11-20T04:50:25Z"
+      },
+      "filtered": false,
+      "total_score": 51.84,
+      "detail_scores": {
+        "popularity": 30.299999999999997,
+        "usability": 53.0,
+        "practicality": 54.0,
+        "freshness": 80
+      },
+      "collected_on": "2026-11-21",
+      "selected_on": "2026-11-21",
+      "title_zh": "SequenceLink：机器人策略的远程 GPU 推理服务层",
+      "summary_zh": "开源 SequenceLink，为跑在远程 GPU 上的机器人策略提供低延迟 serving，已在 openpi、LeRobot、GR00T、Octo 上验证：推理层用 CUDA Graph 复用同批输出与副本，网络层压缩机器人与 GPU 之间的往返开销，适合把 VLA/视觉策略部署到真实本体。"
     }
   ],
   "pending_items": []
