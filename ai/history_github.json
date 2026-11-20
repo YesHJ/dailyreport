@@ -1,214 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "MiniMax-AI/MiniMax-H3-Image",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/MiniMax-AI/MiniMax-H3-Image",
-      "summary": "MiniMax-H3-Image, an open-weight 模型 for 16-megapixel image 生成 and editing. (语言: Python) [标签: agent-skills, diffusion-models, image-editing, image-generation, minimax-h3-image]",
-      "popularity": {
-        "views": 203,
-        "likes": 203,
-        "comments": 8
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent",
-          "图像生成"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-11-09T17:11:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 203,
-        "forks": 8,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "other",
-        "topics": [
-          "agent-skills",
-          "diffusion-models",
-          "image-editing",
-          "image-generation",
-          "minimax-h3-image",
-          "text-to-image"
-        ],
-        "created_at": "2026-11-09T17:11:00Z",
-        "pushed_at": "2026-11-11T18:48:54Z"
-      },
-      "filtered": false,
-      "total_score": 78.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 78.0,
-        "practicality": 52.0,
-        "freshness": 80
-      },
-      "collected_on": "2026-11-11",
-      "selected_on": "2026-11-19"
-    },
-    {
-      "name": "islandmed/SculptForge",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/islandmed/SculptForge",
-      "summary": "Free, open-source 3D sculpting for Linux, macOS and Windows: dense meshes, remeshing, painting, built-in AI (image/text to 3D), Send to Unreal, game-ready LODs, Gaussian splats and OpenUSD. (语言: C+...",
-      "popularity": {
-        "views": 671,
-        "likes": 671,
-        "comments": 84
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "图像生成"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-10-21T03:18:08"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 671,
-        "forks": 84,
-        "open_issues": 18,
-        "language": "C++",
-        "license": "gpl-3.0",
-        "topics": [
-          "3d",
-          "3d-sculpting",
-          "blender",
-          "blender-addon",
-          "cpp",
-          "dear-imgui",
-          "digital-sculpting",
-          "fbx",
-          "game-development",
-          "gaussian-splatting",
-          "gltf",
-          "image-to-3d",
-          "mcp",
-          "opengl",
-          "openusd",
-          "sculpting",
-          "text-to-3d",
-          "unreal-engine"
-        ],
-        "created_at": "2026-10-21T03:18:08Z",
-        "pushed_at": "2026-11-11T23:04:13Z"
-      },
-      "filtered": false,
-      "total_score": 77.0,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 81.0,
-        "practicality": 59.0,
-        "freshness": 60
-      },
-      "collected_on": "2026-11-02",
-      "selected_on": "2026-11-19"
-    },
-    {
-      "name": "Arda313131882/aion-2-trainer-tool",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/Arda313131882/aion-2-trainer-tool",
-      "summary": "Aion 2 AI Prompt Engineering 工具包 - Standalone Desktop Trainer Setup (语言: HTML) [标签: aion-2, aion-2-2026, aion-2-game, aion-2-optimizer, aion-2-trainer]",
-      "popularity": {
-        "views": 1296,
-        "likes": 1296,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "自动化"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-06T20:34:15"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 1296,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "HTML",
-        "license": "mit",
-        "topics": [
-          "aion-2",
-          "aion-2-2026",
-          "aion-2-game",
-          "aion-2-optimizer",
-          "aion-2-trainer",
-          "aion-2-trainer-tool",
-          "aion2-combat-analysis",
-          "aion2-meter",
-          "automation",
-          "desktop",
-          "developer-tools",
-          "open-source",
-          "python",
-          "scripts",
-          "software-engineering",
-          "system",
-          "utility",
-          "windows-app"
-        ],
-        "created_at": "2026-11-06T20:34:15Z",
-        "pushed_at": "2026-11-11T18:27:04Z"
-      },
-      "filtered": false,
-      "total_score": 74.0,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 53.0,
-        "practicality": 59.0,
-        "freshness": 80
-      },
-      "collected_on": "2026-11-11",
-      "selected_on": "2026-11-19"
-    },
-    {
       "name": "wideeyededi/uncensored-nsfw-ai-video-api",
       "type": "tool",
       "platform": "GitHub",
@@ -3393,9 +3185,163 @@
       "title_zh": "untangling-ml-complexity（MLForge）：宣称简化机器学习代码结构与超参数的框架",
       "summary_zh": "自称 MLForge 的“织机式”ML 框架，主打解耦数据加载与模型代码、超参数管理和实验治理，Python 3.10+、MIT 许可，仓库以 HTML 文档站形式呈现。需要提醒：README 表述高度营销化，缺少可验证的基准与真实用例，建议先跑最小示例再判断是否采用，对其中 7x24 支持、12 语言等宣传章节保持谨慎。",
       "selected_on": "2026-11-20"
-    }
-  ],
-  "pending_items": [
+    },
+    {
+      "name": "bookwjitchieni1986/blender-ai-mcp-addon",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+      "summary": "AI 助手 and MCP server for Blender: visual chat, scene tools, 多智能体 workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP int...",
+      "popularity": {
+        "views": 1747,
+        "likes": 1747,
+        "comments": 3
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "代码生成",
+          "自动化"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-19T14:43:10"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 1747,
+        "forks": 3,
+        "open_issues": 38,
+        "language": "",
+        "license": "mit",
+        "topics": [
+          "ai-agents",
+          "ai-assistant",
+          "blender",
+          "blender-addon",
+          "blender-ai",
+          "blender-automation",
+          "blender-mcp",
+          "blender-plugin",
+          "blender-scripting",
+          "bpy",
+          "chatgpt",
+          "claude",
+          "gemini",
+          "llm",
+          "mcp",
+          "mcp-for-blender",
+          "mcp-server",
+          "model-context-protocol",
+          "ollama",
+          "opencode"
+        ],
+        "created_at": "2026-11-19T14:43:10Z",
+        "pushed_at": "2026-11-19T14:44:11Z"
+      },
+      "collected_on": "2026-11-21",
+      "filtered": false,
+      "total_score": 80.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 60.0,
+        "practicality": 63.0,
+        "freshness": 100
+      },
+      "title_zh": "Blender AI MCP 插件：让 Claude、ChatGPT 等智能体直接操控 3D 场景",
+      "summary_zh": "为 Blender 提供 AI 助手与 MCP 服务器（github.com/bookwjitchieni1986/blender-ai-mcp-addon，1747 star，MIT），支持可视化对话、场景工具与多智能体工作流，可对接 ChatGPT、Claude、Gemini、Ollama、OpenCode，通过 bpy Python 脚本驱动建模自动化。",
+      "selected_on": "2026-11-21"
+    },
+    {
+      "name": "e2sy/jailbreak-archives",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/e2sy/jailbreak-archives",
+      "summary": "A structured, versioned archive of adversarial prompt engineering techniques against 大语言模型s — for AI safety 研究, red-teaming, and 防御性 hardening. (语言: Roff) [标签: adversarial-prompts, ai-red-team, ai-...",
+      "popularity": {
+        "views": 118,
+        "likes": 118,
+        "comments": 15
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "对话交互"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-30T07:34:14"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 118,
+        "forks": 15,
+        "open_issues": 0,
+        "language": "Roff",
+        "license": "mit",
+        "topics": [
+          "adversarial-prompts",
+          "ai-red-team",
+          "ai-safety",
+          "chatbot",
+          "chatgpt",
+          "claude",
+          "cybersecurity",
+          "deepseek",
+          "jailbreak",
+          "jailbreak-prompts",
+          "jailbreak-script",
+          "llm",
+          "llm-jailbreak",
+          "llm-security",
+          "offensive-security",
+          "prompt-engineering",
+          "prompt-injection",
+          "qwen",
+          "red-teaming",
+          "responsible-disclosure"
+        ],
+        "created_at": "2026-09-30T07:34:14Z",
+        "pushed_at": "2026-11-20T06:34:06Z"
+      },
+      "collected_on": "2026-10-30",
+      "filtered": false,
+      "total_score": 59.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 53.0,
+        "practicality": 50.0,
+        "freshness": 20
+      },
+      "title_zh": "Jailbreak Archives：面向大模型的越狱提示词结构化版本库",
+      "summary_zh": "以结构化、可版本追溯的方式收集针对大语言模型的对抗提示技术（github.com/e2sy/jailbreak-archives，118 star，MIT），覆盖 ChatGPT、Claude、DeepSeek、Qwen 等目标，面向 AI 安全研究、红队测评与防御加固；2026-10-30 首次入库，本次首次入选。",
+      "selected_on": "2026-11-21"
+    },
     {
       "name": "nicklucenasantanalucenasant-maker/yapt-core",
       "type": "tool",
@@ -3452,7 +3398,12 @@
         "practicality": 50.0,
         "freshness": 20
       },
-      "collected_on": "2026-10-30"
+      "collected_on": "2026-10-30",
+      "_source": "pending",
+      "title_zh": "YAPT 2026：更轻快的现代 PyTorch 训练框架",
+      "summary_zh": "面向深度学习工作流的 PyTorch 训练框架（github.com/nicklucenasantanalucenasant-maker/yapt-core，53 star），提供训练器抽象与 Neptune.ai 实验跟踪集成，用配置替代手写训练循环；文档较全但上手偏陡。",
+      "selected_on": "2026-11-21"
     }
-  ]
+  ],
+  "pending_items": []
 }
