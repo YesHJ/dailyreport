@@ -1,348 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "wideeyededi/uncensored-nsfw-ai-video-api",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/wideeyededi/uncensored-nsfw-ai-video-api",
-      "summary": "Uncensored NSFW API for AI video 生成 — Seedance Spicy & Wan NSFW docs: 18+ text-to-video / image-to-video, async tasks, webhooks, credits billing. 成人向 AI 视频生成 API：Seedance Spicy、Wan NSFW、文生/图生视频、异步任...",
-      "popularity": {
-        "views": 428,
-        "likes": 428,
-        "comments": 65
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "图像生成",
-          "视频生成"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-11-02T02:15:29"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 428,
-        "forks": 65,
-        "open_issues": 0,
-        "language": "",
-        "license": "mit",
-        "topics": [
-          "123vips",
-          "ai-api",
-          "ai-companion",
-          "ai-video",
-          "ai-video-api",
-          "ai-video-generator",
-          "comfyui",
-          "image-to-video",
-          "nsfw",
-          "nsfw-ai",
-          "nsfw-api",
-          "seedance",
-          "seedance-api",
-          "text-to-video",
-          "uncensored",
-          "uncensored-ai",
-          "video-api",
-          "video-generation",
-          "wan",
-          "wan-video"
-        ],
-        "created_at": "2026-11-02T02:15:29Z",
-        "pushed_at": "2026-11-05T12:05:07Z"
-      },
-      "filtered": false,
-      "total_score": 72.25,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 52.0,
-        "freshness": 60
-      },
-      "collected_on": "2026-11-02",
-      "selected_on": "2026-11-19"
-    },
-    {
-      "name": "thesysdev/open-intelligent-ui",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/thesysdev/open-intelligent-ui",
-      "summary": "An open-source take on ChatGPT's Intelligent UI: answers stream as interactive UI (maps, photos, charts, drawings and working tools). Built with OpenUI. (语言: TypeScript) [标签: agents, ai, ai-agents,...",
-      "popularity": {
-        "views": 977,
-        "likes": 977,
-        "comments": 89
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-10-08T05:37:45"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 977,
-        "forks": 89,
-        "open_issues": 30,
-        "language": "TypeScript",
-        "license": "mit",
-        "topics": [
-          "agents",
-          "ai",
-          "ai-agents",
-          "ai-ui",
-          "chat-ui",
-          "chatgpt",
-          "generative-ui",
-          "intelligent-ui",
-          "llm",
-          "nextjs",
-          "open-source",
-          "openui",
-          "react",
-          "streaming-ui",
-          "typescript"
-        ],
-        "created_at": "2026-10-08T05:37:45Z",
-        "pushed_at": "2026-11-11T19:15:26Z"
-      },
-      "filtered": false,
-      "total_score": 66.0,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 59.0,
-        "freshness": 20
-      },
-      "collected_on": "2026-11-02",
-      "selected_on": "2026-11-19"
-    },
-    {
-      "name": "N1nEmAn/sapper-v2",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/N1nEmAn/sapper-v2",
-      "summary": "The first fruit of the Nüwa tree — an 自主 AI pentest legion (634-team champion, 8h unattended, 1B tokens beat 4.5B). Not just a tool: evolvable by design. Grow your own fruit on the Nüwa Foundation ...",
-      "popularity": {
-        "views": 2019,
-        "likes": 2019,
-        "comments": 1031
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent",
-          "代码生成"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-10-30T15:12:35"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 2019,
-        "forks": 1031,
-        "open_issues": 3,
-        "language": "Python",
-        "license": "mit",
-        "topics": [
-          "agentic-workflows",
-          "ai-agents",
-          "ai-security",
-          "autonomous-agents",
-          "claude-code",
-          "ctf",
-          "cybersecurity",
-          "fact-graph",
-          "llm",
-          "multi-agent",
-          "pentest",
-          "swarm-intelligence"
-        ],
-        "created_at": "2026-10-30T15:12:35Z",
-        "pushed_at": "2026-11-11T12:18:45Z"
-      },
-      "filtered": false,
-      "total_score": 72.25,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 60.0,
-        "practicality": 61.0,
-        "freshness": 60
-      },
-      "collected_on": "2026-11-12",
-      "selected_on": "2026-11-19"
-    },
-    {
-      "name": "salikhussain71-code/PAKGOV-RAG-project",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/salikhussain71-code/PAKGOV-RAG-project",
-      "summary": "研究 project on bilingual Urdu-English 检索-augmented 生成 for Pakistani government and legal documents, with OCR, hybrid 检索, citation grounding, and 评估. (语言: Python) [标签: artificial-intelligence, inform...",
-      "popularity": {
-        "views": 130,
-        "likes": 130,
-        "comments": 7
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "检索增强生成",
-          "自然语言处理"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-17T10:31:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 130,
-        "forks": 7,
-        "open_issues": 2,
-        "language": "Python",
-        "license": "mit",
-        "topics": [
-          "artificial-intelligence",
-          "information-retrieval",
-          "legal-nlp",
-          "low-resource-languages",
-          "nlp",
-          "ocr",
-          "rag",
-          "retrieval-augmented-generation",
-          "transformers",
-          "urdu-nlp"
-        ],
-        "created_at": "2026-09-17T10:31:00Z",
-        "pushed_at": "2026-11-07T18:42:45Z"
-      },
-      "filtered": false,
-      "total_score": 64.25,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 52.0,
-        "freshness": 20
-      },
-      "collected_on": "2026-10-29",
-      "selected_on": "2026-11-19"
-    },
-    {
-      "name": "amitshekhariitbhu/ai-engineering-course",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/amitshekhariitbhu/ai-engineering-course",
-      "summary": "AI Engineering Course - A free and complete AI Engineering Course to learn AI Engineering step by step - from 机器学习, Neural Networks, and Transformers to LLMs, 微调, RAG, AI 智能体s, LLM 推理, 评估, AI Safet...",
-      "popularity": {
-        "views": 725,
-        "likes": 725,
-        "comments": 146
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "检索增强生成",
-          "AI Agent",
-          "模型微调"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-09-23T08:04:42"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 725,
-        "forks": 146,
-        "open_issues": 0,
-        "language": "Markdown",
-        "license": "apache-2.0",
-        "topics": [
-          "ai-course",
-          "ai-engineering",
-          "ai-engineering-course",
-          "ai-engineering-curriculum",
-          "large-language-models"
-        ],
-        "created_at": "2026-09-23T08:04:42Z",
-        "pushed_at": "2026-11-12T04:00:42Z"
-      },
-      "filtered": false,
-      "total_score": 63.0,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 53.0,
-        "practicality": 63.0,
-        "freshness": 20
-      },
-      "collected_on": "2026-10-29",
-      "selected_on": "2026-11-19"
-    },
-    {
       "name": "flohoeller/affectui",
       "type": "tool",
       "platform": "GitHub",
@@ -3403,6 +3061,344 @@
       "title_zh": "YAPT 2026：更轻快的现代 PyTorch 训练框架",
       "summary_zh": "面向深度学习工作流的 PyTorch 训练框架（github.com/nicklucenasantanalucenasant-maker/yapt-core，53 star），提供训练器抽象与 Neptune.ai 实验跟踪集成，用配置替代手写训练循环；文档较全但上手偏陡。",
       "selected_on": "2026-11-21"
+    },
+    {
+      "name": "wangzan101/Mika",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/wangzan101/Mika",
+      "summary": "An on-device AI 智能体 for Android that operates apps and the web to get things done for you. (语言: Kotlin) [标签: accessibility, ai-agent, android, automation, jetpack-compose]",
+      "popularity": {
+        "views": 9447,
+        "likes": 9447,
+        "comments": 2127
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "自动化"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-29T14:34:07"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 9447,
+        "forks": 2127,
+        "open_issues": 87,
+        "language": "Kotlin",
+        "license": "apache-2.0",
+        "topics": [
+          "accessibility",
+          "ai-agent",
+          "android",
+          "automation",
+          "jetpack-compose",
+          "kotlin",
+          "llm",
+          "mobile-agent"
+        ],
+        "created_at": "2026-10-29T14:34:07Z",
+        "pushed_at": "2026-11-21T21:50:48Z"
+      },
+      "filtered": false,
+      "total_score": 74.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 61.0,
+        "freshness": 60
+      },
+      "title_zh": "Mika：Android 端侧 AI 智能体，代你操作 App 与网页",
+      "summary_zh": "运行在手机本地的 Android AI 智能体（github.com/wangzan101/Mika，Kotlin，9447 star），可像人一样操作本机 App 和网页完成多步任务，主题覆盖 ai-agent、mobile-agent、jetpack-compose 与无障碍；模型与系统权限需自行配置，适合移动端自动化与端侧推理场景。",
+      "collected_on": "2026-11-01",
+      "selected_on": "2026-11-22"
+    },
+    {
+      "name": "MiniMax-AI/MiniMax-H3-Image",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/MiniMax-AI/MiniMax-H3-Image",
+      "summary": "MiniMax-H3-Image, an open-weight 模型 for 16-megapixel image 生成 and editing. (语言: Python) [标签: agent-skills, diffusion-models, image-editing, image-generation, minimax-h3-image]",
+      "popularity": {
+        "views": 441,
+        "likes": 441,
+        "comments": 27
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "图像生成"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-09T17:11:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 441,
+        "forks": 27,
+        "open_issues": 6,
+        "language": "Python",
+        "license": "other",
+        "topics": [
+          "agent-skills",
+          "diffusion-models",
+          "image-editing",
+          "image-generation",
+          "minimax-h3-image",
+          "text-to-image"
+        ],
+        "created_at": "2026-11-09T17:11:00Z",
+        "pushed_at": "2026-11-11T18:48:54Z"
+      },
+      "filtered": false,
+      "total_score": 74.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 78.0,
+        "practicality": 52.0,
+        "freshness": 60
+      },
+      "title_zh": "MiniMax H3 Image：开放权重的 1600 万像素图像生成与编辑模型",
+      "summary_zh": "MiniMax 开源权重的扩散图像模型（github.com/MiniMax-AI/MiniMax-H3-Image，Python，441 star），面向 16 兆像素文生图与图像编辑，并附带 agent-skills 集成入口；项目发布仅一周余，推理示例与部署文档仍在补齐，工程可用性以官方仓库为准。",
+      "collected_on": "2026-11-11",
+      "selected_on": "2026-11-22"
+    },
+    {
+      "name": "islandmed/SculptForge",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/islandmed/SculptForge",
+      "summary": "Free, open-source 3D sculpting for Linux, macOS and Windows: dense meshes, remeshing, painting, built-in AI (image/text to 3D), Send to Unreal, game-ready LODs, Gaussian splats and OpenUSD. (语言: C+...",
+      "popularity": {
+        "views": 758,
+        "likes": 758,
+        "comments": 94
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "图像生成"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-21T03:18:08"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 758,
+        "forks": 94,
+        "open_issues": 17,
+        "language": "C++",
+        "license": "gpl-3.0",
+        "topics": [
+          "3d",
+          "3d-sculpting",
+          "blender",
+          "blender-addon",
+          "cpp",
+          "dear-imgui",
+          "digital-sculpting",
+          "fbx",
+          "game-development",
+          "gaussian-splatting",
+          "gltf",
+          "image-to-3d",
+          "mcp",
+          "opengl",
+          "openusd",
+          "sculpting",
+          "text-to-3d",
+          "unreal-engine"
+        ],
+        "created_at": "2026-10-21T03:18:08Z",
+        "pushed_at": "2026-11-21T23:03:09Z"
+      },
+      "filtered": false,
+      "total_score": 69.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 81.0,
+        "practicality": 59.0,
+        "freshness": 20
+      },
+      "title_zh": "SculptForge：内置文本/图像转 3D 的开源跨平台雕刻工具",
+      "summary_zh": "面向 Linux、macOS、Windows 的开源 3D 数字雕刻工具（github.com/islandmed/SculptForge，C++，758 star），支持稠密网格、重拓扑、绘制，内置 image/text-to-3D，并提供 Gaussian splats、OpenUSD、Send to Unreal 与游戏就绪 LOD 导出，含 MCP 接口；近期更新较少，重工业管线需自行验证。",
+      "collected_on": "2026-11-02",
+      "selected_on": "2026-11-22"
+    },
+    {
+      "name": "kuafuai/andee",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/kuafuai/andee",
+      "summary": "Andee lives on your phone or Mac and uses any app like you do—no integrations, no root, any 模型; memory and passwords never leave your device | Andee 住进你的手机或 Mac，像你一样操作任何 App——无需集成、无需 Root、支持任意模型，记忆...",
+      "popularity": {
+        "views": 6174,
+        "likes": 6174,
+        "comments": 295
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "自动化"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-09-17T13:20:59"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 6174,
+        "forks": 295,
+        "open_issues": 24,
+        "language": "Kotlin",
+        "license": "other",
+        "topics": [
+          "agent",
+          "ai",
+          "ai-agents",
+          "android-automation",
+          "mobile-agents",
+          "personal-agent",
+          "personal-ai",
+          "phone-automation"
+        ],
+        "created_at": "2026-09-17T13:20:59Z",
+        "pushed_at": "2026-11-20T06:24:16Z"
+      },
+      "filtered": false,
+      "total_score": 66.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 61.0,
+        "freshness": 20
+      },
+      "title_zh": "Andee：住进手机或 Mac 的个人智能体，无需集成即可操作任意 App",
+      "summary_zh": "跨 Android 与 Mac 的 Personal Agent（github.com/kuafuai/andee，Kotlin，6174 star），不依赖应用集成、无需 Root 即可按人的方式操作界面，支持接入任意模型，记忆与密码只留在设备本地；主打隐私与通用操作，近 30 天推送较少，需关注维护活跃度。",
+      "collected_on": "2026-11-01",
+      "selected_on": "2026-11-22"
+    },
+    {
+      "name": "openfilm/openfilm",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/openfilm/openfilm",
+      "summary": "The 开源 AI video 智能体: turns any coding 智能体 into a video 智能体, with editors to change anything it makes. (语言: TypeScript) [标签: ai-video, claude-code, codex, coding-agents, html]",
+      "popularity": {
+        "views": 8870,
+        "likes": 8870,
+        "comments": 897
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "视频生成",
+          "代码生成"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-04T09:29:07"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 8870,
+        "forks": 897,
+        "open_issues": 32,
+        "language": "TypeScript",
+        "license": "mit",
+        "topics": [
+          "ai-video",
+          "claude-code",
+          "codex",
+          "coding-agents",
+          "html",
+          "motion-graphics",
+          "video-agent",
+          "video-editor"
+        ],
+        "created_at": "2026-10-04T09:29:07Z",
+        "pushed_at": "2026-11-20T15:57:04Z"
+      },
+      "filtered": false,
+      "total_score": 64.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 60.0,
+        "practicality": 63.0,
+        "freshness": 20
+      },
+      "title_zh": "OpenFilm：把任意编程智能体变成 AI 视频智能体的开源方案",
+      "summary_zh": "开源 AI 视频智能体（github.com/openfilm/openfilm，TypeScript，8870 star），可挂接 Claude Code、Codex 等 coding agent 生成 motion graphics 与 HTML 视频，并提供编辑器逐项修改产出；适合复用现有 Agent 工具链做视频内容，模型调用成本取决于所选底座。",
+      "collected_on": "2026-11-01",
+      "selected_on": "2026-11-22"
     }
   ],
   "pending_items": []
