@@ -1,215 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "智能体 AI 架构中记忆、知识与上下文的系统化方案",
-      "type": "news",
-      "platform": "InfoQ",
-      "url": "https://www.infoq.cn/article/COuPKpA6rTf05C6JM10y",
-      "summary": "文章提出可靠智能体架构的核心做法：用上下文引擎预处理信息，明确区分上下文、记忆与知识三层，配合分层记忆、知识库治理和 Token 预算机制，并逐一给出常见架构反模式（上下文灌满、记忆与知识混用等）的应对方案，适合落地 Agent 的工程团队直接参考。",
-      "popularity": {
-        "views": 5624,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "good",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "wide",
-        "scenarios": [
-          "Agent",
-          "RAG"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-12T09:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "filtered": false,
-      "total_score": 72.37,
-      "detail_scores": {
-        "popularity": 56.24000000000001,
-        "usability": 66.0,
-        "practicality": 76.0,
-        "freshness": 100
-      },
-      "collected_on": "2026-11-12",
-      "selected_on": "2026-11-19"
-    },
-    {
-      "name": "Coding agent写测试集体失败，AI代码合格率被高估一倍",
-      "type": "news",
-      "platform": "36氪",
-      "url": "https://36kr.com/p/4066443372450690",
-      "summary": "多项实测显示，编程智能体在自动生成单元测试时合格率远低于厂商宣传，被\"能跑通示例\"的选择偏差高估约一倍，文章提醒团队在把 AI 代码合入主干前必须建立独立验收与变异测试机制，不能把\"代码暴涨\"当成交付能力。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "wide",
-        "scenarios": [
-          "AI编程",
-          "Agent"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-12T08:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "filtered": false,
-      "total_score": 59.25,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 76.0,
-        "freshness": 100
-      },
-      "collected_on": "2026-11-12",
-      "selected_on": "2026-11-19"
-    },
-    {
-      "name": "诺奖得主Hassabis再交神作，AlphaGenome 2破译人类98%基因\"暗物质\"",
-      "type": "news",
-      "platform": "36氪",
-      "url": "https://36kr.com/p/4066698258502792",
-      "summary": "谷歌 DeepMind 发布新一代 DNA 基础模型 AlphaGenome 2，基于 1.07 亿单细胞数据训练，把预测从组织级细化到单细胞级，致病突变识别率从 16% 提升到 30%，纯计算复现《Nature》数年实验结论；API、Colab 教程与近 700 万变异评分库对非商业科研免费开放，并将封装为 Skills 接入 Gemini 4。",
-      "popularity": {
-        "views": 0,
-        "likes": 13,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "good",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "研究实验",
-          "AI for Science"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-12T19:59:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "filtered": false,
-      "total_score": 55.65,
-      "detail_scores": {
-        "popularity": 13.0,
-        "usability": 66.0,
-        "practicality": 61.0,
-        "freshness": 100
-      },
-      "collected_on": "2026-11-12",
-      "selected_on": "2026-11-19"
-    },
-    {
-      "name": "Anthropic启动IPO路演，估值已缩水6000亿美元",
-      "type": "news",
-      "platform": "量子位",
-      "url": "https://www.qbitai.com/2026/11/509381.html",
-      "summary": "Anthropic 在撤回近 700 亿美元 IPO 定价后启动路演，市场预期估值较此前高点大幅下修，反映大模型厂商在算力资本开支与商业化节奏上面临的再定价压力，对整个基础模型赛道的融资与估值具有风向标意义。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "narrow",
-        "scenarios": [
-          "行业观察"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-12T10:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "filtered": false,
-      "total_score": 51.25,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 44.0,
-        "freshness": 100
-      },
-      "collected_on": "2026-11-12",
-      "selected_on": "2026-11-19"
-    },
-    {
-      "name": "Agent 上下文越跑越贵？aiXcompact-4B 值不值得接",
-      "type": "news",
-      "platform": "CSDN",
-      "url": "https://blog.csdn.net/IndieDevLee/article/details/170590898",
-      "summary": "围绕 aiXcoder 11 月 11 日开源的上下文压缩专用模型 aiXcompact-4B（Apache-2.0，HuggingFace 可下载）做独立开发者视角评估：官方称历史上下文平均压至原长 25.89%、Terminal-Bench 上准确率不降，作者强调其输出是\"压缩决策\"需应用侧校验后落到原始轨迹，并给出单卡 A100-40GB 私有化接入的注意点。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "wide",
-        "scenarios": [
-          "Agent",
-          "AI编程"
-        ],
-        "maturity": "beta"
-      },
-      "freshness": {
-        "publish_date": "2026-11-11T20:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "filtered": false,
-      "total_score": 51.0,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 60.0,
-        "practicality": 64.0,
-        "freshness": 100
-      },
-      "collected_on": "2026-11-12",
-      "selected_on": "2026-11-19"
-    },
-    {
       "name": "黄仁勋辞职，英伟达33年首换帅，市值蒸发超3万亿",
       "type": "news",
       "platform": "量子位",
@@ -2346,6 +2137,246 @@
       "title_zh": "每日极客日报 · 2026 年 11 月 20 日",
       "summary_zh": "日报汇总当日模型与智能体动态：Gemini 4 Argon 物理推理、混元 Hy4 flash 登顶 OpenRouter 调用榜、用扩散模型做智能体基座的专访，适合快速回顾热点。",
       "selected_on": "2026-11-21"
+    },
+    {
+      "name": "TML开源新模型，循环Transformer架构，笔记本就能跑",
+      "type": "news",
+      "platform": "机器之心",
+      "url": "https://finance.sina.cn/tech/2026-11-21/detail-iniznhsn9845296.d.html",
+      "summary": "Thinking Machines Lab发布并开放Inkling 2 Mini权重：总参数约26.4B、每token激活3.4B（计入循环为5.4B），24层中中间12层对每个token循环3次，支持图文输入与100万token上下文，Apache 2.0许可。DeepSWE v1.1解出48.2%、SWE-bench Verified 79.2%，权重约20GB，可由Ollama、vLLM、SGLang、llama.cpp本地运行，并同步放出可变循环研究模型。",
+      "popularity": {
+        "views": 46000,
+        "likes": 73,
+        "comments": 36
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "智能体编程",
+          "端侧部署",
+          "微调研究"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-21T08:30:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 92.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 90.0,
+        "practicality": 78.0,
+        "freshness": 100
+      },
+      "title_zh": "机器之心｜TML 开源循环 Transformer 模型 Inkling 2 Mini，笔记本即可运行",
+      "summary_zh": "Thinking Machines Lab 开放 Inkling 2 Mini 权重：总参数约 26.4B、每 token 激活 3.4B（计入循环记为 5.4B），24 层中中间 12 层对每个 token 循环 3 次，支持图文输入与 100 万 token 上下文，Apache 2.0 许可。官方给出 DeepSWE v1.1 48.2%、SWE-bench Verified 79.2%，约 20GB 权重可由 Ollama、vLLM、SGLang、llama.cpp 本地部署，并同步放出可变循环研究模型 huggingface.co/thinkingmachines/Inkling-2-Mini。",
+      "collected_on": "2026-11-22",
+      "selected_on": "2026-11-22"
+    },
+    {
+      "name": "9点1氪丨混元Hy4全面开源、苹果自研AI智能体、DeepSeek联网搜索免费",
+      "type": "news",
+      "platform": "36氪",
+      "url": "http://36kr.com/p/4078827757310856",
+      "summary": "36氪科技早报汇总当日AI要点：腾讯混元宣布Hy4正式开源，可在GitHub、Hugging Face、ModelScope与GitCode下载部署，混元LLM系列（Hy3 preview、Hy3、Hy4 preview、Hy4、Hy4 flash）全部开放；招聘信息显示苹果正开发可代用户写代码、浏览网页、控制应用的自主AI智能体；腾讯云宣布自11月18日12时起DeepSeek原厂直供模型的服务端联网搜索与网页抓取不再计费。",
+      "popularity": {
+        "views": 35000,
+        "likes": 42,
+        "comments": 19
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "大模型开源动态",
+          "智能体产品",
+          "API成本"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-21T09:18:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 89.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 81.0,
+        "practicality": 78.0,
+        "freshness": 100
+      },
+      "title_zh": "36氪 9点1氪｜腾讯混元 Hy4 全面开源、苹果自研 AI 智能体、腾讯云 DeepSeek 联网搜索免费",
+      "summary_zh": "36氪当日 AI 要闻：腾讯混元宣布 Hy4 正式开源，权重可在 GitHub、Hugging Face、ModelScope、GitCode 下载部署，混元 LLM 系列（Hy3 preview、Hy3、Hy4 preview、Hy4、Hy4 flash）全部开放；招聘信息显示苹果正开发可代用户写代码、浏览网页、控制应用的自主 AI 智能体；腾讯云公告自 11 月 18 日 12 时起 DeepSeek 原厂直供模型的服务端联网搜索与网页抓取不再计费。",
+      "collected_on": "2026-11-22",
+      "selected_on": "2026-11-22"
+    },
+    {
+      "name": "反超Gemini之后，Karpo新作再开源，浏览器Agent速效双赢",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/11/511791.html",
+      "summary": "MachinePulse AI开源决策模型Karpo Decision 31B，采用Readout Head与Branch Attention，一次前向即输出候选选项概率，中位响应94毫秒，Decision Index总榜73.9分登顶。同时开源Karpo Decision 27B Act、TypeScript编写的karpo-browser浏览器Agent框架与KBB网页动作评测集，System 1+System 2分工下在Browserbase Benchmark v2取得89%成功率、单任务成本0.096美元。",
+      "popularity": {
+        "views": 61000,
+        "likes": 128,
+        "comments": 55
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "浏览器Agent",
+          "工具路由决策",
+          "Agent评测"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-21T19:24:29"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 86.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 78.0,
+        "practicality": 69.0,
+        "freshness": 100
+      },
+      "title_zh": "量子位｜MachinePulse 开源 Karpo Decision 31B 决策模型与浏览器 Agent 工具链",
+      "summary_zh": "MachinePulse AI 开源 Karpo Decision 31B：借助 Readout Head 与 Branch Attention，一次前向即输出候选选项概率，中位响应 94 毫秒，Decision Index 总榜 73.9 分登顶、校准误差 2.3%，并同步开源 0.8B 至 31B 全尺寸。浏览器方案开放 Karpo Decision 27B Act、TypeScript 框架 karpo-browser 与 KBB 评测集（huggingface.co/MachinePulseAI、github.com/machinepulse-ai），System 1+System 2 分工在 Browserbase Benchmark v2 取得 89% 成功率、单任务模型成本 0.096 美元。",
+      "collected_on": "2026-11-22",
+      "selected_on": "2026-11-22"
+    },
+    {
+      "name": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/11/511841.html",
+      "summary": "腾讯元宝与伦敦国王学院NLP团队推出GroupAssistBench，基于50个真实群聊、80299条历史消息构建2395道评测题，分L1记忆召回与L2开放式服务两层，并对比完整上下文、检索增强、外部记忆等14组配置。结果显示更会回忆不等于更会服务，团队提出RER与ACB两种轻量干预使L2分数提升3至7个百分点。论文、代码与数据集均已开源。",
+      "popularity": {
+        "views": 52000,
+        "likes": 96,
+        "comments": 41
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "智能体记忆评测",
+          "个人助理",
+          "多轮对话"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-21T19:40:11"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 85.25,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 78.0,
+        "practicality": 63.0,
+        "freshness": 100
+      },
+      "title_zh": "量子位｜腾讯元宝×KCL 发布首个基于群聊构建的 Agent 记忆基准 GroupAssistBench",
+      "summary_zh": "腾讯元宝与伦敦国王学院 NLP 团队基于 50 个真实群聊、80299 条历史消息构造 2395 道题，分 L1 记忆召回与 L2 开放式服务，并按单条记忆、多记忆整合、更新冲突划分依赖类型。对比完整上下文、检索增强、外部记忆等 14 组配置后发现“更会回忆不等于更会服务”；497 条配对记忆分析显示约 36% 未进入 L2 输入、64% 进入输入却未被有效应用，RER 与 ACB 干预使 L2 提升 3.16–7.03 个百分点，论文与代码数据集已开源（github.com/Tencent/GroupAssistBench）。",
+      "collected_on": "2026-11-22",
+      "selected_on": "2026-11-22"
+    },
+    {
+      "name": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/11/511570.html",
+      "summary": "前DeepSeek-VL项目负责人Tony Zhang（Simplex AI）公布并开源个人智能体Linger，核心为Another Me记忆中枢，可本地整理邮箱、日历与会议形成个人知识库，LoCoMo长期记忆基准准确率95%。其PolyStrata分层MoE推理引擎让12GB显存的RTX 3060跑起125B模型，达45.5 tokens/秒，并提供自动选型安装的Model Autopilot。",
+      "popularity": {
+        "views": 78000,
+        "likes": 152,
+        "comments": 68
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "本地大模型部署",
+          "个人智能体",
+          "办公自动化"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-21T14:32:31"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 84.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 69.0,
+        "freshness": 100
+      },
+      "title_zh": "量子位｜DeepSeek V1 作者创业开源个人智能体 Linger",
+      "summary_zh": "前 DeepSeek-VL 项目负责人 Tony Zhang 通过 Simplex AI 开源个人智能体 Linger，核心为本地记忆中枢 Another Me，自动整理收件箱、日历、会议形成个人知识库，LoCoMo 长期记忆基准准确率 95%，并可接管桌面与浏览器、组建 Agent 团队、语音转录。其 PolyStrata 分层 MoE 推理引擎在 GPU 显存/内存/SSD 间动态调度专家模块，12GB 显存的 RTX 3060 即可运行 125B 参数模型，达 45.5 tokens/秒，另有 Model Autopilot 自动选型安装本地模型。",
+      "collected_on": "2026-11-22",
+      "selected_on": "2026-11-22"
     }
   ],
   "pending_items": [
@@ -4762,6 +4793,141 @@
         "practicality": 45.0,
         "freshness": 100
       }
+    },
+    {
+      "name": "Hy4 flash：腾讯开源，首日调用登顶，224B参数只激活12B的部署指南",
+      "type": "news",
+      "platform": "掘金",
+      "url": "https://www.juejin.cn/post/7709479579865497640",
+      "summary": "掘金技术社区整理的开源与部署信息：腾讯混元Hy4 flash于11月16日发布、11月18日开源Hy4 flash、Hy4 flash-FP8与Hy4 flash Base三个版本，总参数224B（含64B Engram）、每token激活12B，支持多模态与100万token上下文。官方披露上线首日Token调用量突破50万亿并登顶OpenRouter LLM日榜，输入0.5元/百万token、输出2元、缓存命中低至0.02元。",
+      "popularity": {
+        "views": 12000,
+        "likes": 34,
+        "comments": 12
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "大模型部署",
+          "API成本优化",
+          "多模态"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-19T10:25:32"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 82.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 78.0,
+        "freshness": 80
+      },
+      "collected_on": "2026-11-22"
+    },
+    {
+      "name": "刚刚，alphaXiv甩出AI Agent专属预印本服务器",
+      "type": "news",
+      "platform": "机器之心",
+      "url": "https://m.163.com/dy/article/LC6HSA060511AQHO.html",
+      "summary": "alphaXiv推出面向AI Agent的预印本服务器，并与斯坦福、MIT等机构组织12周实验：35个实验室的936个智能体自主完成假设提出、写代码跑实验、写论文与同行交流，产出936项研究成果、交换约9500条消息，甚至自办期刊并主动撤稿。实验档案与智能体服务器均已开放，可接入研究者自己的Agent。",
+      "popularity": {
+        "views": 43000,
+        "likes": 81,
+        "comments": 44
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "科研智能体",
+          "多智能体协作",
+          "学术评审"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-20T15:33:56"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 78.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 45.0,
+        "freshness": 100
+      },
+      "collected_on": "2026-11-22"
+    },
+    {
+      "name": "上海AI Lab开源Sage S2.1 Flash技术报告：四项智能体基准SOTA",
+      "type": "news",
+      "platform": "机器之心",
+      "url": "https://m.163.com/dy/article/LC6EQ3TA0511AQHO.html",
+      "summary": "上海人工智能实验室联合多所高校发布书生S2.1 Flash（Sage S2.1 Flash）技术报告，320B MoE架构、单次激活18B，配套Sage Sci-Perception统一科学多模态表示与ToolSpace工具协作空间（覆盖2042种工具、804个环境）。在33项通用智能体基准中取得4项第一、7项第二，MLE-bench Lite 90.3分居首，代码与权重已在GitHub与Hugging Face开源。",
+      "popularity": {
+        "views": 39000,
+        "likes": 64,
+        "comments": 28
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "科研智能体",
+          "工具调用",
+          "多模态推理"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-20T14:31:16"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 76.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 53.0,
+        "practicality": 54.0,
+        "freshness": 100
+      },
+      "collected_on": "2026-11-22"
     }
   ]
 }
