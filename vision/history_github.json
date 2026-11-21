@@ -425,7 +425,9 @@
         "usability": 69.0,
         "practicality": 54.0,
         "freshness": 20
-      }
+      },
+      "title_zh": "HuRo：把人类视频「机器人化」，为 VLA 预训练规模化造数据（CoRL 2026）",
+      "summary_zh": "HuRo 将第一视角人类视频通过动作重定向转换为机器人可用的训练数据，用于规模化 VLA 预训练，覆盖 egocentric 视频处理与运动重映射；Python，Apache-2.0。"
     },
     {
       "name": "lyf0801/ST-SAM3",
@@ -962,7 +964,9 @@
         "usability": 60.0,
         "practicality": 50.0,
         "freshness": 60
-      }
+      },
+      "title_zh": "DK-VLM：把几何当作位置，让视觉语言模型学会空间推理",
+      "summary_zh": "DK-VLM 官方实现，提出将几何信息作为位置先验注入视觉语言模型，改善空间定位与关系推理表现；Python 编写、MIT 许可，约 125 star。"
     },
     {
       "name": "LMIXR/CV_Deployment_skill",
@@ -1377,7 +1381,9 @@
         "practicality": 50.0,
         "freshness": 20
       },
-      "collected_on": "2026-10-29"
+      "collected_on": "2026-10-29",
+      "title_zh": "Bax：面向规模化深度学习的 JAX / Haiku 灵活训练接口",
+      "summary_zh": "为 JAX 与 dm-haiku 模型提供统一的训练器接口与实验脚手架，便于扩展多卡训练和配置管理；仓库以 HTML 为主，约 56 star，属于深度学习训练框架封装。"
     },
     {
       "name": "mhdijas-2001/torch-hydra-forge",
@@ -1737,7 +1743,9 @@
         "usability": 60.0,
         "practicality": 50.0,
         "freshness": 60
-      }
+      },
+      "title_zh": "Ψ-0.6：统一视觉-语言世界模型中的自适应思维流",
+      "summary_zh": "MIT 神经人工智能实验室发布的论文配套仓库，提出在统一的视觉-语言世界模型中用自适应推理流组织多模态预测，代码与论文材料随仓库开放，MIT 许可。"
     },
     {
       "name": "MuhammadMustafa18/VisionHarness",
