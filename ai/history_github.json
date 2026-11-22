@@ -1,278 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "flohoeller/affectui",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/flohoeller/affectui",
-      "summary": "UI for AI 智能体s. React components for what 智能体s do – 智能体 trees, tool calls, traces, handoffs and approvals – and for the rest of your app. One file each, install with shadcn or via MCP. Free and 开源....",
-      "popularity": {
-        "views": 734,
-        "likes": 734,
-        "comments": 49
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-10-03T19:58:10"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 734,
-        "forks": 49,
-        "open_issues": 1,
-        "language": "TypeScript",
-        "license": "mit",
-        "topics": [
-          "agent-ui",
-          "ai",
-          "ai-agents",
-          "ai-ui",
-          "animation",
-          "components",
-          "dark-mode",
-          "illustrations",
-          "llm",
-          "mcp",
-          "motion",
-          "nextjs",
-          "react",
-          "react-components",
-          "shadcn",
-          "shadcn-registry",
-          "shadcn-ui",
-          "typescript",
-          "ui-components",
-          "ui-library"
-        ],
-        "created_at": "2026-10-03T19:58:10Z",
-        "pushed_at": "2026-11-10T13:17:50Z"
-      },
-      "filtered": false,
-      "total_score": 66.0,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 59.0,
-        "freshness": 20
-      },
-      "_source": "pending",
-      "collected_on": "2026-11-02",
-      "selected_on": "2026-11-19"
-    },
-    {
-      "name": "baojian/llm-26-fall",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/baojian/llm-26-fall",
-      "summary": "Fudan University 自然语言处理 and 大语言模型s, Fall 2026 (语言: Python)",
-      "popularity": {
-        "views": 53,
-        "likes": 53,
-        "comments": 146
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "通用AI应用"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-04T03:32:36"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 53,
-        "forks": 146,
-        "open_issues": 17,
-        "language": "Python",
-        "license": "",
-        "topics": [],
-        "created_at": "2026-09-04T03:32:36Z",
-        "pushed_at": "2026-10-30T15:18:44Z"
-      },
-      "filtered": false,
-      "total_score": 61.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 60.0,
-        "practicality": 50.0,
-        "freshness": 20
-      },
-      "_source": "pending",
-      "collected_on": "2026-10-30",
-      "selected_on": "2026-11-19"
-    },
-    {
-      "name": "ThinkWatchProject/ThinkWatch-Lite",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/ThinkWatchProject/ThinkWatch-Lite",
-      "summary": "Local gateway for Claude Code, Codex and other AI clients on macOS, Windows and Linux: switch upstreams without touching clients, keep API keys from relays, cut off malicious tool calls, trace ever...",
-      "popularity": {
-        "views": 1070,
-        "likes": 1070,
-        "comments": 8
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "代码生成"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-09-12T13:48:15"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 1070,
-        "forks": 8,
-        "open_issues": 0,
-        "language": "TypeScript",
-        "license": "mit",
-        "topics": [
-          "ai-gateway",
-          "anthropic",
-          "claude-code",
-          "codex",
-          "cost-monitoring",
-          "cost-tracking",
-          "cross-platform",
-          "linux",
-          "llm-cost",
-          "llm-gateway",
-          "llm-observability",
-          "llm-proxy",
-          "llm-usage",
-          "macos",
-          "openai",
-          "secret-redaction",
-          "system-tray",
-          "token-usage",
-          "usage-tracking",
-          "windows"
-        ],
-        "created_at": "2026-09-12T13:48:15Z",
-        "pushed_at": "2026-11-13T15:04:56Z"
-      },
-      "filtered": false,
-      "total_score": 66.0,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 59.0,
-        "freshness": 20
-      },
-      "collected_on": "2026-11-02",
-      "selected_on": "2026-11-19"
-    },
-    {
-      "name": "apimart-66/ai-api-aggregator",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/apimart-66/ai-api-aggregator",
-      "summary": "AI API aggregator companion: machine-readable catalog of 300+ 模型s behind one key and one base URL, with routing patterns, cost accounting, OpenAI SDK and curl examples. (语言: Python) [标签: ai-api-agg...",
-      "popularity": {
-        "views": 150,
-        "likes": 150,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "图像生成"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-16T07:17:05"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 150,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "other",
-        "topics": [
-          "ai-api-aggregator",
-          "ai-api-gateway",
-          "api-relay",
-          "apimart",
-          "gpt-image-2-5",
-          "image-2-5",
-          "image2-5",
-          "model-catalog",
-          "openai-compatible",
-          "text-to-image",
-          "unified-ai-api"
-        ],
-        "created_at": "2026-09-16T07:17:05Z",
-        "pushed_at": "2026-11-13T14:40:59Z"
-      },
-      "filtered": false,
-      "total_score": 66.0,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 78.0,
-        "practicality": 50.0,
-        "freshness": 20
-      },
-      "collected_on": "2026-10-29",
-      "selected_on": "2026-11-19"
-    },
-    {
       "name": "apimart-API-Gateway/grok-image-api",
       "type": "tool",
       "platform": "GitHub",
@@ -3399,6 +3127,280 @@
       "summary_zh": "开源 AI 视频智能体（github.com/openfilm/openfilm，TypeScript，8870 star），可挂接 Claude Code、Codex 等 coding agent 生成 motion graphics 与 HTML 视频，并提供编辑器逐项修改产出；适合复用现有 Agent 工具链做视频内容，模型调用成本取决于所选底座。",
       "collected_on": "2026-11-01",
       "selected_on": "2026-11-22"
+    },
+    {
+      "name": "N1nEmAn/sapper-v2",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/N1nEmAn/sapper-v2",
+      "summary": "The first fruit of the Nüwa tree — an 自主 AI pentest legion (634-team champion, 8h unattended, 1B tokens beat 4.5B). Not just a tool: evolvable by design. Grow your own fruit on the Nüwa Foundation ...",
+      "popularity": {
+        "views": 2553,
+        "likes": 2553,
+        "comments": 1235
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "代码生成"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-30T15:12:35"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 2553,
+        "forks": 1235,
+        "open_issues": 5,
+        "language": "Python",
+        "license": "mit",
+        "topics": [
+          "agentic-workflows",
+          "ai-agents",
+          "ai-security",
+          "autonomous-agents",
+          "claude-code",
+          "ctf",
+          "cybersecurity",
+          "fact-graph",
+          "llm",
+          "multi-agent",
+          "pentest",
+          "swarm-intelligence"
+        ],
+        "created_at": "2026-10-30T15:12:35Z",
+        "pushed_at": "2026-11-11T12:18:45Z"
+      },
+      "collected_on": "2026-11-12",
+      "filtered": false,
+      "total_score": 72.25,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 60.0,
+        "practicality": 61.0,
+        "freshness": 60
+      },
+      "title_zh": "N1nEmAn/sapper-v2：634 队夺冠的自主 AI 渗透测试多智能体集群",
+      "summary_zh": "腾讯云智能攻防挑战赛第三届初赛冠军方案开源（634 队、80.18/100、8 小时无人值守）。sapper 是多智能体编排 harness 而非单个 Agent：可自由替换 Claude Code / Codex / Code Buddy / DeepSeek 等 Agent CLI 与 GLM、DeepSeek V4.1 Flash、Claude 等模型，按 commander/soldier/scout 角色混编，核心是事实图（fact-graph）与可进化的 doctrine 设计，1B token 达到对手 4.5B token 的成绩。DISCLAIMER 明确仅限授权安全测试。https://github.com/N1nEmAn/sapper-v2",
+      "selected_on": "2026-11-23"
+    },
+    {
+      "name": "thesysdev/open-intelligent-ui",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/thesysdev/open-intelligent-ui",
+      "summary": "An open-source take on ChatGPT's Intelligent UI: answers stream as interactive UI (maps, photos, charts, drawings and working tools). Built with OpenUI. (语言: TypeScript) [标签: agents, ai, ai-agents,...",
+      "popularity": {
+        "views": 1041,
+        "likes": 1041,
+        "comments": 94
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-08T05:37:45"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 1041,
+        "forks": 94,
+        "open_issues": 35,
+        "language": "TypeScript",
+        "license": "mit",
+        "topics": [
+          "agents",
+          "ai",
+          "ai-agents",
+          "ai-ui",
+          "chat-ui",
+          "chatgpt",
+          "generative-ui",
+          "intelligent-ui",
+          "llm",
+          "nextjs",
+          "open-source",
+          "openui",
+          "react",
+          "streaming-ui",
+          "typescript"
+        ],
+        "created_at": "2026-10-08T05:37:45Z",
+        "pushed_at": "2026-11-19T09:18:15Z"
+      },
+      "collected_on": "2026-11-02",
+      "filtered": false,
+      "total_score": 66.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 59.0,
+        "freshness": 20
+      },
+      "title_zh": "thesysdev/open-intelligent-ui：开源复刻 ChatGPT Intelligent UI",
+      "summary_zh": "让大模型回答不再只是文本：基于 OpenUI，把答案以地图、照片、图表、绘图和可运行工具等交互式 UI 流式渲染出来，TypeScript + React/Next.js 实现，文档质量高，可直接作为智能体产品前端界面的参考实现。https://github.com/thesysdev/open-intelligent-ui",
+      "selected_on": "2026-11-23"
+    },
+    {
+      "name": "salikhussain71-code/PAKGOV-RAG-project",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/salikhussain71-code/PAKGOV-RAG-project",
+      "summary": "研究 project on bilingual Urdu-English 检索-augmented 生成 for Pakistani government and legal documents, with OCR, hybrid 检索, citation grounding, and 评估. (语言: Python) [标签: artificial-intelligence, inform...",
+      "popularity": {
+        "views": 134,
+        "likes": 134,
+        "comments": 8
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "检索增强生成",
+          "自然语言处理"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-17T10:31:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 134,
+        "forks": 8,
+        "open_issues": 3,
+        "language": "Python",
+        "license": "mit",
+        "topics": [
+          "artificial-intelligence",
+          "information-retrieval",
+          "legal-nlp",
+          "low-resource-languages",
+          "nlp",
+          "ocr",
+          "rag",
+          "retrieval-augmented-generation",
+          "transformers",
+          "urdu-nlp"
+        ],
+        "created_at": "2026-09-17T10:31:00Z",
+        "pushed_at": "2026-11-21T17:43:03Z"
+      },
+      "collected_on": "2026-10-29",
+      "filtered": false,
+      "total_score": 64.25,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 52.0,
+        "freshness": 20
+      },
+      "title_zh": "PAKGOV-RAG-project：乌尔都-英语双语政府法律文档 RAG 实现",
+      "summary_zh": "面向巴基斯坦政府与法律文档的低资源语言检索增强生成研究项目：OCR + 混合检索 + 引用落地（citation grounding）+ 评估闭环，覆盖 legal-nlp、urdu-nlp、transformers 技术栈，是多语种文档问答与合规检索的完整参考实现。https://github.com/salikhussain71-code/PAKGOV-RAG-project",
+      "selected_on": "2026-11-23"
+    },
+    {
+      "name": "amitshekhariitbhu/ai-engineering-course",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/amitshekhariitbhu/ai-engineering-course",
+      "summary": "AI Engineering Course - A free and complete AI Engineering Course to learn AI Engineering step by step - from 机器学习, Neural Networks, and Transformers to LLMs, 微调, RAG, AI 智能体s, LLM 推理, 评估, AI Safet...",
+      "popularity": {
+        "views": 766,
+        "likes": 766,
+        "comments": 154
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "检索增强生成",
+          "AI Agent",
+          "模型微调"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-09-23T08:04:42"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 766,
+        "forks": 154,
+        "open_issues": 0,
+        "language": "Markdown",
+        "license": "apache-2.0",
+        "topics": [
+          "ai-course",
+          "ai-engineering",
+          "ai-engineering-course",
+          "ai-engineering-curriculum",
+          "large-language-models"
+        ],
+        "created_at": "2026-09-23T08:04:42Z",
+        "pushed_at": "2026-11-22T02:31:34Z"
+      },
+      "collected_on": "2026-10-29",
+      "filtered": false,
+      "total_score": 63.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 53.0,
+        "practicality": 63.0,
+        "freshness": 20
+      },
+      "title_zh": "ai-engineering-course：免费完整的 AI 工程体系化课程",
+      "summary_zh": "循序渐进的开源 AI Engineering 课程：从机器学习、神经网络、Transformer 一路讲到 LLM、微调、RAG、AI Agent、LLM 推理、评估与 AI 安全，Markdown 讲义形式且持续更新（最近推送 2026-11-22），适合作为团队学习路径与内训材料。https://github.com/amitshekhariitbhu/ai-engineering-course",
+      "selected_on": "2026-11-23"
     }
   ],
   "pending_items": []
