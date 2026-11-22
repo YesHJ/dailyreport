@@ -1,71 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "groundingpi/GroundingPI",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/groundingpi/GroundingPI",
-      "summary": "A 4B grounding 基础模型 for physical intelligence. Unifies 检测, referring, pointing, OCR, GUI, and layout grounding, achieving SOTA overall across 34 基准测试s and improving robot generalization and data ef...",
-      "popularity": {
-        "views": 415,
-        "likes": 415,
-        "comments": 14
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "目标检测",
-          "文字识别",
-          "视觉-语言-动作"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-30T08:15:37"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 415,
-        "forks": 14,
-        "open_issues": 3,
-        "language": "Python",
-        "license": "apache-2.0",
-        "topics": [
-          "embodied-ai",
-          "gui-grounding",
-          "object-detection",
-          "ocr",
-          "physical-intelligence",
-          "pointing",
-          "robot-learning",
-          "vision-language-model",
-          "visual-grounding",
-          "vla"
-        ],
-        "created_at": "2026-09-30T08:15:37Z",
-        "pushed_at": "2026-10-31T13:19:48Z"
-      },
-      "filtered": false,
-      "total_score": 67.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 81.0,
-        "practicality": 54.0,
-        "freshness": 20
-      }
-    },
-    {
       "name": "deepseek-ai/DeepEP-Ascend",
       "type": "tool",
       "platform": "GitHub",
@@ -3064,6 +2999,69 @@
       "selected_on": "2026-11-21",
       "title_zh": "SequenceLink：机器人策略的远程 GPU 推理服务层",
       "summary_zh": "开源 SequenceLink，为跑在远程 GPU 上的机器人策略提供低延迟 serving，已在 openpi、LeRobot、GR00T、Octo 上验证：推理层用 CUDA Graph 复用同批输出与副本，网络层压缩机器人与 GPU 之间的往返开销，适合把 VLA/视觉策略部署到真实本体。"
+    },
+    {
+      "name": "Alibaba-VELLDEPTH/DreamRealm",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/Alibaba-VELLDEPTH/DreamRealm",
+      "summary": "DreamRealm: Exploring and Materializing Hallucination Worlds for Trustworthy 视觉语言模型s. RealmMatch 训练 code and Qwen3.5-9B 模型 release. (语言: Python) [标签: multimodal-learning, pytorch, qwen, vision-lang...",
+      "popularity": {
+        "views": 28,
+        "likes": 28,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉语言模型",
+          "多模态"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-14T11:22:08"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 28,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "apache-2.0",
+        "topics": [
+          "multimodal-learning",
+          "pytorch",
+          "qwen",
+          "vision-language-models",
+          "visual-hallucination"
+        ],
+        "created_at": "2026-09-14T11:22:08Z",
+        "pushed_at": "2026-11-05T08:19:48Z"
+      },
+      "collected_on": "2026-11-23",
+      "filtered": false,
+      "total_score": 40.48,
+      "detail_scores": {
+        "popularity": 28.28,
+        "usability": 60.0,
+        "practicality": 52.0,
+        "freshness": 20
+      },
+      "title_zh": "DreamRealm：把视觉语言模型的幻觉“具象成世界”再逐项验证（附 RealmMatch 训练代码与 Qwen3.5-9B 模型）",
+      "summary_zh": "阿里巴巴 VELLDEPTH 团队开源 DreamRealm，围绕“可信视觉语言模型”提出先探索并具象化模型的幻觉世界、再据此检验与纠正的思路，随仓库释出 RealmMatch 训练代码与 Qwen3.5-9B 模型权重；Python + PyTorch 实现，主题标签为 multimodal-learning、pytorch、qwen、vision-language-models、visual-hallucination。仓库：https://github.com/Alibaba-VELLDEPTH/DreamRealm",
+      "selected_on": "2026-11-23"
     }
   ],
   "pending_items": []
