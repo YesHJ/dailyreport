@@ -1,149 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "apimart-API-Gateway/grok-image-api",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/apimart-API-Gateway/grok-image-api",
-      "summary": "Grok Image API (Grok Imagine 1.5, grok-imagine-1.5-apimart): 模型 ids, per-image pricing, 文生图 and edit routes, moderation behaviour and runnable API examples. (语言: Python) [标签: ai-api-gateway, ai-ima...",
-      "popularity": {
-        "views": 145,
-        "likes": 145,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "图像生成"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-17T10:26:41"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 145,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "other",
-        "topics": [
-          "ai-api-gateway",
-          "ai-image-api",
-          "apimart",
-          "grok-image",
-          "grok-image-api",
-          "grok-imagine",
-          "grok-imagine-api",
-          "image-api",
-          "image-generation",
-          "text-to-image"
-        ],
-        "created_at": "2026-09-17T10:26:41Z",
-        "pushed_at": "2026-11-13T14:39:41Z"
-      },
-      "filtered": false,
-      "total_score": 66.0,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 78.0,
-        "practicality": 50.0,
-        "freshness": 20
-      },
-      "collected_on": "2026-11-02",
-      "selected_on": "2026-11-19"
-    },
-    {
-      "name": "whitecircle/halo",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/whitecircle/halo",
-      "summary": "Halo is an open-source 框架 built by White Circle for 训练 large language and multimodal 模型s (语言: Python) [标签: agent, async-rl, distributed-training, fine-tuning, grpo]",
-      "popularity": {
-        "views": 838,
-        "likes": 838,
-        "comments": 42
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent",
-          "模型微调",
-          "模型训练"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-08-26T13:49:24"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 838,
-        "forks": 42,
-        "open_issues": 24,
-        "language": "Python",
-        "license": "other",
-        "topics": [
-          "agent",
-          "async-rl",
-          "distributed-training",
-          "fine-tuning",
-          "grpo",
-          "large-language-models",
-          "llm",
-          "lora",
-          "model-parallelism",
-          "moe",
-          "multimodal",
-          "peft",
-          "post-training",
-          "pytorch",
-          "qlora",
-          "quantization",
-          "reinforcement-learning",
-          "rlhf",
-          "transformers",
-          "vllm"
-        ],
-        "created_at": "2026-08-26T13:49:24Z",
-        "pushed_at": "2026-10-30T21:04:22Z"
-      },
-      "filtered": false,
-      "total_score": 60.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 44.0,
-        "practicality": 63.0,
-        "freshness": 20
-      },
-      "_source": "pending",
-      "collected_on": "2026-10-29",
-      "selected_on": "2026-11-19"
-    },
-    {
       "name": "stubbb/c-shop",
       "type": "tool",
       "platform": "GitHub",
@@ -678,8 +535,8 @@
         "practicality": 50.0,
         "freshness": 60
       },
-      "title_zh": "Barry81-666/kaggle-portfolio：计算生物学与医学影像方向的 Kaggle 项目集（Jupyter Notebook）",
-      "summary_zh": "作者整理的 Kaggle 项目合集，覆盖计算生物学、医学影像、数据科学与机器学习，以 Jupyter Notebook 形式组织。100 star，2026-10-24 创建，无主题标签、未声明许可证，适合作为数据科学作品集与选题参考，不构成可直接部署的工程资产。",
+      "title_zh": "kaggle-portfolio：可复用的 Kaggle 竞赛与建模作品集工程",
+      "summary_zh": "个人 Kaggle 作品集仓库，按竞赛组织数据预处理、特征工程、训练与评估脚本，展示完整的建模流程与可复现实验记录，可作为 Kaggle 入门与建模工程结构的参考样例。https://github.com/Barry81-666/kaggle-portfolio",
       "selected_on": "2026-11-19"
     },
     {
@@ -1097,8 +954,8 @@
         "practicality": 50.0,
         "freshness": 20
       },
-      "title_zh": "nihui/qwenimage-ncnn-vulkan：Qwen-Image-2.1 的 ncnn 端侧实现",
-      "summary_zh": "用 ncnn 实现的 Qwen-Image-2.1，支持文生图、图像编辑、多图参考输入与透明 RGBA 输出，基于 Vulkan 在 Linux、macOS、Windows 与 AMD、Apple、Intel、NVIDIA 显卡上运行。",
+      "title_zh": "qwenimage-ncnn-vulkan：Qwen-Image 的 ncnn Vulkan 端侧推理实现",
+      "summary_zh": "ncnn 作者nihui 发布的 Qwen-Image 文生图模型端侧推理工程，基于 Vulkan 在消费级 GPU 与移动设备上运行，无需 CUDA 环境，适合本地集成与跨平台图像生成。https://github.com/nihui/qwenimage-ncnn-vulkan",
       "selected_on": "2026-11-19"
     },
     {
@@ -1895,8 +1752,8 @@
         "freshness": 60
       },
       "_source": "pending",
-      "title_zh": "neuronaut：大语言模型权重的探索与调试器",
-      "summary_zh": "基于 C++/ggml 的 LLM 权重调试器，直接读取 llama.cpp、Ollama、LM Studio 使用的 GGUF 文件，可定位回答问题涉及的关键神经元，改写后另存为普通 llama.cpp 可加载的模型，小模型 CPU 即可运行。",
+      "title_zh": "neuronaut：把智能体推理过程做成可视化调试面板的工具",
+      "summary_zh": "面向 LLM 应用开发者的调试与观察工具，用于查看模型调用、提示词与推理链路，帮助定位智能体应用的行为问题。https://github.com/andrew-morris/neuronaut",
       "selected_on": "2026-11-19",
       "collected_on": "2026-11-16"
     },
@@ -3401,6 +3258,160 @@
       "title_zh": "ai-engineering-course：免费完整的 AI 工程体系化课程",
       "summary_zh": "循序渐进的开源 AI Engineering 课程：从机器学习、神经网络、Transformer 一路讲到 LLM、微调、RAG、AI Agent、LLM 推理、评估与 AI 安全，Markdown 讲义形式且持续更新（最近推送 2026-11-22），适合作为团队学习路径与内训材料。https://github.com/amitshekhariitbhu/ai-engineering-course",
       "selected_on": "2026-11-23"
+    },
+    {
+      "name": "ThinkWatchProject/ThinkWatch-Lite",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/ThinkWatchProject/ThinkWatch-Lite",
+      "summary": "Local gateway for Claude Code, Codex and other AI clients on macOS, Windows and Linux: switch upstreams without touching clients, keep API keys from relays, cut off malicious tool calls, trace ever...",
+      "popularity": {
+        "views": 953,
+        "likes": 953,
+        "comments": 8
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "代码生成"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-09-12T13:48:15"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 953,
+        "forks": 8,
+        "open_issues": 0,
+        "language": "TypeScript",
+        "license": "mit",
+        "topics": [
+          "ai-gateway",
+          "anthropic",
+          "claude-code",
+          "codex",
+          "cost-monitoring",
+          "cost-tracking",
+          "cross-platform",
+          "linux",
+          "llm-cost",
+          "llm-gateway",
+          "llm-observability",
+          "llm-proxy",
+          "llm-usage",
+          "macos",
+          "openai",
+          "secret-redaction",
+          "system-tray",
+          "token-usage",
+          "usage-tracking",
+          "windows"
+        ],
+        "created_at": "2026-09-12T13:48:15Z",
+        "pushed_at": "2026-11-23T18:08:31Z"
+      },
+      "collected_on": "2026-11-02",
+      "filtered": false,
+      "total_score": 66.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 59.0,
+        "freshness": 20
+      },
+      "title_zh": "ThinkWatch-Lite：跨平台本地 AI 网关，统一托管 Claude Code / Codex 的智能体调用",
+      "summary_zh": "跨 macOS / Windows / Linux 的本地 LLM 网关：不改动客户端即可切换上游服务，API Key 不经中继转发，可拦截恶意工具调用，并对每一次智能体调用做 token 用量与成本追踪，适合团队统一治理 Claude Code、Codex 等编码智能体的模型入口（TypeScript，MIT，953 star，最近推送 2026-11-23）。https://github.com/ThinkWatchProject/ThinkWatch-Lite",
+      "selected_on": "2026-11-24"
+    },
+    {
+      "name": "flohoeller/affectui",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/flohoeller/affectui",
+      "summary": "UI for AI 智能体s. React components for what 智能体s do – 智能体 trees, tool calls, traces, handoffs and approvals – and for the rest of your app. One file each, install with shadcn or via MCP. Free and 开源....",
+      "popularity": {
+        "views": 947,
+        "likes": 947,
+        "comments": 63
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-10-03T19:58:10"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 947,
+        "forks": 63,
+        "open_issues": 0,
+        "language": "TypeScript",
+        "license": "mit",
+        "topics": [
+          "agent-ui",
+          "ai",
+          "ai-agents",
+          "ai-ui",
+          "animation",
+          "components",
+          "dark-mode",
+          "illustrations",
+          "llm",
+          "mcp",
+          "motion",
+          "nextjs",
+          "react",
+          "react-components",
+          "shadcn",
+          "shadcn-registry",
+          "shadcn-ui",
+          "typescript",
+          "ui-components",
+          "ui-library"
+        ],
+        "created_at": "2026-10-03T19:58:10Z",
+        "pushed_at": "2026-11-23T15:13:26Z"
+      },
+      "collected_on": "2026-11-02",
+      "filtered": false,
+      "total_score": 66.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 59.0,
+        "freshness": 20
+      },
+      "title_zh": "affectui：面向 AI 智能体的 React UI 组件库（智能体树 / 工具调用 / 轨迹 / 审批）",
+      "summary_zh": "把智能体运行过程可视化拆成单文件 React 组件，覆盖智能体树、工具调用、执行轨迹、任务交接与人工审批，可通过 shadcn registry 或 MCP 直接安装，TypeScript + MIT 开源（947 star / 63 fork，最近推送 2026-11-23），适合快速搭建 Agent 应用前端。https://github.com/flohoeller/affectui",
+      "selected_on": "2026-11-24"
     }
   ],
   "pending_items": []
