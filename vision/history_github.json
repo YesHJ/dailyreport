@@ -1,126 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "deepseek-ai/DeepEP-Ascend",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/deepseek-ai/DeepEP-Ascend",
-      "summary": "A high-performance communication 库 for 机器学习 训练 and 推理 on Huawei Ascend NPUs. (语言: C++)",
-      "popularity": {
-        "views": 288,
-        "likes": 288,
-        "comments": 62
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "机器视觉应用"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-30T00:44:59"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 288,
-        "forks": 62,
-        "open_issues": 21,
-        "language": "C++",
-        "license": "",
-        "topics": [],
-        "created_at": "2026-09-30T00:44:59Z",
-        "pushed_at": "2026-11-03T01:45:19Z"
-      },
-      "filtered": false,
-      "total_score": 63.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 50.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "Garfield-kh/FastVLA",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/Garfield-kh/FastVLA",
-      "summary": "Fast-VLA (FastVLA): You Only Think Once for Robot Manipulation (语言: Python) [标签: embodied-ai, fast-vla, fastvla, imitation-learning, libero]",
-      "popularity": {
-        "views": 12,
-        "likes": 12,
-        "comments": 3
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉-语言-动作",
-          "视觉语言模型",
-          "机器人视觉"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-10-16T03:08:30"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 12,
-        "forks": 3,
-        "open_issues": 1,
-        "language": "Python",
-        "license": "apache-2.0",
-        "topics": [
-          "embodied-ai",
-          "fast-vla",
-          "fastvla",
-          "imitation-learning",
-          "libero",
-          "robot-manipulation",
-          "robotics",
-          "robotwin",
-          "vision-language-action",
-          "vla"
-        ],
-        "created_at": "2026-10-16T03:08:30Z",
-        "pushed_at": "2026-10-30T08:50:36Z"
-      },
-      "filtered": false,
-      "total_score": 48.64,
-      "detail_scores": {
-        "popularity": 27.12,
-        "usability": 60.0,
-        "practicality": 54.0,
-        "freshness": 60
-      },
-      "collected_on": "2026-11-09",
-      "title_zh": "Fast-VLA：只推理一次的机器人操作 VLA",
-      "summary_zh": "提出 You Only Think Once 的 VLA 结构，把单次视觉-语言推理直接展开为动作块，减少反复思考带来的延迟，在 LIBERO、RoboTwin 等仿真操作基准上验证，Python/Apache-2.0 开源。"
-    },
-    {
       "name": "Aqshalikhsan/Colosseum-Microcontroller",
       "type": "tool",
       "platform": "GitHub",
@@ -1008,7 +888,10 @@
         "usability": 48.0,
         "practicality": 50.0,
         "freshness": 20
-      }
+      },
+      "collected_on": "2026-11-01",
+      "title_zh": "CS312《Deep Learning Alchemy》课程作业合集（历史回填条目，仅作展示）",
+      "summary_zh": "深度学习课程 CS312 的学员作业仓库（Python，44 stars）。与机器视觉/工业检测没有直接关系，属于历史随机回填（_retro）用于补足展示条目的内容，不计入本轮新采集，也不写入本轮中文入库新增。"
     },
     {
       "name": "BlueRingsLabs/no-shortcuts",
@@ -3062,6 +2945,139 @@
       "title_zh": "DreamRealm：把视觉语言模型的幻觉“具象成世界”再逐项验证（附 RealmMatch 训练代码与 Qwen3.5-9B 模型）",
       "summary_zh": "阿里巴巴 VELLDEPTH 团队开源 DreamRealm，围绕“可信视觉语言模型”提出先探索并具象化模型的幻觉世界、再据此检验与纠正的思路，随仓库释出 RealmMatch 训练代码与 Qwen3.5-9B 模型权重；Python + PyTorch 实现，主题标签为 multimodal-learning、pytorch、qwen、vision-language-models、visual-hallucination。仓库：https://github.com/Alibaba-VELLDEPTH/DreamRealm",
       "selected_on": "2026-11-23"
+    },
+    {
+      "name": "Tencent/WePocketModel",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/Tencent/WePocketModel",
+      "summary": "A compact, unified 多模态 模型 family with a single shared vision–language backbone, built for on-device and in-app intelligence. (语言: Python) [标签: embedding-models, generation-models, jevs-models, mult...",
+      "popularity": {
+        "views": 82,
+        "likes": 82,
+        "comments": 1
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉语言模型",
+          "多模态"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-16T11:50:51"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 82,
+        "forks": 1,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "other",
+        "topics": [
+          "embedding-models",
+          "generation-models",
+          "jevs-models",
+          "multimodal-models",
+          "unified-model",
+          "vision-language-model"
+        ],
+        "created_at": "2026-11-16T11:50:51Z",
+        "pushed_at": "2026-11-23T11:12:06Z"
+      },
+      "collected_on": "2026-11-24",
+      "filtered": false,
+      "total_score": 72.6,
+      "detail_scores": {
+        "popularity": 87.82000000000002,
+        "usability": 69.0,
+        "practicality": 52.0,
+        "freshness": 80
+      },
+      "title_zh": "腾讯 WePocketModel：一套视觉-语言主干同时做检索、生成与决策的端侧统一多模态模型（2B/4B）",
+      "summary_zh": "腾讯开源 WePM 1.0（Apache 2.0，2B 与 4B 两档），核心是一个共享的视觉-语言主干同时支撑三类能力：L2 归一化的多模态向量（图像检索、文本检索、候选排序）、生成能力（OCR、图像描述、视觉问答、摘要与助手回复）以及决策输出（选项选择、序数打分、二元判断）。4B 主干在 BF16 下权重约 8GB，目标是替代端侧同时驻留的多个专用模型；训练侧用 MGVB 多粒度视觉预算、监督形式对齐与损失尺度协调来化解异构任务冲突。已放出技术报告 arxiv 2611.27365、Hugging Face 权重（Transformers 与 GGUF 两种格式）与推理快速开始，适合手机/PC 离线多模态检索与理解的端侧部署。",
+      "selected_on": "2026-11-24"
+    },
+    {
+      "name": "groundingpi/GroundingPI",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/groundingpi/GroundingPI",
+      "summary": "A 4B grounding 基础模型 for physical intelligence. Unifies 检测, referring, pointing, OCR, GUI, and layout grounding, achieving SOTA overall across 34 基准测试s and improving robot generalization and data ef...",
+      "popularity": {
+        "views": 443,
+        "likes": 443,
+        "comments": 14
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "目标检测",
+          "文字识别",
+          "视觉-语言-动作"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-30T08:15:37"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 443,
+        "forks": 14,
+        "open_issues": 4,
+        "language": "Python",
+        "license": "apache-2.0",
+        "topics": [
+          "embodied-ai",
+          "gui-grounding",
+          "object-detection",
+          "ocr",
+          "physical-intelligence",
+          "pointing",
+          "robot-learning",
+          "vision-language-model",
+          "visual-grounding",
+          "vla"
+        ],
+        "created_at": "2026-09-30T08:15:37Z",
+        "pushed_at": "2026-10-31T13:19:48Z"
+      },
+      "collected_on": "2026-10-29",
+      "filtered": false,
+      "total_score": 67.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 81.0,
+        "practicality": 54.0,
+        "freshness": 20
+      },
+      "title_zh": "GroundingPI：4B 视觉定位基础模型，统一检测/指代定位/指点/OCR/GUI/版面，34 项基准综合 SOTA",
+      "summary_zh": "GroundingPI 是面向物理智能（physical intelligence）的 4B 视觉定位基础模型，把点、框、掩码等统一为视觉基元（visual primitives），在一个模型内覆盖目标检测、referring 表达式定位、指点、OCR、GUI 元素定位与版面分析，官方口径是在 34 个基准上综合取得 SOTA，并在受控评测中提升机器人任务泛化能力与数据效率。项目提供 arxiv 2609.39601、HuggingFace 与 ModelScope 权重及项目页 groundingpi.github.io，可直接用于机器人抓取前的目标定位、屏幕/文档理解等视觉落地场景。",
+      "selected_on": "2026-11-24"
     }
   ],
   "pending_items": []
