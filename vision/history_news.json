@@ -1,221 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "AI前沿日报：蚂蚁开源触觉基础模型LingBot-Touch，多感知从视觉向外延伸",
-      "type": "news",
-      "platform": "CSDN",
-      "url": "https://blog.csdn.net/qq_36729037/article/details/170565926",
-      "summary": "蚂蚁灵波开源触觉基础模型LingBot-Touch，走“一脑多手”路线，为机器人补齐触觉感知；日报同时梳理视觉+触觉+力控多模态模型趋势，可作为感知模型选型的横评参考。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "机器视觉",
-          "具身智能"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-11-11T20:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 44.0,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 60.0,
-        "practicality": 52.0,
-        "freshness": 80
-      }
-    },
-    {
-      "name": "新浪机器人热点小时报丨2026年11月14日02时",
-      "type": "news",
-      "platform": "新浪科技",
-      "url": "https://k.sina.cn/article_7857201856_1d45362c001908uqoy.html?from=tech",
-      "summary": "当日机器人/视觉要闻聚合：京东物流发布半导体行业首个智能物流方案，实现晶圆下线到包装 100% 无人化；OpenAI 被曝解散独立机器人团队，转向用通用多模态模型操控机器人。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "行业资讯"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-14T02:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 55.0,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 59.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "多模态\"源神\"！MiniMax 开源 SOTA 生图模型，原生 4K，一张两毛",
-      "type": "news",
-      "platform": "量子位",
-      "url": "https://www.qbitai.com/2026-11/509440.html",
-      "summary": "MiniMax 开放权重发布新一代图像生成模型，原生支持 4K 分辨率，单张成本约两毛人民币，主打电商素材、海报与 CAD 拆解类高精度出图，被认为是当前开源生图第一梯队。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉生成"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-11-12T19:36:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 43.5,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 60.0,
-        "practicality": 50.0,
-        "freshness": 80
-      }
-    },
-    {
-      "name": "不靠外部裁判，统一多模态模型学会自己\"看图改图\"：修复成功率提升到3倍，GenEval 0.72→0.84",
-      "type": "news",
-      "platform": "机器之心",
-      "url": "https://www.163.com/dy/article/LBEKQG300511AQHO.html",
-      "summary": "南洋理工、上海交大与东京大学提出UMM-Reflection，在开源统一模型BAGEL上用\"反思SFT冷启动+整轨迹强化学习\"训练多轮自我修改，推理时不再需要外部批评器。初始错图修复率由20.6%升到64.9%，GenEval 0.72→0.84（空间项0.47→0.89），未见过的WISE提升11点；代码、模型权重与训练数据全部开源。",
-      "popularity": {
-        "views": 30000,
-        "likes": 260,
-        "comments": 45
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "图像生成质量自纠错",
-          "多模态模型后训练"
-        ],
-        "maturity": "experimental"
-      },
-      "freshness": {
-        "publish_date": "2026-11-11T08:34:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 70.0,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 53.0,
-        "practicality": 43.0,
-        "freshness": 80
-      },
-      "_source": "pending"
-    },
-    {
-      "name": "SLA登顶RoboDojo真机榜：港科广联合欧拉万象让机器人更懂三维空间",
-      "type": "news",
-      "platform": "机器之心",
-      "url": "https://www.sohu.com/a/1098791672_123034319",
-      "summary": "香港科技大学（广州）与欧拉万象提出SLA（Spatial-Language-Action Model），用隐式空间对齐提供空间监督并引入持续预训练，继承π0.5架构与权重。RoboDojo-Real真机榜（3种本体、18项任务）平均42.3分、成功率33.9%，约为π0.5的2.6倍；空间对齐分支只在训练时使用，部署不增加推理开销，论文与权重已公开。",
-      "popularity": {
-        "views": 21000,
-        "likes": 160,
-        "comments": 30
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "机器人抓取",
-          "三维空间理解"
-        ],
-        "maturity": "experimental"
-      },
-      "freshness": {
-        "publish_date": "2026-11-12T08:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 67.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 44.0,
-        "practicality": 43.0,
-        "freshness": 80
-      },
-      "_source": "pending"
-    },
-    {
       "name": "英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天",
       "type": "news",
       "platform": "量子位",
@@ -2397,6 +2182,251 @@
       "summary_zh": "米哈游崩坏 AI 团队公开 VLA 论文 Gamer：以 Qwen3-VL-8B 为骨干，经持续预训练 + 监督微调 + TA-GRPO 强化学习三段训练，配合 Streaming-vLLM 低延迟推理，仅凭屏幕画面与任务指令输出键鼠操作，在约 50 小时的五篇章长程评估中自主运行时间占比超过 95%（基线 17.1%），全程不读取游戏内部接口。代码：https://github.com/RainBowLuoCS/Gamer",
       "_source": "pending",
       "selected_on": "2026-11-23"
+    },
+    {
+      "name": "GPT-6.2 Sol全球上线，ChatGPT聊天模式内部测试中看图从47.4%冲到71.7%",
+      "type": "产品动态",
+      "platform": "新智元",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=43f33049",
+      "summary": "OpenAI 将 chat-tuned 版 GPT-6.2 Sol 推向 ChatGPT 聊天模式默认模型（Plus/Pro/Business/Enterprise 可用），内部测试中图像理解（看图）成绩从 47.4% 提升到 71.7%；困难指令答对率 78.1%（GPT-6 为 62.5%），四档推理强度的专家内部基准约 65%~71% 全面领先，BrowseComp 最多拉开约 10 个百分点，安全策略遵循率 91%~94%。Work 与 Codex 使用的模型未变。",
+      "popularity": {
+        "views": 2995,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium"
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "VLM 图像理解能力提升",
+          "多模态问答与检索",
+          "视觉能力商用 API 选型"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-24 04:39:00"
+      },
+      "pricing": {
+        "has_paid_features": false,
+        "plan": "报道免费（所述产品需 ChatGPT 订阅，非本条资讯收费）"
+      },
+      "accessibility": {
+        "blocked_in_china": false,
+        "requires_login": false
+      },
+      "collected_on": "2026-11-24",
+      "filtered": false,
+      "total_score": 68.73,
+      "detail_scores": {
+        "popularity": 29.950000000000003,
+        "usability": 81.0,
+        "practicality": 78.0,
+        "freshness": 100
+      },
+      "title_zh": "GPT-6.2 Sol全球上线，ChatGPT聊天模式内部测试中看图从47.4%冲到71.7%",
+      "summary_zh": "OpenAI 将 chat-tuned 版 GPT-6.2 Sol 推向 ChatGPT 聊天模式默认模型（Plus/Pro/Business/Enterprise 可用），内部测试中图像理解（看图）成绩从 47.4% 提升到 71.7%；困难指令答对率 78.1%（GPT-6 为 62.5%），四档推理强度的专家内部基准约 65%~71% 全面领先，BrowseComp 最多拉开约 10 个百分点，安全策略遵循率 91%~94%。Work 与 Codex 使用的模型未变。",
+      "selected_on": "2026-11-24"
+    },
+    {
+      "name": "当大模型接上真实机器人：RoboChallenge Zero首期评测发布",
+      "type": "行业评测",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/11/511978.html",
+      "summary": "RoboChallenge Zero 首期真机评测公布：11 个多模态模型、2 个机器人平台、6 项任务、共 330 次真机测试，整体任务成功率 44.85%，最高单项 70.00%（GPT-6.2 Astra）；最难任务“书写 Z0”仅 7.27%。评测同时给出成本口径——每取得一次成功约耗时 13-14 分钟、消耗约 48 万 Token，并已开放原生 VLA 模型提交，为视觉-动作模型的横向比较提供了可复用的真机评测流程。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "excellent"
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "VLA/VLM 真机基准",
+          "模型选型与成本测算",
+          "评测数据提交复现"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-23 11:13:06"
+      },
+      "pricing": {
+        "has_paid_features": false,
+        "plan": "评测结果与提交入口公开"
+      },
+      "accessibility": {
+        "blocked_in_china": false,
+        "requires_login": false
+      },
+      "collected_on": "2026-11-24",
+      "filtered": false,
+      "total_score": 62.0,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 90.0,
+        "practicality": 78.0,
+        "freshness": 100
+      },
+      "title_zh": "当大模型接上真实机器人：RoboChallenge Zero首期评测发布",
+      "summary_zh": "RoboChallenge Zero 首期真机评测公布：11 个多模态模型、2 个机器人平台、6 项任务、共 330 次真机测试，整体任务成功率 44.85%，最高单项 70.00%（GPT-6.2 Astra）；最难任务“书写 Z0”仅 7.27%。评测同时给出成本口径——每取得一次成功约耗时 13-14 分钟、消耗约 48 万 Token，并已开放原生 VLA 模型提交，为视觉-动作模型的横向比较提供了可复用的真机评测流程。",
+      "selected_on": "2026-11-24"
+    },
+    {
+      "name": "马斯克把GTA 6搬上特斯拉！FSD v15端到端实时生世界（Reality View）",
+      "type": "产品动态",
+      "platform": "新智元",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tg15b978",
+      "summary": "特斯拉推送 FSD v15，新增 Reality View：由同一个端到端驾驶模型派生的约 1B 参数轻量扩散模型，基于特斯拉通用视觉编码器（UVE）的特征流实时逐帧生成车外画面，36 帧/秒输出 8 张中控屏分辨率图像，仅占用 AI4 车载电脑半个 TRIP 加速器（约 20 TOPS，约相当于单张 H100 算力的 1%）。3B 驾驶主模型同样依赖 UVE 特征输出转向与制动；官方称 FSD、Robotaxi 与 Optimus 已共用同一套升级版 UVE，安全关键场景关键接管率提升 25 倍。",
+      "popularity": {
+        "views": 4018,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "medium"
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "车端视觉特征复用（UVE）",
+          "低算力实时视觉生成",
+          "端侧模型轻量化部署"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-23 12:35:00"
+      },
+      "pricing": {
+        "has_paid_features": false,
+        "plan": "报道免费"
+      },
+      "accessibility": {
+        "blocked_in_china": false,
+        "requires_login": false
+      },
+      "collected_on": "2026-11-24",
+      "filtered": false,
+      "total_score": 58.8,
+      "detail_scores": {
+        "popularity": 40.18,
+        "usability": 44.0,
+        "practicality": 63.0,
+        "freshness": 100
+      },
+      "title_zh": "马斯克把GTA 6搬上特斯拉！FSD v15端到端实时生世界（Reality View）",
+      "summary_zh": "特斯拉推送 FSD v15，新增 Reality View：由同一个端到端驾驶模型派生的约 1B 参数轻量扩散模型，基于特斯拉通用视觉编码器（UVE）的特征流实时逐帧生成车外画面，36 帧/秒输出 8 张中控屏分辨率图像，仅占用 AI4 车载电脑半个 TRIP 加速器（约 20 TOPS，约相当于单张 H100 算力的 1%）。3B 驾驶主模型同样依赖 UVE 特征输出转向与制动；官方称 FSD、Robotaxi 与 Optimus 已共用同一套升级版 UVE，安全关键场景关键接管率提升 25 倍。",
+      "selected_on": "2026-11-24"
+    },
+    {
+      "name": "不再盲采：SteerUMI让每一条数据都有效",
+      "type": "学术解读",
+      "platform": "新智元",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tg35ae09",
+      "summary": "启元研究院发布 SteerUMI，把手持相机采集（UMI）从预训练推向规模化后训练：云端对同一画面生成 10 组预测动作，扣除动作多模态分歧后计算“能量分数”判定 OOD；一旦越界即用 AR 把模型预测轨迹叠加到采集员视野引导修正。整套云边协同系统支持 50 余台终端并行，单轮端到端约 300ms（模型推理约 160ms）。叠衣服/毛巾/方块、清桌面、盖笔帽 5 个真实任务平均任务进度 90% 以上，同轮次比常规采集高 28.6%，与真机 HG-DAgger 差距由 18.5% 收窄到 3.0%。",
+      "popularity": {
+        "views": 3942,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "medium"
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉示教数据采集",
+          "在线 OOD 检测与补采",
+          "云边协同训练闭环"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-23 09:05:00"
+      },
+      "pricing": {
+        "has_paid_features": false,
+        "plan": "报道免费"
+      },
+      "accessibility": {
+        "blocked_in_china": false,
+        "requires_login": false
+      },
+      "collected_on": "2026-11-24",
+      "filtered": false,
+      "total_score": 54.08,
+      "detail_scores": {
+        "popularity": 39.42,
+        "usability": 44.0,
+        "practicality": 45.0,
+        "freshness": 100
+      },
+      "title_zh": "不再盲采：SteerUMI让每一条数据都有效",
+      "summary_zh": "启元研究院发布 SteerUMI，把手持相机采集（UMI）从预训练推向规模化后训练：云端对同一画面生成 10 组预测动作，扣除动作多模态分歧后计算“能量分数”判定 OOD；一旦越界即用 AR 把模型预测轨迹叠加到采集员视野引导修正。整套云边协同系统支持 50 余台终端并行，单轮端到端约 300ms（模型推理约 160ms）。叠衣服/毛巾/方块、清桌面、盖笔帽 5 个真实任务平均任务进度 90% 以上，同轮次比常规采集高 28.6%，与真机 HG-DAgger 差距由 18.5% 收窄到 3.0%。",
+      "selected_on": "2026-11-24"
+    },
+    {
+      "name": "具身智能指尖竞速：国产灵巧手视触觉多路线突围",
+      "type": "行业分析",
+      "platform": "电子发烧友",
+      "url": "https://www.elecfans.com/d/8960242.html",
+      "summary": "梳理国产灵巧手在具身智能场景的多条技术路线，重点分析“视触觉”融合：仅靠视觉难以接触瞬间判断物体位置、所需力矩与微小形变，需要视觉与触觉阵列协同感知滑移趋势与接触力，文章对比各家传感器方案与落地进展，对机器视觉在精细抓取与接触控制中的边界给出了产业侧视角。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium"
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "灵巧手视触觉感知",
+          "精细抓取与接触控制",
+          "具身硬件选型"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-23 09:18:20"
+      },
+      "pricing": {
+        "has_paid_features": false,
+        "plan": "报道免费"
+      },
+      "accessibility": {
+        "blocked_in_china": false,
+        "requires_login": false
+      },
+      "collected_on": "2026-11-24",
+      "filtered": false,
+      "total_score": 48.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 60.0,
+        "practicality": 54.0,
+        "freshness": 100
+      },
+      "title_zh": "具身智能指尖竞速：国产灵巧手视触觉多路线突围",
+      "summary_zh": "梳理国产灵巧手在具身智能场景的多条技术路线，重点分析“视触觉”融合：仅靠视觉难以接触瞬间判断物体位置、所需力矩与微小形变，需要视觉与触觉阵列协同感知滑移趋势与接触力，文章对比各家传感器方案与落地进展，对机器视觉在精细抓取与接触控制中的边界给出了产业侧视角。",
+      "selected_on": "2026-11-24"
     }
   ],
   "pending_items": [
