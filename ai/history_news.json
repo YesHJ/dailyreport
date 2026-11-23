@@ -1,236 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "突发！DeepSeek开放全家桶API",
-      "type": "news",
-      "platform": "量子位",
-      "url": "https://www.qbitai.com/2026/11/510003.html",
-      "summary": "DeepSeek 将官方 App 内的全部能力拆成可自由组合调用的 API 开放出来，开发者可自行编排搜索、推理与工具调用链路，不再只能拿单模型接口。对做 Agent 和 RAG 的团队是直接利好，成本仍是其一贯的低价策略。",
-      "popularity": {
-        "views": 42000,
-        "likes": 380,
-        "comments": 96
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "wide",
-        "scenarios": [
-          "AI Agent",
-          "RAG",
-          "API集成"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-14T11:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 92.0,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 90.0,
-        "practicality": 78.0,
-        "freshness": 100
-      },
-      "collected_on": "2026-11-14",
-      "selected_on": "2026-11-19"
-    },
-    {
-      "name": "2026年11月14日 AI 行业日报：ChatGPT Wallet 上线、llama.cpp 迈入 1.0 稳定版、LangChain 完成 3 亿美元融资",
-      "type": "news",
-      "platform": "CSDN",
-      "url": "https://devpress.csdn.net/aibjcy/6af7e6a4e5f4ca4eff9168df.html",
-      "summary": "当日要点集中：llama.cpp 发布 v1.0.0 首个稳定大版本，移除 35 个废弃公共 API 并新增 FP8 KV 缓存，本地推理链路正式进入稳定期；LangChain 完成 3 亿美元融资；ChatGPT Wallet 上线。适合开发者一页速览当天基础设施变化。",
-      "popularity": {
-        "views": 12000,
-        "likes": 96,
-        "comments": 18
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "wide",
-        "scenarios": [
-          "本地推理",
-          "行业动态",
-          "开源工具"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-14T09:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 89.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 81.0,
-        "practicality": 78.0,
-        "freshness": 100
-      },
-      "collected_on": "2026-11-14",
-      "selected_on": "2026-11-19"
-    },
-    {
-      "name": "文心5.5 Flash Preview发布：2800亿参数MoE，11月25日前 Apache 2.0 开源权重",
-      "type": "news",
-      "platform": "Donews",
-      "url": "https://www.donews.com/news/detail/4/6772092.html",
-      "summary": "百度发布文心 5.5 Flash Preview，稀疏 MoE 总参数 2800 亿、单 Token 激活 140 亿，支持 100 万上下文，生成速度超 200 tokens/s，主打编程、3D 建模与代码驱动内容创作。千帆 API 已上线且定价偏低，权重将在 11 月 25 日前按 Apache 2.0 开源。",
-      "popularity": {
-        "views": 38000,
-        "likes": 290,
-        "comments": 88
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "wide",
-        "scenarios": [
-          "AI编程",
-          "长上下文",
-          "大模型"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-11-12T23:28:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 89.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 90.0,
-        "practicality": 69.0,
-        "freshness": 100
-      },
-      "collected_on": "2026-11-14",
-      "selected_on": "2026-11-19"
-    },
-    {
-      "name": "早报｜腾讯混元发布实时语音模型 Hy Realtime，Thinking Machines 开放 Inkling 2 Small 权重",
-      "type": "news",
-      "platform": "爱范儿",
-      "url": "https://www.ifanr.com/1689450",
-      "summary": "混元 Hy Realtime 在语音对话中加入 Agentic 工具调用与唱歌能力，文本推理保留率从 21% 提到 69%，已在元宝语音通话和腾讯客服上线，腾讯云 API 近期开放；同时 Thinking Machines 以 Apache 2.0 放出 Inkling 2 Small 权重，可自行部署。",
-      "popularity": {
-        "views": 15000,
-        "likes": 120,
-        "comments": 35
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "wide",
-        "scenarios": [
-          "语音交互",
-          "AI Agent",
-          "开源模型"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-11-14T08:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 87.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 81.0,
-        "practicality": 69.0,
-        "freshness": 100
-      },
-      "collected_on": "2026-11-14",
-      "selected_on": "2026-11-19"
-    },
-    {
-      "name": "百度推出大模型交易平台「词元所」：主打验真与征信，日均调用 Token 超 7000 亿",
-      "type": "news",
-      "platform": "品玩",
-      "url": "https://www.pingwest.com/w/319526",
-      "summary": "百度世界 2026 上官宣推出大模型交易平台词元所，用模型指纹比对、能力与可用性测试做准入核验，再以定期抽检和全链路监测给供应商打信用评级，试图解决 Token 中转站不对效果负责的问题。上线一个月入驻供应资源超 100 个。",
-      "popularity": {
-        "views": 24000,
-        "likes": 170,
-        "comments": 63
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "大模型选型",
-          "API采购",
-          "企业落地"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-11-13T10:30:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 83.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 81.0,
-        "practicality": 54.0,
-        "freshness": 100
-      },
-      "collected_on": "2026-11-14",
-      "selected_on": "2026-11-19"
-    },
-    {
       "name": "AI 自动写 PR，模型反而最简单：Inkitt 如何应对 Webhook 重复、CI 失败与合并冲突",
       "type": "news",
       "platform": "InfoQ",
@@ -2183,7 +1953,7 @@
       "accessibility": {
         "blocked_in_china": false
       },
-      "collected_on": "2026-11-23",
+      "collected_on": "2026-11-22",
       "filtered": false,
       "total_score": 81.0,
       "detail_scores": {
@@ -2230,7 +2000,7 @@
       "accessibility": {
         "blocked_in_china": false
       },
-      "collected_on": "2026-11-23",
+      "collected_on": "2026-11-22",
       "filtered": false,
       "total_score": 40.25,
       "detail_scores": {
@@ -2277,7 +2047,7 @@
       "accessibility": {
         "blocked_in_china": false
       },
-      "collected_on": "2026-11-23",
+      "collected_on": "2026-11-22",
       "filtered": false,
       "total_score": 40.25,
       "detail_scores": {
@@ -2387,6 +2157,262 @@
       "title_zh": "alphaXiv 推出 AI Agent 专属预印本服务器（机器之心）",
       "summary_zh": "alphaXiv 上线面向 AI Agent 的专属预印本服务器，并联合斯坦福、MIT 等机构组织 12 周实验：35 个实验室的 936 个智能体自主提出假设、写代码跑实验、写论文并与同行交流，产出 936 项研究成果、交换约 9500 条消息，甚至自办期刊并主动撤稿；实验档案与智能体服务器均已开放，可接入研究者自己的 Agent。",
       "selected_on": "2026-11-23"
+    },
+    {
+      "name": "姚顺雨团队回应一切：下一代混元将大幅扩参，RSI 仍处早期，最难解决的是\"想太多\"",
+      "type": "news",
+      "platform": "InfoQ",
+      "url": "https://www.infoq.cn/article/b4QKbFZaXvbK9hzcBhZV",
+      "summary": "腾讯混元团队首次在 Reddit LocalLLaMA 社区做 AMA，围绕 Hy4 / Hy4 flash 披露研发路线：下一代 Hy 模型将显著扩大参数量并坚持 Scaling Law；RSI（递归自我改进）仍处早期，已建内部评测基准；Hy4 flash 基于 iHC、门控 MLA、DSA 并新增混合 SWA、LatentMoE、Engram，KV cache 降至 1/4；量化按张量用 Hessian 敏感度分配位宽、偏好全参数 QAT；后训练最难改善的行为是「过度思考」。全文为完整问答整理（8749 字）。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "excellent"
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "大模型架构与 MoE 稀疏度取舍",
+          "量化与本地部署配置",
+          "智能体/CLI 工具调用训练",
+          "模型评测基准选择"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-23",
+        "update_frequency": "daily"
+      },
+      "pricing": {
+        "is_free": true,
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false,
+        "requires_vpn": false,
+        "has_chinese_ui": true
+      },
+      "collected_on": "2026-11-24",
+      "filtered": false,
+      "total_score": 60.25,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 90.0,
+        "practicality": 71.0,
+        "freshness": 100
+      },
+      "title_zh": "腾讯混元姚顺雨团队 AMA：下一代混元将大幅扩参，RSI 仍处早期，后训练最难解的是「过度思考」",
+      "summary_zh": "InfoQ 完整整理腾讯混元团队在 Reddit LocalLLaMA 的首次 AMA：确认下一代 Hy 模型将显著扩大参数量并坚持 Scaling Law，RSI（递归自我改进）仍处早期并已建内部基准；Hy4 flash 沿用 iHC、门控 MLA、DSA，新增混合 SWA、LatentMoE 与 Engram，KV cache 降至 1/4；量化按张量以 Hessian 敏感度分配位宽并偏好全参数 QAT；同时给出本地部署显存配置、工具调用训练与评测基准选择的实操说明。https://www.infoq.cn/article/b4QKbFZaXvbK9hzcBhZV",
+      "selected_on": "2026-11-24"
+    },
+    {
+      "name": "刚刚，OpenAI 首次公开预训练核心指标",
+      "type": "news",
+      "platform": "机器之心",
+      "url": "https://www.jiqizhixin.com/articles/2026-11-23-2",
+      "summary": "OpenAI 研究负责人 Jakub Pachocki 首次对外解释预训练阶段的评判指标：以 Perplexity 为核心，给出 0.99 / 0.91 / <0.8 / 0.76 等不同阈值对应的能力判读，并说明困惑度与智能表现的边界。原文见 openai.com/index/perplexity-and-intelligence/，报道补充了该方法对模型评估与训练迭代的实操含义。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "excellent"
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "预训练质量评估",
+          "模型能力判读",
+          "训练配方迭代"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-23",
+        "update_frequency": "daily"
+      },
+      "pricing": {
+        "is_free": true,
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false,
+        "requires_vpn": false,
+        "has_chinese_ui": true
+      },
+      "collected_on": "2026-11-24",
+      "filtered": false,
+      "total_score": 56.75,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 78.0,
+        "practicality": 69.0,
+        "freshness": 100
+      },
+      "title_zh": "OpenAI 首次公开预训练核心指标：用 Perplexity 阈值判读模型智能",
+      "summary_zh": "机器之心报道 OpenAI 研究负责人 Jakub Pachocki 首次对外解释预训练阶段的核心评判指标 Perplexity，给出 0.99 / 0.91 / <0.8 / 0.76 等阈值与能力区间的对应关系，并说明困惑度下降与智能表现之间的边界条件，可用于自研模型的训练评估与发布判读。原文：openai.com/index/perplexity-and-intelligence/。https://www.jiqizhixin.com/articles/2026-11-23-2",
+      "selected_on": "2026-11-24"
+    },
+    {
+      "name": "Agent 想用但不敢用？百度智能云企业级 Agent 安全落地实践",
+      "type": "news",
+      "platform": "InfoQ",
+      "url": "https://www.infoq.cn/article/dzgleaOZ3ILx5cztUtXw",
+      "summary": "百度智能云安全架构师林道正在 AICon 2026 深圳站分享半年企业级 Agent 安全实践：提出身份、工具、数据、行为、可审计五维建模，并给出「让 Agent 每一步执行安全可视、可控、可管、可审计」的方法。文中拆解 FakeGit 恶意 skill 分发、云端载荷绕过静态扫描、查天气 skill 借时区配置文件窃取 API Key 三类攻击，指出 55% 恶意 skill 不自报危险、98% 以上静默执行，并给出沙箱「观测优先于阻断」、数据入站三层管控等落地结论。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent"
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "企业级 Agent 上线安全评估",
+          "Skill/MCP 供应链准入与持续监测",
+          "沙箱行为观测与审计链路设计"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-23",
+        "update_frequency": "daily"
+      },
+      "pricing": {
+        "is_free": true,
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false,
+        "requires_vpn": false,
+        "has_chinese_ui": true
+      },
+      "collected_on": "2026-11-24",
+      "filtered": false,
+      "total_score": 54.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 69.0,
+        "practicality": 69.0,
+        "freshness": 100
+      },
+      "title_zh": "百度智能云企业级 Agent 安全落地实践：身份、工具、数据、行为、审计五维建模",
+      "summary_zh": "InfoQ 整理百度智能云安全架构师林道正在 AICon 2026 深圳站的分享：对 Agent 每一步执行做五维审查（身份、工具、数据、行为、可审计），拆解 FakeGit 恶意 skill 搜索刷榜、云端载荷绕过静态扫描、查天气 skill 借时区配置文件窃取 API Key 三类真实攻击，指出 55% 恶意 skill 不自报危险、98% 以上静默执行，并给出沙箱「观测优先于阻断」、数据入站三层管控与滞后阻断的落地经验。https://www.infoq.cn/article/dzgleaOZ3ILx5cztUtXw",
+      "selected_on": "2026-11-24"
+    },
+    {
+      "name": "离散 code 能成为通用视觉表示吗？美团 LongCat 开源 dNaViT",
+      "type": "news",
+      "platform": "机器之心",
+      "url": "https://www.jiqizhixin.com/articles/2026-11-23-3",
+      "summary": "美团 LongCat 团队开源 dNaViT，用离散 code 作为通用视觉表示：论文见 arXiv 2611.12426，代码位于 github.com/meituan-longcat/LongCat-Next/tree/main/dNaViT。报道给出的结果包括重建指标 28.12 dB PSNR、OCRBench 885 分，并讨论其在统一多模态预训练与文档/截图理解上的适用性。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent"
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "多模态预训练",
+          "文档/截图理解",
+          "视觉 tokenizer 替换"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-23",
+        "update_frequency": "daily"
+      },
+      "pricing": {
+        "is_free": true,
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false,
+        "requires_vpn": false,
+        "has_chinese_ui": true
+      },
+      "collected_on": "2026-11-24",
+      "filtered": false,
+      "total_score": 52.25,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 69.0,
+        "practicality": 60.0,
+        "freshness": 100
+      },
+      "title_zh": "美团 LongCat 开源 dNaViT：用离散 code 做通用视觉表示",
+      "summary_zh": "机器之心报道美团 LongCat 团队开源 dNaViT，探索以离散 code 作为统一视觉表示；论文见 arXiv 2611.12426，代码位于 github.com/meituan-longcat/LongCat-Next/tree/main/dNaViT，报道给出 28.12 dB 重建 PSNR、OCRBench 885 等结果，适合作为多模态预训练与文档/截图理解方向的参考实现。https://www.jiqizhixin.com/articles/2026-11-23-3",
+      "selected_on": "2026-11-24"
+    },
+    {
+      "name": "\"Agent 版 arXiv\" 来了：936 个智能体在科研社区里互相审稿",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/11/512004.html",
+      "summary": "报道介绍一个面向 AI 智能体的开放科研社区：平台已承载 936 篇智能体提交的论文、229 个聊天室与 9500 余条讨论，并自动生成 1408 份 JAR 结构化审稿意见。文章分析了这种「机器作者 + 机器审稿人」生态对模型科研自动化、评测流程可复用性的意义与局限。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium"
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "智能体科研流水线",
+          "自动化论文评审与基线复现",
+          "多智能体协作实验"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-23",
+        "update_frequency": "daily"
+      },
+      "pricing": {
+        "is_free": true,
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false,
+        "requires_vpn": false,
+        "has_chinese_ui": true
+      },
+      "collected_on": "2026-11-24",
+      "filtered": false,
+      "total_score": 51.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 45.0,
+        "freshness": 100
+      },
+      "title_zh": "「Agent 版 arXiv」上线：936 个智能体同场投稿、互相审稿",
+      "summary_zh": "量子位报道一个面向 AI 智能体的开放科研社区：已累计承载 936 篇智能体提交的论文、229 个聊天室与 9500 余条讨论，并自动生成 1408 份 JAR 结构化审稿意见，展示「机器作者 + 机器审稿人」的自动化科研评测形态，对智能体实验可复现性与自动评审流程有直接参考价值。https://www.qbitai.com/2026/11/512004.html",
+      "selected_on": "2026-11-24"
     }
   ],
   "pending_items": [
@@ -4938,6 +4964,151 @@
         "freshness": 100
       },
       "collected_on": "2026-11-21"
+    },
+    {
+      "name": "无界方舟发布端侧大模型 Edge0-145B：12GB 显存跑出 80+ token/s",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/11/512195.html",
+      "summary": "无界方舟公开端侧稠密模型 Edge0-145B：总参数 145B，在 12GB 显存 + 20GB 内存的笔记本配置下即可运行，吞吐 80+ token/s；官方给出 Terminal-Bench 2.1 得分 86.5，并称模型权重与推理代码开源于 github.com/Edge0-AI/Edge0。报道同时梳理了端侧部署的量化、内存分层卸载等工程取舍。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium"
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "端侧/离线推理",
+          "本地智能体与终端工具调用",
+          "低成本私有化部署"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-23",
+        "update_frequency": "daily"
+      },
+      "pricing": {
+        "is_free": true,
+        "has_paid_features": false,
+        "note": "权重开源，报道未提及付费功能"
+      },
+      "accessibility": {
+        "blocked_in_china": false,
+        "requires_vpn": false,
+        "has_chinese_ui": true
+      },
+      "collected_on": "2026-11-24",
+      "filtered": false,
+      "total_score": 50.0,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 60.0,
+        "practicality": 60.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "Entire Git Forge：面向编码智能体重构 Git 协作方式",
+      "type": "news",
+      "platform": "InfoQ",
+      "url": "https://www.infoq.cn/article/6swrOq5xUXwVqrREwJwc",
+      "summary": "InfoQ 报道面向人类与 AI 编码智能体协作的 Git 托管平台 Entire（CEO 为前 GitHub CEO Thomas Dohmke）：核心机制 trails（轨迹）把置信度、风险、slop（低质量代码）等评估分数置顶并随每次推送更新，只有高置信、低风险且问题清零才建议合并；评审智能体运行在云沙箱，可在界面或仓库级 JSON 配置，并支持仓库级 Gates 门禁。平台为全分布式架构，代码推送性能最高达 GitHub 的 89 倍，持续记忆层由仓库代码图谱与会话/Git 历史记忆两个开源工具支撑，可集成 Buildkite、Depot 等 CI。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium"
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "多智能体编码协作与 PR 评审",
+          "AI 生成代码质量门禁",
+          "智能体上下文/记忆持久化"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-21",
+        "update_frequency": "daily"
+      },
+      "pricing": {
+        "is_free": true,
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false,
+        "requires_vpn": false,
+        "has_chinese_ui": true
+      },
+      "collected_on": "2026-11-24",
+      "filtered": false,
+      "total_score": 46.0,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 60.0,
+        "practicality": 60.0,
+        "freshness": 80
+      }
+    },
+    {
+      "name": "全球首次！DeepSeek 与 FlashAttention 的多个生产级 AI 算子获得形式化验证",
+      "type": "news",
+      "platform": "机器之心",
+      "url": "https://www.jiqizhixin.com/articles/2026-11-23-4",
+      "summary": "CertiK 与哥伦比亚大学团队发布 TensorLean：首次在生产级 AI 算子编译后的 GPU PTX 代码上做形式化验证，覆盖任务动态分配、异步数据搬运与浮点误差。评估 149 个已编译内核实例，83 个一次通过，66 个（44.3%）发现缺陷；共在 6 个库中发现 38 个正确性问题（DeepGEMM 2 个、FlashAttention 23 个），已完成 27 个 DeepSeek 相关内核与 FlashAttention-2~4 全部 37 个源码内核（102 个编译实例）的验证，缺陷均已修复并回报开发者。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "medium"
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "GPU 内核正确性验证",
+          "训练/推理基础设施可靠性",
+          "算子优化回归验证"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-23",
+        "update_frequency": "daily"
+      },
+      "pricing": {
+        "is_free": true,
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false,
+        "requires_vpn": false,
+        "has_chinese_ui": true
+      },
+      "collected_on": "2026-11-24",
+      "filtered": false,
+      "total_score": 42.25,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 44.0,
+        "practicality": 45.0,
+        "freshness": 100
+      }
     }
   ]
 }
