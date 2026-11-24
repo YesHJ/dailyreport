@@ -1,303 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "Aqshalikhsan/Colosseum-Microcontroller",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/Aqshalikhsan/Colosseum-Microcontroller",
-      "summary": "Colosseum: compact 目标检测 for microcontrollers, with 模型s, 训练, and 推理 (语言: Python)",
-      "popularity": {
-        "views": 13,
-        "likes": 13,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "目标检测"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-10-29T14:22:16"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 13,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "mit",
-        "topics": [],
-        "created_at": "2026-10-29T14:22:16Z",
-        "pushed_at": "2026-11-02T06:42:21Z"
-      },
-      "filtered": false,
-      "total_score": 43.44,
-      "detail_scores": {
-        "popularity": 13.129999999999999,
-        "usability": 60.0,
-        "practicality": 50.0,
-        "freshness": 60
-      },
-      "collected_on": "2026-11-09"
-    },
-    {
-      "name": "iris0329/GeoReader",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/iris0329/GeoReader",
-      "summary": "GeoReader: Learning Latent Geometry for Spatial Reasoning in 视觉语言模型s [标签: lantent-geometry, latent-reasoning, spatial-understanding, vlm]",
-      "popularity": {
-        "views": 19,
-        "likes": 19,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉语言模型"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-10-10T02:44:13"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 19,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "",
-        "license": "",
-        "topics": [
-          "lantent-geometry",
-          "latent-reasoning",
-          "spatial-understanding",
-          "vlm"
-        ],
-        "created_at": "2026-10-10T02:44:13Z",
-        "pushed_at": "2026-10-14T07:46:17Z"
-      },
-      "filtered": false,
-      "total_score": 47.51,
-      "detail_scores": {
-        "popularity": 19.19,
-        "usability": 69.0,
-        "practicality": 50.0,
-        "freshness": 60
-      },
-      "_source": "pending"
-    },
-    {
-      "name": "DAGroup-PKU/PyRUA-Lean",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/DAGroup-PKU/PyRUA-Lean",
-      "summary": "Fewer Tokens, Better Action: GPT-6 Astra Robot Agents with 14% Higher Success but 65% Fewer Tokens (语言: Python) [标签: computer-use-agent, gpt-6-astra, post-training, recursive-self-improvement, robo...",
-      "popularity": {
-        "views": 234,
-        "likes": 234,
-        "comments": 7
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉-语言-动作",
-          "视觉语言模型",
-          "机器人视觉"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-25T08:04:11"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 234,
-        "forks": 7,
-        "open_issues": 1,
-        "language": "Python",
-        "license": "apache-2.0",
-        "topics": [
-          "computer-use-agent",
-          "gpt-6-astra",
-          "post-training",
-          "recursive-self-improvement",
-          "robocoliseum",
-          "robodojo",
-          "robot-use-agent",
-          "robotics",
-          "rsi",
-          "self-evolving",
-          "self-evolving-agent",
-          "token-efficiency",
-          "vision-language-action",
-          "vision-language-model",
-          "vla"
-        ],
-        "created_at": "2026-09-25T08:04:11Z",
-        "pushed_at": "2026-11-08T13:08:41Z"
-      },
-      "filtered": false,
-      "total_score": 64.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 54.0,
-        "freshness": 20
-      }
-    },
-    {
-      "name": "3587jjh/HuRo",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/3587jjh/HuRo",
-      "summary": "HuRo: Robotizing Human 视频s for Scalable VLA Pre训练 (CoRL 2026) (语言: Python) [标签: egocentric-video, motion-retargeting, robot-learning, robotization, vision-language-action]",
-      "popularity": {
-        "views": 65,
-        "likes": 65,
-        "comments": 3
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉-语言-动作",
-          "视觉语言模型",
-          "视频理解"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-12T06:13:11"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 65,
-        "forks": 3,
-        "open_issues": 4,
-        "language": "Python",
-        "license": "apache-2.0",
-        "topics": [
-          "egocentric-video",
-          "motion-retargeting",
-          "robot-learning",
-          "robotization",
-          "vision-language-action",
-          "vla"
-        ],
-        "created_at": "2026-09-12T06:13:11Z",
-        "pushed_at": "2026-11-10T19:29:54Z"
-      },
-      "filtered": false,
-      "total_score": 58.95,
-      "detail_scores": {
-        "popularity": 80.65,
-        "usability": 69.0,
-        "practicality": 54.0,
-        "freshness": 20
-      },
-      "title_zh": "HuRo：把人类视频「机器人化」，为 VLA 预训练规模化造数据（CoRL 2026）",
-      "summary_zh": "HuRo 将第一视角人类视频通过动作重定向转换为机器人可用的训练数据，用于规模化 VLA 预训练，覆盖 egocentric 视频处理与运动重映射；Python，Apache-2.0。"
-    },
-    {
-      "name": "lyf0801/ST-SAM3",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/lyf0801/ST-SAM3",
-      "summary": "视觉基础模型驱动的低标注遥感显著目标检测(Vision 基础模型-guided learning for label-efficient 遥感影像 salient 目标检测)，中国图象图形学报，2026 (语言: Python)",
-      "popularity": {
-        "views": 12,
-        "likes": 12,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "目标检测",
-          "遥感影像"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-10-26T02:42:23"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 12,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "mit",
-        "topics": [],
-        "created_at": "2026-10-26T02:42:23Z",
-        "pushed_at": "2026-11-01T15:22:47Z"
-      },
-      "filtered": false,
-      "total_score": 46.64,
-      "detail_scores": {
-        "popularity": 12.120000000000001,
-        "usability": 72.0,
-        "practicality": 52.0,
-        "freshness": 60
-      }
-    },
-    {
       "name": "BUAA-CI-LAB/EmbodiRun",
       "type": "tool",
       "platform": "GitHub",
@@ -3078,7 +2781,387 @@
       "title_zh": "GroundingPI：4B 视觉定位基础模型，统一检测/指代定位/指点/OCR/GUI/版面，34 项基准综合 SOTA",
       "summary_zh": "GroundingPI 是面向物理智能（physical intelligence）的 4B 视觉定位基础模型，把点、框、掩码等统一为视觉基元（visual primitives），在一个模型内覆盖目标检测、referring 表达式定位、指点、OCR、GUI 元素定位与版面分析，官方口径是在 34 个基准上综合取得 SOTA，并在受控评测中提升机器人任务泛化能力与数据效率。项目提供 arxiv 2609.39601、HuggingFace 与 ModelScope 权重及项目页 groundingpi.github.io，可直接用于机器人抓取前的目标定位、屏幕/文档理解等视觉落地场景。",
       "selected_on": "2026-11-24"
+    },
+    {
+      "name": "viniciusscience/fishid-studio",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/viniciusscience/fishid-studio",
+      "summary": "Open-source 计算机视觉 & 深度学习 平台 for Marine Fish Identification, Fisheries Electronic 监控 (EM), 视频 跟踪 (ByteTrack + SAM 2) & Biometry | Visão Computacional e Monitoramento Pesqueiro (语言: Python) [标签: byte...",
+      "popularity": {
+        "views": 21,
+        "likes": 21,
+        "comments": 6
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "图像分割",
+          "目标跟踪",
+          "视频理解"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-22T19:41:30"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 21,
+        "forks": 6,
+        "open_issues": 31,
+        "language": "Python",
+        "license": "mit",
+        "topics": [
+          "bytetrack",
+          "computer-vision",
+          "conservation-tech",
+          "convnext",
+          "deep-learning",
+          "electronic-monitoring",
+          "explainable-ai",
+          "fastapi",
+          "fish-identification",
+          "fisheries",
+          "grad-cam",
+          "image-segmentation",
+          "machine-learning",
+          "marine-biology",
+          "object-tracking",
+          "open-science",
+          "python",
+          "sam2",
+          "sdg14",
+          "streamlit"
+        ],
+        "created_at": "2026-11-22T19:41:30Z",
+        "pushed_at": "2026-11-24T21:53:35Z"
+      },
+      "collected_on": "2026-11-25",
+      "filtered": false,
+      "total_score": 64.36,
+      "detail_scores": {
+        "popularity": 51.21000000000001,
+        "usability": 78.0,
+        "practicality": 54.0,
+        "freshness": 80
+      },
+      "title_zh": "FishID Studio：面向海洋鱼类识别与渔业电子监控的开源计算机视觉平台",
+      "summary_zh": "UNIVALI 与 LEMA 应用海洋研究实验室硕士课题开源项目（MIT 协议）。用 ConvNeXt-Tiny 对 10 种大型洄游鱼类（金枪鱼、旗鱼、剑鱼、鲯鳅等）做实时物种分类，输出俗名、学名、分类群与 Top-3 概率；用 Grad-CAM 提供可解释性，用 YOLO-World + SAM 2 做自动分割、ByteTrack 做视频跟踪，输入支持照片、手机摄像头和视频，面向渔业电子监控（EM）与生物测量。后端 FastAPI，前端 Streamlit + PixiJS v8 WebGL 动画水族界面，配 GitHub Actions CI 与 Zenodo DOI，仓库约 11.7 MB、31 个 open issue，11-22 创建、11-24 仍在更新。",
+      "selected_on": "2026-11-25"
+    },
+    {
+      "name": "Nitidio/nitid",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/Nitidio/nitid",
+      "summary": "Nitid 目标检测 that's actually 开源. One 库. DETR made simple. (语言: Python) [标签: computer-vision, detr, edge-ai, instance-segmentation, object-detection]",
+      "popularity": {
+        "views": 16,
+        "likes": 16,
+        "comments": 1
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "目标检测",
+          "图像分割"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-06T15:55:23"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 16,
+        "forks": 1,
+        "open_issues": 8,
+        "language": "Python",
+        "license": "apache-2.0",
+        "topics": [
+          "computer-vision",
+          "detr",
+          "edge-ai",
+          "instance-segmentation",
+          "object-detection",
+          "openvino",
+          "pytorch",
+          "semantic-segmentation"
+        ],
+        "created_at": "2026-11-06T15:55:23Z",
+        "pushed_at": "2026-11-24T17:24:24Z"
+      },
+      "collected_on": "2026-11-25",
+      "filtered": false,
+      "total_score": 50.85,
+      "detail_scores": {
+        "popularity": 21.16,
+        "usability": 78.0,
+        "practicality": 52.0,
+        "freshness": 60
+      },
+      "title_zh": "nitid：真正开源的 DETR 目标检测库，边缘优先、Apache 2.0 权重可商用",
+      "summary_zh": "一个库覆盖目标检测、实例分割、语义分割三类任务，统一完成训练、验证、导出与推理。代码与官方预训练权重全部 Apache 2.0，可直接闭源商用，README 明确打出「No AGPL, no surprises」。模型为边缘场景设计，跑在摄像头旁边的硬件而非只依赖数据中心 GPU/NPU；每个 checkpoint 自包含配置与类别名，单文件即可复现校验；直接读取 COCO 与 YOLO 目录布局、免去格式转换并容忍真实数据集的不一致；同一 checkpoint 可导出 OpenVINO、ONNX、TorchScript、TensorRT。提供 GitHub Pages 文档站、Colab 推理笔记本，要求 Python 3.10+。",
+      "selected_on": "2026-11-25"
+    },
+    {
+      "name": "avbiswas/computer_vision_recipes",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/avbiswas/computer_vision_recipes",
+      "summary": "avbiswas/computer_vision_recipes - GitHub 热门视觉/深度学习仓库 (语言: Python)",
+      "popularity": {
+        "views": 17,
+        "likes": 17,
+        "comments": 4
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "机器视觉应用"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-15T02:45:57"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 17,
+        "forks": 4,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "",
+        "topics": [],
+        "created_at": "2026-11-15T02:45:57Z",
+        "pushed_at": "2026-11-21T22:08:33Z"
+      },
+      "collected_on": "2026-11-25",
+      "filtered": false,
+      "total_score": 50.65,
+      "detail_scores": {
+        "popularity": 37.17,
+        "usability": 60.0,
+        "practicality": 50.0,
+        "freshness": 60
+      },
+      "title_zh": "Computer Vision Recipes：CLIP、YOLO+VLM、跟踪与世界模型四个 CV 实战配方",
+      "summary_zh": "配套 YouTube 频道 Neural Breakdown with AVB 的教程仓库，四个各自独立、自带代码与说明的工程目录：meme_search 用在无文字表情包上微调的 CLIP，把「描述一个情境」直接映射成模板并预填文本框；pdf_parser 用微调 YOLO 检测页面版面区域，再交给小 VLM 把每个区域转成结构化 markdown/JSON；tennis 用蒸馏后的小模型从赛事转播视频跟踪球、球员与场地线；world_model/lightroom 用 VQ-VAE tokenizer加 Genie 式 Transformer，按你的动作预测下一帧，得到一个可玩的 2D 房间「梦境」。适合个人开发者学习CLIP 检索、版面检测 + VLM 文档解析、视频跟踪与轻量世界模型落地；主仓库未标注开源协议，作者同时引导通过 Patreon 获取全部代码与讲义。",
+      "selected_on": "2026-11-25"
+    },
+    {
+      "name": "francisco-cst-oliveira/citrus-inspection-vision",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/francisco-cst-oliveira/citrus-inspection-vision",
+      "summary": "计算机视觉 运行时 for citrus 表面检测: 检测, 跟踪, multi-view scoring and operational analytics. (语言: Python) [标签: ai-engineering, anomaly-detection, computer-vision, data-engineering, industrial-analytics]",
+      "popularity": {
+        "views": 17,
+        "likes": 17,
+        "comments": 4
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "工业检测",
+          "工业视觉",
+          "目标检测"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-13T05:14:35"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 17,
+        "forks": 4,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "",
+        "topics": [
+          "ai-engineering",
+          "anomaly-detection",
+          "computer-vision",
+          "data-engineering",
+          "industrial-analytics",
+          "multi-object-tracking",
+          "opencv",
+          "python",
+          "pytorch"
+        ],
+        "created_at": "2026-11-13T05:14:35Z",
+        "pushed_at": "2026-11-13T12:53:01Z"
+      },
+      "collected_on": "2026-11-25",
+      "filtered": false,
+      "total_score": 47.65,
+      "detail_scores": {
+        "popularity": 37.17,
+        "usability": 44.0,
+        "practicality": 54.0,
+        "freshness": 60
+      },
+      "title_zh": "柑橘外观检测视觉运行时：检测-跟踪-多视角打分-产线看板的完整推理流水线",
+      "summary_zh": "面向传送带水果外观检测的公开推理与分析流水线：视频实例分割检测 → 两阶段多目标跟踪 → 逐水果裁剪 → 以 TorchScript 集成的私有异常模型给出每个样本的分数与异常图 → 多视角聚合 → 逐件判定 + 实时运营看板。运行时把采集、检测、跟踪、打分与可视化解耦，跨帧聚合结论以压低反光、遮挡、离焦造成的误报；内存中的历史记录有上限但累计统计持续保留，退出时必定释放采集设备；本地视频按文件自身 FPS 播放，相机故障或模型输出不符契约都会带明确信息终止。作者给出的离线验证结果为准确率 97.4%、召回 100%、AUROC 0.992，并注明属于受控 benchmark、不能替代产线验证。数据集、权重、训练与标定代码未纳入公开版本，需 Python 3.10+。",
+      "selected_on": "2026-11-25"
+    },
+    {
+      "name": "villekuosmanen/vla-vlm-benchmarks",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/villekuosmanen/vla-vlm-benchmarks",
+      "summary": "Do VLAs keep the vision-language skills of the VLM they were built from? Eight VLAs vs their original VLMs on eight 基准测试s. (语言: Python)",
+      "popularity": {
+        "views": 15,
+        "likes": 15,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉语言模型",
+          "视觉-语言-动作"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-15T22:40:17"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 15,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "mit",
+        "topics": [],
+        "created_at": "2026-11-15T22:40:17Z",
+        "pushed_at": "2026-11-15T23:50:49Z"
+      },
+      "collected_on": "2026-11-25",
+      "filtered": false,
+      "total_score": 44.55,
+      "detail_scores": {
+        "popularity": 15.149999999999999,
+        "usability": 60.0,
+        "practicality": 52.0,
+        "freshness": 60
+      },
+      "title_zh": "评测工作：VLA 还留着原来 VLM 的视觉语言能力吗？8 个 VLA 对照原骨干跑 8 项基准",
+      "summary_zh": "MIT 协议的评测研究。做法是把预训练 VLA 的骨干张量拷贝回它所源自的原 VLM 架构（剔除动作专家、flow head 与动作 token 相关行），再用原 VLM 自己的 processor 与 prompt 在 8 个视觉-语言和纯文本基准上打分，让同族的基线与 VLA 看到完全相同的像素与问题文本，不是机器人成功率评测。结论是 8 个 VLA 里 6 个平均掉 11 分以上，只有 π0.5 与 MolmoAct2 守住了原 VLM 水平。拷贝必须完整：语言、视觉、projector 或 embedding 缺失、或同时匹配到两个专家时，脚本直接停下来打印缺失键名，绝不输出「一半 VLA 权重一半基线权重」的分数。全部预测与分基准成绩存在 results/（chart.png、summary.json）。需要 CUDA 版 torch 与包含 PaliGemma、Qwen2.5-VL、Qwen3-VL、Qwen3.5 的 transformers，装上 flash-linear-attention 可显著加速线性注意力层。",
+      "selected_on": "2026-11-25"
     }
   ],
-  "pending_items": []
+  "pending_items": [
+    {
+      "name": "RicePasteM/RiO-DETRv2",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/RicePasteM/RiO-DETRv2",
+      "summary": "The official implementation for RiO-DETRv2: Geometry-Aware Uncertainty 模型ing Meets 实时 Oriented 目标检测 Transformer (语言: Python)",
+      "popularity": {
+        "views": 16,
+        "likes": 16,
+        "comments": 1
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "目标检测"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-21T02:16:55"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 16,
+        "forks": 1,
+        "open_issues": 2,
+        "language": "Python",
+        "license": "agpl-3.0",
+        "topics": [],
+        "created_at": "2026-10-21T02:16:55Z",
+        "pushed_at": "2026-11-20T03:10:15Z"
+      },
+      "collected_on": "2026-11-25",
+      "filtered": false,
+      "total_score": 37.85,
+      "detail_scores": {
+        "popularity": 21.16,
+        "usability": 60.0,
+        "practicality": 50.0,
+        "freshness": 20
+      }
+    }
+  ]
 }
