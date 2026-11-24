@@ -1,246 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "AI 自动写 PR，模型反而最简单：Inkitt 如何应对 Webhook 重复、CI 失败与合并冲突",
-      "type": "news",
-      "platform": "InfoQ",
-      "url": "https://www.infoq.cn/article/YRXscVHsTh0g6CVCJJ0D",
-      "summary": "Inkitt 披露已投入日常交付的一次性 PR 自动生成系统：事件驱动编排器协调短生命周期智能体容器，覆盖需求实现、验证、CI 失败修复与合并冲突解决，运行状态持久化到数据库以支持断点恢复。",
-      "popularity": {
-        "views": 14264,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "excellent",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "自动化 PR",
-          "事件驱动编排",
-          "CI 修复"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-14"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "collected_on": "2026-11-15",
-      "filtered": false,
-      "total_score": 88.25,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 90.0,
-        "practicality": 63.0,
-        "freshness": 100
-      },
-      "title_zh": "AI 自动写 PR：Inkitt 如何应对 Webhook 重复、CI 失败与合并冲突",
-      "summary_zh": "InfoQ 介绍 Inkitt 已投入日常交付的一次性 PR 自动生成系统：事件驱动编排器调度短生命周期智能体容器，覆盖需求说明、实现、验证、CI 失败修复与合并冲突解决，并把运行状态持久化到数据库以支持断点恢复。",
-      "selected_on": "2026-11-19"
-    },
-    {
-      "name": "GitLab 19.5 发布，将智能体开发纳入可治理的 DevOps 平台能力",
-      "type": "news",
-      "platform": "InfoQ",
-      "url": "https://www.infoq.cn/article/0IpE2EOypcqMFtL7z4z1",
-      "summary": "GitLab 19.5 聚焦智能体软件开发与治理，GitLab MCP 服务端正式 GA，并拓展外部 AI 智能体与 GitLab 的交互能力，把 Agent 编码流程纳入可治理、可审计的 DevOps 平台。",
-      "popularity": {
-        "views": 6911,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "excellent",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "wide",
-        "scenarios": [
-          "智能体 DevOps",
-          "MCP",
-          "平台治理"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-15"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "collected_on": "2026-11-15",
-      "filtered": false,
-      "total_score": 82.73,
-      "detail_scores": {
-        "popularity": 69.11,
-        "usability": 90.0,
-        "practicality": 78.0,
-        "freshness": 100
-      },
-      "title_zh": "GitLab 19.5 发布：把智能体开发纳入可治理的 DevOps 平台能力",
-      "summary_zh": "GitLab 19.5 聚焦智能体软件开发与治理，GitLab MCP 服务端正式 GA，并拓展外部 AI 智能体与 GitLab 的交互能力，使 Agent 编码流程进入可审计、可治理的平台底座。",
-      "selected_on": "2026-11-19"
-    },
-    {
-      "name": "闭环 AI 自我进化：从 Skill、Harness 到模型训练与评估｜AICon北京",
-      "type": "news",
-      "platform": "InfoQ",
-      "url": "https://www.infoq.cn/article/fZSEkDatL9xajG8PVi7G",
-      "summary": "AICon 北京议题，介绍 RetriEvolver 在异构检索系统中的自我演进实践，串起从 Skill、Harness 到模型训练与评估的闭环路径。",
-      "popularity": {
-        "views": 6008,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "excellent",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "narrow",
-        "scenarios": [
-          "检索系统",
-          "Agent 自进化",
-          "模型评估"
-        ],
-        "maturity": "experimental"
-      },
-      "freshness": {
-        "publish_date": "2026-11-15"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "collected_on": "2026-11-15",
-      "filtered": false,
-      "total_score": 68.02,
-      "detail_scores": {
-        "popularity": 60.08,
-        "usability": 90.0,
-        "practicality": 30.0,
-        "freshness": 100
-      },
-      "title_zh": "闭环 AI 自我进化：从 Skill、Harness 到模型训练与评估（AICon 北京）",
-      "summary_zh": "AICon 北京议题，以 RetriEvolver 为例展示自我演进在异构检索系统中的应用成效，串起 Skill、Harness、模型训练与评估的闭环路径。",
-      "selected_on": "2026-11-19"
-    },
-    {
-      "name": "为什么 agent 的 demo 都很惊艳，上了生产就不靠谱",
-      "type": "news",
-      "platform": "掘金",
-      "url": "https://juejin.cn/post/7707938781526245391",
-      "summary": "对比 LiveBench 2.0 通用任务榜与 EON 模拟企业环境的成绩差，指出 demo 测能力上限、生产考可靠性下限，梳理策略漂移、多源信息纠缠、长上下文三类翻车模式，并给出自建数字孪生与带置信区间评测的最小动作。",
-      "popularity": {
-        "views": 12,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "excellent",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "wide",
-        "scenarios": [
-          "Agent 评测",
-          "可靠性工程",
-          "生产上线"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-11-15"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "collected_on": "2026-11-15",
-      "filtered": false,
-      "total_score": 59.79,
-      "detail_scores": {
-        "popularity": 0.12,
-        "usability": 90.0,
-        "practicality": 69.0,
-        "freshness": 100
-      },
-      "title_zh": "为什么 Agent 的 demo 都很惊艳，上了生产就不靠谱",
-      "summary_zh": "对照 LiveBench 2.0 通用任务榜与 EON 模拟企业环境的成绩差，指出 demo 测能力上限、生产考可靠性下限，归纳策略漂移、多源信息纠缠、长上下文三类翻车模式，并给出数字孪生评测与带置信区间报告的最小实践步骤。",
-      "selected_on": "2026-11-19"
-    },
-    {
-      "name": "热点速递 | Chrome、Edge、Firefox、MDN 把 Web 最佳实践做成 Skill",
-      "type": "news",
-      "platform": "掘金",
-      "url": "https://juejin.cn/post/7708108251456356387",
-      "summary": "Chrome、Edge、Firefox、MDN 四家把现代 Web 最佳实践做成编码 Agent 可直接读取的 skill，以 CLI 加 skill 包自动识别并替换过时写法，仓库 GoogleChrome/modern-web-guidance 2026-11-15 单日新增 3635 star。",
-      "popularity": {
-        "views": 36,
-        "likes": 0,
-        "comments": 1
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "excellent",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "编码 Agent",
-          "前端规范",
-          "Web API 迁移"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-11-15"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "collected_on": "2026-11-15",
-      "filtered": false,
-      "total_score": 57.61,
-      "detail_scores": {
-        "popularity": 5.36,
-        "usability": 90.0,
-        "practicality": 54.0,
-        "freshness": 100
-      },
-      "title_zh": "Chrome、Edge、Firefox、MDN 把 Web 最佳实践做成 Agent Skill",
-      "summary_zh": "四家标准与浏览器厂商联合推出 GoogleChrome/modern-web-guidance，用 CLI 加 skill 包让编码 Agent 直接读取现代 Web 最佳实践并识别、替换过时写法，2026-11-15 单日新增 3635 star，居当日 GitHub star 增速第一。",
-      "selected_on": "2026-11-19"
-    },
-    {
       "name": "AI与大模型新闻日报 | 2026-11-14",
       "type": "news",
       "platform": "CSDN",
@@ -2413,6 +2173,246 @@
       "title_zh": "「Agent 版 arXiv」上线：936 个智能体同场投稿、互相审稿",
       "summary_zh": "量子位报道一个面向 AI 智能体的开放科研社区：已累计承载 936 篇智能体提交的论文、229 个聊天室与 9500 余条讨论，并自动生成 1408 份 JAR 结构化审稿意见，展示「机器作者 + 机器审稿人」的自动化科研评测形态，对智能体实验可复现性与自动评审流程有直接参考价值。https://www.qbitai.com/2026/11/512004.html",
       "selected_on": "2026-11-24"
+    },
+    {
+      "name": "热点速递 | Anthropic 推出 Claude Ship：智能体审代码、修代码、还能批合并",
+      "type": "news",
+      "platform": "掘金",
+      "url": "https://juejin.cn/post/7711653983207260210",
+      "summary": "介绍Anthropic新发布的Claude Ship：以智能体形式接入仓库，自动审查PR、提交修复并可判定是否合并，文章对比现有CI代码审查方案，讨论落地成本与风险控制。",
+      "popularity": {
+        "views": 65,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "good",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "AI Agent",
+          "代码审查",
+          "研发效能"
+        ],
+        "maturity": "beta"
+      },
+      "freshness": {
+        "publish_date": "2026-11-24T17:59:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-25",
+      "filtered": false,
+      "total_score": 56.2,
+      "detail_scores": {
+        "popularity": 0.65,
+        "usability": 78.0,
+        "practicality": 66.0,
+        "freshness": 100
+      },
+      "title_zh": "Anthropic 推出 Claude Ship：智能体审代码、改代码并判定能否合并",
+      "summary_zh": "掘金热点速递介绍 Anthropic 新发布的 Claude Ship：以智能体形式接入代码仓库，自动审查 Pull Request、提交修复代码并给出是否可合并的判断；文章将其与现有 CI 代码审查方案对比，讨论接入成本与风险控制。",
+      "selected_on": "2026-11-25"
+    },
+    {
+      "name": "字节\"小豆\"开启公测，大厂Personal Agent之战正式打响",
+      "type": "news",
+      "platform": "36氪",
+      "url": "https://36kr.com/p/4083642845615751",
+      "summary": "字节个人智能体\"小豆\"开启邀请制公测并推出独立App，主打长期记忆、主动服务与后台任务执行，可代打电话；同期豆包灰测\"豆包购物\"，大厂Personal Agent竞争进入落地阶段。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "good",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "AI Agent",
+          "个人助理",
+          "应用落地"
+        ],
+        "maturity": "beta"
+      },
+      "freshness": {
+        "publish_date": "2026-11-24T20:22:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-25",
+      "filtered": false,
+      "total_score": 56.0,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 78.0,
+        "practicality": 66.0,
+        "freshness": 100
+      },
+      "title_zh": "字节个人智能体「小豆」开启公测，大厂 Personal Agent 之战打响",
+      "summary_zh": "36氪报道，字节的个人智能体「小豆」以邀请制开启公测并推出独立 App，主打长期记忆、主动服务与后台任务执行，可代用户拨打电话完成任务；同期豆包灰测「豆包购物」，显示国内大厂正把大模型能力推向个人智能体入口。",
+      "selected_on": "2026-11-25"
+    },
+    {
+      "name": "大模型LoRA微调原理与实验：基于CMRC2018与Qwen3-0.6B训练实测",
+      "type": "news",
+      "platform": "掘金",
+      "url": "https://juejin.cn/post/7711653850579009562",
+      "summary": "从低秩适配原理出发，用CMRC2018阅读理解数据集对Qwen3-0.6B做LoRA微调实测，给出显存占用、关键超参配置与训练前后效果对比，适合个人开发者入门微调。",
+      "popularity": {
+        "views": 39,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "good",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "模型微调",
+          "LoRA",
+          "实践教程"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-25T00:55:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-25",
+      "filtered": false,
+      "total_score": 53.87,
+      "detail_scores": {
+        "popularity": 0.39,
+        "usability": 57.0,
+        "practicality": 78.0,
+        "freshness": 100
+      },
+      "title_zh": "大模型 LoRA 微调原理与实测：CMRC2018 + Qwen3-0.6B 训练记录",
+      "summary_zh": "掘金技术文从低秩适配（LoRA）原理讲起，使用 CMRC2018 阅读理解数据集对 Qwen3-0.6B 做微调实验，给出显存占用、关键超参配置与训练前后效果对比，适合个人开发者复现大模型微调流程。",
+      "selected_on": "2026-11-25"
+    },
+    {
+      "name": "智谱刚刚发了GLM-5.4，全新架构的那种！网友直呼：超过预期",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/11/512423.html",
+      "summary": "智谱发布GLM-5.4，首次采用Loop Transformer架构，750B基座中28层两轮循环，强化视觉Coding与泛Coding能力，GLM Coding Plan全量开放。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "good",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "大模型",
+          "代码生成",
+          "多模态"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-24T17:21:55"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-25",
+      "filtered": false,
+      "total_score": 53.75,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 57.0,
+        "practicality": 78.0,
+        "freshness": 100
+      },
+      "title_zh": "智谱发布 GLM-5.4：首款采用 Loop Transformer 架构的国产旗舰模型",
+      "summary_zh": "量子位报道，智谱推出 GLM-5.4，首次在 750B 基座模型上采用 Loop Transformer 架构——28 层权重循环复用两轮，以更小算力逼近更大模型的智能水平；重点强化视觉 Coding 与泛 Coding 能力，可用纯代码生成 MV 与 3D 鹈鹕场景，GLM Coding Plan 同步全量开放。",
+      "selected_on": "2026-11-25"
+    },
+    {
+      "name": "文心 5.5 Flash Preview 正式开源，采用 Apache 2.0 协议",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/11/512354.html",
+      "summary": "百度文心5.5 Flash Preview以Apache 2.0开源，总参2800亿、单token激活140亿，支持100万上下文，CodeArena WebDev得1668分居开源第二。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "good",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "开源模型",
+          "长上下文",
+          "代码生成"
+        ],
+        "maturity": "beta"
+      },
+      "freshness": {
+        "publish_date": "2026-11-24T14:22:28"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-25",
+      "filtered": false,
+      "total_score": 50.75,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 57.0,
+        "practicality": 66.0,
+        "freshness": 100
+      },
+      "title_zh": "文心 5.5 Flash Preview 正式开源，采用 Apache 2.0 协议",
+      "summary_zh": "量子位报道，百度文心 5.5 Flash Preview 以 Apache 2.0 协议开源，总参数 2800 亿、每 token 激活 140 亿，支持 100 万 token 上下文，权重已在 Hugging Face 与 ModelScope 上线，可用 vLLM、SGLang 部署；在 CodeArena WebDev 榜以 1668 分位列开源第二、国产第四。",
+      "selected_on": "2026-11-25"
     }
   ],
   "pending_items": [
@@ -5106,6 +5106,140 @@
       "detail_scores": {
         "popularity": 0.0,
         "usability": 44.0,
+        "practicality": 45.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "GLM-5.4 正式发布：首款 Loop Transformer 国产旗舰模型",
+      "type": "news",
+      "platform": "CSDN",
+      "url": "https://blog.csdn.net/aidoudoulong/article/details/171253701",
+      "summary": "技术解读GLM-5.4：750B参数的首款Loop Transformer国产旗舰模型，通过层循环复用逼近3T级模型智能表现，文章梳理架构改动、训练要点与开发者可用的编码能力。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "average",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "大模型",
+          "技术解读"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-24T09:38:54"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-25",
+      "filtered": false,
+      "total_score": 49.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 57.0,
+        "practicality": 61.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "黑客只留下一句\"拿 Shell\"，AI Agent 自己花 11 分钟挖出 0-day 漏洞",
+      "type": "news",
+      "platform": "掘金",
+      "url": "https://juejin.cn/post/7711645731828924456",
+      "summary": "复现AI Agent自主攻击实验：仅给定\"拿Shell\"目标，智能体在11分钟内自行挖掘出0-day漏洞完成渗透，文章拆解提示链、工具调用与防御启示，提醒加强代码审计与最小权限。",
+      "popularity": {
+        "views": 18,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "average",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "安全",
+          "漏洞挖掘"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-25T04:11:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-25",
+      "filtered": false,
+      "total_score": 45.55,
+      "detail_scores": {
+        "popularity": 0.18000000000000002,
+        "usability": 57.0,
+        "practicality": 45.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "蚂蚁开源医疗健康预测模型LingSante Pulse",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/11/512451.html",
+      "summary": "蚂蚁开源LingSante Pulse，基于超15万小时多场景生理序列预训练，统一处理脑电、心电、脉搏波与肌电，可预测未来六年150种疾病表型风险，可靠表型数较此前最优模型提升约42%。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "good",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "医疗AI",
+          "开源模型",
+          "时序信号"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-24T18:15:57"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-25",
+      "filtered": false,
+      "total_score": 45.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 57.0,
         "practicality": 45.0,
         "freshness": 100
       }
