@@ -1,61 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "stubbb/c-shop",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/stubbb/c-shop",
-      "summary": "Graphic editor supporting 智能体ic workflows with 深度学习 modules. (语言: Rust)",
-      "popularity": {
-        "views": 57,
-        "likes": 57,
-        "comments": 6
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-08-28T19:28:45"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 57,
-        "forks": 6,
-        "open_issues": 1,
-        "language": "Rust",
-        "license": "apache-2.0",
-        "topics": [],
-        "created_at": "2026-08-28T19:28:45Z",
-        "pushed_at": "2026-10-15T20:45:34Z"
-      },
-      "filtered": false,
-      "total_score": 57.77,
-      "detail_scores": {
-        "popularity": 87.57000000000002,
-        "usability": 60.0,
-        "practicality": 50.0,
-        "freshness": 20
-      },
-      "_source": "pending",
-      "collected_on": "2026-10-30",
-      "selected_on": "2026-11-19"
-    },
-    {
       "name": "brave-plum-co/leonardo-ai-desktop",
       "type": "tool",
       "platform": "GitHub",
@@ -3412,6 +3357,85 @@
       "title_zh": "affectui：面向 AI 智能体的 React UI 组件库（智能体树 / 工具调用 / 轨迹 / 审批）",
       "summary_zh": "把智能体运行过程可视化拆成单文件 React 组件，覆盖智能体树、工具调用、执行轨迹、任务交接与人工审批，可通过 shadcn registry 或 MCP 直接安装，TypeScript + MIT 开源（947 star / 63 fork，最近推送 2026-11-23），适合快速搭建 Agent 应用前端。https://github.com/flohoeller/affectui",
       "selected_on": "2026-11-24"
+    },
+    {
+      "name": "agentes-chat/agentes-chat",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/agentes-chat/agentes-chat",
+      "summary": "Open-source, 自托管 Slack alternative where your team and AI 智能体s work together in channels and DMs. 智能体s run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, ...",
+      "popularity": {
+        "views": 2020,
+        "likes": 2020,
+        "comments": 401
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "AI Agent",
+          "团队协作",
+          "自托管部署"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-09T00:50:28"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 2020,
+        "forks": 401,
+        "open_issues": 492,
+        "language": "TypeScript",
+        "license": "agpl-3.0",
+        "topics": [
+          "agentic-ai",
+          "ai-agents",
+          "browser-automation",
+          "chat",
+          "claude",
+          "claude-code",
+          "codex",
+          "collaboration",
+          "computer-use",
+          "docker-compose",
+          "gemini",
+          "grok",
+          "human-in-the-loop",
+          "llm",
+          "mcp",
+          "multi-agent",
+          "openai",
+          "self-hosted",
+          "slack-alternative",
+          "team-chat"
+        ],
+        "created_at": "2026-11-09T00:50:28Z",
+        "pushed_at": "2026-11-24T23:09:36Z"
+      },
+      "collected_on": "2026-11-25",
+      "filtered": false,
+      "total_score": 78.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 78.0,
+        "freshness": 60
+      },
+      "title_zh": "agentes-chat：开源自托管的 Slack 替代方案，让团队与 AI 智能体同频道协作",
+      "summary_zh": "开源团队聊天产品 https://github.com/agentes-chat/agentes-chat（TypeScript / AGPL-3.0），团队成员与 AI 智能体可在频道和私聊中共同工作；智能体可接 Claude、ChatGPT/Codex、Gemini、Grok，支持 MCP 工具、独立计算机与浏览器、定时任务、记忆与人工审批，提供 Web/桌面/移动端，Docker Compose + Postgres 自托管，当前 2020 stars。",
+      "selected_on": "2026-11-25"
     }
   ],
   "pending_items": []
