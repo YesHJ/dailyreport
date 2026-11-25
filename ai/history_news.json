@@ -1,244 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "AI与大模型新闻日报 | 2026-11-14",
-      "type": "news",
-      "platform": "CSDN",
-      "url": "https://blog.csdn.net/dozenyaoyida/article/details/170760460",
-      "summary": "11 月 14 日聚合：llama.cpp 与 ggml 迈入 1.0.0，支持超 150 种模型架构、断网可本地推理；OpenAI 宣布重组具身智能团队，让通用大模型充当机器人大脑。",
-      "popularity": {
-        "views": 1005,
-        "likes": 3,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "wide",
-        "scenarios": [
-          "行业动态速览",
-          "本地推理引擎"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-14T09:36:36"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 63.16,
-      "detail_scores": {
-        "popularity": 13.05,
-        "usability": 81.0,
-        "practicality": 76.0,
-        "freshness": 100
-      },
-      "title_zh": "AI 与大模型新闻日报（2026 年 11 月 14 日）",
-      "summary_zh": "11 月 14 日聚合：llama.cpp 与 ggml 迈入 1.0.0，支持超 150 种模型架构、断网可本地推理；OpenAI 宣布重组具身智能团队，让通用大模型充当机器人大脑。",
-      "selected_on": "2026-11-19",
-      "collected_on": "2026-11-15"
-    },
-    {
-      "name": "AI 资讯日报 | 2026年11月15日：OpenAI推ChatGPT Wallet打通智能体支付，Sierra与Meta发布Poppy协议，谷歌Gemini 4 Hydrogen上线",
-      "type": "news",
-      "platform": "CSDN",
-      "url": "https://blog.csdn.net/IT_ORACLE/article/details/170804298",
-      "summary": "11 月 15 日动态：谷歌发布 Gemini 4 Hydrogen，主打高速代理式工作流与百万 token 上下文并接入搜索；文心 5.5 Flash 预览版、DeepSeek 全栈 API 同期上线。",
-      "popularity": {
-        "views": 531,
-        "likes": 1,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "wide",
-        "scenarios": [
-          "行业动态速览",
-          "模型发布信息"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-15T09:12:31"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 61.14,
-      "detail_scores": {
-        "popularity": 6.3100000000000005,
-        "usability": 81.0,
-        "practicality": 76.0,
-        "freshness": 100
-      },
-      "title_zh": "AI 资讯日报（2026 年 11 月 15 日）：OpenAI 推 ChatGPT Wallet，Sierra 与 Meta 发布 Poppy 协议，谷歌 Gemini 4 Hydrogen 上线",
-      "summary_zh": "11 月 15 日动态：谷歌发布 Gemini 4 Hydrogen，主打高速代理式工作流与百万 token 上下文并接入搜索；文心 5.5 Flash 预览版、DeepSeek 全栈 API 同期上线。",
-      "selected_on": "2026-11-19",
-      "collected_on": "2026-11-15"
-    },
-    {
-      "name": "官方点名，DeepSeek Harness 的 4 个神级插件。",
-      "type": "news",
-      "platform": "掘金",
-      "url": "https://juejin.cn/post/7707231949409026058",
-      "summary": "实测 DeepSeek Harness 官方点名的四个插件：dsh-media-desk、归藏设计、dsh-context 上下文洞察、论文阅读 agentero-dsh，并自研终端自动化插件 paiwarp-dsh。",
-      "popularity": {
-        "views": 1178,
-        "likes": 10,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "excellent",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "Agent 客户端扩展",
-          "上下文与 token 观测",
-          "内容生成工作流"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-13T09:56:52"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 60.78,
-      "detail_scores": {
-        "popularity": 21.78,
-        "usability": 90.0,
-        "practicality": 63.0,
-        "freshness": 80
-      },
-      "title_zh": "官方点名：DeepSeek Harness 的 4 个神级插件",
-      "summary_zh": "实测 DeepSeek Harness 官方点名的四个插件：dsh-media-desk、归藏设计、dsh-context 上下文洞察、论文阅读 agentero-dsh，并自研终端自动化插件 paiwarp-dsh。",
-      "selected_on": "2026-11-19",
-      "collected_on": "2026-11-15"
-    },
-    {
-      "name": "Agent如何越用越强？中科院自动化所、美团等推出RSI综述",
-      "type": "news",
-      "platform": "机器之心",
-      "url": "https://www.jiqizhixin.com/articles/2026-11-15-3",
-      "summary": "中科院自动化所联合美团等发布 LLM Agent 递归自我改进综述，沿 Prompt、Memory、Skill、Harness 四条主线梳理 40 项研究，提出七步生命周期框架。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "excellent",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "wide",
-        "scenarios": [
-          "Agent 自进化",
-          "综述与评测框架",
-          "记忆与技能管理"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-15T16:47:28"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 59.0,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 78.0,
-        "practicality": 78.0,
-        "freshness": 100
-      },
-      "title_zh": "Agent 如何越用越强？中科院自动化所、美团等推出 RSI 综述",
-      "summary_zh": "中科院自动化所联合美团等发布 LLM Agent 递归自我改进综述，沿 Prompt、Memory、Skill、Harness 四条主线梳理 40 项研究，提出七步生命周期框架。",
-      "selected_on": "2026-11-19",
-      "collected_on": "2026-11-15"
-    },
-    {
-      "name": "炸裂，4K生图跑进10秒，游戏研发天塌了",
-      "type": "news",
-      "platform": "36氪",
-      "url": "https://36kr.com/p/4066896897971328",
-      "summary": "MiniMax 发布并开源图像生成与编辑模型 H3-Image，支持多图参考，4K 生图进入十秒级；文章结合游戏研发环节实测其可用性与短板。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "wide",
-        "scenarios": [
-          "图像生成",
-          "游戏美术管线",
-          "开源模型"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-13T10:57:11"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 55.75,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 78.0,
-        "freshness": 80
-      },
-      "title_zh": "4K 生图跑进 10 秒：MiniMax 开源 H3-Image 冲击游戏研发",
-      "summary_zh": "MiniMax 发布并开源图像生成与编辑模型 H3-Image，支持多图参考，4K 生图进入十秒级；文章结合游戏研发环节实测其可用性与短板。",
-      "selected_on": "2026-11-19",
-      "collected_on": "2026-11-15"
-    },
-    {
       "name": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
       "type": "news",
       "platform": "量子位",
@@ -2413,6 +2175,241 @@
       "title_zh": "文心 5.5 Flash Preview 正式开源，采用 Apache 2.0 协议",
       "summary_zh": "量子位报道，百度文心 5.5 Flash Preview 以 Apache 2.0 协议开源，总参数 2800 亿、每 token 激活 140 亿，支持 100 万 token 上下文，权重已在 Hugging Face 与 ModelScope 上线，可用 vLLM、SGLang 部署；在 CodeArena WebDev 榜以 1668 分位列开源第二、国产第四。",
       "selected_on": "2026-11-25"
+    },
+    {
+      "name": "谷歌发现，技术债务会通过“智能体分心”导致编码智能体偏离正轨",
+      "type": "news",
+      "platform": "InfoQ",
+      "url": "https://www.infoq.cn/article/sFmubmDWkulIOTBLX0Dr",
+      "summary": "谷歌工程师提出“智能体分心”现象：陈旧技术债务会诱导AI编码智能体执行用户未要求的支线任务，团队需以清晰上下文与约束降低偏航率。",
+      "popularity": {
+        "views": 14028,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "good",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "AI编程",
+          "工程治理",
+          "技术债务"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-24T09:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 89.0,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 78.0,
+        "practicality": 78.0,
+        "freshness": 100
+      },
+      "title_zh": "谷歌：技术债务会通过\"智能体分心\"让编码智能体偏离目标",
+      "summary_zh": "谷歌高级工程师指出，陈旧的技术债务会诱导 AI 编码智能体自行执行用户未要求的\"支线任务\"，从而偏离原始目标；建议以清晰的上下文、边界约束与自动化校验来降低智能体偏航率。",
+      "selected_on": "2026-11-26"
+    },
+    {
+      "name": "GLM-5.4 编程能力暴涨、3D惊艳，但推理变久了？智谱押注双路线：首发Loop架构，下一代继续 Scaling",
+      "type": "news",
+      "platform": "InfoQ",
+      "url": "https://www.infoq.cn/article/gXU31yBa9HMEe19PxHVB",
+      "summary": "智谱GLM-5.4首次采用Loop架构，编程与3D生成能力显著提升但单次推理时长增加；团队过去三个月同时推进模型规模与Loop架构两条Scaling路线。",
+      "popularity": {
+        "views": 6815,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "good",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "大模型选型",
+          "AI编程",
+          "推理成本"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-25T14:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 74.2,
+      "detail_scores": {
+        "popularity": 68.15,
+        "usability": 57.0,
+        "practicality": 78.0,
+        "freshness": 100
+      },
+      "title_zh": "智谱 GLM-5.4 首发 Loop 架构：编程与 3D 能力大涨，推理耗时变长",
+      "summary_zh": "GLM-5.4 编程能力显著提升、3D 生成表现亮眼，代价是单次推理时间变长；智谱过去三个月同时推进\"模型规模\"与\"Loop 架构\"两条 Scaling 路线，下一代将继续双向扩展。",
+      "selected_on": "2026-11-26"
+    },
+    {
+      "name": "谷歌开源环境质量智能体 AQuA，用于诊断生产环境 AI 智能体故障",
+      "type": "news",
+      "platform": "InfoQ",
+      "url": "https://www.infoq.cn/article/YAc2TqCHc09kAFF1A7BS",
+      "summary": "谷歌开源AQuA智能体，可分析生产环境中的Agent会话、验证反复出现的故障模式，并对已部署源码做根因排查，补齐Agent可观测性短板。",
+      "popularity": {
+        "views": 6493,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "good",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "Agent运维",
+          "可观测性",
+          "根因分析"
+        ],
+        "maturity": "beta"
+      },
+      "freshness": {
+        "publish_date": "2026-11-25T13:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 66.48,
+      "detail_scores": {
+        "popularity": 64.93,
+        "usability": 57.0,
+        "practicality": 51.0,
+        "freshness": 100
+      },
+      "title_zh": "谷歌开源环境质量智能体 AQuA，用于诊断生产环境 AI 智能体故障",
+      "summary_zh": "AQuA 可分析生产环境中的 Agent 会话记录、验证反复出现的故障模式，并对已部署源码做根因排查，把\"环境质量\"思路引入 Agent 运维，补齐智能体可观测性与故障定位能力。",
+      "selected_on": "2026-11-26"
+    },
+    {
+      "name": "被中国网友扒出“偷数据”，7.7万星开源AI编程神器创始人当场破防：今晚就闭源",
+      "type": "news",
+      "platform": "36氪",
+      "url": "https://36kr.com/p/4084819336243589",
+      "summary": "7.7万星的开源AI编程工具被指出存在隐蔽数据回传通道，创始人随即宣布闭源，引发对AI编程工具数据边界与开源信任的讨论。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "AI编程工具",
+          "数据安全",
+          "隐私合规"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-25T19:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 59.75,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 78.0,
+        "freshness": 100
+      },
+      "title_zh": "7.7 万星开源 AI 编程工具被指回传数据，创始人宣布闭源",
+      "summary_zh": "一款 GitHub 7.7 万星的开源 AI 编程工具被中国网友扒出存在隐蔽数据回传通道，此前该团队还指责中国团队不守规矩；争议发酵后创始人宣布\"今晚就闭源\"，事件再次把 AI 编程工具的数据边界与开源信任问题推到台前。",
+      "selected_on": "2026-11-26"
+    },
+    {
+      "name": "我以为这是摄影作品，你告诉我这是最新的国产AI？！",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026-11-512748.html",
+      "summary": "商汤发布SenseNova U1.6图像生成模型，实拍级质感与中文语义理解明显提升，进一步拉高国产文生图模型的可用上限。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "good",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "AIGC图像生成",
+          "设计素材",
+          "电商视觉"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-26T03:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 59.0,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 78.0,
+        "practicality": 78.0,
+        "freshness": 100
+      },
+      "title_zh": "商汤发布 SenseNova U1.6：国产文生图逼近摄影级质感",
+      "summary_zh": "商汤 SenseNova U1.6 在写实质感、光影与中文语义理解上明显提升，生成结果已接近摄影成片水准，代表国产图像生成模型在\"以假乱真\"方向上的最新进展。",
+      "selected_on": "2026-11-26"
     }
   ],
   "pending_items": [
@@ -5235,6 +5232,94 @@
         "blocked_in_china": false
       },
       "collected_on": "2026-11-25",
+      "filtered": false,
+      "total_score": 45.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 57.0,
+        "practicality": 45.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "具身智能2026下半场：订单挤水分，大脑“祛魅”，资本算细账",
+      "type": "news",
+      "platform": "36氪",
+      "url": "https://36kr.com/p/4085020019632775",
+      "summary": "具身智能行业进入交付验证期：订单开始挤水分、对“机器人大脑”的技术叙事祛魅，资本转向核算单位交付成本与真实场景ROI。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "good",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "具身智能",
+          "行业观察",
+          "投资决策"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-25T21:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 50.0,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 57.0,
+        "practicality": 63.0,
+        "freshness": 100
+      }
+    },
+    {
+      "name": "9400万参数硬刚50亿，权重显存直降98%！Loop架构被这家中国团队玩明白了",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026-11-512565.html",
+      "summary": "脸谱心智提出General Looped Model，用9400万参数的循环权重结构对标50亿参数规模模型，权重显存占用下降约98%，把智能从堆参数转向堆计算深度。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "good",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "模型架构",
+          "端侧推理",
+          "降本增效"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-25T21:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
       "filtered": false,
       "total_score": 45.5,
       "detail_scores": {
