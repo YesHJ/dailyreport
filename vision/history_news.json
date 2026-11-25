@@ -1,102 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "大模型都能控机器人，Human Data还得怎么卷？",
-      "type": "news",
-      "platform": "量子位",
-      "url": "https://www.qbitai.com/2026-11-509468.html",
-      "summary": "量子位 2026-11-13 11:31 报道：简智机器人在 2026 CoRL 发布 DAS 2.0 两款新品——第一视角头戴式多模态采集设备 DAS Ego 2.0（6 颗全局快门相机、30fps 同步成像、水平视野 340°，2 颗主相机升级至 500 万像素、另 4 颗 200 万像素，指尖追踪标称精度 4mm，磁吸电池不停机更换）与灵巧手数据采集手套 DAS Dex 2.0（自研半柔性压阻式电子皮肤，单手 16 块触觉传感器/980 个感知单元，触觉空间分辨率 1mm、最小检测力 0.1N、采样 100Hz，21 个关节编码器支持 21DoF，指尖位置精度小于 1mm）。二者通过统一时钟与硬件触发实现约 1ms 头手时间对齐；团队正探索 Ego+Wrist Camera+Dex 同步配对采集，用配对监督与知识蒸馏把实测触觉迁移到更轻量的视觉方案，目标是不戴手套也能仅凭相机估计接触状态并获得像素级手部追踪。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "具身智能第一视角/腕部多相机数据采集",
-          "手部关键点与轨迹标注质量提升",
-          "触觉监督视觉模型的蒸馏训练"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-11-13T11:31:25"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "collected_on": "2026-11-15",
-      "filtered": false,
-      "total_score": 44.5,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 60.0,
-        "practicality": 54.0,
-        "freshness": 80
-      },
-      "title_zh": "大模型都能控机器人，Human Data还得怎么卷？",
-      "summary_zh": "量子位报道：简智机器人在 CoRL 2026 发布 DAS 2.0 两款采集设备——DAS Ego 2.0 头戴第一视角设备（6 颗全局快门相机、30fps 同步成像、水平视野 340°、主相机升至 500 万像素）与 DAS Dex 2.0 灵巧手数据手套（单手 16 块触觉传感器/980 个感知单元、1mm 空间分辨率、0.1N 最小检测力、21DoF），头手时间对齐约 1ms；团队正探索 Ego+Wrist+Dex 配对采集，用配对监督与知识蒸馏把实测触觉迁移到更轻量的视觉方案，实现像素级手部追踪与接触状态估计。",
-      "selected_on": "2026-11-15"
-    },
-    {
-      "name": "中国机器人学会隔墙“递眼色”！成功率从0飙到100%，组队干活不烧心",
-      "type": "news",
-      "platform": "量子位",
-      "url": "https://www.qbitai.com/2026-11-509614.html",
-      "summary": "量子位 2026-11-13 14:29 报道：深圳星尘智能发布面向多机器人协同操作的框架 CoMind（Be My Eye），核心是「去中心化的主动共享」与「任务关键信息的精选压缩」——不再整帧转发摄像头画面，而是由上下文编码器从多路相机观测中筛选压缩与当前任务和后续动作相关的视觉特征，接收方把共享信息与自身视觉观测、任务指令、本体状态一起输入视觉-语言-动作（VLA）模型生成连续动作；框架还引入「动作级反向传播」，让队友的动作误差回传优化信息提供方的特征提取。六项真机实验（隔墙拿笔、盲盒置物、纸箱组装、叠被收纳、冰箱补货、哑铃组装）中，隔墙拿笔成功率从 0% 提升到 100%，盲盒置物准确率从 38.9% 提升到 88.9%，通信信息量减少约 80%。技术报告见 www.astribot.com/AI/CoMind。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "多机器人协同装配与搬运",
-          "视觉遮挡下的关键特征压缩传输",
-          "VLA 模型的动作决策优化"
-        ],
-        "maturity": "experimental"
-      },
-      "freshness": {
-        "publish_date": "2026-11-13T14:29:23"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "collected_on": "2026-11-15",
-      "filtered": false,
-      "total_score": 38.25,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 44.0,
-        "practicality": 45.0,
-        "freshness": 80
-      },
-      "title_zh": "中国机器人学会隔墙“递眼色”！成功率从0飙到100%，组队干活不烧心",
-      "summary_zh": "量子位报道：星尘智能发布多机器人协同框架 CoMind（Be My Eye），由上下文编码器从多路摄像头观测中筛选压缩任务关键视觉特征，双向共享后与自身视觉观测、任务指令、本体状态一起输入 VLA 模型生成连续动作，并用“动作级反向传播”优化信息提取；真机测试中隔墙拿笔成功率从 0% 提升到 100%，盲盒置物准确率从 38.9% 提升到 88.9%，通信信息量减少约 80%，技术报告 www.astribot.com/AI/CoMind。",
-      "selected_on": "2026-11-15"
-    },
-    {
       "name": "中专生拍出《哈利·波特》爆款！欧美明星、好莱坞制片人集体点赞",
       "type": "news",
       "platform": "量子位",
@@ -371,7 +275,7 @@
       "accessibility": {
         "blocked_in_china": false
       },
-      "collected_on": "2026-11-17",
+      "collected_on": "2026-11-16",
       "filtered": false,
       "total_score": 56.0,
       "detail_scores": {
@@ -419,7 +323,7 @@
       "accessibility": {
         "blocked_in_china": false
       },
-      "collected_on": "2026-11-17",
+      "collected_on": "2026-11-16",
       "filtered": false,
       "total_score": 53.0,
       "detail_scores": {
@@ -467,7 +371,7 @@
       "accessibility": {
         "blocked_in_china": false
       },
-      "collected_on": "2026-11-17",
+      "collected_on": "2026-11-16",
       "filtered": false,
       "total_score": 50.89,
       "detail_scores": {
@@ -515,7 +419,7 @@
       "accessibility": {
         "blocked_in_china": false
       },
-      "collected_on": "2026-11-17",
+      "collected_on": "2026-11-16",
       "filtered": false,
       "total_score": 48.5,
       "detail_scores": {
@@ -563,7 +467,7 @@
       "accessibility": {
         "blocked_in_china": false
       },
-      "collected_on": "2026-11-17",
+      "collected_on": "2026-11-16",
       "filtered": false,
       "total_score": 46.25,
       "detail_scores": {
@@ -859,7 +763,7 @@
         "publish_source": "机器之心",
         "popularity_basis": "按平台推荐位/转载规模给出的保守估计值（未公开精确阅读数）"
       },
-      "collected_on": "2026-11-19",
+      "collected_on": "2026-11-18",
       "filtered": false,
       "total_score": 92.0,
       "detail_scores": {
@@ -911,7 +815,7 @@
         "publish_source": "量子位",
         "popularity_basis": "按平台推荐位/转载规模给出的保守估计值（未公开精确阅读数）"
       },
-      "collected_on": "2026-11-19",
+      "collected_on": "2026-11-18",
       "filtered": false,
       "total_score": 89.75,
       "detail_scores": {
@@ -963,7 +867,7 @@
         "publish_source": "维科网",
         "popularity_basis": "按平台推荐位/转载规模给出的保守估计值（未公开精确阅读数）"
       },
-      "collected_on": "2026-11-19",
+      "collected_on": "2026-11-18",
       "filtered": false,
       "total_score": 89.75,
       "detail_scores": {
@@ -1015,7 +919,7 @@
         "publish_source": "电子发烧友",
         "popularity_basis": "按平台推荐位/转载规模给出的保守估计值（未公开精确阅读数）"
       },
-      "collected_on": "2026-11-19",
+      "collected_on": "2026-11-18",
       "filtered": false,
       "total_score": 89.75,
       "detail_scores": {
@@ -1122,7 +1026,7 @@
         "practicality": 49.0,
         "freshness": 100
       },
-      "collected_on": "2026-11-20",
+      "collected_on": "2026-11-19",
       "title_zh": "SenseNova U1 Pro Design Arena 全球评测：图片生成中国第一",
       "summary_zh": "商汤发布 SenseNova U1 Pro，在 Design Arena 图片生成与编辑评测中位列中国第一、全球第六，展现视觉生成模型的工业级设计能力。",
       "selected_on": "2026-11-20"
@@ -1169,7 +1073,7 @@
         "practicality": 49.0,
         "freshness": 100
       },
-      "collected_on": "2026-11-20",
+      "collected_on": "2026-11-19",
       "title_zh": "可灵 Kling Image 4.0 原生8K视觉生成：国产文生图第一",
       "summary_zh": "快手可灵发布 Kling Image 4.0，支持原生 8K 分辨率、15K token 长指令，实现理解与生成统一的视觉架构，AA 文生图评测全球第七、国产第一。",
       "selected_on": "2026-11-20"
@@ -1209,7 +1113,7 @@
       "accessibility": {
         "blocked_in_china": false
       },
-      "collected_on": "2026-11-17",
+      "collected_on": "2026-11-16",
       "filtered": false,
       "total_score": 42.25,
       "detail_scores": {
@@ -1262,7 +1166,7 @@
         "practicality": 43.0,
         "freshness": 60
       },
-      "collected_on": null,
+      "collected_on": "2026-11-11",
       "selected_on": null,
       "_source": "pending"
     },
@@ -1301,7 +1205,7 @@
       "accessibility": {
         "blocked_in_china": false
       },
-      "collected_on": "2026-11-21",
+      "collected_on": "2026-11-20",
       "filtered": false,
       "total_score": 83.0,
       "detail_scores": {
@@ -1349,7 +1253,7 @@
       "accessibility": {
         "blocked_in_china": false
       },
-      "collected_on": "2026-11-21",
+      "collected_on": "2026-11-20",
       "filtered": false,
       "total_score": 78.5,
       "detail_scores": {
@@ -1398,7 +1302,7 @@
       "accessibility": {
         "blocked_in_china": false
       },
-      "collected_on": "2026-11-21",
+      "collected_on": "2026-11-20",
       "filtered": false,
       "total_score": 77.0,
       "detail_scores": {
@@ -1447,7 +1351,7 @@
       "accessibility": {
         "blocked_in_china": false
       },
-      "collected_on": "2026-11-21",
+      "collected_on": "2026-11-20",
       "filtered": false,
       "total_score": 76.0,
       "detail_scores": {
@@ -1496,7 +1400,7 @@
       "accessibility": {
         "blocked_in_china": false
       },
-      "collected_on": "2026-11-21",
+      "collected_on": "2026-11-20",
       "filtered": false,
       "total_score": 72.75,
       "detail_scores": {
@@ -1785,7 +1689,7 @@
       "accessibility": {
         "blocked_in_china": false
       },
-      "collected_on": "2026-11-23",
+      "collected_on": "2026-11-22",
       "filtered": false,
       "total_score": 49.0,
       "detail_scores": {
@@ -1834,7 +1738,7 @@
       "accessibility": {
         "blocked_in_china": false
       },
-      "collected_on": "2026-11-23",
+      "collected_on": "2026-11-22",
       "filtered": false,
       "total_score": 48.75,
       "detail_scores": {
@@ -1883,7 +1787,7 @@
       "accessibility": {
         "blocked_in_china": false
       },
-      "collected_on": "2026-11-23",
+      "collected_on": "2026-11-22",
       "filtered": false,
       "total_score": 48.75,
       "detail_scores": {
@@ -1932,7 +1836,7 @@
       "accessibility": {
         "blocked_in_china": false
       },
-      "collected_on": "2026-11-23",
+      "collected_on": "2026-11-22",
       "filtered": false,
       "total_score": 45.0,
       "detail_scores": {
@@ -2432,6 +2336,102 @@
       "_source": "pending",
       "title_zh": "清华 Asking the World：先从视频重建可运行物理世界，再用自主实验回答物理问题",
       "summary_zh": "机器之心报道（腾讯新闻官方账号转载）。清华团队在 PhysMind 之后提出 ATW（Asking the World）框架：先从视频恢复几何、运动以及摩擦、质量比、碰撞恢复系数等参数，建成既可继续仿真又允许改条件的「可执行世界」；再由智能体分「世界建模」与「世界探测」两阶段自主决定选哪些物体与物理模型、调用哪些视觉工具、跑什么实验——属性判断查参数、运动预测延长仿真、反事实问题复制场景后施加干预，证据不足就换一段继续查。以 Gemini-3-Flash 为基座，CLEVRER 总体逐题准确率 80.82%（比同一模型直接看视频回答高 46.50 个百分点、比 PhysMind 高 8.27 个百分点），覆盖多材料的 ContPhy 达 70.56%（高 28.10 个百分点）；实拍台球、弹跳球、玩具车三类场景 60 段视频 60 个问题准确率 71.67%，而直接回答只有 33.33%。配套自研 PolyWorld Engine 基于 Warp，覆盖刚体、软体、布料、绳索、流体及耦合交互；方法无需额外训练或微调。主页 asking-the-world.github.io，代码 github.com/zengsx23/Asking-the-World，论文 arxiv.org/abs/2609.39135。"
+    },
+    {
+      "name": "机器人大世界持续迭代，亦庄构建人机共融新生态",
+      "type": "news",
+      "platform": "维科网",
+      "url": "https://mp.ofweek.com/auto/a656714038697",
+      "summary": "北京发布具身智能机器人三年行动方案，把视觉语言动作模型（VLA）、世界模型、强化学习列为并行攻关路线；亦庄已有VLA模型XR-1、星海图G0.5等成果，RoboMIND数据集全球下载量突破5000万次。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": false
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "具身智能政策解读",
+          "VLA技术路线",
+          "机器人数据采集"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-25T14:44:00+08:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-26",
+      "filtered": false,
+      "total_score": 43.75,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 54.0,
+        "freshness": 50
+      },
+      "title_zh": "机器人大世界持续迭代，亦庄构建人机共融新生态",
+      "summary_zh": "北京发布具身智能机器人三年行动方案，把视觉语言动作模型（VLA）、世界模型、强化学习列为并行攻关路线；亦庄已有VLA模型XR-1、星海图G0.5等成果，RoboMIND数据集全球下载量突破5000万次。",
+      "selected_on": "2026-11-26"
+    },
+    {
+      "name": "高德发布世界模型 ABot-World 0.5，WBench 物理性与总分第一",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/11/512454.html",
+      "summary": "高德发布世界模型ABot-World 0.5，在WBench物理性与总分评测中排名第一，支持音画同步生成与自然语言实时重塑场景，模型可在消费级显卡本地部署，代码开源于github.com/amap-cvlab/ABot-World。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "世界模型视频生成",
+          "具身智能仿真数据",
+          "消费级显卡本地部署"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-24T18:30:42+08:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-26",
+      "filtered": false,
+      "total_score": 42.25,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 60.0,
+        "practicality": 69.0,
+        "freshness": 50
+      },
+      "title_zh": "高德发布世界模型 ABot-World 0.5，WBench物理性与总分第一",
+      "summary_zh": "高德发布世界模型ABot-World 0.5，在WBench物理性与总分评测中排名第一，支持音画同步生成与自然语言实时重塑场景，模型可在消费级显卡本地部署，代码开源于github.com/amap-cvlab/ABot-World。",
+      "selected_on": "2026-11-26"
     }
   ],
   "pending_items": []
