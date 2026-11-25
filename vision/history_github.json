@@ -1,311 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "BUAA-CI-LAB/EmbodiRun",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/BUAA-CI-LAB/EmbodiRun",
-      "summary": "An efficient 部署 and execution 运行时 for embodied AI. Configure a 模型, a compute node, and a robot or simulator, then run the whole loop from one file. (语言: Python) [标签: deployment, embodied-ai, infere...",
-      "popularity": {
-        "views": 10,
-        "likes": 10,
-        "comments": 3
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉-语言-动作",
-          "机器人视觉"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-21T12:58:44"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 10,
-        "forks": 3,
-        "open_issues": 3,
-        "language": "Python",
-        "license": "apache-2.0",
-        "topics": [
-          "deployment",
-          "embodied-ai",
-          "inference",
-          "python",
-          "robot-learning",
-          "robotics",
-          "runtime",
-          "vla",
-          "vln"
-        ],
-        "created_at": "2026-09-21T12:58:44Z",
-        "pushed_at": "2026-11-03T04:30:51Z"
-      },
-      "filtered": false,
-      "total_score": 35.53,
-      "detail_scores": {
-        "popularity": 25.099999999999998,
-        "usability": 44.0,
-        "practicality": 52.0,
-        "freshness": 20
-      },
-      "collected_on": "2026-11-10"
-    },
-    {
-      "name": "AndreiiArhire/LightMIS",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/AndreiiArhire/LightMIS",
-      "summary": "LightMIS: Ultra-Lightweight Medical 图像分割 Without a Stage-Wise Decoder (语言: Python) [标签: deep-learning, edge-ai, image-segmentation, lightweight-models, medical-image-segmentation]",
-      "popularity": {
-        "views": 32,
-        "likes": 32,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "图像分割",
-          "医学影像"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-23T15:14:25"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 32,
-        "forks": 0,
-        "open_issues": 1,
-        "language": "Python",
-        "license": "",
-        "topics": [
-          "deep-learning",
-          "edge-ai",
-          "image-segmentation",
-          "lightweight-models",
-          "medical-image-segmentation",
-          "medical-imaging",
-          "mobile-inference",
-          "nnunet",
-          "pytorch",
-          "semantic-segmentation"
-        ],
-        "created_at": "2026-09-23T15:14:25Z",
-        "pushed_at": "2026-09-30T22:14:09Z"
-      },
-      "filtered": false,
-      "total_score": 43.95,
-      "detail_scores": {
-        "popularity": 32.32,
-        "usability": 69.0,
-        "practicality": 52.0,
-        "freshness": 20
-      },
-      "_source": "pending"
-    },
-    {
-      "name": "tuotuoLyu/ForesightSafety-VLA",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/tuotuoLyu/ForesightSafety-VLA",
-      "summary": "Official code for ForesightSafety-VLA (IROS 2026): a unified diagnostic safety 基准测试 for 视觉-语言-动作 模型s on RoboTwin (语言: Python) [标签: benchmark, embodied-ai, iros2026, robot-safety, robotics]",
-      "popularity": {
-        "views": 85,
-        "likes": 85,
-        "comments": 3
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉-语言-动作",
-          "视觉语言模型",
-          "机器人视觉"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-10-29T03:52:03"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 85,
-        "forks": 3,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "other",
-        "topics": [
-          "benchmark",
-          "embodied-ai",
-          "iros2026",
-          "robot-safety",
-          "robotics",
-          "robotwin",
-          "safety-evaluation",
-          "vision-language-action"
-        ],
-        "created_at": "2026-10-29T03:52:03Z",
-        "pushed_at": "2026-10-29T03:52:24Z"
-      },
-      "filtered": false,
-      "total_score": 72.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 54.0,
-        "freshness": 60
-      }
-    },
-    {
-      "name": "tuotuoLyu/FPO",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/tuotuoLyu/FPO",
-      "summary": "Official code for \"Reinforcement 微调 of Flow-Matching Policies for 视觉-语言-动作 模型s\" (ICRA 2026): Flow Policy 优化 for pi0 (语言: Python) [标签: aloha, flow-matching, icra2026, jax, libero]",
-      "popularity": {
-        "views": 131,
-        "likes": 131,
-        "comments": 4
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉语言模型"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-10-29T03:51:55"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 131,
-        "forks": 4,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "mit",
-        "topics": [
-          "aloha",
-          "flow-matching",
-          "icra2026",
-          "jax",
-          "libero",
-          "reinforcement-learning",
-          "robot-learning",
-          "vision-language-action"
-        ],
-        "created_at": "2026-10-29T03:51:55Z",
-        "pushed_at": "2026-10-29T04:06:24Z"
-      },
-      "filtered": false,
-      "total_score": 71.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 50.0,
-        "freshness": 60
-      }
-    },
-    {
-      "name": "jeremyipark/vision-demos",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/jeremyipark/vision-demos",
-      "summary": "Fun real-world 计算机视觉 demos! (语言: Python)",
-      "popularity": {
-        "views": 1143,
-        "likes": 1143,
-        "comments": 190
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "机器视觉应用"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-09-08T19:53:41"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 1143,
-        "forks": 190,
-        "open_issues": 3,
-        "language": "Python",
-        "license": "apache-2.0",
-        "topics": [],
-        "created_at": "2026-09-08T19:53:41Z",
-        "pushed_at": "2026-11-05T20:58:37Z"
-      },
-      "filtered": false,
-      "total_score": 66.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 72.0,
-        "practicality": 59.0,
-        "freshness": 20
-      }
-    },
-    {
       "name": "NVlabs/alpamayo2-edge",
       "type": "tool",
       "platform": "GitHub",
@@ -378,7 +73,8 @@
         "usability": 69.0,
         "practicality": 54.0,
         "freshness": 20
-      }
+      },
+      "collected_on": "2026-11-11"
     },
     {
       "name": "Xtbreak/Xtbreak",
@@ -430,7 +126,8 @@
         "usability": 60.0,
         "practicality": 50.0,
         "freshness": 60
-      }
+      },
+      "collected_on": "2026-11-11"
     },
     {
       "name": "sumuru789/DK-VLM",
@@ -484,7 +181,8 @@
         "freshness": 60
       },
       "title_zh": "DK-VLM：把几何当作位置，让视觉语言模型学会空间推理",
-      "summary_zh": "DK-VLM 官方实现，提出将几何信息作为位置先验注入视觉语言模型，改善空间定位与关系推理表现；Python 编写、MIT 许可，约 125 star。"
+      "summary_zh": "DK-VLM 官方实现，提出将几何信息作为位置先验注入视觉语言模型，改善空间定位与关系推理表现；Python 编写、MIT 许可，约 125 star。",
+      "collected_on": "2026-10-29"
     },
     {
       "name": "LMIXR/CV_Deployment_skill",
@@ -777,7 +475,8 @@
         "usability": 69.0,
         "practicality": 52.0,
         "freshness": 80
-      }
+      },
+      "collected_on": "2026-11-13"
     },
     {
       "name": "black-forest-labs/flux-action",
@@ -965,7 +664,8 @@
         "usability": 69.0,
         "practicality": 50.0,
         "freshness": 20
-      }
+      },
+      "collected_on": "2026-11-01"
     },
     {
       "name": "nhatphonghoang35-collab/yaket-keras-trainer",
@@ -1022,7 +722,8 @@
         "usability": 69.0,
         "practicality": 50.0,
         "freshness": 20
-      }
+      },
+      "collected_on": "2026-11-01"
     },
     {
       "name": "RainBowLuoCS/Gamer",
@@ -1087,7 +788,8 @@
         "usability": 53.0,
         "practicality": 50.0,
         "freshness": 60
-      }
+      },
+      "collected_on": "2026-11-13"
     },
     {
       "name": "alexshpunt/pi-agent-computer-use",
@@ -1160,7 +862,8 @@
         "usability": 69.0,
         "practicality": 50.0,
         "freshness": 20
-      }
+      },
+      "collected_on": "2026-11-03"
     },
     {
       "name": "krishavijayanand2007-ship-7/Real-Time-Yoga-Pose-Recognition",
@@ -1212,7 +915,8 @@
         "usability": 60.0,
         "practicality": 50.0,
         "freshness": 80
-      }
+      },
+      "collected_on": "2026-11-14"
     },
     {
       "name": "neuroailab/psi-0.6",
@@ -1266,7 +970,8 @@
         "freshness": 60
       },
       "title_zh": "Ψ-0.6：统一视觉-语言世界模型中的自适应思维流",
-      "summary_zh": "MIT 神经人工智能实验室发布的论文配套仓库，提出在统一的视觉-语言世界模型中用自适应推理流组织多模态预测，代码与论文材料随仓库开放，MIT 许可。"
+      "summary_zh": "MIT 神经人工智能实验室发布的论文配套仓库，提出在统一的视觉-语言世界模型中用自适应推理流组织多模态预测，代码与论文材料随仓库开放，MIT 许可。",
+      "collected_on": "2026-11-01"
     },
     {
       "name": "MuhammadMustafa18/VisionHarness",
@@ -1324,7 +1029,8 @@
         "usability": 53.0,
         "practicality": 52.0,
         "freshness": 80
-      }
+      },
+      "collected_on": "2026-11-14"
     },
     {
       "name": "StarTrail-org/DRPixel",
@@ -2432,7 +2138,7 @@
         "created_at": "2026-11-14T08:47:11Z",
         "pushed_at": "2026-11-14T21:49:27Z"
       },
-      "collected_on": "2026-11-19",
+      "collected_on": "2026-11-18",
       "filtered": false,
       "total_score": 52.18,
       "detail_scores": {
@@ -2494,7 +2200,7 @@
         "created_at": "2026-09-01T03:52:46Z",
         "pushed_at": "2026-11-18T03:01:18Z"
       },
-      "collected_on": "2026-11-19",
+      "collected_on": "2026-11-18",
       "filtered": false,
       "total_score": 47.98,
       "detail_scores": {
@@ -2581,7 +2287,7 @@
         "practicality": 54.0,
         "freshness": 80
       },
-      "collected_on": "2026-11-21",
+      "collected_on": "2026-11-20",
       "selected_on": "2026-11-21",
       "title_zh": "SequenceLink：机器人策略的远程 GPU 推理服务层",
       "summary_zh": "开源 SequenceLink，为跑在远程 GPU 上的机器人策略提供低延迟 serving，已在 openpi、LeRobot、GR00T、Octo 上验证：推理层用 CUDA Graph 复用同批输出与副本，网络层压缩机器人与 GPU 之间的往返开销，适合把 VLA/视觉策略部署到真实本体。"
@@ -2636,7 +2342,7 @@
         "created_at": "2026-09-14T11:22:08Z",
         "pushed_at": "2026-11-05T08:19:48Z"
       },
-      "collected_on": "2026-11-23",
+      "collected_on": "2026-11-22",
       "filtered": false,
       "total_score": 40.48,
       "detail_scores": {
@@ -3107,11 +2813,273 @@
       "title_zh": "评测工作：VLA 还留着原来 VLM 的视觉语言能力吗？8 个 VLA 对照原骨干跑 8 项基准",
       "summary_zh": "MIT 协议的评测研究。做法是把预训练 VLA 的骨干张量拷贝回它所源自的原 VLM 架构（剔除动作专家、flow head 与动作 token 相关行），再用原 VLM 自己的 processor 与 prompt 在 8 个视觉-语言和纯文本基准上打分，让同族的基线与 VLA 看到完全相同的像素与问题文本，不是机器人成功率评测。结论是 8 个 VLA 里 6 个平均掉 11 分以上，只有 π0.5 与 MolmoAct2 守住了原 VLM 水平。拷贝必须完整：语言、视觉、projector 或 embedding 缺失、或同时匹配到两个专家时，脚本直接停下来打印缺失键名，绝不输出「一半 VLA 权重一半基线权重」的分数。全部预测与分基准成绩存在 results/（chart.png、summary.json）。需要 CUDA 版 torch 与包含 PaliGemma、Qwen2.5-VL、Qwen3-VL、Qwen3.5 的 transformers，装上 flash-linear-attention 可显著加速线性注意力层。",
       "selected_on": "2026-11-25"
-    }
-  ],
-  "pending_items": [
+    },
     {
-      "name": "RicePasteM/RiO-DETRv2",
+      "name": "first-line-to-first-paper：860页开源教材+182个Colab笔记本",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/sharukh01621/first-line-to-first-paper",
+      "summary": "From First Line to First Paper: 860-page open textbook + 182 Google Colab notebooks mastering Python, Biostatistics, ML, and PyTorch 深度学习. (语言: Jupyter Notebook) [标签: biostatistics, data-science, d...",
+      "popularity": {
+        "views": 34,
+        "likes": 34,
+        "comments": 11
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "深度学习"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-21T17:27:37"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 34,
+        "forks": 11,
+        "open_issues": 0,
+        "language": "Jupyter Notebook",
+        "license": "other",
+        "topics": [
+          "biostatistics",
+          "data-science",
+          "deep-learning",
+          "google-colab",
+          "machine-learning",
+          "open-textbook",
+          "python",
+          "pytorch"
+        ],
+        "created_at": "2026-11-21T17:27:37Z",
+        "pushed_at": "2026-11-24T20:34:44Z"
+      },
+      "collected_on": "2026-11-26",
+      "filtered": false,
+      "total_score": 72.55,
+      "detail_scores": {
+        "popularity": 89.34,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 80
+      },
+      "title_zh": "first-line-to-first-paper：860页开源教材+182个Colab笔记本",
+      "summary_zh": "面向Python、生物统计与PyTorch深度学习的860页开源教材，配182个可直接运行的Google Colab笔记本，覆盖从写第一行代码到完成论文的完整路径，适合补齐深度学习基础。",
+      "name_original": "sharukh01621/first-line-to-first-paper",
+      "selected_on": "2026-11-26"
+    },
+    {
+      "name": "PyRUA-Lean：机器人智能体用Python代码行动，成功率更高、Token少65%",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/DAGroup-PKU/PyRUA-Lean",
+      "summary": "Fewer Tokens, Better Action: GPT-6 Astra Robot Agents with 14% Higher Success but 65% Fewer Tokens (语言: Python) [标签: computer-use-agent, gpt-6-astra, post-training, recursive-self-improvement, robo...",
+      "popularity": {
+        "views": 286,
+        "likes": 286,
+        "comments": 12
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉-语言-动作",
+          "视觉语言模型",
+          "机器人视觉"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-25T08:04:11"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 286,
+        "forks": 12,
+        "open_issues": 2,
+        "language": "Python",
+        "license": "apache-2.0",
+        "topics": [
+          "computer-use-agent",
+          "gpt-6-astra",
+          "post-training",
+          "recursive-self-improvement",
+          "robocoliseum",
+          "robodojo",
+          "robot-use-agent",
+          "robotics",
+          "rsi",
+          "self-evolving",
+          "self-evolving-agent",
+          "token-efficiency",
+          "vision-language-action",
+          "vision-language-model",
+          "vla"
+        ],
+        "created_at": "2026-09-25T08:04:11Z",
+        "pushed_at": "2026-11-25T12:16:07Z"
+      },
+      "collected_on": "2026-10-29",
+      "filtered": false,
+      "total_score": 64.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 54.0,
+        "freshness": 20
+      },
+      "title_zh": "PyRUA-Lean：机器人智能体用Python代码行动，成功率更高、Token少65%",
+      "summary_zh": "北大DAGroup提出的机器人智能体框架，把运动/抓取/感知与VLA策略编成可自检重试的Python单元，成功率63.1%→71.7%、输入Token省65%，登顶RoboDojo与RoboColiseum榜单，并开源4B Coder模型。",
+      "name_original": "DAGroup-PKU/PyRUA-Lean",
+      "selected_on": "2026-11-26"
+    },
+    {
+      "name": "DeepEP-Ascend：昇腾NPU上的高性能MoE专家并行通信库",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/deepseek-ai/DeepEP-Ascend",
+      "summary": "A high-performance communication 库 for 机器学习 训练 and 推理 on Huawei Ascend NPUs. (语言: C++)",
+      "popularity": {
+        "views": 302,
+        "likes": 302,
+        "comments": 73
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "机器视觉应用"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-30T00:44:59"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 302,
+        "forks": 73,
+        "open_issues": 26,
+        "language": "C++",
+        "license": "",
+        "topics": [],
+        "created_at": "2026-09-30T00:44:59Z",
+        "pushed_at": "2026-11-03T01:45:19Z"
+      },
+      "collected_on": "2026-10-29",
+      "filtered": false,
+      "total_score": 63.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 20
+      },
+      "title_zh": "DeepEP-Ascend：昇腾NPU上的高性能MoE专家并行通信库",
+      "summary_zh": "DeepSeek面向华为昇腾NPU开源的训练与推理通信库，提供MoE dispatch/combine的EP all-to-all、FP8分发与Bucket集合通信，Ascend 950DT上EP8分发带宽约375GB/s，buffer API与NVIDIA版DeepEP对齐。",
+      "name_original": "deepseek-ai/DeepEP-Ascend",
+      "selected_on": "2026-11-26"
+    },
+    {
+      "name": "HuRo：把人类第一视角视频机器人化，用于可扩展VLA预训练（CoRL 2026）",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/3587jjh/HuRo",
+      "summary": "HuRo: Robotizing Human 视频s for Scalable VLA Pre训练 (CoRL 2026) (语言: Python) [标签: egocentric-video, motion-retargeting, robot-learning, robotization, vision-language-action]",
+      "popularity": {
+        "views": 72,
+        "likes": 72,
+        "comments": 3
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉-语言-动作",
+          "视觉语言模型",
+          "视频理解"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-09-12T06:13:11"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 72,
+        "forks": 3,
+        "open_issues": 4,
+        "language": "Python",
+        "license": "apache-2.0",
+        "topics": [
+          "egocentric-video",
+          "motion-retargeting",
+          "robot-learning",
+          "robotization",
+          "vision-language-action",
+          "vla"
+        ],
+        "created_at": "2026-09-12T06:13:11Z",
+        "pushed_at": "2026-11-10T19:29:54Z"
+      },
+      "collected_on": "2026-11-10",
+      "filtered": false,
+      "total_score": 61.07,
+      "detail_scores": {
+        "popularity": 87.72,
+        "usability": 69.0,
+        "practicality": 54.0,
+        "freshness": 20
+      },
+      "title_zh": "HuRo：把人类第一视角视频机器人化，用于可扩展VLA预训练（CoRL 2026）",
+      "summary_zh": "CoRL 2026工作，通过动作重定向把egocentric人类视频转成机器人可学习的轨迹用于VLA预训练，已发布arXiv论文、项目页与HuggingFace数据集，Apache-2.0许可，缓解真机数据不足。",
+      "name_original": "3587jjh/HuRo",
+      "selected_on": "2026-11-26"
+    },
+    {
+      "name": "RiO-DETRv2：几何感知不确定性建模的实时旋转目标检测Transformer",
       "type": "tool",
       "platform": "GitHub",
       "url": "https://github.com/RicePasteM/RiO-DETRv2",
@@ -3153,7 +3121,7 @@
         "created_at": "2026-10-21T02:16:55Z",
         "pushed_at": "2026-11-20T03:10:15Z"
       },
-      "collected_on": "2026-11-25",
+      "collected_on": "2026-11-06",
       "filtered": false,
       "total_score": 37.85,
       "detail_scores": {
@@ -3161,7 +3129,13 @@
         "usability": 60.0,
         "practicality": 50.0,
         "freshness": 20
-      }
+      },
+      "_source": "pending",
+      "title_zh": "RiO-DETRv2：几何感知不确定性建模的实时旋转目标检测Transformer",
+      "summary_zh": "旋转框目标检测官方实现，把几何感知不确定性建模引入DETRv2实现实时oriented detection，提供PyTorch训练推理代码与HuggingFace权重（AGPL-3.0），可用于工业缺陷与倾斜小目标检测。",
+      "name_original": "RicePasteM/RiO-DETRv2",
+      "selected_on": "2026-11-26"
     }
-  ]
+  ],
+  "pending_items": []
 }
