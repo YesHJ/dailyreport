@@ -1,81 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "brave-plum-co/leonardo-ai-desktop",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/brave-plum-co/leonardo-ai-desktop",
-      "summary": "Leonardo AI 2026 desktop setup with 文生图 生成 using fine-tuned 模型s, canvas editor with inpainting and outpainting, plus 实时 生成 and image-to-motion for Windows 11 (语言: C++) [标签: ai-art-platform, ai-crea...",
-      "popularity": {
-        "views": 298,
-        "likes": 298,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "图像生成",
-          "自动化"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-11-14T00:23:46"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 298,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "C++",
-        "license": "mit",
-        "topics": [
-          "ai-art-platform",
-          "ai-creative-suite",
-          "ai-generation-tools",
-          "ai-image-generator",
-          "ai-image-tools",
-          "generative-ai-art",
-          "leonardo-ai-api",
-          "leonardo-ai-api-wrapper",
-          "leonardo-ai-automation",
-          "leonardo-ai-extension",
-          "leonardo-ai-generator",
-          "leonardo-ai-integration",
-          "leonardo-ai-models",
-          "leonardo-ai-prompt-tools",
-          "leonardo-ai-scripts",
-          "leonardo-ai-style-tools",
-          "leonardo-ai-tools",
-          "leonardo-ai-utilities",
-          "leonardo-ai-workflow"
-        ],
-        "created_at": "2026-11-14T00:23:46Z",
-        "pushed_at": "2026-11-14T21:15:02Z"
-      },
-      "filtered": false,
-      "total_score": 82.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 78.0,
-        "practicality": 52.0,
-        "freshness": 100
-      },
-      "collected_on": "2026-11-14",
-      "selected_on": "2026-11-19"
-    },
-    {
       "name": "briskember13/adobe-acrobat-pdf-desktop",
       "type": "tool",
       "platform": "GitHub",
@@ -3436,6 +3361,84 @@
       "title_zh": "agentes-chat：开源自托管的 Slack 替代方案，让团队与 AI 智能体同频道协作",
       "summary_zh": "开源团队聊天产品 https://github.com/agentes-chat/agentes-chat（TypeScript / AGPL-3.0），团队成员与 AI 智能体可在频道和私聊中共同工作；智能体可接 Claude、ChatGPT/Codex、Gemini、Grok，支持 MCP 工具、独立计算机与浏览器、定时任务、记忆与人工审批，提供 Web/桌面/移动端，Docker Compose + Postgres 自托管，当前 2020 stars。",
       "selected_on": "2026-11-25"
+    },
+    {
+      "name": "wideeyededi/uncensored-nsfw-ai-video-api",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/wideeyededi/uncensored-nsfw-ai-video-api",
+      "summary": "Uncensored NSFW AI video 生成 API & generator for adults — Seedance Spicy & Wan NSFW, AI character & companion video, 18+ text-to-video / image-to-video, async tasks, webhooks, credits billing. 成人向 A...",
+      "popularity": {
+        "views": 453,
+        "likes": 453,
+        "comments": 66
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "图像生成",
+          "视频生成"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-02T02:15:29"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 453,
+        "forks": 66,
+        "open_issues": 0,
+        "language": "",
+        "license": "mit",
+        "topics": [
+          "123vips",
+          "adult-ai-video",
+          "ai-api",
+          "ai-companion",
+          "ai-video-api",
+          "ai-video-generator",
+          "nsfw",
+          "nsfw-ai",
+          "nsfw-api",
+          "nsfw-character-api",
+          "nsfw-video-api",
+          "seedance",
+          "seedance-api",
+          "seedance-spicy",
+          "text-to-video",
+          "uncensored",
+          "uncensored-ai",
+          "unrestricted-video-api",
+          "wan",
+          "wan-nsfw"
+        ],
+        "created_at": "2026-11-02T02:15:29Z",
+        "pushed_at": "2026-11-21T09:26:02Z"
+      },
+      "collected_on": "2026-11-03",
+      "filtered": false,
+      "total_score": 72.25,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 52.0,
+        "freshness": 60
+      },
+      "title_zh": "无限制成人向 AI 视频生成 API（uncensored-nsfw-ai-video-api）",
+      "summary_zh": "封装 Seedance、Wan 等模型的成人向文生图/图生视频接口，提供异步任务、Webhook 回调与 credits 计费。仓库属 API 套壳类项目且含 18+ 内容，仅适合作为多模态生成服务化形态的观察样本，商用需严格评估合规风险。",
+      "selected_on": "2026-11-26"
     }
   ],
   "pending_items": []
