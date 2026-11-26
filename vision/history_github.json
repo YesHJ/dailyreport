@@ -1,300 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "NVlabs/alpamayo2-edge",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/NVlabs/alpamayo2-edge",
-      "summary": "NVIDIA Alpamayo 2 Edge is a 2B-parameter in-vehicle reasoning 视觉-语言-动作 模型 using adaptive reasoning to generate trajectories and causal explanations for 微调 and efficient 部署. (语言: Python) [标签: adapti...",
-      "popularity": {
-        "views": 28,
-        "likes": 28,
-        "comments": 4
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉-语言-动作",
-          "视觉语言模型",
-          "机器人视觉"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-10-06T22:58:22"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 28,
-        "forks": 4,
-        "open_issues": 1,
-        "language": "Python",
-        "license": "apache-2.0",
-        "topics": [
-          "adaptive-reasoning",
-          "alpamayo",
-          "alpamayo-2-edge",
-          "autonomous-driving",
-          "autonomous-mobile-robots",
-          "cosmos",
-          "drive-agx-thor",
-          "edge-ai",
-          "embodied-ai",
-          "embodied-navigation",
-          "fine-tuning",
-          "humanoid-robots",
-          "nvidia",
-          "off-road-autonomy",
-          "physical-ai",
-          "quadruped-robots",
-          "robot-navigation",
-          "robotics",
-          "vision-language-action",
-          "vla"
-        ],
-        "created_at": "2026-10-06T22:58:22Z",
-        "pushed_at": "2026-11-10T07:16:09Z"
-      },
-      "filtered": false,
-      "total_score": 49.23,
-      "detail_scores": {
-        "popularity": 48.28,
-        "usability": 69.0,
-        "practicality": 54.0,
-        "freshness": 20
-      },
-      "collected_on": "2026-11-11"
-    },
-    {
-      "name": "Xtbreak/Xtbreak",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/Xtbreak/Xtbreak",
-      "summary": "徐同博 · AI PM · 计算机视觉 · Agent Skills (语言: JavaScript)",
-      "popularity": {
-        "views": 11,
-        "likes": 11,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "机器视觉应用"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-11-02T11:10:38"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 11,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "JavaScript",
-        "license": "",
-        "topics": [],
-        "created_at": "2026-11-02T11:10:38Z",
-        "pushed_at": "2026-11-11T04:01:49Z"
-      },
-      "filtered": false,
-      "total_score": 42.83,
-      "detail_scores": {
-        "popularity": 11.11,
-        "usability": 60.0,
-        "practicality": 50.0,
-        "freshness": 60
-      },
-      "collected_on": "2026-11-11"
-    },
-    {
-      "name": "sumuru789/DK-VLM",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/sumuru789/DK-VLM",
-      "summary": "Official implementation for \"DK-VLM: Geometry as Position for Spatial Reasoning in 视觉语言模型s\" (语言: Python)",
-      "popularity": {
-        "views": 125,
-        "likes": 125,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视觉语言模型"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-10-13T08:19:04"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 125,
-        "forks": 0,
-        "open_issues": 2,
-        "language": "Python",
-        "license": "mit",
-        "topics": [],
-        "created_at": "2026-10-13T08:19:04Z",
-        "pushed_at": "2026-11-12T03:58:56Z"
-      },
-      "filtered": false,
-      "total_score": 69.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 60.0,
-        "practicality": 50.0,
-        "freshness": 60
-      },
-      "title_zh": "DK-VLM：把几何当作位置，让视觉语言模型学会空间推理",
-      "summary_zh": "DK-VLM 官方实现，提出将几何信息作为位置先验注入视觉语言模型，改善空间定位与关系推理表现；Python 编写、MIT 许可，约 125 star。",
-      "collected_on": "2026-10-29"
-    },
-    {
-      "name": "LMIXR/CV_Deployment_skill",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/LMIXR/CV_Deployment_skill",
-      "summary": "计算机视觉 部署 resources and engineering workflow configuration",
-      "popularity": {
-        "views": 791,
-        "likes": 791,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "机器视觉应用"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-09-29T07:52:38"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 791,
-        "forks": 0,
-        "open_issues": 2,
-        "language": "",
-        "license": "",
-        "topics": [],
-        "created_at": "2026-09-29T07:52:38Z",
-        "pushed_at": "2026-11-12T08:25:30Z"
-      },
-      "filtered": false,
-      "total_score": 59.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 44.0,
-        "practicality": 59.0,
-        "freshness": 20
-      },
-      "collected_on": "2026-10-29",
-      "title_zh": "CV_Deployment_skill：计算机视觉部署资料与工程工作流配置",
-      "summary_zh": "汇总计算机视觉落地的部署资料与工程 workflow 配置，覆盖模型导出、推理加速与产线集成环节，可当作视觉部署技能清单参考。"
-    },
-    {
-      "name": "deep-learning-alchemy/assignments",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/deep-learning-alchemy/assignments",
-      "summary": "CS312 深度学习 Alchemy student assignments. (语言: Python)",
-      "popularity": {
-        "views": 35,
-        "likes": 35,
-        "comments": 27
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "poor",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "深度学习"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-23T01:38:32"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 35,
-        "forks": 27,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "",
-        "topics": [],
-        "created_at": "2026-09-23T01:38:32Z",
-        "pushed_at": "2026-11-12T08:36:42Z"
-      },
-      "filtered": false,
-      "total_score": 58.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 48.0,
-        "practicality": 50.0,
-        "freshness": 20
-      },
-      "collected_on": "2026-11-01",
-      "title_zh": "CS312《Deep Learning Alchemy》课程作业合集（历史回填条目，仅作展示）",
-      "summary_zh": "深度学习课程 CS312 的学员作业仓库（Python，44 stars）。与机器视觉/工业检测没有直接关系，属于历史随机回填（_retro）用于补足展示条目的内容，不计入本轮新采集，也不写入本轮中文入库新增。"
-    },
-    {
       "name": "BlueRingsLabs/no-shortcuts",
       "type": "tool",
       "platform": "GitHub",
@@ -3135,6 +2841,328 @@
       "summary_zh": "旋转框目标检测官方实现，把几何感知不确定性建模引入DETRv2实现实时oriented detection，提供PyTorch训练推理代码与HuggingFace权重（AGPL-3.0），可用于工业缺陷与倾斜小目标检测。",
       "name_original": "RicePasteM/RiO-DETRv2",
       "selected_on": "2026-11-26"
+    },
+    {
+      "name": "chenyizhi123/Zeta0",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/chenyizhi123/Zeta0",
+      "summary": "ζ₀ (Zeta0): World Action 模型s with Joint Scene & Body Foresight — Unitree G1 + SONIC + BrainCo capture, Ψ₀ / GR00T N1.7 训练, RTC deploy & 三维-printable wrist mounts (语言: Python) [标签: 3d-printing, dext...",
+      "popularity": {
+        "views": 78,
+        "likes": 78,
+        "comments": 9
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉-语言-动作",
+          "视觉语言模型",
+          "三维视觉"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-22T07:22:49"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 78,
+        "forks": 9,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "apache-2.0",
+        "topics": [
+          "3d-printing",
+          "dexterous-manipulation",
+          "embodied-ai",
+          "flow-matching",
+          "gr00t",
+          "humanoid-robotics",
+          "lerobot",
+          "robotics",
+          "unitree-g1",
+          "vision-language-action",
+          "vla",
+          "whole-body-control",
+          "world-action-model",
+          "world-model"
+        ],
+        "created_at": "2026-11-22T07:22:49Z",
+        "pushed_at": "2026-11-24T03:15:19Z"
+      },
+      "collected_on": "2026-11-27",
+      "filtered": false,
+      "total_score": 76.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 54.0,
+        "freshness": 80
+      },
+      "title_zh": "Zeta0：面向人形机器人控制的「场景 + 身体」联合前瞻世界-动作模型框架",
+      "summary_zh": "开源框架 ζ₀（Zeta0）把 Ψ₀、GR00T N1.7 等分层 VLA 模型升级为世界-动作模型：从因果输入同时预测未来场景特征与 29 个全身关节状态（+0.2/0.4/0.6 秒），并用 Dual-Response Transfer 在动作空间施加监督。HumanoidArena 七任务平均成功率由 44.8% 提升至 63.6%（Ψ₀）、70.5% 提升至 79.5%（GR00T N1.7），真机宇树 G1 六项任务 61.7% 提升至 78.3%；同步开放 739 段真机数据、不依赖私有权重的训练/导出/RTC 部署链路以及可 3D 打印的 RealSense D415 腕部相机支架，Apache-2.0，78 star。",
+      "selected_on": "2026-11-27"
+    },
+    {
+      "name": "tuotuoLyu/ForesightSafety-VLA",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/tuotuoLyu/ForesightSafety-VLA",
+      "summary": "Official code for ForesightSafety-VLA (IROS 2026): a unified diagnostic safety 基准测试 for 视觉-语言-动作 模型s on RoboTwin (语言: Python) [标签: benchmark, embodied-ai, iros2026, robot-safety, robotics]",
+      "popularity": {
+        "views": 86,
+        "likes": 86,
+        "comments": 3
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉-语言-动作",
+          "视觉语言模型",
+          "机器人视觉"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-29T03:52:03"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 86,
+        "forks": 3,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "other",
+        "topics": [
+          "benchmark",
+          "embodied-ai",
+          "iros2026",
+          "robot-safety",
+          "robotics",
+          "robotwin",
+          "safety-evaluation",
+          "vision-language-action"
+        ],
+        "created_at": "2026-10-29T03:52:03Z",
+        "pushed_at": "2026-10-29T03:52:24Z"
+      },
+      "collected_on": "2026-10-30",
+      "filtered": false,
+      "total_score": 72.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 54.0,
+        "freshness": 60
+      },
+      "title_zh": "ForesightSafety-VLA：视觉-语言-动作模型的统一诊断式安全基准（IROS 2026）",
+      "summary_zh": "IROS 2026 论文官方代码，在 RoboTwin 2.0 上构造 66 个安全增强场景与 13 类安全分类体系（物理交互 Safe-Core、指令 Safe-Lang、感知 Safe-Vis），支持场景结构 L0-L2、语言 W0-W4、视觉 V0-V4 单因子扫描，并用累计安全代价 CC、风险暴露时间 RET、安全校正成功率 SASR 等过程级指标把结果拆成安全成功/不安全成功/安全失败/不安全失败四象限。对 ACT、Diffusion Policy、RDT、OpenVLA-OFT 的评测显示无基线完全安全，且视觉与结构扰动比常规语言变化更能拖垮安全性；MIT，86 star。",
+      "selected_on": "2026-11-27"
+    },
+    {
+      "name": "tuotuoLyu/FPO",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/tuotuoLyu/FPO",
+      "summary": "Official code for \"Reinforcement 微调 of Flow-Matching Policies for 视觉-语言-动作 模型s\" (ICRA 2026): Flow Policy 优化 for pi0 (语言: Python) [标签: aloha, flow-matching, icra2026, jax, libero]",
+      "popularity": {
+        "views": 133,
+        "likes": 133,
+        "comments": 5
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉语言模型"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-29T03:51:55"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 133,
+        "forks": 5,
+        "open_issues": 0,
+        "language": "Python",
+        "license": "mit",
+        "topics": [
+          "aloha",
+          "flow-matching",
+          "icra2026",
+          "jax",
+          "libero",
+          "reinforcement-learning",
+          "robot-learning",
+          "vision-language-action"
+        ],
+        "created_at": "2026-10-29T03:51:55Z",
+        "pushed_at": "2026-10-29T04:06:24Z"
+      },
+      "collected_on": "2026-10-30",
+      "filtered": false,
+      "total_score": 71.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 50.0,
+        "freshness": 60
+      },
+      "title_zh": "FPO：视觉-语言-动作模型流匹配策略的强化学习微调（ICRA 2026）",
+      "summary_zh": "ICRA 2026 论文官方实现，提出 Flow Policy Optimization：在冻结的 pi0 之上训练输出噪声隐变量的流策略，用逐样本条件流匹配（CFM）损失差构造免似然概率比，配合 PPO 式裁剪替代、Q 集成 critic 与多步欧拉隐变量探索完成在线强化微调。LIBERO 四套件平均成功率 87.2%（pi0-FPO）优于 pi0-FAST 的 85.5%，ALOHA Transfer Cube 从约 40% 提升到 65% 以上；仓库提供 CPU 单元测试与全部消融开关，MIT，133 star。",
+      "selected_on": "2026-11-27"
+    },
+    {
+      "name": "jeremyipark/vision-demos",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/jeremyipark/vision-demos",
+      "summary": "Fun real-world 计算机视觉 demos! (语言: Python)",
+      "popularity": {
+        "views": 1198,
+        "likes": 1198,
+        "comments": 197
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "机器视觉应用"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-09-08T19:53:41"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 1198,
+        "forks": 197,
+        "open_issues": 3,
+        "language": "Python",
+        "license": "apache-2.0",
+        "topics": [],
+        "created_at": "2026-09-08T19:53:41Z",
+        "pushed_at": "2026-11-18T00:04:32Z"
+      },
+      "collected_on": "2026-10-29",
+      "filtered": false,
+      "total_score": 66.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 72.0,
+        "practicality": 59.0,
+        "freshness": 20
+      },
+      "title_zh": "vision-demos：真实场景计算机视觉小应用合集（姿态 + SAM 分割）",
+      "summary_zh": "该仓库用 ViTPose-Plus-Large 关键点模型与 SAM 3.1 分割模型串起十个真实世界视觉应用：引体向上/俯卧撑/硬拉计数与动作质量判定、舞蹈同步度评分、攀岩岩点分割与 iPhone LiDAR 三维路线测量、篮球投篮命中判定与投篮热点图、高尔夫挥杆杆头轨迹与节奏分析、跑步步频测量等；提供 Gradio 网页应用（上传视频→裁剪→分析），默认走 VLM Run 网关匿名额度、无需 API key，Apache-2.0，1.2k star。",
+      "selected_on": "2026-11-27"
+    },
+    {
+      "name": "Tencent/WeMM-Ecom",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/Tencent/WeMM-Ecom",
+      "summary": "WeMM-Ecom is a family of 多模态 基础模型s by the WeChat Vision Team at Tencent, built for frontier E-commerce understanding and SoTA general vision-language performance. (语言: Shell) [标签: e-commerce, mllms...",
+      "popularity": {
+        "views": 70,
+        "likes": 70,
+        "comments": 1
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视觉语言模型",
+          "多模态"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-18T08:28:58"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 70,
+        "forks": 1,
+        "open_issues": 1,
+        "language": "Shell",
+        "license": "other",
+        "topics": [
+          "e-commerce",
+          "mllms",
+          "multimodal"
+        ],
+        "created_at": "2026-11-18T08:28:58Z",
+        "pushed_at": "2026-11-24T16:58:31Z"
+      },
+      "collected_on": "2026-11-27",
+      "filtered": false,
+      "total_score": 64.96,
+      "detail_scores": {
+        "popularity": 75.7,
+        "usability": 69.0,
+        "practicality": 52.0,
+        "freshness": 60
+      },
+      "title_zh": "WeMM-Ecom：腾讯微信视觉团队开源电商多模态基础模型家族",
+      "summary_zh": "微信视觉团队发布中英双语多模态基础模型 WeMM-Ecom，含 0.8B/2B/4B/9B 稠密模型与 35B-A3B MoE（激活 3B），已部署在微信电商的商品理解、多模态搜索、合规审核与直播电商链路。28 个电商基准平均 74.35 领先 Qwen3.8-Flash-Next（73.15）等对手，64 个通用基准上 35B-A3B 达 76.37、9B 达 74.18、2B 在轻量级模型中排名第一；单一检查点同时支持 Thinking 与 Instruct 模式，沿用上游 transformers 架构无需自定义补丁，提供 BF16/FP8/GPTQ/GGUF 权重适配 Transformers、vLLM、SGLang 与 llama.cpp，代码 Apache-2.0，70 star。",
+      "selected_on": "2026-11-27"
     }
   ],
   "pending_items": []
