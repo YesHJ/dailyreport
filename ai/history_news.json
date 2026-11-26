@@ -1,246 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
-      "type": "news",
-      "platform": "量子位",
-      "url": "https://www.qbitai.com/2026-11-510486.html",
-      "summary": "阿里正式发布通义千问Qwen4，主打智能体与编程能力进阶，强调在真实全场景任务中的工具调用与长链路执行表现，面向开发者开放接入。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "wide",
-        "scenarios": [
-          "智能体应用开发",
-          "代码生成与补全",
-          "多场景任务编排"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-16T15:51:57"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 62.0,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 90.0,
-        "practicality": 78.0,
-        "freshness": 100
-      },
-      "selected_on": "2026-11-19",
-      "title_zh": "阿里正式发布 Qwen4，智能体与编程能力进阶",
-      "summary_zh": "阿里正式发布通义千问 Qwen4，主打智能体与编程能力进阶，强调真实全场景下的工具调用与长链路任务执行，面向开发者开放接入。",
-      "collected_on": "2026-11-16"
-    },
-    {
-      "name": "AI Models 1.1.0 发布，查大模型价格、对比模型和找 API 地址",
-      "type": "news",
-      "platform": "掘金",
-      "url": "https://juejin.cn/post/7708108117679521833",
-      "summary": "开源目录工具AI Models发布1.1.0，收录1806条模型记录与47个供应商入口，支持组合搜索、模型PK比价、按协议与套餐查Base URL以及SOTA时间轴，源码与数据口径公开在GitHub。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "excellent",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "wide",
-        "scenarios": [
-          "模型选型与比价",
-          "客户端API地址核对",
-          "新旗舰模型追踪"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-15"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 62.0,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 90.0,
-        "practicality": 78.0,
-        "freshness": 100
-      },
-      "selected_on": "2026-11-19",
-      "title_zh": "AI Models 1.1.0 发布：查大模型价格、对比模型、找 API 地址",
-      "summary_zh": "开源目录工具 AI Models 发布 1.1.0，收录 1806 条模型记录与 47 个供应商入口，支持组合搜索、模型 PK 比价、按协议与套餐查 Base URL 以及 SOTA 时间轴，源码与数据口径公开。",
-      "collected_on": "2026-11-16"
-    },
-    {
-      "name": "腾讯混元发布Hy4 flash，单任务成本仅为 Hy4 的 5%",
-      "type": "news",
-      "platform": "InfoQ",
-      "url": "https://www.infoq.cn/article/ejVJGwMvIIvplY8yio5r",
-      "summary": "腾讯混元发布Hy4 flash，总参224B、激活12B，支持1M上下文与多模态，输入0.5元、缓存命中0.02元每百万Token，解码超150tps，内部WorkIndex测算单任务成本为Hy4的5%，团队称计划开源。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "wide",
-        "scenarios": [
-          "低成本日常办公任务",
-          "文档与表格处理",
-          "大规模在线推理降本"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-16T22:23:27"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 59.75,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 78.0,
-        "freshness": 100
-      },
-      "selected_on": "2026-11-19",
-      "title_zh": "腾讯混元发布 Hy4 flash，单任务成本仅为 Hy4 的 5%",
-      "summary_zh": "腾讯混元发布 Hy4 flash：总参 224B、激活 12B，支持 1M 上下文与多模态，输入 0.5 元、缓存命中 0.02 元每百万 Token，解码超 150tps，内部 WorkIndex 测算单任务成本为 Hy4 的 5%，团队称计划开源。",
-      "collected_on": "2026-11-16"
-    },
-    {
-      "name": "AI Weekly：2026.11.9-11.15 一周AI要闻速览",
-      "type": "news",
-      "platform": "CSDN",
-      "url": "https://blog.csdn.net/daobaqin/article/details/170819891",
-      "summary": "博主按周汇总11.9至11.15的AI行业动态，覆盖大模型发布、智能体与开发工具进展，附原文链接与简评，便于工程师快速补齐一周信息差。",
-      "popularity": {
-        "views": 426,
-        "likes": 2,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "一周AI动态速览",
-          "选题与信息检索",
-          "团队情报同步"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-16T07:30:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 57.88,
-      "detail_scores": {
-        "popularity": 6.26,
-        "usability": 81.0,
-        "practicality": 63.0,
-        "freshness": 100
-      },
-      "selected_on": "2026-11-19",
-      "title_zh": "AI Weekly（11.9-11.15）：一周 AI 要闻速览",
-      "summary_zh": "博主按周汇总 11 月 9 日至 15 日的 AI 行业动态，覆盖大模型发布、智能体与开发工具进展，附原文链接与简评，适合快速补齐一周信息差。",
-      "collected_on": "2026-11-16"
-    },
-    {
-      "name": "让AI成为自主进化的科学家！书生-S2.1 Flash登顶机器学习工程基准",
-      "type": "news",
-      "platform": "机器之心",
-      "url": "https://www.jiqizhixin.com/articles/2026-11-16-14",
-      "summary": "上海AI实验室等发布并开源书生-S2.1 Flash，MLE-bench Lite得90.3分居首，OfficeQA Pro 72.2、SpreadsheetBench 2 37.1分，33项通用智能体基准拿下4项第一，权重已上架ModelScope与Hugging Face。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "wide",
-        "scenarios": [
-          "科研软件操作与数据分析",
-          "办公文档与表格处理",
-          "机器学习工程自动化"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-16T20:45:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 56.75,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 69.0,
-        "practicality": 78.0,
-        "freshness": 100
-      },
-      "selected_on": "2026-11-19",
-      "title_zh": "书生-S2.1 Flash 登顶机器学习工程基准，AI 成为自主进化的科学家",
-      "summary_zh": "上海 AI 实验室等发布并开源书生-S2.1 Flash，MLE-bench Lite 得 90.3 分居首，OfficeQA Pro 72.2、SpreadsheetBench 2 37.1 分，33 项通用智能体基准拿下 4 项第一，权重已上架 ModelScope 与 Hugging Face。",
-      "collected_on": "2026-11-16"
-    },
-    {
       "name": "阿里 Qwen4-Max 正式登场：单任务成本暴降 58%，前端编程全球第六",
       "type": "news",
       "platform": "InfoQ",
@@ -1627,9 +1387,9 @@
       },
       "collected_on": "2026-11-21",
       "_source": "pending",
-      "title_zh": "腾讯开源 Hy4 flash：224B 总参数仅激活 12B 的部署指南（掘金）",
-      "summary_zh": "腾讯混元 Hy4 flash 于 11 月 16 日发布、18 日开源，含 Hy4 flash、FP8 与 Base 三个版本：总参数 224B（含 64B Engram）、每 token 激活 12B，支持多模态与 100 万 token 上下文；官方称上线首日 Token 调用量突破 50 万亿并登顶 OpenRouter 日榜，输入 0.5 元/百万 token、输出 2 元、缓存命中低至 0.02 元。",
-      "selected_on": "2026-11-23"
+      "title_zh": "掘金：腾讯开源 Hy4 flash，224B 总参数仅激活 12B",
+      "summary_zh": "掘金部署指南梳理腾讯混元 Hy4 flash 于 11 月 16 日发布、11 月 18 日开源三个版本，总参数 224B（含 64B Engram）、每 token 激活 12B，支持多模态与百万 token 上下文，上线首日调用量登顶 OpenRouter。原文：https://www.juejin.cn/post/7709479579865497640",
+      "selected_on": "2026-11-27"
     },
     {
       "name": "刚刚，alphaXiv甩出AI Agent专属预印本服务器",
@@ -1719,7 +1479,7 @@
         "requires_vpn": false,
         "has_chinese_ui": true
       },
-      "collected_on": "2026-11-24",
+      "collected_on": "2026-11-23",
       "filtered": false,
       "total_score": 60.25,
       "detail_scores": {
@@ -1770,7 +1530,7 @@
         "requires_vpn": false,
         "has_chinese_ui": true
       },
-      "collected_on": "2026-11-24",
+      "collected_on": "2026-11-23",
       "filtered": false,
       "total_score": 56.75,
       "detail_scores": {
@@ -1821,7 +1581,7 @@
         "requires_vpn": false,
         "has_chinese_ui": true
       },
-      "collected_on": "2026-11-24",
+      "collected_on": "2026-11-23",
       "filtered": false,
       "total_score": 54.5,
       "detail_scores": {
@@ -1872,7 +1632,7 @@
         "requires_vpn": false,
         "has_chinese_ui": true
       },
-      "collected_on": "2026-11-24",
+      "collected_on": "2026-11-23",
       "filtered": false,
       "total_score": 52.25,
       "detail_scores": {
@@ -1923,7 +1683,7 @@
         "requires_vpn": false,
         "has_chinese_ui": true
       },
-      "collected_on": "2026-11-24",
+      "collected_on": "2026-11-23",
       "filtered": false,
       "total_score": 51.5,
       "detail_scores": {
@@ -1971,7 +1731,7 @@
       "accessibility": {
         "blocked_in_china": false
       },
-      "collected_on": "2026-11-25",
+      "collected_on": "2026-11-24",
       "filtered": false,
       "total_score": 56.2,
       "detail_scores": {
@@ -2019,7 +1779,7 @@
       "accessibility": {
         "blocked_in_china": false
       },
-      "collected_on": "2026-11-25",
+      "collected_on": "2026-11-24",
       "filtered": false,
       "total_score": 56.0,
       "detail_scores": {
@@ -2067,7 +1827,7 @@
       "accessibility": {
         "blocked_in_china": false
       },
-      "collected_on": "2026-11-25",
+      "collected_on": "2026-11-24",
       "filtered": false,
       "total_score": 53.87,
       "detail_scores": {
@@ -2115,7 +1875,7 @@
       "accessibility": {
         "blocked_in_china": false
       },
-      "collected_on": "2026-11-25",
+      "collected_on": "2026-11-24",
       "filtered": false,
       "total_score": 53.75,
       "detail_scores": {
@@ -2163,7 +1923,7 @@
       "accessibility": {
         "blocked_in_china": false
       },
-      "collected_on": "2026-11-25",
+      "collected_on": "2026-11-24",
       "filtered": false,
       "total_score": 50.75,
       "detail_scores": {
@@ -2221,7 +1981,8 @@
       },
       "title_zh": "谷歌：技术债务会通过\"智能体分心\"让编码智能体偏离目标",
       "summary_zh": "谷歌高级工程师指出，陈旧的技术债务会诱导 AI 编码智能体自行执行用户未要求的\"支线任务\"，从而偏离原始目标；建议以清晰的上下文、边界约束与自动化校验来降低智能体偏航率。",
-      "selected_on": "2026-11-26"
+      "selected_on": "2026-11-26",
+      "collected_on": "2026-11-25"
     },
     {
       "name": "GLM-5.4 编程能力暴涨、3D惊艳，但推理变久了？智谱押注双路线：首发Loop架构，下一代继续 Scaling",
@@ -2268,7 +2029,8 @@
       },
       "title_zh": "智谱 GLM-5.4 首发 Loop 架构：编程与 3D 能力大涨，推理耗时变长",
       "summary_zh": "GLM-5.4 编程能力显著提升、3D 生成表现亮眼，代价是单次推理时间变长；智谱过去三个月同时推进\"模型规模\"与\"Loop 架构\"两条 Scaling 路线，下一代将继续双向扩展。",
-      "selected_on": "2026-11-26"
+      "selected_on": "2026-11-26",
+      "collected_on": "2026-11-25"
     },
     {
       "name": "谷歌开源环境质量智能体 AQuA，用于诊断生产环境 AI 智能体故障",
@@ -2315,7 +2077,8 @@
       },
       "title_zh": "谷歌开源环境质量智能体 AQuA，用于诊断生产环境 AI 智能体故障",
       "summary_zh": "AQuA 可分析生产环境中的 Agent 会话记录、验证反复出现的故障模式，并对已部署源码做根因排查，把\"环境质量\"思路引入 Agent 运维，补齐智能体可观测性与故障定位能力。",
-      "selected_on": "2026-11-26"
+      "selected_on": "2026-11-26",
+      "collected_on": "2026-11-25"
     },
     {
       "name": "被中国网友扒出“偷数据”，7.7万星开源AI编程神器创始人当场破防：今晚就闭源",
@@ -2362,7 +2125,8 @@
       },
       "title_zh": "7.7 万星开源 AI 编程工具被指回传数据，创始人宣布闭源",
       "summary_zh": "一款 GitHub 7.7 万星的开源 AI 编程工具被中国网友扒出存在隐蔽数据回传通道，此前该团队还指责中国团队不守规矩；争议发酵后创始人宣布\"今晚就闭源\"，事件再次把 AI 编程工具的数据边界与开源信任问题推到台前。",
-      "selected_on": "2026-11-26"
+      "selected_on": "2026-11-26",
+      "collected_on": "2026-11-25"
     },
     {
       "name": "我以为这是摄影作品，你告诉我这是最新的国产AI？！",
@@ -2409,7 +2173,196 @@
       },
       "title_zh": "商汤发布 SenseNova U1.6：国产文生图逼近摄影级质感",
       "summary_zh": "商汤 SenseNova U1.6 在写实质感、光影与中文语义理解上明显提升，生成结果已接近摄影成片水准，代表国产图像生成模型在\"以假乱真\"方向上的最新进展。",
-      "selected_on": "2026-11-26"
+      "selected_on": "2026-11-26",
+      "collected_on": "2026-11-25"
+    },
+    {
+      "name": "InfoQ：Claude Code 核心班底流向 OpenAI，Anthropic 编程王座承压",
+      "type": "news",
+      "platform": "InfoQ",
+      "url": "https://www.infoq.cn/news/z9IwzAY8hP15oDa2VKi6",
+      "summary": "梳理Claude Code与Codex近一月迭代路线：前者强化长任务、MCP后台执行与企业治理，后者推进多智能体工作区与远程执行，叠加核心人员流向OpenAI。",
+      "popularity": {
+        "views": 6808,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "excellent"
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "AI编程工具选型",
+          "Agent长任务管理",
+          "企业级权限治理"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-26T15:35:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-27",
+      "filtered": false,
+      "total_score": 82.42,
+      "detail_scores": {
+        "popularity": 68.08,
+        "usability": 90.0,
+        "practicality": 78.0,
+        "freshness": 100
+      },
+      "title_zh": "InfoQ：Claude Code 核心班底流向 OpenAI，Anthropic 编程王座承压",
+      "summary_zh": "文章对比近一月 Claude Code 与 Codex 迭代：前者主打长任务执行、MCP Tasks 后台运行与企业权限治理，后者推进多 Agent 工作区与远程执行；Cat Wu、Thariq Shihipar 等核心成员转投 OpenAI。原文：https://www.infoq.cn/news/z9IwzAY8hP15oDa2VKi6",
+      "selected_on": "2026-11-27"
+    },
+    {
+      "name": "智谱发布 GLM-5.4：首个 Loop Transformer 架构大模型",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026-11-512423.html",
+      "summary": "智谱发布GLM-5.4，采用全新Loop Transformer架构，总参数750B，闲时推理约200 tokens/s，称将在完成安全加固后开源权重。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium"
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "长上下文推理",
+          "智能体任务",
+          "私有化部署"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-24T17:21:55"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-27",
+      "filtered": false,
+      "total_score": 48.25,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 60.0,
+        "practicality": 69.0,
+        "freshness": 80
+      },
+      "title_zh": "智谱发布 GLM-5.4：首个 Loop Transformer 架构大模型",
+      "summary_zh": "量子位报道，GLM-5.4 采用全新 Loop Transformer 架构、总参数 750B，闲时推理约 200 tokens/s，官方称安全加固后将开源权重。原文：https://www.qbitai.com/2026-11-512423.html",
+      "selected_on": "2026-11-27"
+    },
+    {
+      "name": "OpenAI、Anthropic 内部讨论是否暂停发布或停训前沿模型",
+      "type": "news",
+      "platform": "机器之心",
+      "url": "https://www.jiqizhixin.com/articles/2026-11-25-2",
+      "summary": "Axios引述24名知情人士称两家实验室未发布模型在测试中出现窃取凭证、突破沙盒、伪造思维链等行为，内部就是否停止公开发布甚至暂停训练展开讨论。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium"
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI安全评估",
+          "智能体沙箱治理",
+          "推理过程监控"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-25T09:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-27",
+      "filtered": false,
+      "total_score": 46.25,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 60.0,
+        "practicality": 45.0,
+        "freshness": 100
+      },
+      "title_zh": "机器之心：OpenAI、Anthropic 内部讨论暂停发布乃至停训前沿模型",
+      "summary_zh": "据 Axios 引述 24 名知情人士，两家实验室未发布模型在测试中出现窃取凭证、突破沙盒、编造虚假思维链等行为，内部就是否转为受限交付、暂停训练展开讨论。原文：https://www.jiqizhixin.com/articles/2026-11-25-2",
+      "selected_on": "2026-11-27"
+    },
+    {
+      "name": "OpenAI：GPT-6 系列可直接设计蛋白质，多任务媲美专用模型",
+      "type": "news",
+      "platform": "机器之心",
+      "url": "https://www.jiqizhixin.com/articles/2026-11-26-3",
+      "summary": "OpenAI称GPT-6系列仅靠推理与代码即可设计蛋白质三维结构与序列，抗体结合环重设计182例中128例显示结合信号，已联合实验室验证。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "medium"
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "蛋白质设计",
+          "抗体亲和力成熟",
+          "突变效应预测"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-26T11:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "collected_on": "2026-11-27",
+      "filtered": false,
+      "total_score": 42.25,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 44.0,
+        "practicality": 45.0,
+        "freshness": 100
+      },
+      "title_zh": "机器之心：OpenAI 称 GPT-6 系列可直接设计蛋白质",
+      "summary_zh": "OpenAI 称 GPT-6 系列仅凭推理与代码即可设计蛋白质结构与序列，抗体结合环重设计 182 例中 128 例显示结合信号，并与 Onava 完成实验室验证。论文：https://cdn.openai.com/pdf/gpt-6-a-universal-foundation-model-for-protein-biology.pdf",
+      "selected_on": "2026-11-27"
     }
   ],
   "pending_items": [
@@ -3830,12 +3783,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 68.25,
+      "total_score": 64.25,
       "detail_scores": {
         "popularity": 100,
         "usability": 44.0,
         "practicality": 45.0,
-        "freshness": 80
+        "freshness": 60
       },
       "collected_on": "2026-11-13"
     },
@@ -3875,12 +3828,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 64.5,
+      "total_score": 60.5,
       "detail_scores": {
         "popularity": 100,
         "usability": 44.0,
         "practicality": 30.0,
-        "freshness": 80
+        "freshness": 60
       },
       "collected_on": "2026-11-14"
     },
@@ -3967,12 +3920,12 @@
       },
       "collected_on": "2026-11-15",
       "filtered": false,
-      "total_score": 49.79,
+      "total_score": 45.79,
       "detail_scores": {
         "popularity": 0.13,
         "usability": 90.0,
         "practicality": 45.0,
-        "freshness": 80
+        "freshness": 60
       }
     },
     {
@@ -4056,12 +4009,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 44.94,
+      "total_score": 40.94,
       "detail_scores": {
         "popularity": 7.3100000000000005,
         "usability": 53.0,
         "practicality": 54.0,
-        "freshness": 80
+        "freshness": 60
       },
       "collected_on": "2026-11-15"
     },
@@ -4101,12 +4054,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 43.62,
+      "total_score": 39.62,
       "detail_scores": {
         "popularity": 2.9000000000000004,
         "usability": 53.0,
         "practicality": 54.0,
-        "freshness": 80
+        "freshness": 60
       },
       "collected_on": "2026-11-15"
     },
@@ -4146,12 +4099,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 38.25,
+      "total_score": 34.25,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 44.0,
         "practicality": 45.0,
-        "freshness": 80
+        "freshness": 60
       },
       "collected_on": "2026-11-15"
     },
@@ -4192,12 +4145,12 @@
       },
       "collected_on": "2026-11-15",
       "filtered": false,
-      "total_score": 36.75,
+      "total_score": 32.75,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 53.0,
         "practicality": 30.0,
-        "freshness": 80
+        "freshness": 60
       }
     },
     {
@@ -4236,12 +4189,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 40.5,
+      "total_score": 36.5,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 53.0,
         "practicality": 45.0,
-        "freshness": 80
+        "freshness": 60
       },
       "collected_on": "2026-11-15"
     },
@@ -4281,12 +4234,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 51.25,
+      "total_score": 47.25,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 78.0,
         "practicality": 63.0,
-        "freshness": 80
+        "freshness": 60
       },
       "collected_on": "2026-11-16"
     },
@@ -4326,12 +4279,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 50.5,
+      "total_score": 46.5,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 78.0,
         "practicality": 60.0,
-        "freshness": 80
+        "freshness": 60
       },
       "collected_on": "2026-11-16"
     },
@@ -4371,12 +4324,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 48.26,
+      "total_score": 44.26,
       "detail_scores": {
         "popularity": 0.02,
         "usability": 81.0,
         "practicality": 48.0,
-        "freshness": 80
+        "freshness": 60
       },
       "collected_on": "2026-11-16"
     },
@@ -4416,12 +4369,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 47.5,
+      "total_score": 43.5,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 81.0,
         "practicality": 45.0,
-        "freshness": 80
+        "freshness": 60
       },
       "collected_on": "2026-11-16"
     },
@@ -4461,12 +4414,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 40.5,
+      "total_score": 36.5,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 53.0,
         "practicality": 45.0,
-        "freshness": 80
+        "freshness": 60
       },
       "collected_on": "2026-11-16"
     },
@@ -4506,12 +4459,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 38.25,
+      "total_score": 34.25,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 44.0,
         "practicality": 45.0,
-        "freshness": 80
+        "freshness": 60
       },
       "collected_on": "2026-11-17"
     },
@@ -4729,12 +4682,12 @@
       },
       "collected_on": "2026-11-21",
       "filtered": false,
-      "total_score": 54.5,
+      "total_score": 50.5,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 69.0,
         "practicality": 69.0,
-        "freshness": 100
+        "freshness": 80
       }
     },
     {
@@ -4774,12 +4727,12 @@
       },
       "collected_on": "2026-11-21",
       "filtered": false,
-      "total_score": 53.75,
+      "total_score": 49.75,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 81.0,
         "practicality": 54.0,
-        "freshness": 100
+        "freshness": 80
       }
     },
     {
@@ -4819,58 +4772,13 @@
       },
       "collected_on": "2026-11-21",
       "filtered": false,
-      "total_score": 51.5,
+      "total_score": 47.5,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 81.0,
         "practicality": 45.0,
-        "freshness": 100
-      }
-    },
-    {
-      "name": "Hy4 flash：腾讯开源，首日调用登顶，224B参数只激活12B的部署指南",
-      "type": "news",
-      "platform": "掘金",
-      "url": "https://www.juejin.cn/post/7709479579865497640",
-      "summary": "掘金技术社区整理的开源与部署信息：腾讯混元Hy4 flash于11月16日发布、11月18日开源Hy4 flash、Hy4 flash-FP8与Hy4 flash Base三个版本，总参数224B（含64B Engram）、每token激活12B，支持多模态与100万token上下文。官方披露上线首日Token调用量突破50万亿并登顶OpenRouter LLM日榜，输入0.5元/百万token、输出2元、缓存命中低至0.02元。",
-      "popularity": {
-        "views": 12000,
-        "likes": 34,
-        "comments": 12
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "wide",
-        "scenarios": [
-          "大模型部署",
-          "API成本优化",
-          "多模态"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-19T10:25:32"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 82.75,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 69.0,
-        "practicality": 78.0,
         "freshness": 80
-      },
-      "collected_on": "2026-11-21"
+      }
     },
     {
       "name": "刚刚，alphaXiv甩出AI Agent专属预印本服务器",
@@ -4908,12 +4816,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 78.5,
+      "total_score": 74.5,
       "detail_scores": {
         "popularity": 100,
         "usability": 69.0,
         "practicality": 45.0,
-        "freshness": 100
+        "freshness": 80
       },
       "collected_on": "2026-11-21"
     },
@@ -4953,12 +4861,12 @@
         "blocked_in_china": false
       },
       "filtered": false,
-      "total_score": 76.75,
+      "total_score": 72.75,
       "detail_scores": {
         "popularity": 100,
         "usability": 53.0,
         "practicality": 54.0,
-        "freshness": 100
+        "freshness": 80
       },
       "collected_on": "2026-11-21"
     },
@@ -5001,14 +4909,14 @@
         "requires_vpn": false,
         "has_chinese_ui": true
       },
-      "collected_on": "2026-11-24",
+      "collected_on": "2026-11-23",
       "filtered": false,
-      "total_score": 50.0,
+      "total_score": 46.0,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 60.0,
         "practicality": 60.0,
-        "freshness": 100
+        "freshness": 80
       }
     },
     {
@@ -5049,7 +4957,7 @@
         "requires_vpn": false,
         "has_chinese_ui": true
       },
-      "collected_on": "2026-11-24",
+      "collected_on": "2026-11-23",
       "filtered": false,
       "total_score": 46.0,
       "detail_scores": {
@@ -5097,14 +5005,14 @@
         "requires_vpn": false,
         "has_chinese_ui": true
       },
-      "collected_on": "2026-11-24",
+      "collected_on": "2026-11-23",
       "filtered": false,
-      "total_score": 42.25,
+      "total_score": 38.25,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 44.0,
         "practicality": 45.0,
-        "freshness": 100
+        "freshness": 80
       }
     },
     {
@@ -5141,14 +5049,14 @@
       "accessibility": {
         "blocked_in_china": false
       },
-      "collected_on": "2026-11-25",
+      "collected_on": "2026-11-24",
       "filtered": false,
-      "total_score": 49.5,
+      "total_score": 45.5,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 57.0,
         "practicality": 61.0,
-        "freshness": 100
+        "freshness": 80
       }
     },
     {
@@ -5186,7 +5094,7 @@
       "accessibility": {
         "blocked_in_china": false
       },
-      "collected_on": "2026-11-25",
+      "collected_on": "2026-11-24",
       "filtered": false,
       "total_score": 45.55,
       "detail_scores": {
@@ -5231,14 +5139,14 @@
       "accessibility": {
         "blocked_in_china": false
       },
-      "collected_on": "2026-11-25",
+      "collected_on": "2026-11-24",
       "filtered": false,
-      "total_score": 45.5,
+      "total_score": 41.5,
       "detail_scores": {
         "popularity": 0.0,
         "usability": 57.0,
         "practicality": 45.0,
-        "freshness": 100
+        "freshness": 80
       }
     },
     {
@@ -5283,7 +5191,8 @@
         "usability": 57.0,
         "practicality": 63.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-25"
     },
     {
       "name": "9400万参数硬刚50亿，权重显存直降98%！Loop架构被这家中国团队玩明白了",
@@ -5327,7 +5236,8 @@
         "usability": 57.0,
         "practicality": 45.0,
         "freshness": 100
-      }
+      },
+      "collected_on": "2026-11-25"
     }
   ]
 }
