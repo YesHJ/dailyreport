@@ -1,197 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "中专生拍出《哈利·波特》爆款！欧美明星、好莱坞制片人集体点赞",
-      "type": "news",
-      "platform": "量子位",
-      "url": "https://www.qbitai.com/2026/11/510013.html",
-      "summary": "量子位 2026-11-14 10:59 报道（作者一水）：中专出身、LibTV 签约导演 foyege 用该平台的「无限画布」组织 AI 短片生产——先在画布上生成角色三视图等资产，再做二维构图与分镜，并一站式调度 Seedance、万相、可灵等多个视频生成模型逐段出片、串联成片，以绕开单模型在镜头一致性上的短板。该短片在欧美社交平台累计约 3000 万播放，获多位好莱坞从业者与明星转发。展示的是以视觉生成模型为核心的分镜-资产-调度工作流，而非某个模型的单点能力；平台为商业化产品。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI 短片分镜与镜头一致性生产",
-          "多视频生成模型统一调度",
-          "角色三视图等视觉资产构建"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-14T10:59:35"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 56.0,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 81.0,
-        "practicality": 63.0,
-        "freshness": 100
-      },
-      "selected_on": "2026-11-16",
-      "title_zh": "中专生拍出《哈利·波特》爆款！欧美明星、好莱坞制片人集体点赞",
-      "summary_zh": "量子位 2026-11-14 10:59 报道（作者一水）：中专出身、LibTV 签约导演 foyege 用该平台的「无限画布」组织 AI 短片生产——先在画布上生成角色三视图等资产，再做二维构图与分镜，并一站式调度 Seedance、万相、可灵等多个视频生成模型逐段出片、串联成片，以绕开单模型在镜头一致性上的短板。该短片在欧美社交平台累计约 3000 万播放，获多位好莱坞从业者与明星转发。展示的是以视觉生成模型为核心的分镜-资产-调度工作流，而非某个模型的单点能力；平台为商业化产品。",
-      "collected_on": "2026-11-16"
-    },
-    {
-      "name": "触觉战争又一勇士，纬钛机器人完成数亿元A轮融资",
-      "type": "news",
-      "platform": "维科网",
-      "url": "https://robot.ofweek.com/2026-11/ART-8321201-12005-30711600.html",
-      "summary": "维科网机器人频道 2026-11-13 10:13 报道（融资事件发生于 11 月 12 日）：纬钛机器人完成数亿元 A 轮融资，中车资本、永鑫方舟领投，鲁信创投、木棉花基金、银杏谷资本、华仓资本跟投。公司走 MIT CSAIL Edward Adelson 的 GelSight 视触觉技术路线，GF515 传感器尺寸 15×27mm、重量不足 15g，触点密度超万点/cm²，可分辨 10 微米级纹理、力灵敏度 0.01N、采样率 120Hz；同时发布白虎-VTouch 视触觉数据集（累计超 6 万分钟，首批开源），并与小米智能制造合作视触觉手眼协同方案，面向精密装配与工业检测场景。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "精密装配与柔顺抓取",
-          "工业质检与表面缺陷判别",
-          "视触觉数据采集与多模态模型训练"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-11-13T10:13:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 44.5,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 60.0,
-        "practicality": 54.0,
-        "freshness": 80
-      },
-      "selected_on": "2026-11-16",
-      "title_zh": "触觉战争又一勇士，纬钛机器人完成数亿元A轮融资",
-      "summary_zh": "维科网机器人频道 2026-11-13 10:13 报道（融资事件发生于 11 月 12 日）：纬钛机器人完成数亿元 A 轮融资，中车资本、永鑫方舟领投，鲁信创投、木棉花基金、银杏谷资本、华仓资本跟投。公司走 MIT CSAIL Edward Adelson 的 GelSight 视触觉技术路线，GF515 传感器尺寸 15×27mm、重量不足 15g，触点密度超万点/cm²，可分辨 10 微米级纹理、力灵敏度 0.01N、采样率 120Hz；同时发布白虎-VTouch 视触觉数据集（累计超 6 万分钟，首批开源），并与小米智能制造合作视触觉手眼协同方案，面向精密装配与工业检测场景。",
-      "collected_on": "2026-11-16"
-    },
-    {
-      "name": "NeurIPS 2026｜AI搜索时搜到的图，为什么用不了？港科大给每张图编了号",
-      "type": "news",
-      "platform": "机器之心",
-      "url": "https://finance.sina.cn/stock/jdts/2026-11-15/detail-iniyvery6396048.d.html",
-      "summary": "机器之心（机器之心Pro 转载页时间戳 11.15 17:15，原文发布于 11 月 14 日）报道：香港科技大学 MMSense Lab 提出视觉原生智能体框架 Visual-Native Agent Harness，把题目原图与工具返回的新图统一存入 image bank 并逐张编号，使检索、打开网页、放大、旋转、以图搜图、Python 计算等九种工具能跨步骤接力使用同一张图；同时提出 On-policy Data Evolution（ODE），用即将受训的目标模型自身做 rollout，反向修订出题规则。Qwen3-VL-30B 在八项评测的平均准确率由标准搜索流程 24.8% 提升到框架 30.6%、SFT 39.5%、RL 41.5%，8B 由 24.9% 升至 39.0%；MMBC 记录到 306 次图片复用（191 次放大、113 次以图搜图），关闭复用准确率 7.59%、保留全部图片 12.50%。工作已被 NeurIPS 2026 接收，第一作者黄仕爵，通讯作者冯一人。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "多模态搜索与图文证据交叉核验",
-          "VLM/视觉智能体的训练数据合成与 RL 出题",
-          "图搜、放大、裁剪等视觉工具链编排"
-        ],
-        "maturity": "experimental"
-      },
-      "freshness": {
-        "publish_date": "2026-11-15T17:15:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 42.25,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 44.0,
-        "practicality": 45.0,
-        "freshness": 100
-      },
-      "selected_on": "2026-11-16",
-      "title_zh": "NeurIPS 2026｜AI搜索时搜到的图，为什么用不了？港科大给每张图编了号",
-      "summary_zh": "机器之心（机器之心Pro 转载页时间戳 11.15 17:15，原文发布于 11 月 14 日）报道：香港科技大学 MMSense Lab 提出视觉原生智能体框架 Visual-Native Agent Harness，把题目原图与工具返回的新图统一存入 image bank 并逐张编号，使检索、打开网页、放大、旋转、以图搜图、Python 计算等九种工具能跨步骤接力使用同一张图；同时提出 On-policy Data Evolution（ODE），用即将受训的目标模型自身做 rollout，反向修订出题规则。Qwen3-VL-30B 在八项评测的平均准确率由标准搜索流程 24.8% 提升到框架 30.6%、SFT 39.5%、RL 41.5%，8B 由 24.9% 升至 39.0%；MMBC 记录到 306 次图片复用（191 次放大、113 次以图搜图），关闭复用准确率 7.59%、保留全部图片 12.50%。工作已被 NeurIPS 2026 接收，第一作者黄仕爵，通讯作者冯一人。",
-      "collected_on": "2026-11-16"
-    },
-    {
-      "name": "突发，马斯克裁掉了整个多模态团队",
-      "type": "news",
-      "platform": "量子位",
-      "url": "https://www.qbitai.com/2026/11/509545.html",
-      "summary": "量子位 2026-11-13 12:13 报道（作者梦晨）：xAI 近期裁撤整个 multimodal 团队，约 70 人无一幸免；几乎同时官方上新 Palo Alto 的「Model Engineer, Multimodal Understanding」岗位，JD 覆盖图像、视频、音频、文本的理解与生成全栈，包含数据、tokenizer、预训练、后训练对齐与基础设施，年薪 16 万—25 万美元。报道梳理 2026 年 xAI 的组织震荡：2 月中旬 12 名联合创始人已过半离开，5 月中旬除马斯克外全部离职，SpaceX 收购 xAI 后超 50 名研究员出走，业务被切分为 Grok 基础模型与语音、Coding 与 ML 基础设施、Imagine 多模态生成、Macrohard 企业流程自动化四条线，多模态（含视觉理解）训练团队进入推倒重建状态。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "poor",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "narrow",
-        "scenarios": [
-          "多模态/视觉理解方向人才与训练路线动向",
-          "视觉模型预训练与后训练团队结构调整"
-        ],
-        "maturity": "experimental"
-      },
-      "freshness": {
-        "publish_date": "2026-11-13T12:13:41"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 31.0,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 32.0,
-        "practicality": 28.0,
-        "freshness": 80
-      },
-      "selected_on": "2026-11-16",
-      "title_zh": "突发，马斯克裁掉了整个多模态团队",
-      "summary_zh": "量子位 2026-11-13 12:13 报道（作者梦晨）：xAI 近期裁撤整个 multimodal 团队，约 70 人无一幸免；几乎同时官方上新 Palo Alto 的「Model Engineer, Multimodal Understanding」岗位，JD 覆盖图像、视频、音频、文本的理解与生成全栈，包含数据、tokenizer、预训练、后训练对齐与基础设施，年薪 16 万—25 万美元。报道梳理 2026 年 xAI 的组织震荡：2 月中旬 12 名联合创始人已过半离开，5 月中旬除马斯克外全部离职，SpaceX 收购 xAI 后超 50 名研究员出走，业务被切分为 Grok 基础模型与语音、Coding 与 ML 基础设施、Imagine 多模态生成、Macrohard 企业流程自动化四条线，多模态（含视觉理解）训练团队进入推倒重建状态。",
-      "collected_on": "2026-11-16"
-    },
-    {
       "name": "谷歌上线其最强机器人模型 入驻奔驰生产线 分拣成功率96%",
       "type": "news",
       "platform": "财联社",
@@ -2432,6 +2241,208 @@
       "title_zh": "高德发布世界模型 ABot-World 0.5，WBench物理性与总分第一",
       "summary_zh": "高德发布世界模型ABot-World 0.5，在WBench物理性与总分评测中排名第一，支持音画同步生成与自然语言实时重塑场景，模型可在消费级显卡本地部署，代码开源于github.com/amap-cvlab/ABot-World。",
       "selected_on": "2026-11-26"
+    },
+    {
+      "name": "顶尖商用级AI视频每秒只要5毛！中国开源新势力拿下全球第一",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026-11-512916.html",
+      "summary": "量子位报道：Sand.ai 发布 MAGI-2（480B），采用单流统一 Transformer 与 Multi-Head Latent MoE 架构，推理成本降至每秒钟约 0.5 元，在图生视频榜单位列全球第一，后续将开放权重。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "unknown",
+        "docs_quality": "average",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "large",
+        "scenarios": [
+          "视频生成",
+          "视觉大模型"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-26T14:41:23"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "author": "量子位",
+        "source_verified": true
+      },
+      "collected_on": "2026-11-27",
+      "filtered": false,
+      "total_score": 47.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 54.0,
+        "practicality": 56.0,
+        "freshness": 100
+      },
+      "title_zh": "顶尖商用级 AI 视频每秒只要 5 毛：中国开源新势力拿下全球第一",
+      "summary_zh": "量子位报道，Sand.ai 发布 480B 参数的 MAGI-2 视频生成模型，采用单流统一 Transformer 与 Multi-Head Latent MoE 架构，把顶尖商用级视频生成的推理成本压到每秒钟约 0.5 元，在图生视频公开榜单中位列全球第一，并计划开放权重。该成本结构对视频类视觉大模型的训练与部署选型有直接参考价值。",
+      "selected_on": "2026-11-27"
+    },
+    {
+      "name": "智源REAL开放日：物理AI从跑分表演到真实世界的一场大考",
+      "platform": "机器之心",
+      "url": "https://www.jiqizhixin.com/articles/2026-11-26-6",
+      "summary": "机器之心报道智源 REAL 开放日：发布 REAL 物理 AI 评测体系，覆盖 5 大领域、14 个维度、54 项能力、158 个指标并推出四个榜单；同步开源悟界·Physis-V1 Preview（约 20B 参数、1000+ FPS）与 12500 小时 HumanCOIN 数据，强调人感安全评测。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "unknown",
+        "docs_quality": "good",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "large",
+        "scenarios": [
+          "物理AI评测",
+          "VLA",
+          "具身智能"
+        ],
+        "maturity": "preview"
+      },
+      "freshness": {
+        "publish_date": "2026-11-26"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "author": "机器之心",
+        "source_verified": true
+      },
+      "collected_on": "2026-11-27",
+      "filtered": false,
+      "total_score": 45.0,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 54.0,
+        "practicality": 46.0,
+        "freshness": 100
+      },
+      "title_zh": "智源 REAL 开放日：物理 AI 从跑分表演走向真实世界的一场大考",
+      "summary_zh": "机器之心报道智源 REAL 开放日：发布面向物理 AI 的评测体系 REAL，覆盖 5 大领域、14 个维度、54 项能力、158 个指标并上线四个榜单，把评测从「跑分表演」推向真实世界任务；同步推出约 20B 参数、推理可达 1000+ FPS 的悟界·Physis-V1 Preview、12500 小时的 HumanCOIN 数据，并强调人感安全评测维度。",
+      "selected_on": "2026-11-27"
+    },
+    {
+      "name": "华人计算机视觉泰斗二次创业！离开苹果下场，专注下一代空间与物理AI",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026-11-512498.html",
+      "summary": "量子位报道：前苹果公司计算机视觉负责人权龙创办 Envision AI，专注下一代空间与物理 AI，推出空间物理基座模型，训练成本控制在 10 万美元以内，并开源 LingBot-Map，训练效率提升约 10 倍。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "unknown",
+        "docs_quality": "average",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "空间智能",
+          "视觉模型训练"
+        ],
+        "maturity": "early"
+      },
+      "freshness": {
+        "publish_date": "2026-11-25T14:49:27"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "author": "量子位",
+        "source_verified": true
+      },
+      "collected_on": "2026-11-27",
+      "filtered": false,
+      "total_score": 41.75,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 38.0,
+        "practicality": 49.0,
+        "freshness": 100
+      },
+      "title_zh": "华人计算机视觉泰斗二次创业：离开苹果下场，专注下一代空间与物理 AI",
+      "summary_zh": "量子位报道，前苹果公司计算机视觉负责人权龙创办 Envision AI，专注下一代空间与物理 AI：其空间物理基座模型把训练成本控制在 10 万美元以内，同时开源 LingBot-Map，训练效率提升约 10 倍，技术路线强调以真实世界几何与物理一致性为核心的视觉表征学习。",
+      "selected_on": "2026-11-27"
+    },
+    {
+      "name": "用代码拓展视频生成的能力边界，可灵联合北大南大提出Coda-DaVinci",
+      "platform": "机器之心",
+      "url": "https://www.jiqizhixin.com/articles/2026-11-26-8",
+      "summary": "机器之心报道：可灵联合北大、南大提出 Coda-DaVinci，构建 Code2Video 任务自适应框架，将代码约束引入视频生成；视频任务保持率 VTR 达 91.42%，物理合理性评分由 47.16 提升至 60.77，代码已开源于 GitHub。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "unknown",
+        "docs_quality": "good",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "视频生成",
+          "视觉模型训练"
+        ],
+        "maturity": "research"
+      },
+      "freshness": {
+        "publish_date": "2026-11-26"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "author": "机器之心",
+        "repo": "https://github.com/FrankYang-17/Coda",
+        "source_verified": true
+      },
+      "collected_on": "2026-11-27",
+      "filtered": false,
+      "total_score": 41.75,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 38.0,
+        "practicality": 49.0,
+        "freshness": 100
+      },
+      "title_zh": "用代码拓展视频生成能力边界：可灵联合北大、南大提出 Coda-DaVinci",
+      "summary_zh": "机器之心报道，可灵联合北京大学、南京大学提出 Coda-DaVinci，把代码作为视频生成的可控中间表示，构建 Code2Video 任务自适应框架；视频任务保持率 VTR 达 91.42%，物理合理性评分从 47.16 提升至 60.77，代码已在 GitHub（FrankYang-17/Coda）开源，为视频生成的可控性与评测提供了新范式。",
+      "selected_on": "2026-11-27"
     }
   ],
   "pending_items": []
