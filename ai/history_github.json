@@ -1,80 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "briskember13/adobe-acrobat-pdf-desktop",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/briskember13/adobe-acrobat-pdf-desktop",
-      "summary": "Adobe Acrobat PDF 2026 desktop setup with text and image editing directly inside any PDF, conversion to and from Word, Excel and images, plus fill, sign and merge documents with an AI 助手 for Window...",
-      "popularity": {
-        "views": 298,
-        "likes": 298,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "图像生成",
-          "自动化"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-11-14T00:46:46"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 298,
-        "forks": 0,
-        "open_issues": 0,
-        "language": "C++",
-        "license": "mit",
-        "topics": [
-          "acrobat-dc-pro",
-          "acrobat-for-free-2026",
-          "acrobat-no-limits",
-          "acrobat-pdf",
-          "automation",
-          "desktop",
-          "developer-tools",
-          "forms-acrobat-pro",
-          "free-pdf-reader-windows",
-          "open-source",
-          "pdf-password",
-          "pro-acrobat",
-          "python",
-          "scripts",
-          "software-engineering",
-          "system",
-          "utility",
-          "windows-app"
-        ],
-        "created_at": "2026-11-14T00:46:46Z",
-        "pushed_at": "2026-11-14T21:05:44Z"
-      },
-      "filtered": false,
-      "total_score": 76.25,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 53.0,
-        "practicality": 52.0,
-        "freshness": 100
-      },
-      "collected_on": "2026-11-14",
-      "selected_on": "2026-11-19"
-    },
-    {
       "name": "BlueRingsLabs/no-shortcuts",
       "type": "tool",
       "platform": "GitHub",
@@ -3349,7 +3275,7 @@
         "created_at": "2026-11-09T00:50:28Z",
         "pushed_at": "2026-11-24T23:09:36Z"
       },
-      "collected_on": "2026-11-25",
+      "collected_on": "2026-11-24",
       "filtered": false,
       "total_score": 78.75,
       "detail_scores": {
@@ -3427,7 +3353,7 @@
         "created_at": "2026-11-02T02:15:29Z",
         "pushed_at": "2026-11-21T09:26:02Z"
       },
-      "collected_on": "2026-11-03",
+      "collected_on": "2026-11-02",
       "filtered": false,
       "total_score": 72.25,
       "detail_scores": {
@@ -3439,6 +3365,83 @@
       "title_zh": "无限制成人向 AI 视频生成 API（uncensored-nsfw-ai-video-api）",
       "summary_zh": "封装 Seedance、Wan 等模型的成人向文生图/图生视频接口，提供异步任务、Webhook 回调与 credits 计费。仓库属 API 套壳类项目且含 18+ 内容，仅适合作为多模态生成服务化形态的观察样本，商用需严格评估合规风险。",
       "selected_on": "2026-11-26"
+    },
+    {
+      "name": "brave-plum-co/leonardo-ai-desktop",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/brave-plum-co/leonardo-ai-desktop",
+      "summary": "Leonardo AI 2026 desktop setup with 文生图 生成 using fine-tuned 模型s, canvas editor with inpainting and outpainting, plus 实时 生成 and image-to-motion for Windows 11 (语言: C++) [标签: ai-art-platform, ai-crea...",
+      "popularity": {
+        "views": 303,
+        "likes": 303,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "图像生成",
+          "自动化"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-14T00:23:46"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 303,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "C++",
+        "license": "mit",
+        "topics": [
+          "ai-art-platform",
+          "ai-creative-suite",
+          "ai-generation-tools",
+          "ai-image-generator",
+          "ai-image-tools",
+          "generative-ai-art",
+          "leonardo-ai-api",
+          "leonardo-ai-api-wrapper",
+          "leonardo-ai-automation",
+          "leonardo-ai-extension",
+          "leonardo-ai-generator",
+          "leonardo-ai-integration",
+          "leonardo-ai-models",
+          "leonardo-ai-prompt-tools",
+          "leonardo-ai-scripts",
+          "leonardo-ai-style-tools",
+          "leonardo-ai-tools",
+          "leonardo-ai-utilities",
+          "leonardo-ai-workflow"
+        ],
+        "created_at": "2026-11-14T00:23:46Z",
+        "pushed_at": "2026-11-16T09:19:56Z"
+      },
+      "collected_on": "2026-11-14",
+      "filtered": false,
+      "total_score": 74.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 78.0,
+        "practicality": 52.0,
+        "freshness": 60
+      },
+      "title_zh": "brave-plum-co/leonardo-ai-desktop：Leonardo AI 桌面端文生图工作台",
+      "summary_zh": "开源 C++ Windows 11 桌面项目，集成 Leonardo AI 文生图、微调模型、画布修补（inpainting/outpainting）、实时生成与图生视频。仓库：https://github.com/brave-plum-co/leonardo-ai-desktop",
+      "selected_on": "2026-11-27"
     }
   ],
   "pending_items": []
