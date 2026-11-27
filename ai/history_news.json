@@ -1,198 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "阿里 Qwen4-Max 正式登场：单任务成本暴降 58%，前端编程全球第六",
-      "type": "news",
-      "platform": "InfoQ",
-      "url": "https://www.infoq.cn/article/bZrW40XdHeMSkfOBxL2C",
-      "summary": "InfoQ 报道阿里发布基座大模型 Qwen4-Max：总参2.4T、激活71B，ALE 46.7，单任务成本下降58%，缓存命中低至0.5元/百万Token，已开放API，中小尺寸模型将陆续开源。",
-      "popularity": {
-        "views": 493,
-        "likes": 0,
-        "comments": 7
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "excellent",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "wide",
-        "scenarios": [
-          "智能体与工具调用任务",
-          "前端与编程场景",
-          "长链路真实场景任务"
-        ],
-        "maturity": "stable"
-      },
-      "freshness": {
-        "publish_date": "2026-11-17"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 73.98,
-      "detail_scores": {
-        "popularity": 39.93,
-        "usability": 90.0,
-        "practicality": 78.0,
-        "freshness": 100
-      },
-      "title_zh": "阿里 Qwen4-Max 正式登场：单任务成本降 58%，前端编程全球第六",
-      "summary_zh": "InfoQ 报道阿里发布新一代基座大模型 Qwen4-Max：总参数 2.4T、激活 71B，ALE 得分 46.7，单任务成本下降 58%，缓存命中低至 0.5 元/百万 Token，已开放 API，中小尺寸模型将陆续开源。",
-      "selected_on": "2026-11-19",
-      "collected_on": "2026-11-17"
-    },
-    {
-      "name": "AI金融分析师来了，香港上市公司和家办都投了",
-      "type": "news",
-      "platform": "36氪",
-      "url": "https://www.36kr.com/p/4073100881302663",
-      "summary": "36氪报道AI金融分析师 ARTi 获香港上市公司与家族办公室投资，产品面向投研场景，把财报阅读、纪要整理与投研写作交给智能体完成，并介绍其落地与融资进展。",
-      "popularity": {
-        "views": 0,
-        "likes": 21,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "easy",
-        "deployment": "simple",
-        "docs_quality": "medium",
-        "requires_coding": false
-      },
-      "practicality": {
-        "scope": "narrow",
-        "scenarios": [
-          "投研报告与财报解读",
-          "会议纪要与信息整理",
-          "资管机构工作流提效"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-11-17T08:23:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 56.3,
-      "detail_scores": {
-        "popularity": 21.0,
-        "usability": 81.0,
-        "practicality": 39.0,
-        "freshness": 100
-      },
-      "title_zh": "AI 金融分析师 ARTi 亮相，香港上市公司与家办参投",
-      "summary_zh": "36氪报道 AI 金融分析师 ARTi 获香港上市公司与家族办公室投资，产品把财报阅读、纪要整理与投研写作交给智能体完成，文章梳理其落地场景、客户与融资进展。",
-      "selected_on": "2026-11-19",
-      "collected_on": "2026-11-17"
-    },
-    {
-      "name": "AI 自己搞科研能做到哪一步？我上手跑了港大开源的 AI-Researcher",
-      "type": "news",
-      "platform": "CSDN",
-      "url": "https://blog.csdn.net/LYX_WIN/article/details/167389105",
-      "summary": "博主实测港大开源 AI-Researcher（github.com/HKUDS/AI-Researcher）：Prepare/Resource Analyst/Idea Generator/Code Agent/Advisor/Writer 多智能体闭环，Docker 沙箱跑实验并产出 LaTeX 论文，附部署步骤、踩坑与选型建议。",
-      "popularity": {
-        "views": 673,
-        "likes": 3,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "excellent",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "文献调研与创新点生成",
-          "自动写代码跑实验",
-          "论文初稿与基准 Scientist-Bench"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-11-17T08:00:00"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 53.67,
-      "detail_scores": {
-        "popularity": 9.73,
-        "usability": 69.0,
-        "practicality": 54.0,
-        "freshness": 100
-      },
-      "title_zh": "实测港大开源 AI-Researcher：AI 自己搞科研能做到哪一步",
-      "summary_zh": "博主实测港大开源的 AI-Researcher（github.com/HKUDS/AI-Researcher）：Prepare、Resource Analyst、Idea Generator、Code Agent、Advisor、Writer 六类智能体闭环，在 Docker 沙箱跑实验并输出 LaTeX 论文，附部署步骤、烧钱提醒与选型建议。",
-      "selected_on": "2026-11-19",
-      "collected_on": "2026-11-17"
-    },
-    {
-      "name": "提速2.48倍且画质不掉线，AI视频“降本增效”有了新解法",
-      "type": "news",
-      "platform": "量子位",
-      "url": "https://www.qbitai.com/2026/11/510369.html",
-      "summary": "是石科技介绍多模态模型服务工程优化：缓存残差自适应加速达2.48倍，结合SGLang缓存管理、免训练Token压缩（WorldSense 1.33倍）与全模态Context Engine。",
-      "popularity": {
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "usability": {
-        "difficulty": "medium",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "视频生成服务推理降本",
-          "多模态服务缓存与调度优化",
-          "SGLang 部署调参参考"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-11-16T11:07:39"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "filtered": false,
-      "total_score": 48.5,
-      "detail_scores": {
-        "popularity": 0.0,
-        "usability": 60.0,
-        "practicality": 54.0,
-        "freshness": 100
-      },
-      "title_zh": "提速 2.48 倍且画质不掉线：AI 视频降本增效的新解法",
-      "summary_zh": "是石科技分享多模态模型服务工程优化：历史缓存残差自适应加速 2.48 倍，结合 SGLang 缓存管理、免训练模态自适应 Token 压缩（WorldSense 1.33 倍）与全模态 Context Engine，实现视频生成降本。",
-      "selected_on": "2026-11-19",
-      "collected_on": "2026-11-17"
-    },
-    {
       "name": "744B模型追平Claude Opus 5，人大复旦提出ToolSpace探索环境合成新范式",
       "type": "news",
       "platform": "机器之心",
@@ -2363,6 +2171,244 @@
       "title_zh": "机器之心：OpenAI 称 GPT-6 系列可直接设计蛋白质",
       "summary_zh": "OpenAI 称 GPT-6 系列仅凭推理与代码即可设计蛋白质结构与序列，抗体结合环重设计 182 例中 128 例显示结合信号，并与 Onava 完成实验室验证。论文：https://cdn.openai.com/pdf/gpt-6-a-universal-foundation-model-for-protein-biology.pdf",
       "selected_on": "2026-11-27"
+    },
+    {
+      "name": "AI与大模型新闻日报 | 2026-11-27：VS Code 1.148 强化智能体能力",
+      "type": "news",
+      "platform": "CSDN",
+      "url": "https://damodev.csdn.net/6b08d41be5f4ca4eff9401ce.html",
+      "summary": "聚合 12 条当日 AI 动态，重点包括微软发布 Visual Studio Code 1.148、增强智能体运行时能力并支持电脑在执行期间保持唤醒，以及 GPT-6.2 配额调整引发的开发者讨论。",
+      "popularity": {
+        "views": 246,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI资讯聚合",
+          "开发者工具动态跟踪"
+        ],
+        "maturity": "stable"
+      },
+      "freshness": {
+        "publish_date": "2026-11-27T08:51:28"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 56.24,
+      "detail_scores": {
+        "popularity": 2.46,
+        "usability": 81.0,
+        "practicality": 61.0,
+        "freshness": 100
+      },
+      "selected_on": "2026-11-28",
+      "collected_on": "2026-11-28",
+      "title_zh": "CSDN｜AI 与大模型新闻日报（2026-11-27）：VS Code 1.148 强化智能体能力",
+      "summary_zh": "微软 11 月 25 日发布 Visual Studio Code 1.148，进一步完善 AI 能力：智能体运行时可让电脑保持唤醒、避免休眠中断任务；同期还汇总了 GPT-6.2 配额变化与 AI 智能体加速软件开发对工程师价值衡量方式的影响，共 12 条当日动态。"
+    },
+    {
+      "name": "给 AI 编码智能体装上知识库，反而更费 Token？JioHotstar 测完六种方案",
+      "type": "news",
+      "platform": "InfoQ",
+      "url": "https://www.infoq.cn/article/Ql4GGMIEqA3bI2W2lh7h",
+      "summary": "JioHotstar 对编码智能体的六种上下文供给方案做基准测试，发现引入知识库后 Token 消耗显著上升，简单的文件搜索在效果与成本上依然最能打。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "编码智能体落地",
+          "上下文工程",
+          "RAG成本评估"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-27T00:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 54.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 69.0,
+        "practicality": 69.0,
+        "freshness": 100
+      },
+      "selected_on": "2026-11-28",
+      "collected_on": "2026-11-28",
+      "title_zh": "InfoQ｜给编码智能体装知识库反而更费 Token：JioHotstar 六方案基准结论",
+      "summary_zh": "JioHotstar 为 AI 编码智能体对比六种上下文供给方案（文件搜索、向量检索、代码图谱、知识库等）后测得：接入知识库会明显推高 Token 开销，而最朴素的文件搜索在准确率与成本上依旧最能打，对智能体落地选型有直接参考价值。"
+    },
+    {
+      "name": "如何让 Agent 记得住、查得准、改得对？腾讯 Octop Memory 分层记忆",
+      "type": "news",
+      "platform": "InfoQ",
+      "url": "https://www.infoq.cn/article/DUG6LEgK9Vi4sGy6QYTW",
+      "summary": "InfoQ 专访腾讯 Octop Memory 团队，拆解面向智能体的分层记忆架构：短期会话、长期画像与检索层如何协同，解决 Agent 长任务里记不住、查不准的问题。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "智能体记忆管理",
+          "长上下文检索",
+          "多轮任务编排"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-27T00:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 54.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 69.0,
+        "practicality": 69.0,
+        "freshness": 100
+      },
+      "selected_on": "2026-11-28",
+      "collected_on": "2026-11-28",
+      "title_zh": "InfoQ｜腾讯 Octop Memory：让 Agent 记得住、查得准、改得对",
+      "summary_zh": "InfoQ 专访腾讯 Octop Memory 团队，介绍面向智能体的分层记忆设计：把短期会话、长期用户画像与可检索记忆层拆开管理，解决长任务里上下文丢失、检索不準和记忆更新出错的问题，并给出工程落地经验。"
+    },
+    {
+      "name": "Karpathy 与 Claude 合作的文明风格地图：Claude Code 的又一次出圈演示",
+      "type": "news",
+      "platform": "机器之心",
+      "url": "https://www.jiqizhixin.com/articles/2026-11-27-12",
+      "summary": "Andrej Karpathy 展示用 Claude Code 生成文明风格地图的完整过程，编码智能体在真实项目中自主读写文件、迭代可视化结果，再次引发对 AI 编程边界的讨论。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI编程实践",
+          "可视化生成",
+          "智能体工作流演示"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-27T19:01:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 53.75,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 54.0,
+        "freshness": 100
+      },
+      "selected_on": "2026-11-28",
+      "collected_on": "2026-11-28",
+      "title_zh": "机器之心｜Karpathy 用 Claude Code 生成文明风格地图",
+      "summary_zh": "Andrej Karpathy 演示与 Claude 协作生成文明风格地图的过程：Claude Code 在真实工程目录里自主读写文件、跑命令并反复迭代可视化结果，被视为编码智能体从写代码走向做完整产出的又一次出圈案例。"
+    },
+    {
+      "name": "马斯克公开认输 AI 模型之争：坦言打不过，警告浪费 GPU 者将被开除",
+      "type": "news",
+      "platform": "36氪",
+      "url": "https://eu.36kr.com/zh/p/4087944117123713",
+      "summary": "马斯克在内部会议上承认 xAI 的模型能力已落后于对手，要求团队停止浪费 GPU 资源，并公开表示将在训练效率与数据管线上重新调整优先级。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "大模型竞争格局",
+          "算力成本治理"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-27T20:31:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 53.25,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 52.0,
+        "freshness": 100
+      },
+      "selected_on": "2026-11-28",
+      "collected_on": "2026-11-28",
+      "title_zh": "36氪｜马斯克承认 AI 模型之争落后，警告浪费 GPU 者将被开除",
+      "summary_zh": "马斯克向 xAI 员工公开承认当前模型能力已落后于对手，要求收敛无效的算力消耗，并警告浪费 GPU 资源的工程师会被直接开除，同时重新调整训练效率与数据管线优先级。"
     }
   ],
   "pending_items": [
@@ -5238,6 +5284,365 @@
         "freshness": 100
       },
       "collected_on": "2026-11-25"
+    },
+    {
+      "name": "Claude 正式入局 AI 硬件市场，直接对标苹果核心生态业务",
+      "type": "news",
+      "platform": "36氪",
+      "url": "https://eu.36kr.com/zh/p/4087846437705350",
+      "summary": "Anthropic 将 Claude 能力延伸到硬件与设备生态，与苹果现有业务正面竞争，报道分析其智能体入口从云端走向终端设备的策略与风险。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI硬件生态",
+          "智能体入口竞争"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-27T18:39:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 53.25,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 52.0,
+        "freshness": 100
+      },
+      "collected_on": "2026-11-28"
+    },
+    {
+      "name": "T3 Code 用量、口碑与同类产品：开源 Agent 控制台的头部之争",
+      "type": "news",
+      "platform": "掘金",
+      "url": "https://juejin.cn/post/7712807993284640803",
+      "summary": "对比 T3 Code 等开源多智能体控制台：它本身不训练模型、不自带 Agent，需要用户先装 Claude Code、Codex、Cursor 等工具，文章给出适用边界与同类方案取舍。",
+      "popularity": {
+        "views": 65,
+        "likes": 1,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "编码智能体管理",
+          "多Agent控制台选型",
+          "本地开发工具链"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-27T23:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 52.74,
+      "detail_scores": {
+        "popularity": 1.6500000000000001,
+        "usability": 60.0,
+        "practicality": 69.0,
+        "freshness": 100
+      },
+      "collected_on": "2026-11-28"
+    },
+    {
+      "name": "周涨星 3,229 的 ffmpeg-skill 实测：4 模型装与不装各跑 96 次",
+      "type": "news",
+      "platform": "掘金",
+      "url": "https://juejin.cn/post/7712450008260493347",
+      "summary": "用 4 个模型对 ffmpeg-skill 做 192 次对照实测：不装技能通过 95/96，装后 88/96，剪切体积与音画对齐更稳，但 7 个常规任务成本增加 13%–62%。",
+      "popularity": {
+        "views": 144,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "Agent Skill 评测",
+          "视频处理自动化",
+          "成本对照实验"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-27T14:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 51.93,
+      "detail_scores": {
+        "popularity": 1.4400000000000002,
+        "usability": 81.0,
+        "practicality": 45.0,
+        "freshness": 100
+      },
+      "collected_on": "2026-11-28"
+    },
+    {
+      "name": "VAST 发布 Tripo H3.5 Preview，把 3D 生成基座模型再往前推一步",
+      "type": "news",
+      "platform": "机器之心",
+      "url": "https://www.jiqizhixin.com/articles/2026-11-26-13",
+      "summary": "VAST 推出 Tripo H3.5 Preview 3D 生成基座模型，宣称在几何精度、拓扑可用性与可控性上较前代提升，面向游戏、具身仿真与 3D 内容生产链路。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "easy",
+        "deployment": "simple",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "3D资产生成",
+          "游戏内容生产",
+          "具身仿真数据"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-26T21:07:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 51.5,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 81.0,
+        "practicality": 45.0,
+        "freshness": 100
+      },
+      "collected_on": "2026-11-28"
+    },
+    {
+      "name": "把 MiniMax H3Image 塞进 1L 盒子：ThinkStation PGX 单机与双机原生 4K 生图实测",
+      "type": "news",
+      "platform": "InfoQ",
+      "url": "https://www.infoq.cn/article/NbtPgaZdwwaZ5uBiWWCM",
+      "summary": "InfoQ 实测在 1L 体积的 ThinkStation PGX 上本地部署 MiniMax H3Image，完成原生 4K 文生图，并对比单机与双机方案的显存占用、耗时与画质表现。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "端侧生图部署",
+          "本地推理硬件选型",
+          "图像模型评测"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-26T00:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 50.75,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 69.0,
+        "practicality": 54.0,
+        "freshness": 100
+      },
+      "collected_on": "2026-11-28"
+    },
+    {
+      "name": "Claude Ship 上线：AI 写完代码之后，PR 审查与审批如何拆权协作",
+      "type": "news",
+      "platform": "掘金",
+      "url": "https://juejin.cn/post/7712769384188051506",
+      "summary": "文章拆解 Claude Ship 把 AI 生成代码之后的 PR 审查、CI 等待与人工审批拆成独立权限阶段的协作方式，讨论智能体进入研发流程后谁来把关、如何避免审批空转。",
+      "popularity": {
+        "views": 20,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "AI编程流程",
+          "代码评审治理",
+          "研发协作"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-28T05:00:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 50.06,
+      "detail_scores": {
+        "popularity": 0.2,
+        "usability": 60.0,
+        "practicality": 60.0,
+        "freshness": 100
+      },
+      "collected_on": "2026-11-28"
+    },
+    {
+      "name": "Agnes 基于 SGLang 的推理优化：预填充提速 3.54 倍、并发从 8 提到 16",
+      "type": "news",
+      "platform": "机器之心",
+      "url": "https://www.jiqizhixin.com/articles/2026-11-27-7",
+      "summary": "Agnes 团队基于 SGLang 做推理优化，预填充提速 3.54 倍、并发从 8 提到 16，仓库 AgnesAI-Labs/Inference-Framework-Specialization。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "hard",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "wide",
+        "scenarios": [
+          "LLM推理服务",
+          "框架性能调优",
+          "开源基准复现"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-27T14:24:00"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 48.25,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 44.0,
+        "practicality": 69.0,
+        "freshness": 100
+      },
+      "collected_on": "2026-11-28"
+    },
+    {
+      "name": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
+      "type": "news",
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/11/513163.html",
+      "summary": "TabbyML 用 20 个 AI Agent 组队协作，4 天跑完 350 次数据库性能实验，在 ClickBench 上刷新公开最佳成绩，验证多智能体做工程实验的可行性。",
+      "popularity": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "medium",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "多智能体协作",
+          "性能基准评测",
+          "数据库工程实验"
+        ],
+        "maturity": "experimental"
+      },
+      "freshness": {
+        "publish_date": "2026-11-27T11:53:49"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "filtered": false,
+      "total_score": 46.25,
+      "detail_scores": {
+        "popularity": 0.0,
+        "usability": 60.0,
+        "practicality": 45.0,
+        "freshness": 100
+      },
+      "collected_on": "2026-11-28"
     }
   ]
 }
