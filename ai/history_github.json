@@ -348,7 +348,7 @@
       },
       "title_zh": "LynxOfficialDeveloper/RtG-AI-Core-Engine：西语学习方向的开源机器学习实验 RtG-AI 2026",
       "summary_zh": "自述为 Road to Gramby's 的西语机器学习实验引擎，输出 ai-json 结构并通过 GitHub Pages 部署，标签含 rtg-format、roblox、testing，HTML 实现，70 star，2026-09-22 创建。文档以演示为主，缺少训练数据与评测说明，复用价值集中在其数据格式设计。",
-      "selected_on": "2026-11-28"
+      "selected_on": "2026-11-19"
     },
     {
       "name": "alrisqi/MrD-Optimizer-Lab",
@@ -628,7 +628,7 @@
       },
       "title_zh": "qwenimage-ncnn-vulkan：Qwen-Image 的 ncnn Vulkan 端侧推理实现",
       "summary_zh": "ncnn 作者nihui 发布的 Qwen-Image 文生图模型端侧推理工程，基于 Vulkan 在消费级 GPU 与移动设备上运行，无需 CUDA 环境，适合本地集成与跨平台图像生成。https://github.com/nihui/qwenimage-ncnn-vulkan",
-      "selected_on": "2026-11-28"
+      "selected_on": "2026-11-19"
     },
     {
       "name": "terryds/bestvaluemodel",
@@ -1426,7 +1426,7 @@
       "_source": "pending",
       "title_zh": "neuronaut：把智能体推理过程做成可视化调试面板的工具",
       "summary_zh": "面向 LLM 应用开发者的调试与观察工具，用于查看模型调用、提示词与推理链路，帮助定位智能体应用的行为问题。https://github.com/andrew-morris/neuronaut",
-      "selected_on": "2026-11-28",
+      "selected_on": "2026-11-19",
       "collected_on": "2026-11-16"
     },
     {
