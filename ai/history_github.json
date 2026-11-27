@@ -1,130 +1,6 @@
 {
   "selected_items": [
     {
-      "name": "BlueRingsLabs/no-shortcuts",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/BlueRingsLabs/no-shortcuts",
-      "summary": "Free Course : Data, 机器学习, 深度学习 and AI Engineering, the long way round: the math, the code, the systems and the 安全. 173 lessons, 166 runnable labs, no shortcuts. Free under CC BY-NC 4.0. (语言: Python...",
-      "popularity": {
-        "views": 175,
-        "likes": 175,
-        "comments": 30
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "检索增强生成",
-          "代码生成",
-          "数据处理"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-26T19:49:54"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 175,
-        "forks": 30,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "other",
-        "topics": [
-          "ai-engineering",
-          "course",
-          "data-engineering",
-          "deep-learning",
-          "llm",
-          "machine-learning",
-          "mlops",
-          "python",
-          "pytorch",
-          "rag",
-          "reinforcement-learning",
-          "security"
-        ],
-        "created_at": "2026-09-26T19:49:54Z",
-        "pushed_at": "2026-10-28T22:41:02Z"
-      },
-      "filtered": false,
-      "total_score": 58.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 44.0,
-        "practicality": 54.0,
-        "freshness": 20
-      },
-      "collected_on": "2026-10-29",
-      "selected_on": "2026-11-19"
-    },
-    {
-      "name": "Erutaner/CLADE",
-      "type": "tool",
-      "platform": "GitHub",
-      "url": "https://github.com/Erutaner/CLADE",
-      "summary": "Closed-Loop 智能体ic Discovery Engine for 机器学习 研究 and Engineering (语言: Python)",
-      "popularity": {
-        "views": 97,
-        "likes": 97,
-        "comments": 1
-      },
-      "usability": {
-        "difficulty": "hard",
-        "deployment": "medium",
-        "docs_quality": "medium",
-        "requires_coding": true
-      },
-      "practicality": {
-        "scope": "medium",
-        "scenarios": [
-          "AI Agent"
-        ],
-        "maturity": "medium"
-      },
-      "freshness": {
-        "publish_date": "2026-09-04T00:39:34"
-      },
-      "pricing": {
-        "has_paid_features": false
-      },
-      "accessibility": {
-        "blocked_in_china": false
-      },
-      "metadata": {
-        "stars": 97,
-        "forks": 1,
-        "open_issues": 0,
-        "language": "Python",
-        "license": "mit",
-        "topics": [],
-        "created_at": "2026-09-04T00:39:34Z",
-        "pushed_at": "2026-10-04T04:48:46Z"
-      },
-      "filtered": false,
-      "total_score": 57.5,
-      "detail_scores": {
-        "popularity": 100,
-        "usability": 44.0,
-        "practicality": 50.0,
-        "freshness": 20
-      },
-      "_source": "pending",
-      "collected_on": "2026-10-30",
-      "selected_on": "2026-11-19"
-    },
-    {
       "name": "dolev31/lasagna",
       "type": "tool",
       "platform": "GitHub",
@@ -472,7 +348,7 @@
       },
       "title_zh": "LynxOfficialDeveloper/RtG-AI-Core-Engine：西语学习方向的开源机器学习实验 RtG-AI 2026",
       "summary_zh": "自述为 Road to Gramby's 的西语机器学习实验引擎，输出 ai-json 结构并通过 GitHub Pages 部署，标签含 rtg-format、roblox、testing，HTML 实现，70 star，2026-09-22 创建。文档以演示为主，缺少训练数据与评测说明，复用价值集中在其数据格式设计。",
-      "selected_on": "2026-11-19"
+      "selected_on": "2026-11-28"
     },
     {
       "name": "alrisqi/MrD-Optimizer-Lab",
@@ -752,7 +628,7 @@
       },
       "title_zh": "qwenimage-ncnn-vulkan：Qwen-Image 的 ncnn Vulkan 端侧推理实现",
       "summary_zh": "ncnn 作者nihui 发布的 Qwen-Image 文生图模型端侧推理工程，基于 Vulkan 在消费级 GPU 与移动设备上运行，无需 CUDA 环境，适合本地集成与跨平台图像生成。https://github.com/nihui/qwenimage-ncnn-vulkan",
-      "selected_on": "2026-11-19"
+      "selected_on": "2026-11-28"
     },
     {
       "name": "terryds/bestvaluemodel",
@@ -1550,7 +1426,7 @@
       "_source": "pending",
       "title_zh": "neuronaut：把智能体推理过程做成可视化调试面板的工具",
       "summary_zh": "面向 LLM 应用开发者的调试与观察工具，用于查看模型调用、提示词与推理链路，帮助定位智能体应用的行为问题。https://github.com/andrew-morris/neuronaut",
-      "selected_on": "2026-11-19",
+      "selected_on": "2026-11-28",
       "collected_on": "2026-11-16"
     },
     {
@@ -3442,6 +3318,160 @@
       "title_zh": "brave-plum-co/leonardo-ai-desktop：Leonardo AI 桌面端文生图工作台",
       "summary_zh": "开源 C++ Windows 11 桌面项目，集成 Leonardo AI 文生图、微调模型、画布修补（inpainting/outpainting）、实时生成与图生视频。仓库：https://github.com/brave-plum-co/leonardo-ai-desktop",
       "selected_on": "2026-11-27"
+    },
+    {
+      "name": "liuharold98/chatgpt-desktop",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/liuharold98/chatgpt-desktop",
+      "summary": "Chatgpt Desktop for Windows 10/11. Chats with the AI 助手, drafts and edits text, answers questions and generates images, with a persistent sidebar for organizing conversations and quick access to pa...",
+      "popularity": {
+        "views": 288,
+        "likes": 288,
+        "comments": 0
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "simple",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "图像生成",
+          "代码生成"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-11-24T10:48:55"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 288,
+        "forks": 0,
+        "open_issues": 0,
+        "language": "",
+        "license": "other",
+        "topics": [
+          "chatgpt",
+          "chatgpt-alternative",
+          "chatgpt-api",
+          "chatgpt-app",
+          "chatgpt-bot",
+          "chatgpt-codex-desktop",
+          "chatgpt-desktop",
+          "chatgpt-desktop-2026",
+          "chatgpt-desktop-app",
+          "chatgpt-desktop-app-download-windows-openai",
+          "chatgpt-desktop-application",
+          "chatgpt-desktop-dots",
+          "chatgpt-desktop-download",
+          "chatgpt-plus",
+          "chatgpt-relay",
+          "chatgpt3",
+          "chatgpt4",
+          "chatgpt4-desktop",
+          "chatgptdesktop",
+          "desktop"
+        ],
+        "created_at": "2026-11-24T10:48:55Z",
+        "pushed_at": "2026-11-25T11:55:34Z"
+      },
+      "filtered": false,
+      "total_score": 78.5,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 78.0,
+        "practicality": 52.0,
+        "freshness": 80
+      },
+      "selected_on": "2026-11-28",
+      "collected_on": "2026-11-28",
+      "title_zh": "chatgpt-desktop：Windows 10/11 的 ChatGPT 桌面客户端",
+      "summary_zh": "把 ChatGPT 做成 Windows 桌面端：对话、起草与改稿、问答和图像生成都能用，带常驻侧边栏整理历史会话；仓库 2026-11-24 创建、4 天拿到 288 star，许可为 other（非常见开源协议）。https://github.com/liuharold98/chatgpt-desktop"
+    },
+    {
+      "name": "workingprototype/Fuobe",
+      "type": "tool",
+      "platform": "GitHub",
+      "url": "https://github.com/workingprototype/Fuobe",
+      "summary": "The open creative studio on ComfyUI: images, video, 3D and audio on open weights, on your own GPU or the cloud. Camera motions, effects, apps, Cinema, Layers, Image to 3D and an AI 智能体. (语言: TypeSc...",
+      "popularity": {
+        "views": 263,
+        "likes": 263,
+        "comments": 50
+      },
+      "usability": {
+        "difficulty": "medium",
+        "deployment": "medium",
+        "docs_quality": "excellent",
+        "requires_coding": true
+      },
+      "practicality": {
+        "scope": "medium",
+        "scenarios": [
+          "AI Agent",
+          "图像生成",
+          "视频生成"
+        ],
+        "maturity": "medium"
+      },
+      "freshness": {
+        "publish_date": "2026-10-16T20:01:33"
+      },
+      "pricing": {
+        "has_paid_features": false
+      },
+      "accessibility": {
+        "blocked_in_china": false
+      },
+      "metadata": {
+        "stars": 263,
+        "forks": 50,
+        "open_issues": 1,
+        "language": "TypeScript",
+        "license": "mit",
+        "topics": [
+          "ai-video",
+          "comfyui",
+          "creative-tools",
+          "generative-ai",
+          "ideogram",
+          "image-generation",
+          "image-to-3d",
+          "image-to-video",
+          "ltx-video",
+          "minimax-h3",
+          "nextjs",
+          "open-source",
+          "open-weights",
+          "qwen-image",
+          "text-to-image",
+          "video-generation",
+          "wan"
+        ],
+        "created_at": "2026-10-16T20:01:33Z",
+        "pushed_at": "2026-11-27T16:33:22Z"
+      },
+      "filtered": false,
+      "total_score": 64.75,
+      "detail_scores": {
+        "popularity": 100,
+        "usability": 69.0,
+        "practicality": 54.0,
+        "freshness": 20
+      },
+      "selected_on": "2026-11-28",
+      "collected_on": "2026-11-28",
+      "title_zh": "Fuobe：基于 ComfyUI 的开源创作工作台（图像/视频/3D/音频）",
+      "summary_zh": "TypeScript + Next.js 搭建的开源创意工作室，跑在 ComfyUI 与开源权重上（MiniMax H3、Qwen-Image、Wan、LTX-Video、Ideogram），支持运镜、特效、Cinema、Layers、图生 3D 与内置 AI 智能体，可本机 GPU 或云端部署；MIT 许可，263 star / 50 fork。https://github.com/workingprototype/Fuobe"
     }
   ],
   "pending_items": []
